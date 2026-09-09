@@ -184,8 +184,8 @@ button { font: inherit; cursor: pointer; }
 /* ---------- logo strip ---------- */
 .logos-band { background: var(--white); padding-top: 8px; padding-bottom: 40px; display: flex; flex-direction: column; gap: 28px; align-items: center; }
 .logos { position: relative; width: 100%; overflow: hidden; }
-.logos-track { display: flex; gap: 40px; align-items: center; justify-content: center; flex-wrap: wrap; padding: 6px 60px; }
-.logos-track img { height: 44px; width: auto; }
+.logos-track { display: flex; gap: 40px; align-items: center; justify-content: center; flex-wrap: wrap; padding: 6px 60px; min-height: 45px; }
+.logos-track img { width: auto; height: auto; max-height: 32px; max-width: 110px; }
 .agency {
   font-family: var(--font-display); font-weight: 600; font-size: 15px; letter-spacing: .4px;
   color: #8C99A4; white-space: nowrap; filter: grayscale(1);
@@ -407,7 +407,7 @@ button { font: inherit; cursor: pointer; }
   .acard { height: 400px; }
   .acard + .acard { flex: 3; }
   .logos-track { gap: 20px 28px; padding: 6px 24px; }
-  .logos-track img { height: 34px; }
+  .logos-track img { max-height: 26px; }
   .logos::before, .logos::after { display: none; }
   .wwd { padding-top: 32px; padding-bottom: 40px; gap: 28px; }
   .wwd-head .btn { width: 100%; justify-content: center; padding: 14px 20px; }
@@ -538,7 +538,7 @@ button { font: inherit; cursor: pointer; }
       <span class="agency">PennDOT</span>
       <span class="agency">FDOT</span>
       <span class="agency">WYDOT</span>
-      <img src="asset:logo-adot" alt="Arizona Department of Transportation">
+      <span class="agency">ADOT</span>
       <img src="asset:logo-ndot" alt="Nevada Department of Transportation">
       <img src="asset:logo-deldot" alt="Delaware Department of Transportation">
       <img src="asset:logo-sandiego" alt="Port of San Diego">

@@ -36,6 +36,9 @@ https://www.figma.com/design/jdzMJkmpGq91Lw07mU6pmH/ICC-IMS--Copy-?node-id=NODE
 - [ ] Case study photo — DFW night collection (layer "Rectangle 4757" inside node 10479-2138)
 - [ ] Re-export 7 blank logos (came through as empty 219-byte PNGs): PennDOT, FDOT, WYDOT,
       Moore OK, Lancaster TX, Harvard IL, Camden SC (nodes 10479-1825/1826/1827/1838/1839/1840/1841)
+- [ ] Re-export ADOT logo (node 10479-1828): the uploaded file is cropped, only part of
+      "DOT" is visible. In Figma, select the logo layer and export the full image, not the
+      cropped frame.
 
 Already placed: What We Do van (Vector 6), Who We Are crew (Rectangle 47581), the three
 pillar photos (Rectangle 4755, -1, -2), and 10 agency logos.
