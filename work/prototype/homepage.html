@@ -50,14 +50,14 @@ button { font: inherit; cursor: pointer; }
 :focus-visible { outline: 2px solid var(--red-500); outline-offset: 2px; }
 
 .wrap { max-width: 1440px; margin: 0 auto; }
+.pad { padding-left: 64px; padding-right: 64px; }
+@media (max-width: 900px) { .pad { padding-left: 24px; padding-right: 24px; } }
 /* Section backgrounds bleed full width; inner content holds the 1440px design grid
    (1312px content + 64px gutters). The nav and utility bar keep full-width layouts. */
 @media (min-width: 1441px) {
   .pad { padding-left: calc((100% - 1312px) / 2); padding-right: calc((100% - 1312px) / 2); }
   .utility, .nav { padding-left: 64px; padding-right: 64px; }
 }
-.pad { padding-left: 64px; padding-right: 64px; }
-@media (max-width: 900px) { .pad { padding-left: 24px; padding-right: 24px; } }
 
 /* type roles (Figma Desktop/* variables) */
 .eyebrow {
