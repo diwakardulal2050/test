@@ -1,0 +1,47 @@
+name: fetch-figma-assets
+
+# One-shot helper: downloads Figma asset exports (passed as a JSON manifest of
+# filename -> URL via workflow_dispatch input) and commits them to this branch.
+# Needed because the Claude Code session environment cannot reach figma.com.
+# Safe to delete after use.
+
+on:
+  workflow_dispatch:
+    inputs:
+      manifest:
+        description: "JSON object mapping filename to download URL"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/vibrant-galileo-wiisvz
+
+      - name: Download assets
+        env:
+          MANIFEST: ${{ inputs.manifest }}
+        run: |
+          mkdir -p work/assets/figma
+          python3 - <<'PY'
+          import json, os, urllib.request
+          manifest = json.loads(os.environ["MANIFEST"])
+          for name, url in manifest.items():
+              assert "/" not in name and name not in ("", ".", ".."), name
+              path = os.path.join("work/assets/figma", name)
+              urllib.request.urlretrieve(url, path)
+              print(name, os.path.getsize(path), "bytes")
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "figma-asset-fetch"
+          git config user.email "actions@users.noreply.github.com"
+          git add work/assets/figma
+          git commit -m "Add Figma asset exports fetched via Actions"
+          git push
