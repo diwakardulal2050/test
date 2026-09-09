@@ -1,18 +1,22 @@
 /*
-  tokens.css — CSS custom-property mirror of tokens.json for [CLIENT NAME].
+  tokens.css — CSS custom-property mirror of tokens.json for ICC-IMS.
   Use this for live browser preview. Keep it in sync with tokens.json (that file is the
-  source of truth). Replace example values. The AI must reference these variables, never
-  hardcode hex or px.
+  source of truth). Values measured from the ICC-IMS Figma file (Homepage_08/20/2026).
+  The AI must reference these variables, never hardcode hex or px.
 */
 
 :root {
-  /* primitive: color (EXAMPLE values, replace) */
-  --color-brand-500: #2563EB;
-  --color-brand-600: #1D4ED8;
+  /* primitive: color (measured from Figma) */
+  --color-navy-700: #1A395B;   /* primary brand navy */
+  --color-navy-900: #0E1F33;   /* deep navy panels */
+  --color-red-500: #EF4238;    /* ICC-IMS red, CTAs + eyebrows */
+  --color-teal-300: #7DCECA;   /* accent, links on dark */
   --color-neutral-0: #FFFFFF;
-  --color-neutral-900: #111827;
-  --color-feedback-success: #15803D;
-  --color-feedback-danger: #B91C1C;
+  --color-neutral-100: #D9E1E5; /* hairlines, borders */
+  --color-neutral-600: #53636E; /* body text on light */
+  --color-neutral-900: #000000;
+  --color-feedback-success: #15803D; /* kit default (inferred, confirm?) */
+  --color-feedback-danger: #B91C1C;  /* kit default (inferred, confirm?) */
 
   /* primitive: spacing (8pt scale, px) */
   --space-1: 4px;
@@ -23,45 +27,56 @@
   --space-6: 48px;
   --space-7: 64px;
 
-  /* primitive: radius */
-  --radius-sm: 4px;
-  --radius-md: 8px;
+  /* primitive: radius (measured) */
+  --radius-sm: 6px;   /* buttons */
+  --radius-md: 12px;  /* cards */
   --radius-pill: 999px;
 
-  /* primitive: elevation (example, keep light for editorial brands) */
+  /* primitive: elevation (flat design; keep minimal) */
   --shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
   --shadow-md: 0 4px 6px -1px rgba(0,0,0,0.08);
-  --shadow-lg: 0 10px 15px -3px rgba(0,0,0,0.10);
 
-  /* primitive: type (16px base, 1.25 scale example) */
-  --font-display: "[Display face]", serif;
-  --font-body: "[Body face]", system-ui, sans-serif;
-  --font-size-base: 16px;
-  --font-size-lg: 20px;
-  --font-size-xl: 25px;
-  --font-size-2xl: 31px;
-  --font-size-3xl: 39px;
-  --line-height-body: 1.5;
-  --line-height-heading: 1.2;
+  /* primitive: type (from Figma Desktop/* variables) */
+  --font-display: "Barlow", "Arial Narrow", system-ui, sans-serif;
+  --font-body: "Open Sans", system-ui, -apple-system, sans-serif;
+  --font-size-xs: 12px;    /* Paragraph 03, lh 18 */
+  --font-size-sm: 14px;    /* Paragraph 02 lh 21; Button; H5 */
+  --font-size-base: 16px;  /* Paragraph 01 lh 25; H4; Eyebrow */
+  --font-size-lg: 18px;    /* H3, lh 26 */
+  --font-size-xl: 24px;    /* H2, lh 1 */
+  --font-size-2xl: 35px;   /* H1, lh 48 */
+  --font-size-3xl: 48px;   /* Hero, lh 58 */
+  --line-height-body: 1.5625;   /* 25/16 */
+  --line-height-heading: 1.21;  /* 58/48 */
+  --eyebrow-letter-spacing: 3px;
 
   /* semantic: color (purpose-tied roles) */
-  --color-action-primary: var(--color-brand-500);
-  --color-action-primary-hover: var(--color-brand-600);
-  --color-text-default: var(--color-neutral-900);
+  --color-action-primary: var(--color-red-500);        /* white text: 3.81:1, AA large only */
+  --color-action-secondary: var(--color-navy-700);
+  --color-text-heading: var(--color-navy-700);         /* 11.8:1 on white */
+  --color-text-default: var(--color-neutral-600);      /* 6.22:1 on white */
+  --color-text-eyebrow: var(--color-red-500);          /* 3.81:1 on white, flagged */
+  --color-text-on-dark: rgba(255,255,255,0.85);
+  --color-link-on-dark: var(--color-teal-300);         /* 9.15:1 on navy-900 */
   --color-bg-default: var(--color-neutral-0);
+  --color-bg-band: var(--color-navy-700);
+  --color-bg-panel-dark: rgba(14,31,51,0.92);
+  --color-border-default: var(--color-neutral-100);
 
   /* semantic: spacing */
   --space-stack-sm: var(--space-2);
   --space-stack-md: var(--space-4);
   --space-stack-lg: var(--space-6);
 
-  /* component */
-  --button-padding-x: var(--space-4);
-  --button-padding-y: var(--space-2);
-  --button-radius: var(--radius-pill);
-  --card-padding: var(--space-5);
+  /* component (measured) */
+  --button-padding-x: 20px;
+  --button-padding-y: 10px;
+  --button-radius: var(--radius-sm);
+  --card-padding: var(--space-4);
   --card-radius: var(--radius-md);
+  --nav-padding-x: var(--space-7);
+  --nav-padding-y: var(--space-4);
 }
 
 /* Breakpoints reference (Tailwind de-facto): 640 / 768 / 1024 / 1280 / 1536.
-   Desktop container holds a 1280px floor (house rule). */
+   Desktop frames in the Figma file are 1440px wide. */

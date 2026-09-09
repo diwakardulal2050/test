@@ -1,33 +1,49 @@
-# Audience — [CLIENT NAME]
+# Audience — ICC-IMS
 
-Who we are designing for. This is what makes the work user-centric instead of decorative.
-The AI reads this to ground every decision in a real person with a real job to do, not a
-generic "user."
-
-Fill at least one primary persona. Add secondary personas only if they genuinely change
-design decisions.
+The designer's intake said "general" audience. The homepage itself is built around three
+named segments (its hero cards), so these personas are inferred from the page's own copy
+and structure. All of it is `(inferred, confirm?)` until the client validates.
 
 ---
 
-## Primary persona: [name / role]
+## Primary persona: Public-works / pavement program manager (Cities & Counties)
 
-- **Who they are:** [role, context, what their day looks like]
-- **What they want (job-to-be-done):** [the outcome they are hiring this site to get them.
-  "When [situation], I want to [motivation], so I can [expected result]."]
-- **Pain points:** [what frustrates them now, what makes them bounce, what they distrust]
-- **What convinces them:** [proof, tone, and information they need before they act. Do they
-  want data, social proof, a fast answer, a human?]
-- **Their vocabulary:** [words and phrases they actually use. Draw copy from these, not from
-  marketing language. This is how the site sounds like it is for them.]
-- **Devices / context:** [mobile-first? at a desk? in a hurry?]
+- **Who they are:** manages a municipal or county road network; answers to a council or
+  board; juggles budgets, complaints, and contractors.
+- **What they want (job-to-be-done):** "When budget season approaches, I want defensible
+  pavement condition data and budget scenarios, so I can get my program funded by the
+  council." (the page's own phrase: "council-ready reporting", "the laser to the council
+  vote")
+- **Pain points:** data they can't defend, vendors that sell one piece of the chain and
+  point fingers at each other, procurement friction (RFPs).
+- **What convinces them:** longevity (50 years), peer proof (700+ agencies, testimonials
+  from named counties/airports), one accountable partner, an RFP-free purchasing route
+  (cooperative purchasing band).
+- **Their vocabulary:** pavement management, PCI, network-level data, budget scenarios,
+  council-ready, capability statement, cooperative purchasing.
+- **Devices / context:** at a desk, evaluating vendors; desktop-first (the file's frames
+  are 1440px), with mobile/tablet variants already prototyped in an earlier session.
 
-## Secondary persona: [name / role]  (only if it changes design)
-[Same fields, briefer. Delete if there is only one audience.]
+## Secondary persona: State DOT program engineer
+
+Statewide scale, standards-driven. Wants standards-aligned equipment and repeatable
+network-level data. Convinced by manufacturing pedigree, compliance (AASHTO/ASTM appear in
+the Who We Are block), and platform compatibility (15+ platforms supported).
+
+## Secondary persona: AEC firm project lead
+
+Hires ICC-IMS to extend their team: field collection, technical documentation, compatible
+pavement-data deliverables. Convinced by reliability, turnaround, and deliverable
+compatibility with whatever platform their client runs.
 
 ---
 
 ## What this means for design
 
-[Two or three concrete implications. For example: "They skim on mobile, so the one job must
-be answerable in the first screen." Or: "They distrust hype, so copy stays specific and the
-layout stays calm." Turn the persona into design direction.]
+- Buyers are skeptical, procurement-bound professionals: proof, numbers, and named peers
+  do the persuading; keep copy concrete and the layout calm.
+- Three segments must each find their door in the first screen — the hero's three cards
+  are load-bearing; don't collapse them.
+- The conversion ask is a low-commitment call, not a purchase: keep "Book a Discovery
+  Call" primary everywhere, with quote and capability-statement as pressure-free
+  alternatives.
