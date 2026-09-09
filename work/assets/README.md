@@ -20,25 +20,15 @@ Prefer real assets over generated graphics (see `../../standards/avoid-ai-tells.
 stock-free sources: unDraw for illustration, Phosphor for icons (linked in
 `../../client/references/README.md`).
 
-## Missing assets checklist (verified against Figma frame 10479-1744, 2026-09-09)
+## Asset status (verified against Figma frame 10479-1744, 2026-09-09)
 
-Export these from the Figma file (select the layer, Export → PNG) and add them to the repo;
-this environment cannot download Figma exports directly (egress policy). Node links use
-https://www.figma.com/design/jdzMJkmpGq91Lw07mU6pmH/ICC-IMS--Copy-?node-id=NODE
+All design images are now placed. The remaining exports were fetched from Figma via the
+one-shot GitHub Actions workflow (.github/workflows/fetch-figma-assets.yml); raw fetches
+live in `figma/`, curated copies in `photos/` and `logos/`.
 
-- [ ] ICC-IMS logo (layer "image 2", 1000x260, node 10479-1764) — used in nav and footer;
-      the prototype currently uses an SVG recreation
-- [ ] Hero card photo — State DOTs (inside node 10479-1797)
-- [ ] Hero card photo — Cities & Counties (inside node 10479-1806)
-- [ ] Hero card photo — AEC Firms (inside node 10479-1814)
-- [ ] Case study photo — Arizona DOT highway (layer "Rectangle 4755" inside node 10479-2116)
-- [ ] Case study photo — Long Beach street (layer "Rectangle 4756" inside node 10479-2127)
-- [ ] Case study photo — DFW night collection (layer "Rectangle 4757" inside node 10479-2138)
-- [ ] Re-export 7 blank logos (came through as empty 219-byte PNGs): PennDOT, FDOT, WYDOT,
-      Moore OK, Lancaster TX, Harvard IL, Camden SC (nodes 10479-1825/1826/1827/1838/1839/1840/1841)
-- [ ] Re-export ADOT logo (node 10479-1828): the uploaded file is cropped, only part of
-      "DOT" is visible. In Figma, select the logo layer and export the full image, not the
-      cropped frame.
-
-Already placed: What We Do van (Vector 6), Who We Are crew (Rectangle 47581), the three
-pillar photos (Rectangle 4755, -1, -2), and 10 agency logos.
+- [x] ICC-IMS logo (1000x260 source) -> logos/logo-icc-ims.png (nav + footer)
+- [x] Hero card photos -> photos/hero-state-dots.png, hero-cities-counties.png, hero-aec-firms.png
+- [x] Case study photos -> photos/case-arizona-dot.png, case-long-beach.png, case-dfw-airport.png
+- [x] 8 remaining agency logos -> logos/logo-*.png (PennDOT, FDOT, WYDOT, ADOT, Moore OK,
+      Lancaster TX, Harvard IL, Camden SC). Note: these logo layers export blank from the
+      Figma frame itself (empty crop frames); the raw fill sources were fetched instead.

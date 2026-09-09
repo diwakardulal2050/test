@@ -146,6 +146,7 @@ button { font: inherit; cursor: pointer; }
 .acard { position: relative; border-radius: var(--radius-card); overflow: hidden; height: 462px; flex: 3; display: flex; flex-direction: column; justify-content: flex-end; }
 .acard + .acard { flex: 2.25; }
 .acard .ph { position: absolute; inset: 0; }
+.acard .scrim { position: absolute; inset: 0; background: rgba(26,57,91,0.28); }
 .acard .panel {
   position: relative; background: rgba(14,31,51,0.92);
   padding: 22px 24px; display: flex; flex-direction: column; gap: 14px;
@@ -453,8 +454,7 @@ button { font: inherit; cursor: pointer; }
 <!-- nav -->
 <nav class="nav pad" aria-label="Main">
   <a class="logo" href="#" aria-label="ICC-IMS home">
-    <svg class="crosshair" viewBox="0 0 32 32" fill="none" stroke="#1A395B" stroke-width="2"><circle cx="16" cy="16" r="12"/><circle cx="16" cy="16" r="5"/><path d="M16 1v6M16 25v6M1 16h6M25 16h6"/></svg>
-    <span>ICC<span style="color:#EF4238">&#8226;</span>IMS<small>PAVEMENT INTELLIGENCE</small></span>
+    <img src="asset:logo-iccims" alt="ICC-IMS Pavement Intelligence" style="width:185px;height:48px;object-fit:contain">
   </a>
   <div class="nav-links">
     <a href="#audiences">Who We Serve</a>
@@ -502,7 +502,8 @@ button { font: inherit; cursor: pointer; }
   </div>
   <div class="hero-cards">
     <article class="acard">
-      <div class="ph"><span class="ph-tag">Placeholder &#183; Highway survey fleet photo</span></div>
+      <img class="fill-img" src="asset:hero-state-dots" alt="Survey vehicles collecting data on a state highway">
+      <div class="scrim" aria-hidden="true"></div>
       <div class="panel">
         <h3>State DOTs</h3>
         <p>Standards-aligned equipment and repeatable network-level data for statewide pavement programs.</p>
@@ -511,7 +512,8 @@ button { font: inherit; cursor: pointer; }
       </div>
     </article>
     <article class="acard">
-      <div class="ph"><span class="ph-tag">Placeholder &#183; City street collection van photo</span></div>
+      <img class="fill-img" src="asset:hero-cities" alt="ICC-IMS collection van on a city street">
+      <div class="scrim" aria-hidden="true"></div>
       <div class="panel">
         <h3>Cities &amp; Counties</h3>
         <p>Turn roadway conditions into pavement plans, budget scenarios, and council-ready reporting.</p>
@@ -520,7 +522,8 @@ button { font: inherit; cursor: pointer; }
       </div>
     </article>
     <article class="acard">
-      <div class="ph"><span class="ph-tag">Placeholder &#183; Field crew in hi-vis photo</span></div>
+      <img class="fill-img" src="asset:hero-aec" alt="Field crew members in hi-vis vests on site">
+      <div class="scrim" aria-hidden="true"></div>
       <div class="panel">
         <h3>AEC Firms</h3>
         <p>Extend your project team with reliable field collection, technical documentation, and compatible pavement-data deliverables.</p>
@@ -535,10 +538,10 @@ button { font: inherit; cursor: pointer; }
 <section class="logos-band" aria-label="Agencies served">
   <div class="logos">
     <div class="logos-track">
-      <span class="agency">PennDOT</span>
-      <span class="agency">FDOT</span>
-      <span class="agency">WYDOT</span>
-      <span class="agency">ADOT</span>
+      <img src="asset:logo-penndot" alt="Pennsylvania Department of Transportation">
+      <img src="asset:logo-fdot" alt="Florida Department of Transportation">
+      <img src="asset:logo-wydot" alt="Wyoming Department of Transportation">
+      <img src="asset:logo-adot" alt="Arizona Department of Transportation">
       <img src="asset:logo-ndot" alt="Nevada Department of Transportation">
       <img src="asset:logo-deldot" alt="Delaware Department of Transportation">
       <img src="asset:logo-sandiego" alt="Port of San Diego">
@@ -548,10 +551,10 @@ button { font: inherit; cursor: pointer; }
       <img src="asset:logo-lakeland" alt="City of Lakeland, Florida">
       <img src="asset:logo-peachtree" alt="City of Peachtree Corners, Georgia">
       <img src="asset:logo-minnetonka" alt="City of Minnetonka, Minnesota">
-      <span class="agency">Moore OK</span>
-      <span class="agency">Lancaster TX</span>
-      <span class="agency">Harvard IL</span>
-      <span class="agency">Camden SC</span>
+      <img src="asset:logo-moore" alt="City of Moore, Oklahoma">
+      <img src="asset:logo-lancaster" alt="City of Lancaster, Texas">
+      <img src="asset:logo-harvard" alt="City of Harvard, Illinois">
+      <img src="asset:logo-camden" alt="City of Camden, South Carolina">
     </div>
   </div>
   <p class="logos-caption pad">The industry&#8217;s <strong>largest municipal data collection fleet</strong> &#8212; at work for agencies across the nation.</p>
@@ -816,7 +819,7 @@ button { font: inherit; cursor: pointer; }
   </div>
   <div class="pillar-row">
     <article class="case-card">
-      <div class="media"><div class="ph light"><span class="ph-tag">Placeholder &#183; Arizona highway photo</span></div></div>
+      <div class="media"><img class="fill-img" src="asset:case-arizona" alt="Arizona highway with statewide pavement network"></div>
       <div class="body">
         <div class="text">
           <span class="seg-chip">State DOTs</span>
@@ -828,7 +831,7 @@ button { font: inherit; cursor: pointer; }
       </div>
     </article>
     <article class="case-card">
-      <div class="media"><div class="ph light"><span class="ph-tag">Placeholder &#183; Long Beach street photo</span></div></div>
+      <div class="media"><img class="fill-img" src="asset:case-longbeach" alt="City street in Long Beach, California"></div>
       <div class="body">
         <div class="text">
           <span class="seg-chip">Counties &amp; Municipalities</span>
@@ -840,7 +843,7 @@ button { font: inherit; cursor: pointer; }
       </div>
     </article>
     <article class="case-card">
-      <div class="media"><div class="ph light"><span class="ph-tag">Placeholder &#183; DFW airfield night collection photo</span></div></div>
+      <div class="media"><img class="fill-img" src="asset:case-dfw" alt="Night pavement data collection on a DFW airfield"></div>
       <div class="body">
         <div class="text">
           <span class="seg-chip">Engineering Partners</span>
@@ -931,10 +934,7 @@ button { font: inherit; cursor: pointer; }
   <div class="footer-cols">
     <div class="contact">
       <span class="logo-plate">
-        <span class="logo" style="font-size:22px">
-          <svg class="crosshair" width="26" height="26" viewBox="0 0 32 32" fill="none" stroke="#1A395B" stroke-width="2"><circle cx="16" cy="16" r="12"/><circle cx="16" cy="16" r="5"/><path d="M16 1v6M16 25v6M1 16h6M25 16h6"/></svg>
-          <span>ICC<span style="color:#EF4238">&#8226;</span>IMS<small>PAVEMENT INTELLIGENCE</small></span>
-        </span>
+        <img src="asset:logo-iccims" alt="ICC-IMS Pavement Intelligence" style="width:185px;height:48px;object-fit:contain;display:block">
       </span>
       <h3>Get In Touch</h3>
       <ul>
