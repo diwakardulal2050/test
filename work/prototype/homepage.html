@@ -444,8 +444,57 @@ button { font: inherit; cursor: pointer; }
   .footer-bottom { justify-content: center; text-align: center; }
 }
 
+/* ---------- motion & interaction (subtle; trust-first dial) ---------- */
+.btn { transition: transform .18s ease, box-shadow .18s ease, filter .18s ease, background-color .18s ease, color .18s ease; }
+.btn:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(15,33,56,0.12); }
+.btn:active { transform: translateY(0); box-shadow: 0 1px 3px rgba(15,33,56,0.10); }
+.btn .icon, .link-teal .icon, .link-red .icon, .link-blue .icon { transition: transform .18s ease; }
+.btn:hover .icon, .link-teal:hover .icon, .link-red:hover .icon, .link-blue:hover .icon { transform: translateX(2px); }
+
+.nav-links a { position: relative; padding-bottom: 2px; transition: color .15s ease; }
+.nav-links a::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: -2px; height: 2px;
+  background: var(--red-500); transform: scaleX(0); transform-origin: left;
+  transition: transform .2s ease;
+}
+.nav-links a:hover::after, .nav-links a:focus-visible::after { transform: scaleX(1); }
+
+.acard, .pillar-card, .case-card, .quote-card, .reason, .step {
+  transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+}
+.acard:hover, .pillar-card:hover, .case-card:hover, .quote-card:hover, .step:hover {
+  transform: translateY(-3px); box-shadow: 0 12px 28px rgba(15,33,56,0.10);
+}
+.reason:hover { transform: translateY(-2px); border-color: rgba(26,57,91,0.28); box-shadow: 0 8px 20px rgba(15,33,56,0.07); }
+.acard { overflow: hidden; }
+.acard .fill-img, .pillar-card .fill-img, .case-card .fill-img { transition: transform .5s ease; }
+.acard:hover .fill-img, .pillar-card:hover .fill-img, .case-card:hover .fill-img { transform: scale(1.03); }
+.reason:hover .chev { transform: translateX(2px); }
+.reason .chev { transition: transform .18s ease; }
+
+.logos-track img { opacity: .8; transition: opacity .2s ease; }
+.logos-track img:hover { opacity: 1; }
+.chip { transition: background-color .15s ease; }
+.chip:hover { background: rgba(237,133,127,0.32); }
+.footer .col a, .footer-bottom a, .utility a { transition: color .15s ease; }
+.utility a:hover { color: var(--red-500); }
+
+.faq-item .faq-a { overflow: hidden; }
+.faq-q .sign svg { transition: transform .25s ease; }
+.faq-item[data-open="true"] .sign svg { transform: rotate(180deg); }
+
+/* scroll reveal: hidden state is applied by JS only, so the page rests fully visible
+   without JS and in reduced-motion */
+.js-reveal .rv { opacity: 0; transform: translateY(12px); }
+.js-reveal .rv.in {
+  opacity: 1; transform: none;
+  transition: opacity .45s ease-out, transform .45s ease-out;
+  transition-delay: var(--rv-delay, 0s);
+}
+
 @media (prefers-reduced-motion: reduce) {
-  * { transition: none !important; }
+  * { transition: none !important; animation: none !important; }
+  .acard:hover .fill-img, .pillar-card:hover .fill-img, .case-card:hover .fill-img { transform: none; }
 }
 </style>
 
@@ -1031,4 +1080,64 @@ document.querySelectorAll('.faq-item').forEach(function (item) {
     btn.setAttribute('aria-expanded', String(!open));
   });
 });
+
+// Subtle scroll reveals + stat count-up. Everything here is additive: without JS or
+// with reduced motion the page is fully visible and static.
+(function () {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  if (!('IntersectionObserver' in window)) return;
+
+  var groups = [
+    '.hero-copy > *', '.proof', '.hero-cards .acard',
+    '.wwd-head', '.wwd .split',
+    '.ois .sec-head', '.ois-sub', '.ois .pillar-card',
+    '.why-left', '.why-right .reason',
+    '.next .sec-head', '.next-sub', '.next .step',
+    '.testimonials .sec-head', '.testimonials .quote-card',
+    '.cases .sec-head', '.cases .case-card',
+    '.proc-text', '.proc .btn',
+    '.faq .sec-head', '.faq-item'
+  ];
+  var els = [];
+  groups.forEach(function (sel) {
+    document.querySelectorAll(sel).forEach(function (el, i) {
+      el.classList.add('rv');
+      el.style.setProperty('--rv-delay', Math.min(i * 0.07, 0.28) + 's');
+      els.push(el);
+    });
+  });
+  document.documentElement.classList.add('js-reveal');
+
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
+    });
+  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
+  els.forEach(function (el) { io.observe(el); });
+
+  // stat count-up, once, on first reveal of the trust bar
+  var trust = document.querySelector('.trust');
+  if (trust) {
+    var done = false;
+    var sio = new IntersectionObserver(function (entries) {
+      if (!entries[0].isIntersecting || done) return;
+      done = true; sio.disconnect();
+      trust.querySelectorAll('.stat b').forEach(function (b) {
+        var m = b.textContent.match(/^([^0-9]*)(\d+)(.*)$/);
+        if (!m) return;
+        var prefix = m[1], target = parseInt(m[2], 10), suffix = m[3];
+        var t0 = null;
+        function step(t) {
+          if (t0 === null) t0 = t;
+          var p = Math.min((t - t0) / 900, 1);
+          var eased = 1 - Math.pow(1 - p, 3);
+          b.textContent = prefix + Math.round(target * eased) + suffix;
+          if (p < 1) requestAnimationFrame(step);
+        }
+        requestAnimationFrame(step);
+      });
+    }, { threshold: 0.4 });
+    sio.observe(trust);
+  }
+})();
 </script>
