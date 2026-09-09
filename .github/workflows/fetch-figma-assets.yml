@@ -29,13 +29,23 @@ jobs:
         run: |
           mkdir -p work/assets/figma
           python3 - <<'PY'
-          import json, os, urllib.request
+          import json, os, subprocess, sys
           manifest = json.loads(os.environ["MANIFEST"])
+          failed = []
           for name, url in manifest.items():
               assert "/" not in name and name not in ("", ".", ".."), name
               path = os.path.join("work/assets/figma", name)
-              urllib.request.urlretrieve(url, path)
-              print(name, os.path.getsize(path), "bytes")
+              r = subprocess.run(["curl", "-sSL", "-o", path, "-w", "%{http_code} %{size_download} %{content_type}", url],
+                                capture_output=True, text=True)
+              print(name, "->", r.stdout, r.stderr[:200])
+              if not os.path.exists(path) or os.path.getsize(path) == 0:
+                  failed.append(name)
+                  if os.path.exists(path):
+                      os.remove(path)
+          if failed:
+              print("FAILED:", failed)
+              if len(failed) == len(manifest):
+                  sys.exit(1)
           PY
 
       - name: Commit and push
