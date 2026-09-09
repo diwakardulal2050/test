@@ -50,6 +50,10 @@ button { font: inherit; cursor: pointer; }
 :focus-visible { outline: 2px solid var(--red-500); outline-offset: 2px; }
 
 .wrap { max-width: 1440px; margin: 0 auto; }
+/* content is capped at the 1440px design width and centered; the header (utility bar,
+   nav, mobile menu) stays full-bleed */
+body > * { max-width: 1440px; margin-left: auto; margin-right: auto; }
+.utility, .nav, .mobile-menu { max-width: none; }
 .pad { padding-left: 64px; padding-right: 64px; }
 @media (max-width: 900px) { .pad { padding-left: 24px; padding-right: 24px; } }
 
