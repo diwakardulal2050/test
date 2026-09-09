@@ -1,0 +1,144 @@
+## PAGE 3 - WHO WE SERVE: MUNICIPALITIES & COUNTIES
+URL: /who-we-serve/municipalities-counties/ Priority: Critical Primary persona: Director of Public Works, City Engineer, Pavement Manager, Asset Management Coordinator, Street Superintendent Secondary reader: City Manager, Council Member, Mayor or town Judge (this page will be forwarded to them - write accordingly) Core question this page answers: “Can you survey my roads, tell me what shape they’re in, help me prioritize repairs within my budget, and help me explain the situation to my city council?”
+## SEO / Metadata
+Field
+Content
+Title tag
+Pavement Condition Surveys & Management Plans for Cities | ICC-IMS
+Meta description
+Automated pavement condition surveys, prioritized management plans, budget scenarios, and council-ready presentations for cities and counties. Cooperative purchasing available.
+Primary keyword
+pavement condition survey city
+Secondary keywords
+pavement management plan consultant, pavement management software municipal, sidewalk ADA compliance survey, GASB 34 pavement, StreetSaver implementation, county pavement management
+Schema
+Service, FAQPage, HowTo (on the six-step process), BreadcrumbList
+H1
+Know Your Roads. Prioritize Your Budget. Show Your Council Actionable Data.
+## Answer-first lead (first 120 words)
+ICC-IMS provides pavement condition surveys, pavement management plans, and budget scenario analysis for cities, counties, and regional agencies.
+A typical engagement begins with an automated survey of the entire road network, producing GIS-mapped PCI or OCI condition data for every segment. That data becomes a prioritized management plan showing:
+- Which streets to treat
+- With what treatment
+- In what order
+- At what cost
+Budget scenario modeling shows what happens to network condition at different funding levels - the analysis that justifies a budget request to a city council.
+ICC-IMS also builds and delivers the council presentation.
+Agencies can procure through the TXShare cooperative purchasing program without running an RFP.
+## KEY FACTS PANEL
+Fleet
+Largest municipal data collection fleet in the industry, all running IrisPRO Pave
+Experience
+38 years of municipal and county pavement management
+Longest client relationship
+Lake County, IL - annual contracts since 1986
+Deliverables
+GIS-mapped condition data · prioritized management plan · budget scenarios · council presentation
+Compliance support
+GASB 34 reporting · ADA / PROWAG sidewalk assessment
+Software
+ESA (pavement) · ESWA (sidewalk) · Inform (stakeholder dashboards) - or delivery into your existing PMS
+Procurement
+TXShare cooperative agreement - no RFP required, typically active in one business day
+## SECTION 1 - The actual problem
+### H2: Your problem usually isn’t technical. It’s political.
+You already know your roads are deteriorating. What you need is a defensible answer to four questions someone is about to ask you in a public meeting:
+- “Which streets are you fixing, and why those?”
+- “What happens if we fund you at last year’s level instead?”
+- “Why does this road need work when the one by my house is worse?”
+- “How do we know this is a good use of the money?”
+Answering those without data is a losing position.
+Answering them with a network-wide condition survey, a prioritized plan, and a funding scenario model is a very strong one.
+That is what this engagement produces.
+## SECTION 2 - How it works
+[Design note: This is the single highest-impact content element for this persona per the journey analysis. Build it as a visual horizontal or vertical stepper with icons. Each step should be expandable. Implement with HowTo schema - it is a strong GEO citation candidate.]
+### H2: The Process that Produces Actionable Results for your Municipality
+Step 1 - Network condition survey Our vehicles drive every segment of your network. Automated 3D imaging and laser measurement capture distress data - cracking, rutting, raveling, patching - without lane closures or crews in traffic. You do not need to provide staff. Typical duration: days to a few weeks depending on network size.
+Step 2 - Condition data, mapped Distress data is processed into PCI or OCI scores for every segment and delivered on a GIS map. You can see your whole network by condition, color-coded, at a glance - and so can anyone you show it to. Deliverable: GIS-mapped condition inventory, HD imagery of every segment.
+Step 3 - Pavement management plan Our engineers apply treatment logic and prioritization to the condition data: which segments get crack seal, which get slurry seal, which need overlay, which need reconstruction - and critically, the order that produces the most network condition per dollar. Deliverable: prioritized multi-year treatment plan with cost estimates and remaining service life projections.
+Step 4 - Budget scenario analysis We model your network under different funding levels. What does the network look like in five years at current funding? At a 20% increase? At a 20% cut? What does deferring maintenance actually cost? Deliverable: side-by-side funding scenarios with projected network condition and backlog.
+Step 5 - Council presentation We build and, if you want, deliver the presentation to your council or board in simple, easy-to-understand language & graphics for non-engineers. Technical pavement data translated for people who do not work in pavement - maps, before-and-after imagery, plain-language funding options. This is the step most vendors do not offer but it is frequently the step that determines whether the plan gets funded.
+Step 6 - Ongoing monitoring Condition data ages. Annual or biennial re-surveys, delivered through a web dashboard, let you track whether the program is working and show year-over-year progress - which is what turns a one-time study into a sustained funding stream. Deliverable: SaaS dashboard access, trend reporting, updated priorities each cycle.
+→ Book a Discovery Call with an engineer to scope this for your network (hyperlink)
+## SECTION 3 - Services
+### H2: What we can survey and assess
+Pavement condition surveys - Automated PCI/OCI collection across the full network, with GIS-mapped distress inventory and HD imagery of every segment. → Learn more (hyperlink)
+Sidewalk and ADA/PROWAG compliance surveys - Automated sidewalk condition and ADA compliance assessment. Missing curb ramps, non-compliant cross-slopes, vertical displacements, and obstructions inventoried and prioritized. Relevant to both ADA transition planning obligations and liability exposure. → Learn more (hyperlink)
+Bike path and trail surveys - Condition assessment for the active transportation network, which is increasingly grant-funded and increasingly scrutinized.
+Right-of-way asset inventory - Signs, markings, and other roadway assets captured during the same collection pass.
+Pavement structural testing - Deflection testing to understand what is happening below the surface, so an overlay is not applied to a failed base.
+Roadway safety and friction surveys - Friction measurement to identify segments with elevated crash risk, supporting safety-funded project applications.
+Pavement management plans - Treatment recommendations, prioritization, remaining service life, and multi-year programming.
+Budget scenario analysis - Funding-level modeling for budget requests and capital planning.
+Presentations to elected officials - Council-ready translation of technical findings.
+Community outreach kits - Social media copy, public relations language, imagery, field cards, and flyers to explain roadwork to residents before the complaints start.
+→ All services (hyperlink)
+## SECTION 4 - The budget argument
+### H2: What deferred maintenance actually costs with real data to back it up
+Pavement deterioration is not linear. A road in good condition can be kept in good condition cheaply. Once it fails, the cost jumps by roughly an order of magnitude.
+- Preventive treatment on a road in good condition: approximately $1 per square yard
+- Reconstruction of a failed road: approximately $6–10 per square yard
+- Agencies running data-driven pavement management extend average pavement life by 5–7 years (reference: FHWA)
+The implication for a council presentation is straightforward: every year a street in fair condition is deferred, it moves closer to a treatment category that costs six to ten times more. A management plan is not a study. It is the difference between spending $1 now and $8 later.
+GASB 34 reporting. Agencies using the modified approach need documented condition assessments performed at least every three years, with results showing assets are being preserved at or above an established condition level. A network condition survey and management plan produce exactly that documentation.
+ADA and PROWAG exposure. Sidewalk non-compliance is a litigation risk with a well-established plaintiff bar. An inventoried, prioritized, actively-worked transition plan is materially better legal ground than no inventory at all.
+## SECTION 5 - Software
+### H2: You will need somewhere to keep this, we’ve got you covered
+ESA - your pavement management system Know which roads to fix first. Show your council why. Stretch your budget further. Track your progress year over year. ESA is a SaaS pavement management platform with GIS-integrated condition mapping, budget scenario modeling, deterioration curves, remaining service life projections, and GASB 34 reporting. → ESA Pavement Management (hyperlink)
+ESWA - your sidewalk management system Sidewalk condition inventory, ADA/PROWAG compliance tracking, and prioritization for remediation projects - with the documentation trail that matters if compliance is ever questioned. → ESWA Sidewalk Management (hyperlink)
+Inform - the dashboard you show other people Interactive dashboards and public-facing portals. This is the tool for council meetings, city manager briefings, and resident-facing transparency. → Unify Inform (hyperlink)
+Already using StreetSaver, Cartegraph, Lucity, or something else? We deliver into it. Using our software is never a condition of using our services. → Integrations and data formats (hyperlink)
+## SECTION 6 - See the deliverables before you commit
+### H2: What you actually receive
+Design note: Gate behind a short form (name, agency, email). This is the highest-value lead generation asset for this segment. The journey analysis identifies the absence of sample deliverables as forcing municipal buyers into a leap of faith competitors may not require.
+- Sample pavement management report (redacted) - the actual document format, so you know what you are buying
+- GIS dashboard walkthrough - what the condition map looks like and how you navigate it
+- Sample council presentation excerpt - how technical findings get translated for a public meeting
+- Sample budget scenario output - funding levels modeled side by side
+→ Download sample deliverables (resources/sample-reports) (hyperlink)
+## SECTION 7 - Fast-track procurement
+### H2: You may not need to put out an RFP
+For most municipal and county agencies, procurement is the longest part of the timeline - not the work. ICC-IMS holds a Master Services Agreement for Pavement Analysis Services through the TXShare Cooperative Purchasing Program, administered by the North Central Texas Council of Governments.
+How it works:
+- Confirm eligibility. TXShare is open to all public agencies in the United States - municipal, county, state, and federal - and to non-profit entities.
+- Sign an Interlocal Agreement. Participation is free. Execution is typically completed within one business day.
+- Contract directly. Once executed, you can use the TXShare contract immediately, with no solicitation.
+TXShare contracts are competitively sourced and independently evaluated under Uniform Guidance (2 CFR 200) and Texas Local Government Code standards - so the compliance basis is documented, not assumed. IMS received the highest-rated response for Pavement Analysis Services in 2023.
+→ Cooperative purchasing details (/procurement/cooperative-purchasing) (hyperlink)
+## SECTION 8 - Agencies we work with
+### H2: Cities and counties currently using ICC-IMS
+“IMS was selected through a competitive bid process to update the City’s pavement management system and implement the StreetSaver software for the City. IMS utilized one of their LCMS-2 vans to perform an automated condition survey over the full roadway network. The project included delivery of HD digital images, GIS integration, and a summarized network analysis and maps. I can offer my full support and recommendation of IMS for related pavement management projects.” Kenner Guerrero - Associate Engineer, City of Pico Rivera, CA
+“I have personally worked with IMS since 2017 and the Lake County Division of Transportation has had annual contracts with IMS since 1986. They do an excellent job and are experts in their field. Their staff is accommodating to any and all requests we may have and our relationship is very collaborative.” Julian Rozwadowski, PE - Pavement Management Coordinator, Lake County, IL
+“IMS was able to adapt and work with the City’s existing database and proactively brought important issues to the attention of City staff. With their extensive knowledge in pavement management programs, they were able to accurately answer questions related to the project.” Chantha Chap, PE - Civil Engineer, City of Visalia, CA
+“Throughout the project, the team provided Sumter County with exceptional client service. We especially appreciate their commitment to timely data collection, transparent communication, and high-quality data deliveries.” Steven Cohoon - Assistant Director, Planning and Design, Public Works, Sumter County, FL
+Also serving: Dunwoody GA · Springfield MO · Newnan GA · Oklahoma County OK · Long Beach CA · Jacksonville FL · Tampa FL · Hillsborough County FL · Glendale AZ · Fort Collins CO · Riverside CA · Lakeland FL · Minnetonka MN · Moore OK · Norman OK · Lawton OK · Spartanburg County SC · Camden SC · Peachtree Corners GA · Harvard IL · Lancaster TX
+→ View all municipal case studies (hyperlink)
+## SECTION 9 - FAQ (FAQPage schema)
+### H3: How long does a pavement condition survey take?
+Field collection typically takes days to a few weeks depending on network size, and does not require lane closures or staff support from your agency. Processing, analysis, and plan development follow. A complete engagement from survey through delivered management plan generally runs several weeks to a few months depending on scope.
+### H3: What is PCI and how is it calculated?
+PCI (Pavement Condition Index) is a 0–100 score representing pavement surface condition. It is calculated from the type, severity, and extent of observed distresses - cracking, rutting, raveling, patching, and others - measured across a pavement segment. ICC-IMS collects distress data using automated 3D imaging and laser measurement, which removes the rater-to-rater variability of manual windshield surveys.
+### H3: Do we need to buy software to work with ICC-IMS?
+No. ICC-IMS delivers data into 15+ third-party pavement management platforms including StreetSaver, MicroPAVER, PAVER, Cartegraph, Lucity, Brightly, dTIMS, Agile Assets, and ArcGIS. Software is available if you want it, but it is never a condition of service.
+### H3: Can ICC-IMS help present findings to our city council?
+Yes. Presentations to elected officials is a defined service. ICC-IMS builds council-ready presentations that translate technical pavement data for non-technical decision-makers, and can deliver the presentation directly.
+### H3: Does a pavement condition survey satisfy GASB 34 requirements?
+A network condition assessment and management plan provide the documented condition data GASB 34’s modified approach requires - condition assessments at least every three years, with results demonstrating assets are preserved at or above an established condition level. Confirm specific reporting requirements with your finance department and auditor.
+### H3: How do we procure ICC-IMS services without going through an RFP?
+Through the TXShare cooperative purchasing program. TXShare is open to public agencies nationwide at no cost. Sign an Interlocal Agreement - typically executed within one business day - and contract directly with no solicitation required.
+### H3: Do you survey sidewalks as well as streets?
+Yes. Sidewalk condition and ADA/PROWAG compliance surveys are a separate service, often run alongside a pavement survey. Deliverables include inventoried non-compliance, prioritization for remediation, and documentation supporting an ADA transition plan.
+### H3: How often should a city re-survey its network?
+Most agencies re-survey on a one to three year cycle. Annual re-survey suits larger or faster-deteriorating networks and agencies reporting progress to a council each budget cycle. Three years is generally the outer limit before data is too stale to defend a programming decision - and is also the GASB 34 modified approach interval.
+### H3: What does a pavement management program cost?
+Cost depends on network size, survey type, and deliverables. The more useful framing for a budget conversation is the comparison: preventive treatment runs roughly $1 per square yard while reconstruction runs roughly $6–10. A management plan’s value is in redirecting spending toward the cheaper category. Contact us for scoping against your specific network.
+## CTA BLOCK
+Primary: Book a Discovery Call with an engineer | Download Sample Deliverables
+Secondary: View Cooperative Purchasing Options | Request a Quote
+## INTERNAL LINKS FROM THIS PAGE
+/solutions/services/ · /solutions/software/pavement-management-esa/ · /solutions/software/sidewalk-management-eswa/ · /solutions/software/unify-inform/ · /solutions/software/integrations/ · /procurement/cooperative-purchasing/ · /resources/sample-reports/ · /projects/?segment=municipal · /company/contact/
+## IMAGE ALT TEXT
+- GIS map showing pavement condition index scores color-coded by street segment for a city road network
+- ICC-IMS pavement survey vehicle collecting automated condition data on a residential street
+- Sample budget scenario chart comparing projected pavement network condition at three funding levels
+- Sidewalk ADA compliance survey identifying non-compliant curb ramp and cross-slope

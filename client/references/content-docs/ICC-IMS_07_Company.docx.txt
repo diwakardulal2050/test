@@ -1,0 +1,217 @@
+# PAGES 11–14 - COMPANY
+# PAGE 11 - ABOUT ICC-IMS
+URL: /company/about/ GEO Note: This is the page AI engines parse to establish entity identity and authority. Quantified, parseable credentials matter more here than narrative.
+## SEO / Metadata
+Field
+Content
+Title tag
+About ICC-IMS | Pavement Equipment Manufacturer & Consultancy
+Meta description
+ICC-IMS was formed in 2022 by the merger of International Cybernetics Company and IMS Infrastructure Management Services. 50 years of US manufacturing, 700+ agency clients.
+Primary keyword
+ICC-IMS pavement management company
+Secondary keywords
+International Cybernetics Company, Infrastructure Management Services, pavement profiler manufacturer, pavement management consultant
+Schema
+Organization (full entity data), AboutPage, BreadcrumbList
+### H1: Industry leading equipment, services, and software for pavement optimization
+## Answer-first lead
+ICC-IMS is a pavement intelligence company that
+- Manufactures pavement data collection equipment
+- Performs pavement data collection, analysis, and engineering consulting
+- Develops & maintains pavement management software
+ICC-IMS was formed in 2022 through the merger of International Cybernetics Company, LP (ICC), a Florida-based manufacturer of inertial profilers and friction testing equipment founded 50+ years ago, and IMS Infrastructure Management Services, a pavement and asset management consultancy with nearly 40 years of experience serving counties and municipalities.
+The company is headquartered at 10630 75th Street, Largo, Florida, where it manufactures all equipment in a 15,000 square foot facility. ICC-IMS serves state departments of transportation (DOTs), counties and municipalities, AEC firms, airports, concessionaires, and federal agencies.
+Our subject matter experts (SMEs) serve on standards and specifications bodies, contributing to the elevation of pavement testing and optimization industry-wide.
+## KEY FACTS PANEL
+Legal entities
+International Cybernetics Company, LP · IMS Infrastructure Management Services
+Merger
+2022
+ICC founded
+50+ years of equipment manufacturing
+IMS founded
+Nearly 40 years of pavement and asset management consulting
+Headquarters
+10630 75th Street, Largo, FL 33777, United States
+Manufacturing
+15,000 sq ft facility, Largo, Florida - all equipment US-made
+Parts inventory
+$1.1M held on hand for service and support
+Software investment
+$5M in the Unify™ suite
+Agencies served
+700+ (confirm)
+Projects completed
+1,000+ (confirm)
+PMS platforms supported
+15+
+Fleet
+Largest municipal data collection fleet in the industry
+Phone
++1 727-547-0696 (USA) · +1 289-807-4371 (Canada)
+Email
+sales@icc-ims.com
+## SECTION 1 - The merger
+### H2: Why two companies became one
+International Cybernetics Company spent five decades building the instruments that measure pavement: inertial profilers, friction testers, reference devices, sold to agencies worldwide. ICC knew exactly how the data was produced - down to the laser and the algorithm - but the relationship usually ended when the equipment shipped.
+IMS spent nearly 40 years on the other end of that data. Its engineers sat with public works directors deciding which streets to fix, built the management plans, and stood in front of city councils explaining why a road that looks fine needs money now.
+Each had the half the other was missing. ICC could tell you exactly how a number was measured but not what to do about it. IMS could tell you what to do but depended on someone else’s instrument to know.
+In order to better serve both sets of clients, they merged in 2022.
+The result is unusual in this industry: one organization that controls the entire chain from the sensor on the vehicle to the slide in front of the council. When a data question arises, the person who can answer it works here. When the software needs to handle a new distress type, the people who collect it and the people who code it are in the same company….and still today, we answer the phone when you call.
+## SECTION 2 - What we do
+### H2: Three capabilities, one lifecycle
+Equipment. Inertial profilers, 3D pavement survey vehicles, locked-wheel and continuous friction testers, and walking-speed reference devices - designed and manufactured in Largo, Florida, certified to ASTM E950, AASHTO R56, AASHTO R57, ASTM E274, and TxDOT specifications. → Equipment (hyperlink)
+Services. Network-level and project-level pavement condition surveys, sidewalk and ADA/PROWAG assessments, friction testing, airfield surveys, structural testing, pavement management plans, budget scenario analysis, and presentations to elected officials. → Services (hyperlink)
+Software. The Unify™ suite for field collection, automated QC, and stakeholder visualization; ESA for pavement management; ESWA for sidewalk management; and delivery into 15+ third-party platforms. → Software (hyperlink)
+## SECTION 3 - How we work
+### H2: Quality, Reliability, Delivery
+Data quality is a documented process. Equipment certification against the applicable standard. Dedicated validation sites. Routine verification on a defined interval. Published pass/fail criteria. A documented corrective action process when data does not pass. Not a promise - a procedure with a record.
+Equipment is built here. All manufacturing happens in Largo, Florida, with $1.1M of parts on hand. When a system goes down mid-season, the fix does not wait on an overseas supply chain.
+The software exists because the alternatives were slow. $5M went into Unify to remove the manual processing bottleneck that sets turnaround time across this industry.
+We do not require you to use our software. Data is delivered into whatever platform you already run. Bundling is available; it is not a condition.
+## SECTION 4 - Who we serve
+State DOTs · Counties and municipalities · AEC and engineering firms · Airports · Concessionaires and PPP operators · Federal agencies and military installations
+## SECTION 5 - FAQ (FAQPage schema)
+### H3: What is ICC-IMS?
+ICC-IMS is a pavement intelligence company that manufactures pavement data collection equipment, provides pavement data collection and engineering consulting services, and develops pavement management software. It was formed in 2022 through the merger of International Cybernetics Company, LP and IMS Infrastructure Management Services.
+### H3: When were ICC and IMS founded, and when did they merge?
+International Cybernetics Company has 50 years of equipment manufacturing history. IMS Infrastructure Management Services has nearly 40 years of pavement and asset management consulting experience. The two merged in 2022.
+### H3: Where is ICC-IMS located?
+Headquarters and manufacturing are at 10630 75th Street, Largo, Florida 33777, in a 15,000 square foot facility. Phone: +1 727-547-0696 (USA), +1 289-807-4371 (Canada).
+### H3: Does ICC-IMS manufacture its own equipment?
+Yes. All equipment is designed and manufactured in Largo, Florida, supported by $1.1M of parts held on hand for service.
+### H3: How many agencies does ICC-IMS serve?
+700+ agencies across state, county, municipal, federal, airport, and private concession sectors. (Confirm)
+### H3: What standards does ICC-IMS equipment meet?
+ASTM E950, AASHTO R56, AASHTO R57, ASTM E274, and TxDOT specifications, among others. The IrisPRO Every Speed profiler achieved 2026 iCART Certification in Illinois, passing on all pavement types.
+### NOTE: CONSISTENCY REQUIREMENT
+Critical for GEO. AI engines use entity data consistency across sources as a trust signal. The following must be byte-identical on the website, Google Business Profile, LinkedIn, TXShare listing, SAM.gov, and all industry directories:
+ICC-IMS 10630 75th Street Largo, FL 33777 +1 727-547-0696 sales@icc-ims.com
+Audit all listings and correct discrepancies. Variations in suite numbers, abbreviations (“St” vs “Street”), or phone formatting all degrade the signal. Also standardize how the two legal entity names appear and register them as alternateName in Organization schema.
+## INTERNAL LINKS
+/company/team/ · /company/careers/ · /company/contact/ · /solutions/equipment/ · /solutions/services/ · /solutions/software/ · /who-we-serve/state-dots/ · /projects/
+# PAGE 12 - TEAM
+URL: /company/team/
+## SEO / Metadata
+Field
+Content
+Title tag
+Our Team | Pavement Engineers & Consultants | ICC-IMS
+Meta description
+Meet the pavement engineers, consultants, and leadership behind ICC-IMS. Credentialed specialists in pavement management, data collection, and infrastructure planning.
+H1
+The People Behind the Data
+Schema
+Person (per profile), AboutPage, BreadcrumbList
+### H1: Get our Subject Matter Experts as a part of your team
+## Answer-first lead
+ICC-IMS’s consulting team comprises licensed professional engineers (P.E.s) and pavement management specialists who:
+- Develop management plans
+- Perform lifecycle analyses
+- Perform budget scenario analyses
+- Present findings to agency leadership and elected officials
+The team works with your team and alongside the engineers who design and build ICC-IMS data collection equipment, which means questions about how a measurement was produced can be answered by the person who built the instrument.
+## SECTION 1 - Structure
+### H2: How this page should be built
+Design note: Make profiles parseable. Structure each profile with consistent, labeled fields rather than free-form bio prose. Person schema on each profile is a meaningful authority signal for GEO.
+Profile template:
+Field
+Content
+Name and credentials
+e.g., Jane Smith, PE
+Title
+Specialization
+Municipal pavement management / DOT profiling & standards / airfield / software / structural testing
+Years in the industry
+Education and licensure
+Degrees, PE license states, certifications
+Representative projects
+2–3, linked to case studies where they exist
+Professional affiliations
+APWA, TRB, AASHTO committees, ASCE
+Groupings: - Leadership team - Consulting and engineering - grouped by specialization so a visitor can find the person relevant to their problem - Equipment engineering and manufacturing - this group is currently invisible on the site and is a credibility asset for DOT and AEC buyers, who want to know the manufacturer employs actual engineers - Field operations and program management
+[Content needed from ICC-IMS: current roster with credentials, licensure states, specializations, and professional affiliations. The existing Consulting Team page provides a starting point but should be expanded to include equipment engineering and field operations leadership.]
+## INTERNAL LINKS
+Cross-linked from every audience and service page · /company/about/ · /company/careers/ · /resources/capability-statement/
+# PAGE 13 - CAREERS
+URL: /company/careers/
+## SEO / Metadata
+Field
+Content
+Title tag
+Careers at ICC-IMS | Pavement Engineering & Field Operations Jobs
+Meta description
+Join a growing pavement intelligence company. Engineering, field operations, software, and manufacturing roles in Largo, FL and across North America.
+H1
+Careers at ICC-IMS
+Schema
+JobPosting (per open role - required for Google Jobs indexing), BreadcrumbList
+## Answer-first lead
+ICC-IMS hires pavement engineers, field data collection technicians, software developers, and manufacturing and service staff. The company is headquartered in Largo, Florida, where all equipment manufacturing takes place, with field operations across North America.
+## SECTION 1 - Why work here
+### H2: A short list of things that are actually true here
+You will see the whole chain. Most people in this industry work on one slice - the sensor, or the survey, or the software. Here the person who designs the laser and the person who presents to the city council work for the same company, and they talk.
+The equipment is built here. Manufacturing is in Largo, Florida, not outsourced. If you build things, you can walk out to the floor and see them.
+The work is visible. The roads people drive to work are the roads in the dataset. We actually make a difference.
+## SECTION 2 - Where we hire
+- Engineering and consulting - pavement engineers, pavement management consultants, analysts
+- Field operations - data collection technicians, crew leads, regional operations
+- Manufacturing and service - assembly, integration, calibration, field service
+- Software - development, QA, implementation and client support
+- Sales, marketing, and administration
+## SECTION 3 - Open positions
+Implementation note: Each posting must carry JobPosting schema - without it, roles will not appear in Google Jobs, which is where most candidates now search. Include title, location, employment type, description, qualifications, posting date, and valid through date. Then link to your job posting system.
+## SECTION 4 - Apply
+General applications: careers@icc-ims.com [confirm address]
+## INTERNAL LINKS
+/company/about/ · /company/team/ · /company/contact/
+# PAGE 14 - CONTACT
+URL: /company/contact/
+## SEO / Metadata
+Field
+Content
+Title tag
+Contact ICC-IMS | Largo, FL | +1 727-547-0696
+Meta description
+Contact ICC-IMS for equipment questions, service inquiries, software demos, or subcontractor qualification. Largo, Florida. Response within one business day.
+H1
+Contact ICC-IMS
+Schema
+ContactPage, Organization, LocalBusiness, BreadcrumbList
+## Answer-first lead
+ICC-IMS is headquartered at 10630 75th Street, Largo, Florida 33777. Phone: +1 727-547-0696 (USA) or +1 289-807-4371 (Canada). Email: sales@icc-ims.com. Inquiries are routed by type - equipment technical questions to the manufacturing team, service inquiries to the consulting team, software demonstrations to the platform team, and subcontractor qualification requests to program management. Most inquiries receive a response within one business day.
+## SECTION 1 - Contact details
+Headquarters and manufacturing 10630 75th Street Largo, FL 33777 United States
+Phone +1 727-547-0696 (USA) +1 289-807-4371 (Canada)
+Email sales@icc-ims.com
+Payments Send payment online
+LinkedIn linkedin.com/company/internationalcybernetics
+## SECTION 2 - Contact form
+Field 1 - What can we help with? (required, routes the inquiry)
+- Equipment technical question - specifications, standards, compatibility
+- Service inquiry - surveys, management plans, friction testing, airfield
+- Software demonstration - ESA, ESWA, Unify
+- Subcontractor qualification - I am an AEC firm
+- Procurement and contract vehicles - cooperative purchasing, quotes
+- Support - I am an existing client
+- Careers
+- General inquiry
+Then: Name · Title · Organization · Organization type (State DOT / City or County / AEC firm / Airport / Concessionaire / Federal / Other) · Email · Phone · State or Province · Message
+## SECTION 3 - Faster routes
+- Need specifications right now? → Download spec sheets  /resources/spec-sheets – (hyperlink, no form)
+- Need a capability statement for a deadline? → Download /resources/capability-statement (hyperlink)
+- Want to see deliverables? → Sample reports /resources/sample-reports (hyperlink)
+- Existing client needing software help? → Learning Portal /resources/learning-portal (hyperlink)
+- Want to skip the RFP? → Cooperative purchasing /procurement/cooperative-purchasing  (hyperlink)
+## SECTION 4 - FAQ
+### H3: How do I contact ICC-IMS?
+By phone at +1 727-547-0696 (USA) or +1 289-807-4371 (Canada), by email at sales@icc-ims.com, or through the contact form. Headquarters is at 10630 75th Street, Largo, FL 33777.
+### H3: How quickly does ICC-IMS respond?
+Most inquiries receive a response within one business day.
+### H3: Where is ICC-IMS headquartered?
+Largo, Florida - 10630 75th Street, Largo, FL 33777, which is also where all equipment manufacturing takes place.
+### H3: Who do I contact for technical support on existing equipment or software?
+Existing clients can reach support at +1 727-547-0696 or through the Learning Portal. Select “Support” on the contact form to route directly.
+## INTERNAL LINKS
+/procurement/request-quote/ · /procurement/cooperative-purchasing/ · /resources/spec-sheets/ · /resources/capability-statement/ · /resources/learning-portal/ · /company/about/

@@ -1,0 +1,444 @@
+# ICC-IMS Site Map Document – August 2026
+# 1. Site Map Overview
+This document provides a comprehensive site map for the recommended ICC-IMS website restructure, along with detailed page-level content guidance written in bullet-point format. The structure shifts the site from a seller-centric architecture to a buyer-centric one, organized around how each audience segment (State DOTs, Municipalities/Counties, and AEC Firms) navigates their purchasing journey. Content elements sections are there for reference – full content documents are being developed and will be provided as they are ready. We would like the entire site to be searchable with a bar for those visiting (JSON-LD
+Recommended Primary Navigation Structure
+•  HOME — Segment-routing gateway with persona selection
+•  WHO WE SERVE — DOTs | Municipalities & Counties | AEC Firms | Airports | Concessionaires | Federal Agencies
+•  SOLUTIONS — Equipment | Services | Software (organized by use case, cross-linked by audience)
+•  PROJECTS & CASE STUDIES — Filterable by segment, service type, and outcome
+•  RESOURCES — Blog | Whitepapers | Spec Sheets | Sample Reports | Learning Portal
+•  PROCUREMENT — Cooperative Purchasing | Request a Quote | Capability Statement Download
+•  COMPANY — About Us | Team | Careers | Contact
+# 2. Home Page
+Page
+Home
+URL Path
+/
+Purpose
+Smart gateway that routes each buyer persona to their most relevant content. Answers the visitor’s core question: “Is this company for me, and where do I go next?”
+Content Elements
+•  Hero section with unified value proposition headline: “The Complete Pavement Intelligence Platform — From Data Collection to Decision-Making”
+•  Three persona-routing CTAs: State DOT Solutions | Municipal & County Solutions | AEC & Engineering Firm Services
+•  Three-pillar visual summary: Equipment (US-manufactured, ASTM/AASHTO certified) | Services (full-service data collection, consulting, engineering) | Software (Unify suite, ESA, stakeholder visualization)
+•  Social proof organized by segment: DOT testimonials grouped (WYDOT, AZDOT, TDOT, DelDOT), municipal testimonials grouped (Pico Rivera, Dunwoody, Springfield, Long Beach), AEC references
+•  Trust bar with credibility metrics: 50+ years combined heritage, 700+ agency clients, 15+ PMS platform integrations, $5M software investment, largest municipal data collection fleet
+•  Three featured case studies (one per primary segment), focused on outcomes
+•  Cooperative purchasing banner or dedicated section for government buyers
+•  CTA: Book a Discovery Call | Request a Quote | Download Capability Statement
+# 3. Who We Serve
+Each “Who We Serve” page functions as a dedicated audience landing page with a complete journey narrative, linking visitors to relevant equipment, services, software, case studies, and procurement pathways.
+## 3.1 State Departments of Transportation (DOTs)
+Page
+DOT Solutions
+URL Path
+/who-we-serve/state-dots/
+Purpose
+Dedicated landing page for State DOT pavement and transportation engineers evaluating profiling equipment, friction testers, network-level data collection services, and reference devices.
+Content Elements
+•  Headline: “Precision Pavement Data Collection Equipment & Services for State Highway Programs”
+•  Lead paragraph with ASTM/AASHTO/FHWA compliance credentials front and center
+•  Equipment overview with links to individual product pages: IrisPRO Every Speed, IrisPRO High Speed, IrisPRO Lightweight, IrisPRO Pave, SFT Locked Wheel, DFT Continuous, SurPRO Reference Device
+•  Standards compliance matrix table showing which models meet ASTM E950, AASHTO R56, AASHTO PP69, AASHTO M328, FHWA LTBP, and TxDOT certifications
+•  Network-level data collection services overview: corridor assessments, statewide profiling programs, HPMS data support
+•  Patented ESP technology differentiator: accurate IRI profiling at any speed including stop-and-go conditions
+•  LCMS-2 integration for 3D pavement scanning at speeds up to 75 mph with sub-millimeter crack detection
+•  DOT client logos and testimonials (WYDOT, AZDOT, TDOT, DelDOT, FDOT, CDOT)
+•  Filtered DOT case studies: Arizona DOT, Wyoming DOT, Tennessee DOT, Delaware DOT, Illinois DOT
+•  Cooperative purchasing contract vehicles section: GSA, Sourcewell, NASPO ValuePoint, state-specific contracts with contract numbers
+•  Downloadable spec sheet links for all equipment models
+•  SurPRO reference device section with MAP-21/FAST Act regulatory context
+•  CTA: Request Technical Information | Download Spec Sheets | View Cooperative Purchasing Contracts
+## 3.2 Municipalities & Counties
+Page
+Municipal & County Solutions
+URL Path
+/who-we-serve/municipalities-counties/
+Purpose
+Landing page for Public Works Directors, City Engineers, and Pavement Managers looking for pavement condition surveys, management plans, budget scenario analysis, council presentation support, and ongoing SaaS-based pavement management.
+Content Elements
+•  Headline: “Know Your Roads. Prioritize Your Budget. Show Your Council Actionable Data.”
+•  Outcome-first messaging: know which roads to fix first, stretch your budget, present defensible data to elected officials, track progress year over year
+•  “How It Works” visual step-by-step journey: Network Survey → Condition Data → Management Plan → Budget Scenario Analysis → Council Presentation → Ongoing Monitoring with SaaS
+•  Full-service pavement condition survey capabilities: automated PCI/OCI collection, GIS-mapped distress data, largest municipal data collection fleet in the industry
+•  Sidewalk and ADA/PROWAG compliance survey services
+•  Pavement management plan development: treatment recommendations, prioritization algorithms, remaining service life projections
+•  Budget scenario planning tools: model different funding levels, compare treatment strategies, project future conditions
+•  Council and stakeholder presentation services: professional presentations translating technical data for non-technical decision-makers
+•  Software overview: ESA for pavement management, ESWA for sidewalk management, Unify Inform for stakeholder visualization dashboards
+•  ROI and budget justification content: proactive management costs ~$1/sq yd vs. $6–10/sq yd for reactive repair; data-driven management extends pavement life 5–7 years
+•  GASB 34 compliance benefits and ADA/PROWAG risk reduction messaging
+•  Municipal client testimonials: Pico Rivera, Dunwoody, Springfield, Long Beach, Jacksonville
+•  Cooperative purchasing fast-track section: Sourcewell, NASPO ValuePoint logos, contract numbers, explanation of how cooperative purchasing simplifies procurement
+•  Sample deliverable previews: redacted pavement management report excerpt, GIS dashboard screenshot, sample council presentation slide, budget scenario output
+•  CTA: Book a Discovery Call | Download Sample Report | View Cooperative Purchasing Options
+## 3.3 AEC & Engineering Firms
+Page
+AEC Partner Services
+URL Path
+/who-we-serve/aec-firms/
+Purpose
+Landing page for AEC Project Managers and Pavement Specialists (Kimley-Horn, Tetra Tech, Mott MacDonald, AtkinsRealis, etc.) evaluating ICC-IMS as a subcontract pavement data collection partner.
+Content Elements
+•  Headline: “Your Trusted Pavement Data Collection Partner — Seamless Integration Into Your Project Team”
+•  Engineer-to-engineer professional voice focused on data quality, QC process, schedule reliability, and program management capability
+•  Subcontract pavement data collection services: network-level surveys, project-level assessments, multi-state program management
+•  Data format flexibility and PMS platform integration: StreetSaver, MicroPAVER, PAVER, Agile Assets, dTIMS, Cartegraph, Lucity, Brightly, ArcGIS
+•  Export formats supported: XML, CSV, SHP, KML/KMZ, PPF, ERD, PRO
+•  QC/QA process overview: automated QC via Unify Connect, acceptance criteria, validation procedures, QC documentation standards
+•  Specialized services highlight: airfield assessment, HFST acceptance testing, concrete rehab surveys, pre/post-event surveys, continuous runway friction testing, night operations capability
+•  Equipment capabilities available for subcontract work: IrisPRO fleet, LCMS-2 3D scanning, friction testing
+•  ASTM/AASHTO compliance certifications relevant to AEC deliverables
+•  Turnaround time commitments and schedule reliability messaging
+•  Insurance, bonding, and pre-qualification information
+•  NAICS codes and relevant certifications for subcontractor qualification packages
+•  Downloadable one-page capability statement formatted for pre-qualification packages
+•  AEC testimonials and references (anonymized if needed)
+•  CTA: Download Capability Statement | Request Subcontractor Qualification Package | Contact Our Team
+## 3.4 Airports
+Page
+Airport Solutions
+URL Path
+/who-we-serve/airports/
+Purpose
+Landing page for Airport Operations Managers seeking airfield pavement management, FAA compliance expertise, runway friction testing, and specialized data collection capabilities.
+Content Elements
+•  Headline: “Airfield Pavement Intelligence — FAA-Compliant Data Collection, Day and Night”
+•  FAA compliance expertise and regulatory context
+•  Runway friction testing capabilities: SFT Locked Wheel, DFT Continuous friction measurement
+•  HFST (High Friction Surface Treatment) acceptance testing services
+•  High-resolution night-time data collection capability for commercial airports with operational constraints
+•  LCMS-2 integration for sub-millimeter crack detection on airfield pavements
+•  Airfield pavement condition surveys: runways, taxiways, aprons, service roads
+•  DFW International Airport case study featured prominently
+•  CTA: Request Airfield Assessment Consultation | View Airport Case Studies
+## 3.5 Concessionaires
+Page
+Concessionaire Solutions
+URL Path
+/who-we-serve/concessionaires/
+Purpose
+Landing page for Concessionaire and PPP Asset Managers managing toll roads, performance monitoring, and lifecycle cost optimization.
+Content Elements
+•  Headline: “Performance Monitoring & Lifecycle Optimization for Toll Roads and PPP Highways”
+•  Ongoing performance monitoring services tied to concession agreement requirements
+•  Compliance reporting for concession performance metrics
+•  Repeatable, consistent data collection methodology for year-over-year trending
+•  Lifecycle cost optimization analysis and budget scenario modeling
+•  ROI framing: data-driven pavement management to reduce total cost of ownership
+•  Sample ROI/lifecycle cost one-sheet deliverable
+•  CTA: Request Performance Monitoring Consultation
+## 3.6 Federal Agencies
+Page
+Federal Agency Solutions
+URL Path
+/who-we-serve/federal-agencies/
+Purpose
+Landing page for federal agency pavement and infrastructure program managers.
+Content Elements
+•  FHWA LTBP program support and compliance
+•  Federal highway and facility pavement assessment services
+•  GSA contract vehicle information and federal procurement pathways
+•  Equipment meeting federal specification requirements
+•  Military installation and federal facility assessment capabilities
+•  CTA: View Federal Contract Vehicles | Request Federal Program Consultation
+# 4. Solutions
+The Solutions section consolidates Equipment, Services, and Software into a unified offering structure. Each sub-section cross-links to relevant audience pages, eliminating the parallel navigation confusion identified in the journey mapping analysis.
+## 4.1 Equipment
+Equipment pages restructured with answer-first content, standards compliance tables, and downloadable spec sheets.
+Page
+Equipment Overview
+URL Path
+/solutions/equipment/
+Subpage urls below
+Purpose
+Gateway page for all ICC-IMS pavement data collection equipment, proudly manufactured in the USA.
+Content Elements
+•  Overview of ICC-IMS equipment manufacturing heritage (nearly 50 years)
+•  US-manufactured precision data collection equipment
+•  Equipment categories with visual navigation: Profilers | Pavement Survey Vehicles | Friction Testers | Reference Devices
+•  Consolidated standards compliance matrix across all models (ASTM, AASHTO, FHWA, TxDOT)
+•  Link to full spec sheet library in Resources section
+•  CTA: Download Equipment Catalog | Request Technical Information
+4.1.1 Profilers (Full content to be provided separately)
+- IrisPRO Every Speed (ESP) — /solutions/equipment/irispro-every-speed/
+- Patented ESP technology enabling accurate IRI profiling at any vehicle speed, including stop-and-go conditions
+- Eliminates the traditional 12 mph minimum speed constraint — a genuinely unique differentiator
+- Certified to ASTM E950, AASHTO R56, AASHTO R57, and TxDOT specifications
+- Ideal for urban environments, work zones, and variable-speed corridors
+- Standards compliance table, technical specifications, vehicle compatibility
+- Downloadable PDF spec sheet
+- CTA: Download Spec Sheet | Request a Quote | View Cooperative Purchasing Options
+- IrisPRO High Speed — /solutions/equipment/irispro-high-speed/
+- High-speed network-level profiling for state highway programs
+- ASTM E950 Class 1 certified inertial profiler
+- Designed for large-scale statewide data collection programs
+- Standards compliance table and downloadable spec sheet
+- IrisPRO Lightweight — /solutions/equipment/irispro-lightweight/
+- Compact, portable profiling solution for project-level assessments
+- Lightweight vehicle integration for flexible deployment
+- Standards compliance table and downloadable spec sheet
+- IrisPRO Pave — /solutions/equipment/irispro-pave/
+- LCMS-2 integration for 3D pavement scanning at speeds up to 75 mph
+- Sub-millimeter crack detection capability
+- ASTM Class 1 inertial profiler with full surface imaging
+- Combined profiling and pavement condition survey in a single pass
+- Standards compliance table and downloadable spec sheet
+4.1.2 Pavement Survey Vehicles
+- IrisGO Portable — /solutions/equipment/irisgo-portable/
+- Automated pavement condition survey vehicle for municipal and county road networks
+- PCI and OCI data collection with GIS-mapped distress identification
+- Specifications, standards compliance, downloadable spec sheet
+- IrisGO Pave — /solutions/equipment/irisgo-pave/
+- Advanced pavement survey vehicle with enhanced imaging capabilities
+- Specifications, standards compliance, downloadable spec sheet
+4.1.3 Friction Testers
+- SFT Locked Wheel Friction Tester — /solutions/equipment/sft-locked-wheel/
+- ASTM E274 compliant locked-wheel skid trailer for highway friction measurement
+- Used by State DOTs for highway safety friction testing programs
+- HFST acceptance testing capability
+- Standards compliance table and downloadable spec sheet
+- DFT Continuous Friction Tester — /solutions/equipment/dft-continuous/
+- Continuous friction measurement for network-level friction screening
+- Runway and airfield friction testing applications
+- Standards compliance table and downloadable spec sheet
+4.1.4 Reference Devices
+- SurPRO Reference Profiler — /solutions/equipment/surpro-reference/
+- Walking-speed reference profiler for DOT certification site calibration
+- MAP-21/FAST Act regulatory context: federal requirement for DOT certification sites makes this a compliance necessity
+- Used as the standard reference device for validating inertial profiler accuracy
+- Standards compliance table and downloadable spec sheet
+## 4.2 Services
+Page
+Services Overview
+URL Path
+/solutions/services/
+Purpose
+Unified services gateway organized by capability rather than customer type, with audience context provided through cross-links to Who We Serve pages.
+Content Elements
+•  Pavement Condition Surveys: automated PCI/OCI data collection, GIS-mapped distress inventory, network-level and project-level assessments
+•  Sidewalk & ADA/PROWAG Compliance Surveys: automated sidewalk condition assessment, ADA compliance evaluation, PROWAG standards
+•  Pavement Management Plans: treatment recommendations, prioritization algorithms, remaining service life projections, budget integration
+•  Budget Scenario Analysis: model different funding levels, compare treatment strategies, project future conditions under various scenarios
+•  Presentations to Elected Officials: professional council presentations translating technical pavement data for non-technical decision-makers
+•  Network-Level Data Collection: statewide and regional profiling programs, HPMS support, corridor assessments
+•  Airfield Pavement Assessment: runway, taxiway, and apron condition surveys, FAA compliance, night operations
+•  Friction Testing Services: locked-wheel friction surveys, continuous friction measurement, HFST acceptance testing
+•  Consulting & Engineering: pavement engineering analysis, treatment design, lifecycle cost analysis
+•  Ongoing SaaS-Based Monitoring: annual re-survey programs, trend tracking, web-based dashboard access
+•  Each service links to relevant equipment, software, case studies, and audience pages
+•  CTA: Book a Discovery Call | Request a Proposal
+## 4.3 Software
+Software section restructured to eliminate the confusing “Our Software” vs. “Your Software” distinction. Organized by use case with outcome-first descriptions.
+Page
+Software Overview
+URL Path
+/solutions/software/
+Purpose
+Gateway to all ICC-IMS software platforms, organized by use case rather than internal product naming.
+Content Elements
+•  Overview of the ICC-IMS software ecosystem and $5M development investment
+•  Visual navigation by use case: Data Workflow (Unify) | Pavement Management (ESA) | Sidewalk Management (ESWA) | Third-Party Integration
+•  Each platform linked to relevant audience context and case studies
+- Unify Suite — Data Workflow Platform
+- Unify Drive (/solutions/software/unify-drive/) — Field data collection management: route planning, real-time collection monitoring, fleet management
+- Unify Connect (/solutions/software/unify-connect/) — Automated QC/QA processing: data validation, acceptance criteria checks, quality documentation generation
+- Unify Inform (/solutions/software/unify-inform/) — Stakeholder visualization and communication: interactive dashboards, public-facing portals, council presentation tools
+- ESA — Pavement Management System — /solutions/software/pavement-management-esa/
+- Outcome-first description: Know which roads to fix first, show your council why, stretch your budget further, track progress year over year
+- SaaS-based pavement management platform for agencies
+- Budget scenario modeling with variable funding levels and treatment strategies
+- GIS-integrated condition mapping and visualization
+- Remaining service life projections and deterioration modeling
+- GASB 34 compliance reporting capabilities
+- Technical details in expandable secondary section
+- ESWA — Sidewalk Management System — /solutions/software/sidewalk-management-eswa/
+- ADA/PROWAG compliance tracking and reporting
+- Sidewalk condition inventory management
+- Prioritization for ADA remediation projects
+- Risk reduction messaging for municipal liability exposure
+- Third-Party PMS Integration — /solutions/software/integrations/
+- Replaces the confusing “Your Software” page
+- Comprehensive list of supported PMS platforms: StreetSaver, MicroPAVER, PAVER, Agile Assets, dTIMS, Cartegraph, Lucity, Brightly, DOT-specific platforms
+- Data export formats: XML, CSV, SHP, KML/KMZ, PPF, ERD, PRO, ArcGIS-compatible
+- Critical for AEC firm confidence — cross-linked from AEC Partner page
+# 5. Projects & Case Studies
+Page
+Projects & Case Studies
+URL Path
+/projects/
+Purpose
+Filterable proof library showcasing ICC-IMS project outcomes, organized by customer segment, service type, and project outcome rather than geography alone.
+Content Elements
+•  Filter controls: By Segment (DOT | Municipality | AEC | Airport | Concessionaire) | By Service (Survey | Management Plan | Equipment | Friction | Airfield) | By Outcome
+•  Each case study presented with outcome-focused summary: client challenge, ICC-IMS solution, measurable results
+•  DOT case studies: Arizona DOT, Wyoming DOT, Tennessee DOT, Delaware DOT, Illinois DOT
+•  Municipal case studies: Long Beach CA, Pico Rivera CA, Dunwoody GA, Springfield, Jacksonville FL, Dallas TX
+•  Airport case studies: DFW International Airport featured prominently
+•  Testimonial quotes embedded within relevant case studies and attributed by segment
+•  Photo/image gallery for each project where available
+•  CTA per case study: Learn More About This Service | Request a Similar Assessment
+# 6. Resources
+New section creating a centralized content hub for SEO authority building, lead generation through gated downloads, and GEO (AI search) citation optimization.
+Page
+Resources Hub
+URL Path
+/resources/
+Purpose
+Central content library supporting SEO/GEO authority, lead generation, and buyer education across all segments.
+Content Elements
+•  Blog: migrated from Company > Blogs, internally linked to relevant service and equipment pages, targeting long-tail educational keywords
+•  Whitepapers & Guides: three pillar content guides (DOT Equipment Guide, Municipal Program Guide, AEC Subcontracting Guide) at 3,000–5,000 words each
+•  Equipment Spec Sheets: downloadable PDFs for all equipment models (IrisPRO Every Speed, High Speed, Lightweight, Pave; IrisGO Portable, Pave; SFT, DFT, SurPRO)
+•  Sample Reports: redacted pavement management report, GIS dashboard screenshot walkthrough, sample council presentation excerpt, budget scenario output
+•  Capability Statement: downloadable one-page document formatted for AEC subcontractor pre-qualification packages
+•  Learning Portal: link to existing learning portal for software training and onboarding
+•  Industry Glossary / Definitional Pages: authoritative single-page definitions for IRI, PCI, PMS, HFST, PROWAG, FWD, GASB 34 — optimized for GEO citation
+•  Educational blog editorial calendar topics: how to build a pavement management program, what is PCI, how municipalities present pavement needs to elected officials, difference between network-level and project-level assessment, how to write a pavement profiler procurement specification
+•  FAQ sections on every major resource page with FAQPage schema markup
+•  Gated downloads behind simple contact forms for lead generation (spec sheets, sample reports, capability statement)
+# 7. Procurement
+Elevated from a single far-right navigation item to a primary navigation section, reflecting the critical importance of cooperative purchasing in government buyer decision-making.
+Page
+Procurement Hub
+URL Path
+/procurement/
+Purpose
+Central procurement gateway for government buyers, featuring cooperative purchasing contracts, quote requests, and subcontractor qualification materials.
+Content Elements
+•  Cooperative Purchasing overview: explanation of how cooperative purchasing simplifies and accelerates procurement (6-month RFP → 2-week contract execution)
+•  Contract vehicles listed with numbers: GSA Schedule, Sourcewell, NASPO ValuePoint, state-specific cooperative contracts
+•  Cooperative purchasing partner logos: Sourcewell, NASPO ValuePoint, GSA
+•  Step-by-step instructions for state and municipal procurement officers on using each contract vehicle
+•  Request a Quote form differentiated by buyer type (DOT equipment | Municipal services | AEC subcontract)
+•  Downloadable Capability Statement for AEC pre-qualification
+•  Insurance and bonding information for subcontractor qualification
+•  NAICS codes and relevant certifications
+•  CTA: Request a Quote | Download Capability Statement | Contact Procurement Team
+# 8. Company
+Page
+About Us
+URL Path
+/company/about/
+Purpose
+Company overview with merger narrative, credentials, and quantified authority signals optimized for GEO.
+Content Elements
+•  Merger story: International Cybernetics Company (ICC, ~50 years equipment manufacturing) + Infrastructure Management Services (IMS, 38 years consulting/services) merged in 2022
+•  Unified value proposition: full lifecycle pavement intelligence from hardware manufacturing through data collection, processing, analysis, visualization, and stakeholder communication
+•  Quantified credentials: 1,000+ projects completed, 700+ agency clients, 50+ years combined experience, 15+ PMS platforms supported, $5M software investment
+•  US manufacturing capability and largest municipal data collection fleet
+•  Consistent NAP (Name, Address, Phone) matching Google Business Profile, LinkedIn, and industry directories
+Page
+Team
+URL Path
+/company/team/
+Purpose
+Consulting team member profiles linked from relevant service pages to build credibility and personal connection.
+Content Elements
+•  Individual consultant profiles with credentials, specializations, and project experience
+•  Cross-linked from relevant service and audience pages (e.g., municipal service pages link to consultants specializing in municipal pavement management)
+•  Professional headshots and brief bios
+•  Leadership team profiles with industry credentials
+Page
+Careers
+URL Path
+/company/careers/
+Purpose
+Career opportunities at ICC-IMS.
+Content Elements
+•  Open positions and application process
+•  Company culture and benefits
+•  Growth opportunities in pavement management industry
+Page
+Contact
+URL Path
+/company/contact/
+Purpose
+Unified contact page with differentiated pathways by buyer type and inquiry purpose.
+Content Elements
+•  Contact form with inquiry type selection: Equipment Technical Question | Service Inquiry | Software Demo Request | Subcontractor Qualification | General Inquiry
+•  Phone and email for sales, support, and general inquiries
+•  Office locations and addresses
+•  Link to Support resources and Learning Portal
+# 9. SEO & GEO Implementation Notes
+The following technical implementation items should be applied across the entire site map to maximize search visibility and AI-generated search citation.
+Site-Wide SEO Requirements
+•  Unique, keyword-rich title tags on every page (e.g., “IrisPRO Every Speed Profiler | Variable-Speed IRI Measurement | ASTM E950 Certified | ICC-IMS”)
+•  Keyword-optimized meta descriptions on every page
+•  Clear, descriptive H1 tags incorporating primary target keyword per page
+•  Descriptive image alt text on all equipment photos, vehicle images, and project photos
+•  Descriptive URL structure (e.g., /software/pavement-management-system-esa/ instead of /ESA/)
+•  Internal cross-linking strategy: blog → service pages, equipment → service pages, audience pages → equipment/software pages
+Site-Wide GEO Requirements
+•  Answer-first content: most important factual information in first 100–150 words of every major page in clear, declarative sentences
+•  FAQ sections with FAQPage schema on all major service, equipment, and audience pages
+•  How-to schema in select areas, as outlined in content documents
+•  Product schema on all equipment pages with specifications as structured properties
+•  Service schema on all service pages
+•  Organization Breadcrumbs schema site-wide with complete entity data
+•  Consistent entity data (NAP) across website, Google Business Profile, LinkedIn, procurement databases, and industry directories
+•  Definitional content pages for key industry terms (IRI, PCI, PMS, HFST, PROWAG, FWD, GASB 34)
+•  Third-party citation strategy: APWA, TRB, AASHTO, procurement databases, conference proceedings
+Mobile Optimization
+•  Simplified navigation for mobile: streamlined mega-menus with clear segment routing
+•  Touch-friendly CTAs and filter controls on Projects page
+•  Equipment spec tables responsive on mobile devices (critical for conference and field visit browsing)
+# 10. Complete Site Map Tree
+The following is the consolidated hierarchical site map for the recommended ICC-IMS website architecture.
+■  HOME  /  Segment-routing gateway
+■  WHO WE SERVE
+├─  State DOTs  /who-we-serve/state-dots/
+├─  Municipalities & Counties  /who-we-serve/municipalities-counties/
+├─  AEC & Engineering Firms  /who-we-serve/aec-firms/
+├─  Airports  /who-we-serve/airports/
+├─  Concessionaires  /who-we-serve/concessionaires/
+├─  Federal Agencies  /who-we-serve/federal-agencies/
+■  SOLUTIONS
+├─  Equipment Overview  /solutions/equipment/
+│   ├─  IrisPRO Every Speed  /solutions/equipment/irispro-every-speed/
+│   ├─  IrisPRO High Speed  /solutions/equipment/irispro-high-speed/
+│   ├─  IrisPRO Lightweight  /solutions/equipment/irispro-lightweight/
+│   ├─  IrisPRO Pave  /solutions/equipment/irispro-pave/
+│   ├─  IrisGO Portable  /solutions/equipment/irisgo-portable/
+│   ├─  IrisGO Pave  /solutions/equipment/irisgo-pave/
+│   ├─  SFT Locked Wheel  /solutions/equipment/sft-locked-wheel/
+│   ├─  DFT Continuous  /solutions/equipment/dft-continuous/
+│   ├─  SurPRO Reference  /solutions/equipment/surpro-reference/
+│   ├─  Sidewalk Surface Tester
+├─  Services  /solutions/services/
+│   ├─  Pavement Condition Surveys
+│   ├─  Sidewalks & ADA/PROWAG Surveys
+│   ├─  Pavement Management Plans
+│   ├─  Budget Scenario Analysis
+│   ├─  Council & Stakeholder Presentations
+│   ├─  Network-Level Data Collection
+│   ├─  Airfield Pavement Assessment
+│   ├─  Friction Testing Services
+│   ├─  TSDD NETWORK-LEVEL STRUCTURAL TESTING
+│   ├─  Pavement Management as a Service (PMaaS)
+│   ├─  Consulting & Engineering
+│   ├─  Ongoing SaaS Monitoring
+├─  Software  /solutions/software/
+│   ├─  Unify Drive (Field Data Collection)
+│   ├─  Unify Connect (QC/QA Processing)
+│   ├─  Unify Inform (Stakeholder Visualization)
+│   ├─  ESA Pavement Management  /solutions/software/pavement-management-esa/
+│   ├─  ESWA Sidewalk Management  /solutions/software/sidewalk-management-eswa/
+│   ├─  Third-Party PMS Integration  /solutions/software/integrations/
+■  PROJECTS & CASE STUDIES  /projects/  Filterable by segment, service, outcome
+■  RESOURCES  /resources/
+├─  Blog  /resources/blog/
+├─  Whitepapers & Guides  /resources/guides/
+├─  Equipment Spec Sheets  /resources/spec-sheets/
+├─  Sample Reports  /resources/sample-reports/
+├─  Capability Statement  /resources/capability-statement/
+├─  Industry Glossary  /resources/glossary/
+├─  Learning Portal  /resources/learning-portal/
+■  PROCUREMENT  /procurement/
+├─  Cooperative Purchasing  /procurement/cooperative-purchasing/
+├─  Request a Quote  /procurement/request-quote/
+├─  Capability Statement Download
+■  COMPANY  /company/
+├─  About Us  /company/about/
+├─  Team  /company/team/
+├─  Careers  /company/careers/
+├─  Contact  /company/contact/

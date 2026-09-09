@@ -1,0 +1,320 @@
+# PAGES 15–18 - RECENT ADDITIONS: TSDD · PMaaS · SIDEWALK SURFACE TESTING SST EQUIPMENT
+Placement: - TSDD → /solutions/services/tsdd-structural-testing/ (Services) - PMaaS → /solutions/services/pavement-management-as-a-service/ (Services) - Sidewalk Surface Testing → /solutions/services/sidewalks/ (Services) - Sidewalk Surface Tester → /solutions/equipment/sidewalk-surface-tester-sst/ (Equipment)
+# PAGE 15 - TSDD NETWORK-LEVEL STRUCTURAL TESTING
+URL: /solutions/services/tsdd-structural-testing/ Priority: High - this is a genuine, defensible DOT differentiator with peer-reviewed research behind it Primary persona: State DOT pavement/asset management engineer; secondarily large county and AEC program managers
+## SEO / Metadata
+Field
+Content
+Title tag
+TSDD Network-Level Pavement Structural Testing | No Lane Closures | ICC-IMS
+Meta description
+Traffic speed deflection testing measures pavement structural condition at highway speed - no lane closures, no work zones. Network-level structural data for the full system.
+Primary keyword
+traffic speed deflection device pavement testing
+Secondary keywords
+TSDD network level structural evaluation, pavement structural testing without lane closure, effective structural number SNeff, network level deflection testing, FWD alternative network level
+Schema
+Service, FAQPage, ScholarlyArticle (reference the TRB publication), BreadcrumbList
+### H1: Next Generation Pavement Structural Assessment Without Closures
+## Answer-first lead
+A Traffic Speed Deflection Device (TSDD) measures pavement structural condition while traveling at highway speed, eliminating the lane closures, work zones, and crew exposure required by conventional Falling Weight Deflectometer testing.
+This makes structural evaluation practical at the network level rather than only at the project level.
+ICC-IMS provides TSDD-based network structural evaluation and has published peer-reviewed research on the methodology in the Transportation Research Record (TRR), demonstrating a platform that determines effective structural number (SNeff) without requiring pavement layer thickness data - the input agencies most often lack at network scale.
+ICC-IMS also operates FastFWD and Ground Penetrating Radar for project-level structural assessment.
+## KEY FACTS PANEL
+Collection speed
+Highway speed - no lane closure, no work zone, no crew in traffic
+Scale
+Network-level, not sample-point
+Key output
+Effective structural number (SNeff), structural condition indices
+Layer thickness required?
+No - this is the methodological advance
+Published research
+Nakhaei & Poorbaugh, Transportation Research Record, Vol. 2679 Issue 10 (2025) - Mississippi DOT case study
+Complementary methods
+FastFWD (AASHTO R32) · Ground Penetrating Radar (ASTM D4748)
+## SECTION 1 - The problem
+### H2: Every FWD test on a live highway is a lane closure
+Falling Weight Deflectometer testing is the established method for measuring pavement structural condition, and it works. But it is a stationary test. Every test point on a live highway means a lane closure, a work zone, traffic control cost, and crews standing next to moving traffic. Plus, it’s just that, one point at a time.
+That constraint has a consequence most agencies have simply accepted: structural testing gets reserved for project-level work. Network-level decisions get made on surface condition alone.
+## SECTION 2 - Why surface condition alone produces wrong answers
+### H2: PCI does not tell you what is happening underneath – surface condition is not enough
+The substructure of a road - which you cannot see - is the single largest determinant of long-term pavement performance. Surface condition indices like PCI describe the top. They are frequently independent of what is happening below it.
+That gap produces two expensive errors, in opposite directions:
+Error 1 - Money spent on pavement that is going to fail anyway. A preservation treatment or thin overlay applied to a structurally inadequate road is a potential total loss. The surface looks treated. The road fails early anyway.
+Error 2 - Money spent on treatment heavier than necessary. Alligator cracking is commonly read as structural failure. But age-related alligator cracking from an oxidized, brittle binder can occur on a structurally sound pavement that needs only resurfacing. Without structural data, that road gets a rehabilitation it did not need.
+Research has repeatedly found that network-level decisions made on surface condition alone differ significantly from those made with deflection data included. Where agencies use surface treatments - microsurfacing, seal coating, slurry seal - visual evaluation is further compromised, because those treatments conceal the very distresses the evaluation depends on.
+The practical implication: structural data does not just refine treatment selection, it expands the decision matrix. Without it you are working from one column of the treatment table. With it, you have access to the whole table - including the case where surface condition suggests preventive maintenance but structural condition says do nothing, because PM on a failing structure is wasted money.
+## SECTION 3 - What TSDD changes
+### H2: Structural data for the whole network, not a sample
+TSDD removes the constraint that made network-level structural testing impractical:
+- No lane closures. Collection happens in the traffic stream at highway speed.
+- No work zones and no crew exposure. The safety cost of structural testing effectively goes to zero.
+- No traffic control budget. Which for many agencies was a larger line item than the testing itself.
+- Network coverage instead of sample points. Continuous measurement across the route rather than discrete tests spaced hundreds of feet apart.
+### H3: The layer thickness problem, and how our methodology handles it
+Traditional backcalculation requires knowing the thickness of each pavement layer. At project level, cores can be taken. At network level, that information is rarely available - most agencies do not have reliable layer thickness records across their full system, which has been a fundamental barrier to using deflection data for network decisions.
+ICC-IMS engineers published a platform that determines effective structural number (SNeff) using inputs readily available from the testing itself, without requiring layer thickness data. The work was published in the Transportation Research Record (Nakhaei & Poorbaugh, Vol. 2679, Issue 10, 2025) with a Mississippi Department of Transportation case study.
+Note to ICC-IMS: This publication is a substantial and currently unused authority asset. Peer-reviewed research authored by your own engineers is exactly the signal AI search engines weight when deciding which vendors to name in a technical answer, and exactly what a DOT research engineer looks for when evaluating a methodology. It should be cited on this page, listed on the Team page under the authors’ profiles, and included in the Resources hub. Please confirm the full author list and provide the DOI for correct citation.
+## SECTION 4 - How structural data enters your program
+### H2: From deflection to a treatment decision
+Structural Index (SI), 0–100. Structural adequacy is expressed as a single score, integrated into the Overall Condition Index (OCI) alongside surface condition:
+SI score
+Structural status
+Typical treatment implication
+Above 75
+Structurally adequate
+Lightweight surface treatments or thin overlays are appropriate
+50–75
+Marginal
+Additional pavement thickness typically required
+Below 50
+Inadequate
+Reconstruction with increased base and pavement thickness generally needed
+Structural adequacy plots. Visual representation of structural performance along the route, surfacing subsurface problems - such as loss of subgrade support - that are invisible from the surface.
+Integration into the PMS. SI feeds the treatment decision logic alongside PCI, so recommendations reflect both what the surface shows and what the structure can carry.
+### H3: Example
+A one-inch mill and overlay is programmed based on surface condition. Structural data shows subsurface problems requiring a deeper mill - the programmed treatment would have failed prematurely, wasting the entire expenditure.
+The reverse case is just as common and just as valuable. A four-inch mill and overlay is programmed. Structural testing shows subgrade support is sound and a two-inch mill will perform. The savings on a single corridor can exceed the cost of the structural survey.
+NOTE: If we have actual numbers for this or if someone has done an ROI analysis on this, that would be helpful to have.
+## SECTION 5 - Complementary structural services
+### H2: The full structural toolkit
+FastFWD - Fast-Falling Weight Deflectometer for project-level structural evaluation. Applies a known dynamic load simulating traffic loading and measures deflection response to determine load-carrying capacity and remaining service life. Meets AASHTO R32 specifications.
+Ground Penetrating Radar (GPR) - Collected per ASTM D4748 and frequently paired with deflection data to determine remaining pavement life, structural number, pavement modulus, and subgrade modulus. GPR also supports bridge deck assessment, concrete evaluation, and utility locating and mapping.
+Traffic data integration - FWD and TSDD interpretation improves substantially with reliable traffic data, particularly heavy vehicle composition and AADT. We incorporate it where available.
+→ (hyperlink to services page)
+## SECTION 6 - Who this is for
+### H2: Where is this applicable?
+State DOTs - Network-level structural data without the traffic control cost that has historically made it infeasible. → DOT Solutions /who-we-serve/state-dots (hyperlink)
+Large counties and municipalities - Particularly agencies with truck-heavy routes, a history of repeated mill-and-overlay, or variable soil conditions. → Municipal & County Solutions /who-we-serve/municipalities-counties (hyperlink)
+AEC firms - Structural data collection as a subcontract deliverable on network assessment and rehabilitation design scopes. → AEC Partner Services /who-we-serve/aec-firms (hyperlink)
+Concessionaires - Structural trending across a concession term, and handback condition verification. → Concessionaire Solutions  /who-we-serve/concessionaires (hyperlink)
+## SECTION 7 - FAQ (FAQPage schema)
+### H3: What is a Traffic Speed Deflection Device (TSDD)?
+A TSDD measures pavement structural response to loading while traveling at highway speed, rather than from a stationary position. This allows continuous structural data collection across a road network without lane closures, work zones, or traffic control.
+### H3: How is TSDD different from a Falling Weight Deflectometer?
+An FWD is stationary. It applies an impact load at discrete test points, which on a live roadway requires a lane closure and work zone at each location. A TSDD collects continuously at traffic speed. FWD remains the standard for detailed project-level evaluation; TSDD makes structural evaluation practical at network scale.
+### H3: Does TSDD testing require lane closures?
+No. Collection occurs at highway speed within the traffic stream, which eliminates lane closures, work zones, traffic control cost, and crew exposure to traffic.
+### H3: Do you need pavement layer thickness data for network-level structural evaluation?
+Not with our methodology. ICC-IMS engineers published a platform in the Transportation Research Record that determines effective structural number (SNeff) from inputs available in the testing itself, without requiring layer thickness - which is rarely available to agencies at network scale.
+### H3: Why isn’t PCI enough for treatment decisions?
+PCI describes surface condition, which can be independent of structural condition. A structurally inadequate road can present an acceptable PCI, and a structurally sound road can show alligator cracking caused by binder oxidation rather than structural failure. Treating on surface condition alone produces both premature failures and unnecessarily heavy treatments.
+### H3: What is Structural Index (SI)?
+A 0–100 score expressing pavement structural adequacy, integrated into the Overall Condition Index alongside surface condition. Above 75 indicates structural adequacy suitable for light surface treatments; 50–75 typically requires additional thickness; below 50 generally indicates a need for reconstruction.
+### H3: Does ICC-IMS also offer FWD testing?
+Yes. ICC-IMS operates FastFWD equipment meeting AASHTO R32 specifications for project-level structural evaluation, and Ground Penetrating Radar collected per ASTM D4748.
+### H3: Has ICC-IMS published research on TSDD methodology?
+Yes. ICC-IMS engineers published network-level structural evaluation methodology using TSDD data in the Transportation Research Record, Vol. 2679 Issue 10 (2025), including a Mississippi Department of Transportation case study.
+## CTA BLOCK
+Primary: Request a TSDD Consultation · View our TSDD Webinar Secondary: Book a Discovery Call
+## INTERNAL LINKS
+/who-we-serve/state-dots/ · /who-we-serve/municipalities-counties/ · /who-we-serve/aec-firms/ · /who-we-serve/concessionaires/ · /solutions/services/ · /solutions/software/pavement-management-esa/ · /resources/glossary/
+## IMAGE ALT TEXT
+- Traffic speed deflection device collecting pavement structural data at highway speed without a lane closure
+- FastFWD falling weight deflectometer conducting AASHTO R32 pavement deflection testing
+- Structural adequacy plot showing Structural Index values along a roadway corridor
+# PAGE 16 - PAVEMENT MANAGEMENT AS A SERVICE (PMaaS)
+URL: /solutions/services/pavement-management-as-a-service/
+## SEO / Metadata
+Field
+Content
+Title tag
+Pavement Management as a Service (PMaaS) | Ongoing Support | ICC-IMS
+Meta description
+A pavement management plan that stays current. Ongoing surveys, updated priorities, and engineering support on subscription - instead of a study that goes stale in a drawer.
+H1
+Pavement Management as a Service - A Plan That Stays Alive
+Primary keyword
+pavement management as a service
+Secondary keywords
+outsourced pavement management, pavement management subscription, ongoing pavement management support, pavement management program municipal
+Schema
+Service, FAQPage, BreadcrumbList
+### H1: A pavement management plan is only as good as its action plan
+## Answer-first lead
+Pavement Management as a Service (PMaaS) is a subscription model in which ICC-IMS operates an agency’s pavement management program on an ongoing basis rather than delivering a one-time study. It combines scheduled condition surveys, continuously updated treatment priorities, software access, budget scenario modeling, annual council or board presentation support, and access to pavement engineers throughout the year. It is designed for agencies that do not have dedicated in-house pavement management staff, where a traditional one-time management plan tends to go stale before it is fully implemented.
+## SECTION 1 - The problem this solves
+### H2: You paid for a pavement management plan. What now?
+Most agencies have commissioned a pavement management study at some point. A consultant surveyed the network, produced a report, presented it, and left.
+Then reality arrived. A water main project changed the paving schedule. A funding source appeared and had to be spent. Two streets failed early. Council asked for a corridor that was not in the plan.
+Within about eighteen months, the plan no longer describes the network, and nobody on staff has the tools or the time to update it. The report is technically still on the shelf. Functionally, decisions have gone back to being made by whoever complains loudest.
+This is not a failure of the plan. It’s just a challenge with one-time deliverables handed to agencies with no dedicated pavement staff.
+## SECTION 2 - What PMaaS includes
+### H2: An ongoing program, not a document
+PMaaS Includes:
+Scheduled condition surveys - Network re-survey on a defined cycle, so condition data never ages past usefulness.
+Continuously updated priorities - When conditions change, funding shifts, or a project moves, the plan is updated. You are not working from a snapshot.
+Software access - ESA for pavement management and Inform for stakeholder-facing dashboards, included rather than separately licensed and separately implemented.
+Budget scenario modeling on demand - When the city manager asks what a 15% cut does to the network, you can answer that week instead of commissioning a study.
+Annual presentation support - A council-ready presentation each budget cycle, built from current data.
+Engineering access year-round - A pavement engineer to call when a treatment decision comes up, rather than only during an active contract.
+Progress tracking - Year-over-year reporting showing whether the program is working, which is what sustains funding across budget cycles.
+[ICC-IMS to confirm: the exact service tiers, what is and is not included at each tier, survey cycle options, and pricing structure. The framing above is drawn from how PMaaS was positioned in the  June 2026 communications. The commercial specifics need to come from you before publication.]
+## SECTION 3 - Why this model fits public agencies
+### H2: A model that actually fits your budget
+Convert your capital expense into an operating expense. A large periodic study competes against capital projects for one-time money. A recurring annual line item is easier to defend, easier to sustain, and easier to approve.
+Remove your staffing dependency. Small and mid-sized agencies rarely justify a full-time pavement management specialist. PMaaS provides that expertise without the position and overhead.
+Survive turnover. When a public works director leaves, institutional knowledge usually leaves with them. An externally maintained program is continuity.
+Keep the council informed and the funding stream steady. An annual data-driven update builds a track record. Agencies that show progress each year tend to get funded again.
+## SECTION 5 - FAQ (FAQPage schema)
+### H3: What is Pavement Management as a Service?
+A subscription model in which ICC-IMS operates an agency’s pavement management program on an ongoing basis - scheduled surveys, continuously updated priorities, software access, budget scenario modeling, and engineering support - rather than delivering a one-time study.
+### H3: How is PMaaS different from a traditional pavement management plan?
+A traditional plan is a deliverable produced at a point in time. PMaaS is an ongoing service. The distinction matters because network conditions, funding, and project schedules change continuously, and a static plan diverges from reality within roughly eighteen months.
+### H3: Do we still own our data under PMaaS?
+Yes. Condition data and analysis produced under the engagement belong to the agency. (ICC-IMS to confirm contract language.)
+### H3: What size agency is PMaaS designed for?
+It is generally most valuable to agencies without dedicated in-house pavement management staff - typically small to mid-sized cities and counties.
+### H3: Does PMaaS include the software?
+Yes. ESA for pavement management and Inform for stakeholder dashboards are included rather than separately licensed. (Confirm tier structure.)
+### H3: How often is the network re-surveyed under PMaaS?
+On a defined cycle set with the agency, typically annual to triennial depending on network size and rate of change.
+### H3: Can we procure PMaaS through cooperative purchasing?
+[ICC-IMS to confirm whether PMaaS falls within the TXShare Pavement Analysis Services agreement scope. If it does, this is a significant selling point and should be stated explicitly.]
+## CTA BLOCK
+Primary: Book a Discovery Call Secondary: Download Sample Deliverables · View Cooperative Purchasing Options
+## INTERNAL LINKS
+/who-we-serve/municipalities-counties/ · /solutions/software/pavement-management-esa/ · /solutions/software/unify-inform/ · /solutions/services/ · /procurement/cooperative-purchasing/ · /resources/sample-reports/
+# PAGE 17 - SIDEWALK SURFACE TESTING (Service)
+URL: /solutions/services/sidewalk-surface-testing/
+## SEO / Metadata
+Field
+Content
+Title tag
+Sidewalk Surface Testing & Smoothness Assessment | ICC-IMS
+Meta description
+Objective, repeatable sidewalk surface condition and smoothness measurement for ADA compliance, trip hazard identification, and construction acceptance.
+H1
+Sidewalk Surface Testing - Objective Measurement, Not a Walking Inspection
+Primary keyword
+sidewalk surface testing
+Secondary keywords
+sidewalk smoothness measurement, sidewalk trip hazard survey, ADA sidewalk cross slope measurement, PROWAG compliance survey, sidewalk condition assessment
+Schema
+Service, FAQPage, BreadcrumbList
+### H1: Real data, not subjectivity
+## Answer-first lead
+ICC-IMS performs sidewalk surface testing using the Sidewalk Surface Tester (SST), which measures sidewalk surface condition and smoothness objectively and repeatably rather than through visual inspection.
+The resulting data supports ADA and PROWAG compliance assessment, trip hazard identification and prioritization, construction acceptance for new sidewalk installation, and liability documentation for municipal risk management.
+Because measurement is instrument-based, results are consistent between operators and comparable year over year - which is what makes a sidewalk program defensible if compliance or liability is ever challenged.
+## SECTION 1 - Why measurement beats inspection
+### H2: “Someone walked it and made notes” is a weak position
+Most sidewalk assessment is still done by walking the network with a clipboard or tablet. That produces three problems:
+Inconsistency. Two inspectors rate the same segment differently. The same inspector rates differently in hour six than hour one.
+Non-comparability. If this year’s assessment used different people than last year’s, the change between them is not measurable.
+Weak defensibility. In an ADA complaint or a trip-and-fall claim, “our inspector judged it acceptable” is a materially weaker position than a measured value against a documented threshold.
+Instrument-based measurement removes all three.
+## SECTION 2 - What we measure and what it is used for
+### H2: Applications
+ADA and PROWAG compliance - Surface conditions bearing on accessibility, supporting transition plan development and prioritization.
+Trip hazard identification - Vertical displacements located, measured, and prioritized by severity rather than by whoever reported them.
+Construction acceptance - Objective verification that newly constructed sidewalk meets specified surface criteria before acceptance, rather than after the first complaint.
+Liability documentation - A measured, dated, defensible record of network condition and remediation activity.
+Program prioritization - Where the remediation budget produces the most accessibility improvement.
+## SECTION 3 - How it fits the sidewalk program
+### H2: Surface testing plus compliance inventory
+Sidewalk surface testing is normally run alongside ADA/PROWAG compliance inventory, which captures missing curb ramps, non-compliant cross-slopes and running slopes, obstructions, and detectable warning surfaces. Together they produce a complete picture:
+- What is non-compliant?
+- What is hazardous?
+- What should we fix first?
+Results are managed in ESWA, ICC-IMS’s sidewalk management platform, which maintains the inventory, tracks compliance status, and documents remediation over time.
+→ ESWA Sidewalk Management /solutions/software/sidewalk-management-eswa (hyperlink)
+Recent deployment: Sidewalk Surface Tester operations in Oviedo, Florida (July 2026). (hyperlink to case study)
+## SECTION 4 - FAQ
+### H3: What is sidewalk surface testing?
+Instrument-based measurement of sidewalk surface condition and smoothness, producing objective and repeatable values rather than visual inspection ratings.
+### H3: How is this different from an ADA compliance survey?
+An ADA/PROWAG compliance survey inventories accessibility features - curb ramps, slopes, obstructions, detectable warnings - against regulatory requirements. Surface testing measures the condition and smoothness of the walking surface itself. Most agencies benefit from both, collected together.
+### H3: Can sidewalk surface data be used for construction acceptance?
+Yes. Objective surface measurement allows verification against specified criteria at acceptance, before the agency assumes maintenance responsibility.
+### H3: How does this reduce liability exposure?
+It replaces subjective inspection with a measured, dated record of condition and remediation. A documented, prioritized, actively-worked program is a materially stronger position in an ADA complaint or trip-and-fall claim than an undocumented one.
+### H3: Where is sidewalk data stored and managed?
+In ESWA, ICC-IMS’s sidewalk management platform, which maintains inventory, tracks compliance status, and documents remediation over time.
+## CTA BLOCK
+Primary: Request a Sidewalk Assessment Secondary: Book a Discovery Call · Learn about ESWA
+## INTERNAL LINKS
+/who-we-serve/municipalities-counties/ · /solutions/equipment/sidewalk-surface-tester-sst/ · /solutions/software/sidewalk-management-eswa/ · /solutions/services/ · /resources/glossary/ (PROWAG, ADA definitions)
+# PAGE 18 - SIDEWALK SURFACE TESTER (SST) (Equipment)
+URL: /solutions/equipment/sidewalk-surface-tester-sst/
+## SEO / Metadata
+Field
+Content
+Title tag
+Sidewalk Surface Tester (SST) | Sidewalk Smoothness Measurement | ICC-IMS
+Meta description
+The Sidewalk Surface Tester measures sidewalk surface condition objectively and repeatably for ADA compliance, trip hazard identification, and construction acceptance.
+H1
+Sidewalk Surface Tester (SST)
+Primary keyword
+sidewalk surface tester
+Secondary keywords
+sidewalk smoothness measurement device, sidewalk condition measurement equipment, ADA sidewalk testing equipment
+Schema
+Product, FAQPage, BreadcrumbList
+### H1: Real data, not subjectivity
+## Answer-first lead
+The Sidewalk Surface Tester (SST) is a purpose-built device manufactured by ICC-IMS for measuring sidewalk surface condition and smoothness. It produces objective, repeatable measurements of the pedestrian walking surface, supporting ADA and PROWAG compliance assessment, trip hazard identification, construction acceptance, and municipal liability documentation. Because it is an instrument rather than an inspection method, SST results are consistent between operators and directly comparable year over year. The SST is manufactured in the United States at ICC-IMS’s facility in Largo, Florida.
+## SECTION 1 - Specification table
+[ICC-IMS to complete.]
+Specification
+Value
+Measured parameters
+[supply]
+Reported units / indices
+[supply]
+Measurement accuracy / resolution
+[supply]
+Repeatability
+[supply]
+Applicable standards
+[supply - ADA, PROWAG, ASTM references if any]
+Operating speed / productivity
+[supply - linear feet per hour or per day]
+Physical dimensions and weight
+[supply]
+Power / battery life
+[supply]
+Data output formats
+[supply]
+GPS / positioning
+[supply]
+Imaging
+[supply - does it capture imagery?]
+Software
+[supply - Drive integration? ESWA integration?]
+Operator requirements
+[supply - one or two person operation?]
+## SECTION 2 – Applications
+APPLCATIONS
+- ADA and PROWAG compliance assessment
+- Trip hazard identification, measurement, and prioritization
+- Construction acceptance for new sidewalk installation
+- Municipal liability documentation and risk management
+- Year-over-year condition trending
+- Prioritization of sidewalk remediation budgets
+## SECTION 3 - Why an instrument instead of an inspection
+### H1: Consistency is key and defensible
+Visual inspection of sidewalk produces inconsistent results between operators, non-comparable results between years, and a weak evidentiary position in an ADA complaint or trip-and-fall claim. Instrument measurement produces a value, against a threshold, on a date - which is what makes a sidewalk program defensible.
+→ Sidewalk surface testing services /solutions/services/sidewalks (hyperlink)
+## SECTION 4 - Buy the equipment or contract the service
+Agencies can purchase the SST to run their own sidewalk assessment program, or contract ICC-IMS to perform the survey. Both are available, and neither requires the other.
+→ Request a quote · Cooperative purchasing (hyperlink accordingly)
+## SECTION 5 - FAQ
+### H3: What is the Sidewalk Surface Tester?
+A device manufactured by ICC-IMS for objective, repeatable measurement of sidewalk surface condition and smoothness, used for ADA compliance assessment, trip hazard identification, construction acceptance, and liability documentation.
+### H3: Who manufactures the Sidewalk Surface Tester?
+ICC-IMS, at its facility in Largo, Florida.
+### H3: Can we hire ICC-IMS to perform sidewalk surface testing instead of buying the device?
+Yes. Sidewalk surface testing is available as a service. → Sidewalk surface testing
+### H3: What software does the SST work with?
+[ICC-IMS to confirm - presumably ESWA for sidewalk management. State this explicitly; platform integration is a primary purchase criterion.]
+### H3: Does the SST support ADA and PROWAG compliance requirements?
+The SST measures walking surface condition supporting ADA and PROWAG compliance assessment. [ICC-IMS to confirm which specific requirements the measurements address.]
+## INTERNAL LINKS
+/solutions/services/sidewalks/ · /solutions/software/sidewalk-management-eswa/ · /who-we-serve/municipalities-counties/ · /procurement/request-quote/ · /resources/spec-sheets/
+## IMAGE ALT TEXT
+- ICC-IMS Sidewalk Surface Tester measuring sidewalk surface condition for ADA compliance
+- Sidewalk Surface Tester in operation in Oviedo, Florida

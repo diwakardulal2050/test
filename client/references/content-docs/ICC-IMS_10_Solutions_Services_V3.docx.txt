@@ -1,0 +1,817 @@
+# ICC-IMS Website Content Build - Phase 3a
+## 1. Page 1 - Services Overview
+Element
+Value
+URL
+/solutions/services/
+Title tag
+Pavement Data Collection & Management Services
+Meta description
+ICC-IMS provides pavement condition surveys, management plans, friction testing, and consulting for agencies nationwide. 38 years of experience.
+H1
+Pavement Data Collection, Analysis, and Management Services
+Helping you meet the requirements of today and optimize for tomorrow
+### Answer-first lead
+ICC-IMS provides full-service pavement data collection, analysis, and management services to state DOTs, municipalities, counties, airports, and engineering firms across North America.
+Services include
+- Network-level surveys
+- Project-level condition surveys
+- Sidewalk and ADA compliance assessment
+- Pavement management plan development
+- Budget scenario analysis
+- Friction testing
+- Airfield assessment
+- Traffic Speed Deflection Device (TSDD) network level structural evaluation
+- Sidewalk Surface Testing
+- Pavement Management as a Service (PMaaS)
+Bringing nearly 40 years of pavement and asset management consulting experience, ICC-IMS operates the largest fleet of municipal and county data collection vehicles in the industry. Our consulting services are led by the largest team of full-time pavement engineers in the industry.
+### Key facts panel
+Consulting experience
+ICC-IMS: Nearly 40 years in pavement and asset management
+Collection fleet
+Largest fleet of municipal and county data collection vehicles in the industry, all running IrisPRO Pave technology
+Equipment
+ICC-IMS designs and manufactures the equipment its own crews operate
+PMS platforms supported
+Including StreetSaver, MicroPAVER, PAVER, Cartegraph, Lucity, Brightly, dTIMS, Agile Assets, ArcGIS
+Export formats
+XML · CSV · SHP · KML/KMZ · PPF · ERD · PRO
+Longest continuous client relationship
+Lake County, Illinois - annual contracts since 1986
+Cooperative purchasing
+TXShare / NCTCOG Master Services Agreement for Pavement Analysis Services, open to public agencies nationwide
+### Body sections
+#### What services does ICC-IMS provide?
+Service
+For agencies that need to…
+Page
+Pavement Condition Surveys
+Know the current condition of every road in the network
+/solutions/services/pavement-condition-surveys/
+Sidewalk & ADA/PROWAG Compliance Surveys
+Inventory sidewalk condition and ADA barriers, and reduce liability exposure
+/solutions/services/sidewalk-ada-surveys/
+Pavement Management Plans
+Turn condition data into a defensible list of what to fix, when
+/solutions/services/pavement-management-plans/
+Budget Scenario Analysis
+Show what different funding levels buy over time
+/solutions/services/budget-scenario-analysis/
+Presentations to Elected Officials
+Get a council or board to approve the funding
+/solutions/services/elected-official-presentations/
+Network-Level Data Collection
+Collect statewide or regional data, including HPMS support
+/solutions/services/network-level-data-collection/
+Airfield Pavement Assessment
+Meet FAA requirements for runway, taxiway, and apron condition
+/solutions/services/airfield-pavement-assessment/
+Friction Testing Services
+Run a friction program, verify HFST, or test a runway
+/solutions/services/friction-testing/
+Consulting & Engineering
+Get engineering analysis, treatment design, and lifecycle cost work
+/solutions/services/consulting-engineering/
+Pavement Management as a Service (PMaaS)
+Keep the data current year over year without restarting each time and do not have in-house pavement expertise
+/solutions/services/pavement-management-as-a-service/
+Traffic Speed Deflection Device (TSDD) network level structural evaluation
+Optimize their pavement treatments by knowing what the subsurface condition is
+/solutions/services/tsdd-structural-testing
+#### How does a typical engagement work?
+Step
+What happens
+Deliverable
+1. Network survey
+Automated data collection across the network
+Raw condition and imagery data
+2. Condition data
+Automated QC, distress classification, GIS mapping
+PCI/OCI scores, mapped distress inventory
+3. Management plan
+Treatment recommendations and prioritization
+Pavement management plan
+4. Budget scenarios
+Modeling of funding levels against future condition
+Scenario comparison for longevity and/or ROI
+5. Council presentation
+Technical findings translated for decision-makers
+Presentation and supporting materials
+6. Ongoing monitoring
+Re-survey on cycle, trend tracking, dashboard access
+Updated data and year-over-year trends
+An agency can enter at any step. For example, agencies that already hold current condition data frequently start at step 3.
+#### Do we have to buy equipment to get this data?
+No. ICC-IMS is both an equipment manufacturer and a services provider, and the two are separate paths to the same data.
+Contracting the survey generally makes sense when the network is surveyed every two or three years, when there is no in-house crew to operate and calibrate equipment, or when the agency wants the analysis and the plan rather than just the data. Owning equipment generally makes sense when data is needed annually, when the network is large enough to spread the capital cost, or when corridors need re-surveying on short notice after construction.
+Because ICC-IMS offers both, the recommendation is not driven by which one we sell. See Solutions › Equipment (hyperlink) for the ownership path.
+Additionally, ICC-IMS offer Equipment as a Service (hyperlink), which can serve as a hybrid of both where you use your personnel and your vehicle which we fit with our equipment for collection with ICC-IMS providing analysis and recommendations.
+#### What makes ICC-IMS’s service delivery different?
+The crews run equipment ICC-IMS built. When a sensor question arises in the field, the engineers who designed the system are reachable in the same company. Most service providers are their manufacturer’s customer.
+QC is automated and documented. Data passes through Unify Connect (Hyperlink) for automated validation against acceptance criteria, and the QC record is a deliverable rather than an assurance.
+The data lands where the agency already works. ICC-IMS exports to more than pavement management platforms. Agencies running StreetSaver, Cartegraph, or dTIMS do not have to change systems.
+Relationships run long. Lake County, Illinois has contracted annually since 1986. The City of Dunwoody, Georgia has completed three surveys over twelve years. Repeat engagement is the relevant quality signal in a service business, because a survey that disappoints is not repeated.
+#### How do agencies contract these services?
+IMS holds a Master Services Agreement for Pavement Analysis Services with the TXShare Cooperative Purchasing Program, administered by NCTCOG and open to public agencies nationwide - municipal, state, and federal. Participation is free and requires a signed Interlocal Agreement, typically executed within one business day. IMS had the highest-rated response for Pavement Analysis Services in 2023.
+Cooperative purchasing is the difference between a six-month solicitation and a contract executed in weeks. Full detail on the Procurement page (hyperlink).
+[INSERTION POINT: Sourcewell when available]
+### FAQ block
+What pavement services does ICC-IMS provide? ICC-IMS provides pavement condition surveys, sidewalk and ADA compliance surveys, pavement management plan development, budget scenario analysis, presentations to elected officials, network-level data collection, airfield pavement assessment, friction testing, consulting and engineering, and ongoing monitoring programs.
+Does ICC-IMS work with cities and counties, or only state DOTs? Both. ICC-IMS operates the largest fleet of municipal and county data collection vehicles in the industry and also serves state DOTs including PennDOT, FDOT, WYDOT, ADOT, NDOT, and DelDOT.
+Can ICC-IMS deliver data into our existing pavement management software? Yes. ICC-IMS supports export to more than platforms, including StreetSaver, MicroPAVER, PAVER, Cartegraph, Lucity, Brightly, dTIMS, Agile Assets, and ArcGIS, in formats including XML, CSV, SHP, KML/KMZ, PPF, ERD, and PRO.
+How long does a pavement condition survey take? Typical timelines by network size, from field collection through delivered report.
+Does ICC-IMS provide the software as well as the survey? Yes, though it is optional. Agencies can receive data in their existing system, or use ESA for pavement management and ESWA for sidewalk management. See Solutions › Software (Hyperlink).
+Is there a cooperative purchasing contract for pavement services? Yes. IMS holds a Master Services Agreement for Pavement Analysis Services with the TXShare Cooperative Purchasing Program, administered by NCTCOG and available to public agencies nationwide.
+### Schema notes
+- Service schema for the overview, with serviceType and areaServed, plus an ItemList enumerating the ten service pages.
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Services.
+- HowTo schema is a reasonable fit for the six-step engagement workflow and is well-handled by AI engines. Worth testing.
+### Internal links
+All ten service pages · /solutions/equipment/ · /solutions/software/ · all six Who We Serve pages · /procurement/ · /projects/ · /resources/
+### CTAs
+- Download a Sample Pavement Management Report
+- Book a Discovery Call
+## 2. Page 2 - Pavement Condition Surveys
+Element
+Value
+URL
+/solutions/services/pavement-condition-surveys/
+Title tag
+Pavement Condition Survey Services | PCI | ICC-IMS
+Meta description
+Automated pavement condition surveys with PCI and OCI scoring, GIS-mapped distress data, and delivery into your existing pavement management system.
+H1
+Pavement Condition Surveys: Objective Data for Every Road in Your Network
+### Answer-first lead
+ICC-IMS conducts automated pavement condition surveys for road networks of any size, producing Pavement Condition Index (PCI) or Overall Condition Index (OCI) scores with GIS-mapped distress data for every surveyed segment. Surveys are collected by ICC-IMS crews using IrisPRO Pave vehicles with LCMS-2 3D scanning, processed through automated QC, and delivered in the format your pavement management system uses. ICC-IMS operates the largest fleet of municipal and county data collection vehicles in the industry.
+### Key facts panel
+Output
+PCI or OCI scores, GIS-mapped distress inventory, pavement imagery
+Collection method
+Automated, at up to 75 mph with sub-millimeter crack detection
+Traffic control
+Not required for most collection - data is collected in the traffic stream
+QC
+Automated validation through Unify Connect, with documented QC record
+Delivery formats
+XML · CSV · SHP · KML/KMZ, plus direct import to major PMS platforms
+Scale
+Network-level and project-level, municipal through statewide
+Repeat clients
+Lake County IL (annual since 1986) · Dunwoody GA (three surveys over 12 years)
+### Body sections
+#### What does a pavement condition survey produce?
+A condition score for every segment. PCI or OCI, calculated from measured distress rather than visual estimation, so scores are comparable across the network and across years.
+A mapped distress inventory. Every crack, patch, and rut recorded with its type, severity, extent, and location - the underlying evidence behind each score.
+Pavement imagery. Right-of-way and pavement surface imagery for the network, reviewable without a site visit.
+A QC record. Documentation of the validation the data passed, which matters when a consultant or a council member asks how the numbers were produced.
+#### Why automated collection instead of a windshield survey?
+Windshield surveys are fast and cheap and fail in three specific ways, all of which surface at the worst possible moment.
+They are not repeatable - two raters disagree, and so does the same rater in a different season, which means an apparent year-over-year improvement may be rater drift. They are not defensible - “professional judgment” is a weak answer when a council member asks why one street outranked another with a paving contract on the agenda. And they do not scale - a network large enough to need prioritization is too large to rate consistently by hand.
+Automated collection addresses all three. Same system, same method, every cycle, with every score traceable to recorded distress at a mapped location.
+#### How is the survey conducted?
+Collection uses IrisPRO Pave (hyperlink) vehicles with LCMS-2 3D scanning, at speeds up to 75 mph. Two consequences matter operationally.
+No lane closures for most work. Collection happens in the normal traffic stream. For the agency this removes the traffic control plan that usually governs the schedule; for the public it means the survey is invisible.
+3D rather than photographic detection. The LCMS-2 resolves surface geometry, so distress is identified by depth profile rather than by how it photographs. Detection does not degrade with lighting, shadow, or low surface contrast.
+Data then passes through Unify Connect (hyperlink) for automated QC against acceptance criteria before delivery.
+#### What happens to the data after the survey?
+The survey is the input to a decision, not the end product. Most agencies proceed to a pavement management plan (hyperlink) that converts condition into a prioritized treatment program, and many continue to budget scenario analysis (/solutions/services/budget-scenario-analysis).
+Data can be delivered into an existing system - StreetSaver, MicroPAVER, Cartegraph, Lucity, Brightly, dTIMS, Agile Assets, ArcGIS - or hosted in ESA (hyerlink). Agencies with no current system should not need to buy one to receive the data. See Integrations & Data Formats (hyperlink).
+#### Who conducts the survey?
+ICC-IMS crews, using equipment ICC-IMS manufactures. This is unusual: most survey providers buy their collection equipment from a third party, so a field problem becomes a support ticket to another company. Here it is an internal conversation, backed by $1.1M in on-hand parts inventory.
+[Insert testimonial: Kenner Guerrero, Associate Engineer, City of Pico Rivera, CA - StreetSaver implementation and LCMS-2 automated survey.]
+### FAQ block
+What is a pavement condition survey? A pavement condition survey is a systematic assessment of the surface condition of every segment in a road network, producing a condition score such as PCI or OCI along with an inventory of the distresses observed and their locations.
+What is the difference between PCI and OCI? PCI (Pavement Condition Index) is a standardized 0–100 index derived from observed surface distress. OCI (Overall Condition Index) is an agency-defined composite that may weight additional factors. Agencies use one or the other depending on their management system and reporting requirements.
+Do you need to close lanes to survey our roads? No. Collection occurs at up to 75 mph within the normal traffic stream, so lane closures are not required for most work.
+How accurate is automated distress detection? Collection uses LCMS-2 3D scanning with sub-millimeter crack detection, and all data passes automated QC validation through Unify Connect before delivery.
+Can we get the data in our existing pavement management software? Yes. ICC-IMS supports export to more than PMS platforms and delivers in XML, CSV, SHP, KML/KMZ and other formats.
+How much does a pavement condition survey cost? Cost depends on network size, survey scope, and deliverables.
+How often should a network be surveyed? Most agencies survey on a two- or three-year cycle, with larger or faster-deteriorating networks surveyed annually. See Ongoing Monitoring. solutions/services/ongoing-monitoring
+### Schema notes
+- Service schema with serviceType: "Pavement Condition Survey" and provider referencing the Organization entity.
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Services › Pavement Condition Surveys.
+- The PCI/OCI definitional answer is a strong GEO asset; link it to the Resources glossary when Phase 4 lands.
+### Internal links
+/solutions/equipment/irispro-pave/ · /solutions/equipment/irisgo-portable/ · /solutions/services/pavement-management-plans/ · /solutions/services/budget-scenario-analysis/ · /solutions/services/ongoing-monitoring/ · /solutions/software/unify-connect/ · /solutions/software/pavement-management-esa/ · /solutions/software/integrations/ · /who-we-serve/municipalities-counties/ · /who-we-serve/aec-firms/ · /projects/ · /procurement/
+### CTAs
+- Low commitment: Download a Sample Condition Survey Report
+- High commitment: Request a Survey Proposal
+## 3. Page 3 - Sidewalk & ADA/PROWAG Compliance Surveys
+Element
+Value
+URL
+/solutions/services/sidewalk-ada-surveys/
+Title tag
+Sidewalk & ADA Compliance Survey Services | PROWAG
+Meta description
+Automated sidewalk condition and ADA compliance surveys. Inventory barriers, document your transition plan, and reduce municipal liability exposure.
+H1
+Sidewalk and ADA Compliance Surveys: Inventory the Barriers Before Someone Else Does
+### Answer-first lead
+ICC-IMS conducts automated sidewalk condition and ADA compliance surveys for municipalities and counties, inventorying sidewalk condition, cross slope, running slope, obstructions, and curb ramp compliance against ADA and PROWAG criteria. The result is a mapped, defensible record of where barriers exist and what it will take to remove them - the evidentiary basis for an ADA transition plan and for prioritizing remediation with limited funds.
+### Key facts panel
+Assessed against
+ADA and PROWAG (Public Right-of-Way Accessibility Guidelines) criteria
+Typical measurements
+Condition, cross slope, running slope, vertical displacement, width, obstructions, curb ramp compliance [CONFIRM: full measured parameter list ]
+Output
+GIS-mapped sidewalk inventory with compliance status and remediation priority
+Software
+ESWA - Sidewalk Management System
+Combined surveys
+Sidewalk and pavement surveys can be contracted together
+Reference client
+City of Springfield, MO - pavement and sidewalk contracts
+### Body sections
+#### Why municipalities are inventorying sidewalks now
+Two pressures converge.
+Legal exposure is real and asymmetric. ADA obligations for pedestrian facilities in the public right-of-way are enforceable, and agencies without a documented transition plan and inventory are in a materially weaker position when a complaint arrives. The cost of an inventory is knowable in advance. The cost of a consent decree is not.
+Sidewalks compete for pavement money without pavement data. Road condition is measured, scored, and defended with numbers. Sidewalks historically are not, which means sidewalk needs lose budget arguments to road needs by default rather than on merit.
+An inventory addresses both: it produces the documentation the legal posture requires and the numbers the budget argument requires.
+Note: this page describes accessibility assessment services and should not be read as legal advice on ADA compliance obligations. Agencies should confirm their specific obligations with counsel. Recommend a standing disclaimer line in the page footer.
+#### What the survey measures
+Sidewalk assessment differs from pavement assessment in that condition is only half the question. A sidewalk in excellent structural condition can be entirely non-compliant if its cross slope exceeds the limit.
+The survey therefore captures both: condition (surface distress, vertical displacement, deterioration) and compliance geometry (cross slope, running slope, width, obstructions, curb ramp configuration and detectable warning presence).
+[CONFIRM - complete measured parameter list, collection method, and whether curb ramps are assessed to the full PROWAG criteria set or a screening subset. Consulting engineers and ADA coordinators will ask precisely this, and the distinction between a screening inventory and a full compliance assessment is one an agency’s counsel will care about.]
+#### What the agency receives
+A GIS-mapped sidewalk inventory with compliance status per segment, remediation priority, and supporting imagery - usable directly in an ADA transition plan, in a capital program, and in response to a complaint.
+Data is hosted in ESWA (hyperlink - /solutions/software/sidewalk-management-eswa), the sidewalk management platform, or exported to the agency’s system.
+#### Surveying sidewalks and pavement together
+Most agencies contracting a sidewalk survey also need pavement data, and collecting both under one mobilization is materially cheaper than two engagements. The City of Springfield, Missouri holds both pavement and sidewalk contracts with ICC-IMS.
+[Insert testimonial: Dan Jessen, Operations Supervisor, City of Springfield, MO.]
+### FAQ block
+What is a PROWAG sidewalk survey? PROWAG refers to the Public Right-of-Way Accessibility Guidelines, which set accessibility criteria for pedestrian facilities in the public right-of-way. A PROWAG survey assesses sidewalks, curb ramps, and crossings against those criteria to identify accessibility barriers.
+What is the difference between a sidewalk condition survey and an ADA compliance survey? A condition survey assesses physical deterioration. An ADA compliance survey assesses whether the facility meets accessibility criteria such as cross slope, running slope, width, and curb ramp configuration. A sidewalk can be in good condition and still be non-compliant. ICC-IMS surveys capture both.
+Do we need a sidewalk inventory for our ADA transition plan? A transition plan requires an inventory of existing barriers and a schedule for removing them, so an inventory is generally the foundational step. Agencies should confirm their specific obligations with counsel.
+Can sidewalk and pavement surveys be done at the same time? Yes, and combining them under one mobilization is typically more economical than contracting separately.
+What software manages the sidewalk data? ESWA, the ICC-IMS sidewalk management system, which supports compliance tracking, remediation prioritization, and reporting. Data can also be exported to an agency’s existing system.
+How are sidewalk repairs prioritized? Prioritization typically weights severity of the barrier, pedestrian demand, proximity to transit, schools, and public facilities, and remediation cost. [CONFIRM - Open Item #13: the specific prioritization methodology ICC-IMS applies.]
+### Schema notes
+- Service schema with serviceType: "ADA Compliance Survey".
+- FAQPage schema. The PROWAG definitional answer is a high-value GEO target with little authoritative competition in search results.
+- BreadcrumbList: Home › Solutions › Services › Sidewalk & ADA Compliance Surveys.
+### Internal links
+/solutions/software/sidewalk-management-eswa/ · /solutions/services/pavement-condition-surveys/ · /who-we-serve/municipalities-counties/ · /solutions/services/pavement-management-plans/ · /resources/ · /projects/ · /procurement/
+### CTAs
+- Download a Sample Sidewalk Inventory Report
+- Request a Sidewalk Survey Proposal
+## 4. Page 4 - Pavement Management Plans
+Element
+Value
+URL
+/solutions/services/pavement-management-plans/
+Title tag
+Pavement Management Plan Development | ICC-IMS
+Meta description
+ICC-IMS turns condition data into a defensible pavement management plan: treatment recommendations, prioritization, and remaining service life projections.
+H1
+Pavement Management Plans: From Condition Data to a Defensible Priority List
+### Answer-first lead
+A pavement management plan converts condition data into decisions: which segments to treat, with what treatment, in what year, at what cost. ICC-IMS develops pavement management plans for municipalities, counties, and state agencies, including treatment recommendations, prioritization, remaining service life projections, and multi-year programs tied to available budget. IMS has 38 years of pavement and asset management consulting experience across agency clients.
+### Key facts panel
+Inputs
+Condition survey data, network inventory, agency treatment costs and preferences
+Outputs
+Treatment recommendations, prioritized multi-year program, remaining service life projections, cost estimates
+Deterioration modeling
+Condition forecast by segment under alternative treatment strategies
+Consulting experience
+IMS: 38 years
+Delivered in
+ESA, the agency’s existing PMS, or as a standalone report
+Compliance context
+Supports GASB 34 infrastructure reporting
+### Body sections
+#### What a pavement management plan actually answers
+Condition data tells an agency what shape the network is in. It does not say what to do. The plan answers four questions the data alone cannot:
+What treatment does each segment need? A road at PCI 70 and a road at PCI 40 need different work - and the road at 70 is frequently the better investment, because preserving a good road is cheaper than rebuilding a failed one.
+In what order? Ranking by worst-first is intuitive, politically comfortable, and usually the most expensive strategy available. A defensible plan optimizes across the network instead.
+In what year? A multi-year program that fits actual funding, not a wish list.
+At what cost, with what result? Projected network condition under the recommended program, so the plan can be measured against outcomes later.
+#### Why worst-first costs more
+This is the single most useful thing a pavement management plan tells an elected official, and it is counterintuitive enough that it should be stated explicitly on the page.
+Pavement deterioration is not linear. A road holds a serviceable condition for years, then declines rapidly. Treatment cost follows the same curve in reverse: a preservation treatment applied while a road is still in fair condition costs a fraction of the reconstruction that becomes necessary once it fails.
+Spending the whole budget on the worst roads means every remaining road continues sliding toward the expensive end of that curve. The result is a network that gets worse every year while the agency spends more each year, which is exactly the trap most agencies describe when they first call.
+[CONFIRM - proactive management at ~$1/sq yd vs. $6–10/sq yd reactive. This figure belongs here and is the most persuasive sentence on the page. But it cannot publish without a source.]
+#### How the plan is built
+- Network segmentation and inventory - establishing the units the plan operates on.
+- Condition assessment - from a condition survey (hyperlink) or existing agency data.
+- Deterioration modeling - projecting condition forward by segment and pavement type.
+- Treatment matching - mapping condition and distress type to appropriate treatments at agency unit costs.
+- Optimization and prioritization - producing the program that delivers the best network outcome for the available money.
+- Program development - a multi-year plan with annual project lists and cost estimates.
+Agencies with current condition data can start at step 3.
+#### Working in your agency’s system, not ours
+The journey analysis found the current “Pavement Management Plans via Our PMS” versus “via Your PMS” distinction actively confusing to public works directors, many of whom do not know whether they have a PMS or why it would matter. That distinction is retired.
+The plan can be delivered in ESA (hyperlink), in the agency’s existing platform - StreetSaver, MicroPAVER, Cartegraph, dTIMS, Agile Assets, Lucity, Brightly - or as a standalone document. The agency does not need to know which it wants before the conversation starts.
+#### What agencies do with the plan
+The plan is the input to the budget argument, not the end of the work. Most agencies move directly to budget scenario analysis (hyperlink) to show what different funding levels produce, and then to a presentation to their council or board (hyperlink).
+[Insert testimonial: Julian Rozwadowski, PE, Pavement Management Coordinator, Lake County, IL - annual contracts since 1986.]
+### FAQ block
+What is a pavement management plan? A pavement management plan converts pavement condition data into a prioritized, multi-year program of treatments - specifying which segments to treat, with what treatment, in what year, and at what cost.
+Why is worst-first prioritization more expensive? Because pavement deterioration accelerates. Preserving a road in fair condition costs far less than reconstructing one that has failed. Spending the entire budget on failed roads allows the rest of the network to deteriorate into the expensive category, so total cost rises year over year.
+Do we need a pavement management system to get a plan? No. ICC-IMS can deliver the plan in your existing system, in ESA, or as a standalone report.
+How long is a pavement management plan valid? Plans are typically built on a five- to ten-year horizon and updated as new condition data is collected, usually on a two- or three-year cycle. See Ongoing Monitoring (hyperlink).
+Does a pavement management plan support GASB 34 reporting? Pavement management data supports the modified approach to infrastructure asset reporting under GASB 34. [CONFIRM]
+Who develops the plan? IMS pavement engineers and asset management consultants, drawing on nearly 40 years of pavement and asset management experience.
+### Schema notes
+- Service schema, serviceType: "Pavement Management Planning".
+- FAQPage schema. The worst-first answer is the strongest GEO asset on this page - it is a genuine, counterintuitive explanation that AI engines cite readily.
+- BreadcrumbList: Home › Solutions › Services › Pavement Management Plans.
+### Internal links
+/solutions/services/pavement-condition-surveys/ · /solutions/services/budget-scenario-analysis/ · /solutions/services/elected-official-presentations/ · /solutions/services/ongoing-monitoring/ · /solutions/software/pavement-management-esa/ · /solutions/software/integrations/ · /who-we-serve/municipalities-counties/ · /who-we-serve/concessionaires/ · /projects/
+### CTAs
+- Download a Sample Pavement Management Plan
+- Book a Discovery Call
+## 5. Page 5 - Budget Scenario Analysis
+Element
+Value
+URL
+/solutions/services/budget-scenario-analysis/
+Title tag
+Pavement Budget Scenario Analysis | ICC-IMS
+Meta description
+Model what different funding levels do to your road network over time. Budget scenario analysis that shows the cost of underfunding in plain numbers.
+H1
+Budget Scenario Analysis: Show What Each Funding Level Actually Buys
+### Answer-first lead
+Budget scenario analysis models what happens to a road network under different funding levels over time. ICC-IMS produces side-by-side scenarios - current funding, increased funding, reduced funding, and the level required to hold or improve network condition - with projected condition, deferred maintenance backlog, and cost consequences for each. The output converts a budget request from an assertion into a comparison an elected official can evaluate.
+### Key facts panel
+Models
+Network condition, deferred maintenance backlog, and cost over a multi-year horizon
+Typical scenarios
+Status quo · increased funding · reduced funding · condition-hold funding · target-condition funding
+Horizon
+Typically 5–10 years [CONFIRM]
+Delivered as
+Scenario comparison, charts, and narrative suitable for a budget document
+Platform
+ESA budget scenario modeling
+Pairs with
+Presentations to Elected Officials
+### Body sections
+#### Answering everyone’s question
+Scenario analysis changes the question from “should we spend more on roads” to “which of these four outcomes do we want.” Those are different conversations, and the second one is winnable because it puts the consequence of each choice on the record before the choice is made rather than five years afterward.
+#### What a scenario set looks like
+Scenario
+Question it answers
+Status quo
+If funding stays flat, what condition is the network in five years from now?
+Reduced funding
+What does a cut actually cost, in condition and in future dollars?
+Condition hold
+What annual funding is required to keep the network where it is today?
+Target condition
+What would it take to reach your stated network condition goal, and by when?
+Backlog elimination
+What would it cost to clear deferred maintenance, and over what period?
+Each scenario projects network condition, backlog, and cost year by year over the horizon.
+#### Why the “condition hold” number matters most
+The single most useful figure produced is the annual funding required simply to keep the network from getting worse.
+It reframes the entire discussion. A budget below that number is not “level funding” - it is a decision to let the network decline, with the deferred cost accruing to a future budget. Putting that number in front of a council converts an abstract funding debate into a specific, dated choice with a price attached.
+Agencies frequently find that the condition-hold number is lower than expected when preservation treatments are applied early, which is the encouraging half of the same finding.
+#### From scenario to appropriation
+[CONFIRM – information on the website states that data-driven pavement management extends pavement life 5–7 years and that agencies using this approach secure 15–25% more infrastructure funding. Both figures belong in this section. Neither may publish without a source. If these are ICC-IMS’s own findings, say so and describe the basis. If they are industry figures, please cite the source. If they are estimates, we need to state that clearly.]
+Scenario output feeds directly into a council or board presentation (Hyperlink), where the comparison does the persuading.
+#### Modeling in ESA, or as a service
+Agencies using ESA (hyperlink) can run scenarios themselves and adjust assumptions live - including in a council meeting, in response to a question, which is a meaningfully different experience from promising a follow-up memo. ICC-IMS also produces scenario analysis as a consulting deliverable for agencies without the platform or the time.
+### FAQ block
+What is pavement budget scenario analysis? Budget scenario analysis models how a road network’s condition, deferred maintenance backlog, and costs change over time under different funding levels, so decision-makers can compare outcomes before setting a budget.
+How much funding do we need just to maintain current conditions? That figure is specific to each network and depends on its size, current condition, deterioration rates, and treatment costs. Producing it is one of the primary outputs of a scenario analysis.
+Can we run scenarios ourselves? Yes, in ESA, including adjusting assumptions live during a presentation. ICC-IMS also produces scenario analysis as a consulting deliverable.
+How far out do the scenarios project? Typically five to ten years. [CONFIRM]
+What data do we need before we can run scenarios? Current network condition data, a network inventory, and agency treatment costs. If condition data is out of date, a condition survey comes first.
+Can this support a bond or sales tax measure? Scenario analysis is commonly used to support infrastructure funding measures by quantifying what the measure buys and what happens without it. [CONFIRM whether ICC-IMS has supported ballot measure campaigns and whether it wants to say so publicly. If yes, this is a distinctive capability worth its own section.]
+### Schema notes
+- Service schema, serviceType: "Budget Scenario Analysis".
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Services › Budget Scenario Analysis.
+### Internal links
+/solutions/services/pavement-management-plans/ · /solutions/services/elected-official-presentations/ · /solutions/software/pavement-management-esa/ · /solutions/services/pavement-condition-surveys/ · /who-we-serve/municipalities-counties/ · /who-we-serve/concessionaires/ · /resources/
+### CTAs
+- Download a Sample Budget Scenario Output
+- Book a Discovery Call
+## 6. Page 6 - Presentations to Elected Officials
+Element
+Value
+URL
+/solutions/services/elected-official-presentations/
+Title tag
+Council Presentations for Pavement Funding | ICC-IMS
+Meta description
+ICC-IMS presents pavement findings to councils and boards, translating technical data into the case elected officials need to approve funding.
+H1
+Presentations to Elected Officials: Make the Case in the Room Where It’s Decided
+### Answer-first lead
+ICC-IMS prepares and delivers pavement presentations to city councils, county boards, and executive leadership, translating technical condition data and budget scenarios into terms non-technical decision-makers can evaluate and act on. Engineers can attend as subject matter experts, or ICC-IMS staff can present directly. This service exists because the hardest part of a pavement program is rarely the engineering - it is securing the appropriation.
+### Key facts panel
+Audiences
+City councils · county boards · city managers · executive leadership · public meetings
+Delivered as
+Presentation materials, supporting visuals and maps, and optional in-person or remote delivery by ICC-IMS staff
+Built from
+Condition survey data, pavement management plan, budget scenarios
+Visualization
+Unify Inform interactive dashboards and public-facing views
+Differentiator
+Few pavement service providers offer this at all
+### Body sections
+#### Why this service exists
+[NOTE: The journey mapping analysis found this service buried twelve items deep in a dropdown menu. It should be one of the most prominent things on the site, because it addresses the municipal buyer’s actual anxiety more directly than anything else ICC-IMS sells.]
+A public works director’s core problem is not technical. They generally know which roads need work. Their problem is convincing seven people without engineering backgrounds, in a public meeting, with competing demands from parks and public safety and a resident in the third row who wants to know about the pothole on their street, to allocate several million dollars to something that will not look different for two years.
+That is a communication challenge, and it is the one that determines whether the pavement program happens. ICC-IMS is here to help.
+#### 5 Tips to make a pavement presentation work
+- Lead with the network, not the methodology. Councils do not need PCI explained. They need to know what condition their roads are in, where that is heading, and what each funding option buys.
+- Show the map. A condition map colored by segment is understood instantly and remembered. A table of scores is neither.
+- Present the funding choice as a comparison. Scenarios side by side, each with its consequence. Not a single request to approve or reject.
+- Answer the pothole question honestly. Every meeting includes a resident or member asking about a specific street. Being able to pull up that segment’s actual condition data, on the spot, does more for credibility than the entire prepared presentation.
+- Bring the engineer. When a technical question comes, “our pavement engineer can address that” and then an actual answer ends the challenge. Deferring to a follow-up memo does not.
+#### What ICC-IMS provides
+Presentation materials built from the agency’s own data, with maps, scenario comparisons, and visuals prepared for a non-technical audience. Optional delivery by ICC-IMS staff, in person or remotely, and optional attendance as a subject matter expert while agency staff present.
+[CONFIRM - exact service configuration and how it is priced - standalone, bundled with a management plan, or included in ongoing monitoring contracts. Also confirm travel scope for in-person delivery.]
+#### The value of an outside voice
+An outside technical presenter is heard differently than staff, and public works directors know it. The same finding delivered by an independent firm that surveyed the network with instrumentation carries a weight that the same finding from the department it funds does not - not because staff are less credible, but because the data has no stake in the outcome.
+There is a second benefit that matters more than it should: it takes the political exposure off staff. A director who has to argue for their own budget is in a difficult position. A director presenting an independent assessment is delivering information.
+#### Interactive presentation with Unify Inform
+Unify Inform (hyperlink) provides interactive dashboards for stakeholder communication, including public-facing views. Live data in the room means a question about a specific street gets an answer during the meeting.
+[Insert testimonial: Michael Klahr, PE, CFM, Director of Engineering, City of Newnan, GA - or Chantha Chap, PE, Civil Engineer, City of Visalia, CA, whichever speaks to stakeholder communication.]
+### FAQ block
+Does ICC-IMS present pavement findings to city councils? Yes. ICC-IMS prepares presentation materials and can deliver them directly to councils, boards, and executive leadership, or attend as a subject matter expert while agency staff present.
+Why use an outside firm to present to our council? An independent technical assessment is received differently than an internal budget request, and it removes political exposure from staff who would otherwise be arguing for their own department’s funding.
+What is in a council pavement presentation? Typically current network condition with a condition map, the trend if funding stays flat, side-by-side budget scenarios with consequences, and a specific recommendation with its cost.
+Can you answer questions about specific streets during the meeting? Yes. With Unify Inform, any segment’s condition data can be pulled up live during a presentation.
+Do you present in person or remotely? Both are available. [CONFIRM - travel scope and any geographic limits.]
+Is this service available separately from a survey? [CONFIRM]
+### Schema notes
+- Service schema, serviceType: "Stakeholder Presentation Services".
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Services › Presentations to Elected Officials.
+- Target the long-tail query set the journey analysis identifies: “how municipalities present pavement needs to elected officials.” There is almost no authoritative content in this space, and it is a segment ICC-IMS can own outright.
+### Internal links
+/solutions/services/budget-scenario-analysis/ · /solutions/services/pavement-management-plans/ · /solutions/software/unify-inform/ · /who-we-serve/municipalities-counties/ · /projects/ · /resources/
+### CTAs
+- Download a Sample Council Presentation Excerpt
+- Book a Discovery Call
+## 7. Page 7 - Network-Level Data Collection
+Element
+Value
+URL
+/solutions/services/network-level-data-collection/
+Title tag
+Network-Level Pavement Data Collection | HPMS | ICC-IMS
+Meta description
+Statewide and regional pavement data collection for DOTs and large agencies, including HPMS support and corridor assessments. ASTM and AASHTO compliant.
+H1
+Network-Level Data Collection for Statewide and Regional Programs
+### Answer-first lead
+ICC-IMS conducts network-level pavement data collection for state DOTs, regional agencies, and large systems, covering statewide profiling programs, corridor assessments, and federal reporting support including HPMS. Collection uses ASTM and AASHTO certified equipment that ICC-IMS manufactures, with automated QC and documented data quality procedures. Agency clients include PennDOT, FDOT, WYDOT, ADOT, NDOT, and DelDOT.
+### Key facts panel
+Scope
+Statewide profiling programs · corridor assessments · regional networks · HPMS data support
+Data collected
+IRI and longitudinal profile · surface distress · rutting · imagery [CONFIRM: full set]
+Equipment
+IrisPRO Every Speed, High Speed, and Pave - manufactured by ICC-IMS
+Standards
+ASTM E950, AASHTO R56, AASHTO R57, TxDOT - see the equipment compliance matrix (hyperlink)
+QC
+Automated validation through Unify Connect with documented QC record
+DOT clients
+PennDOT · FDOT · WYDOT · ADOT · NDOT · DelDOT
+### Body sections
+#### What network-level collection requires that project-level does not
+- Consistency across the whole program. A statewide collection runs for months across every surface type and construction era in the state. The threat to data quality is not accuracy on any single run - it is drift. Year-over-year trends are only meaningful if this year’s numbers are comparable to last year’s.
+- Production rate. A network that cannot be collected within its season is a network that will not be collected on schedule.
+- Documented QC at scale. When the dataset informs federal reporting and multi-million-dollar programming decisions, the quality procedure has to be documented and auditable, not asserted.
+- Handling the hard sections. Every state network includes urban arterials, congested corridors, and work zones where conventional profilers cannot maintain valid collection speed. The IrisPRO Every Speed (hyperlink) collects valid IRI at any speed including a full stop, which means those sections are collected rather than estimated or skipped.
+#### Federal reporting support
+State DOTs report pavement condition data to FHWA under HPMS, with defined data elements and quality requirements.
+[CONFIRM - Specific scope of HPMS support ICC-IMS provides - whether collection is delivered in HPMS submittal format, whether ICC-IMS supports the data quality documentation FHWA requires, and any experience with state HPMS submittals. This is high-intent search territory for the DOT persona and the site is silent on it.]
+Related federal context: FHWA LTBP program support and MAP-21/FAST Act ride quality reporting requirements. Equipment certification is the foundation of both - see the SurPRO Reference Profiler (hyperlink) for the certification-site requirement underlying certified data collection.
+#### Data quality and QC procedure
+All collection passes automated QC through Unify Connect (hyperlink): validation against acceptance criteria, flagging for review, and generation of the QC documentation delivered with the data.
+[Insert testimonial: Ethan Crockett, PE, Pavement Management and Research Engineer, Wyoming DOT - data quality.]
+Data delivers in the state’s own format and platform. See Integrations & Data Formats (hyperlink).
+#### Collection as a service versus an in-house program
+Many state DOTs own profiling equipment and run in-house collection; many contract it; most do some of both. Contracting typically makes sense for peak-year capacity, for specialized collection the in-house fleet cannot perform, for corridors requiring capabilities the agency does not own, and for independent verification of in-house data.
+ICC-IMS supports both paths, and states that own ICC-IMS equipment and also contract collection are working with one manufacturer and one data standard across both.
+### FAQ block
+What is network-level pavement data collection? Network-level collection covers an entire road network - statewide or regional - to support programming, budgeting, and federal reporting, as distinct from project-level assessment of an individual segment or paving project.
+Does ICC-IMS support HPMS reporting? [CONFIRM]
+What standards does the collection equipment meet? Equipment is certified to ASTM E950, AASHTO R56, AASHTO R57, and TxDOT specifications, with the full compliance matrix published on the Equipment section.
+How do you collect data on congested urban sections? The IrisPRO Every Speed collects valid IRI at any vehicle speed, including accelerating, decelerating, and at a full stop, so congested and signalized sections are collected rather than skipped.
+What QC documentation comes with the data? Data passes automated validation through Unify Connect against defined acceptance criteria, and the QC record is delivered with the dataset.
+Which state DOTs has ICC-IMS worked with? Agency clients include PennDOT, FDOT, WYDOT, ADOT, NDOT, and DelDOT. Case studies are available for Arizona DOT, Wyoming DOT, Tennessee DOT, Delaware DOT, and Illinois DOT.
+### Schema notes
+- Service schema, serviceType: "Network-Level Pavement Data Collection".
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Services › Network-Level Data Collection.
+### Internal links
+/who-we-serve/state-dots/ · /who-we-serve/federal-agencies/ · /solutions/equipment/irispro-every-speed/ · /solutions/equipment/irispro-high-speed/ · /solutions/equipment/irispro-pave/ · /solutions/equipment/surpro-reference/ · /solutions/software/unify-connect/ · /solutions/software/integrations/ · /projects/ · /procurement/
+### CTAs
+- Download the Data Quality & QC Overview
+- Request a Proposal
+## 8. Page 8 - Airfield Pavement Assessment
+Element
+Value
+URL
+/solutions/services/airfield-pavement-assessment/
+Title tag
+Airfield Pavement Assessment Services | FAA | ICC-IMS
+Meta description
+Runway, taxiway, and apron condition assessment for airports, including night operations and continuous friction testing. FAA compliance expertise.
+H1
+Airfield Pavement Assessment: Runways, Taxiways, and Aprons, Day or Night
+### Answer-first lead
+ICC-IMS provides airfield pavement condition assessment for commercial, general aviation, and military airfields, covering runways, taxiways, aprons, and service roads. Services include automated condition surveys with LCMS-2 3D scanning, continuous runway friction testing, and high-resolution night-time data collection for airports whose daytime operations cannot accommodate a survey. ICC-IMS has assessed pavements at Dallas Fort Worth International Airport.
+### Key facts panel
+Surfaces assessed
+Runways · taxiways · aprons · service roads
+Night operations
+High-resolution collection during overnight operational windows
+Friction testing
+Continuous runway friction measurement
+Imaging
+LCMS-2 3D scanning, sub-millimeter crack detection
+Regulatory context
+FAA compliance [CONFIRM specific advisory circulars]
+Reference project
+Dallas Fort Worth International Airport
+### Body sections
+#### Day or night, we’ve got you covered
+An airport cannot close a runway for a pavement survey. Everything about how airfield assessment is delivered follows from that.
+Night collection. Most commercial airfield work happens in an overnight window between the last arrival and the first departure - often a few hours, with a hard stop. ICC-IMS provides high-resolution night-time data collection built for exactly that window. Collecting at night is not simply the day process moved later; it requires imaging capable of producing survey-grade data without daylight.
+Working inside operations. Access is coordinated with operations, escorted, and revocable. A crew that has done this before is worth more than a crew that has not.
+[CONFIRM - badging, escort requirements, SIDA access, and airfield driver training that ICC-IMS crews hold. Airport operations managers screen on exactly this, and it is currently absent from the site.]
+#### What airfield assessment covers
+Pavement condition. Automated surveys of runways, taxiways, aprons, and service roads, with LCMS-2 3D scanning and sub-millimeter crack detection. Foreign object debris risk makes crack and spall detection more consequential on an airfield than on a highway - a fragment that would be harmless on a road is an FOD hazard next to a jet engine.
+Runway friction. Continuous friction measurement along the full runway length, which is the form runway friction data is expected in. Rubber accumulation in the touchdown zone is precisely where friction degrades and precisely where sampled testing is most likely to miss it. See Friction Testing Services (hyperlink) and the DFT Continuous Friction Tester (hyperlink).
+HFST acceptance testing where high friction surface treatments are applied.
+#### FAA compliance context
+[CONFIRM - which FAA advisory circulars ICC-IMS services are delivered against - AC 150/5380-6 for pavement maintenance, AC 150/5320-12 for skid-resistant surfaces, AC 150/5380-7 for airport pavement management programs, or their current successors. Also confirm whether ICC-IMS supports PCI surveys to ASTM D5340, the airfield PCI standard, which is distinct from the D6433 roads standard. Airport buyers search by advisory circular number, and this page cannot rank or convert without those references.]
+The airfield PCI standard being different from the roads standard is a distinction worth making explicit on the page - it signals to an airport engineer that the provider understands their world rather than treating an airfield as a wide road.
+#### Military and federal airfields
+[CONFIRM - experience with military installations and any Unified Facilities Criteria (UFC) criteria ICC-IMS works to. The site map places military installation assessment under Federal Agency Solutions, and if the capability exists it should be cross-linked here.]
+See Federal Agency Solutions (hyperlink if appropriate).
+### FAQ block
+Can you survey an airfield without closing the runway? Yes. ICC-IMS provides high-resolution night-time data collection designed for the overnight operational windows commercial airports can make available.
+What airfield surfaces do you assess? Runways, taxiways, aprons, and service roads.
+Do you provide runway friction testing? Yes, including continuous friction measurement along the full runway length, which is the data form airport operators and regulators expect.
+What is the difference between airfield PCI and roadway PCI? Airfield pavement condition index surveys follow ASTM D5340, which uses a distress set specific to airfield pavements. Roadway PCI follows ASTM D6433. The two are not interchangeable. [CONFIRM - ICC-IMS conformance to D5340.]
+Which FAA advisory circulars apply? [CONFIRM]
+Have you worked at large commercial airports? Yes. ICC-IMS has assessed pavements at Dallas Fort Worth International Airport.
+If we have a testimonial from DFW that would be helpful
+### Schema notes
+- Service schema, serviceType: "Airfield Pavement Assessment".
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Services › Airfield Pavement Assessment.
+- Advisory circular numbers, once confirmed, are high-value entity anchors - airport engineers and AI engines both key on them.
+### Internal links
+/who-we-serve/airports/ · /who-we-serve/federal-agencies/ · /solutions/services/friction-testing/ · /solutions/equipment/dft-continuous/ · /solutions/equipment/irispro-pave/ · /projects/ · /procurement/
+### CTAs
+- Low commitment: Download the Airfield Assessment Capability Overview
+- High commitment: Request an Airfield Assessment Consultation
+## 9. Page 9 - Friction Testing Services
+Element
+Value
+URL
+/solutions/services/friction-testing/
+Title tag
+Pavement Friction Testing Services | ASTM E274 | ICC-IMS
+Meta description
+Locked-wheel and continuous friction testing services for highway safety programs, HFST acceptance, and runway friction. ASTM E274 compliant equipment.
+H1
+Friction Testing Services: Locked-Wheel, Continuous, and HFST Acceptance
+### Answer-first lead
+ICC-IMS provides pavement friction testing services for state DOTs, local agencies, airports, and engineering firms, including ASTM E274 locked-wheel skid testing, continuous friction measurement for network screening and runways, and High Friction Surface Treatment (HFST) acceptance testing. Testing is performed with equipment ICC-IMS manufactures, and results are delivered with the documentation a safety management program or an acceptance decision requires.
+### Key facts panel
+Locked-wheel testing
+ASTM E274, using the SFT Locked Wheel Friction Tester
+Continuous measurement
+Full-length friction profile for network screening and runways
+HFST acceptance
+Verification that installed treatments meet specified friction
+Applications
+Highway safety programs · network friction inventory · crash-site investigation · runway friction · treatment acceptance
+Equipment
+Manufactured by ICC-IMS - see SFT and DFT (hyperlink both please)
+### Body sections
+#### Which test method does the job
+Need
+Method
+Compliance testing against a state friction specification
+Locked-wheel (ASTM E274)
+Screening an entire network to find deficient sections
+Continuous friction measurement
+Verifying an installed HFST meets its specification
+Locked-wheel (ASTM E274)
+Investigating a location with a wet-weather crash pattern
+Locked-wheel, often both tire types
+Runway friction survey
+Continuous friction measurement
+Locked-wheel testing produces a Friction Number at discrete locations and is the reference method for compliance and acceptance in most state specifications. Continuous measurement produces an uninterrupted profile and is the better screening tool, because a spot test only characterizes the spot it lands on. Mature programs use both: continuous to find candidate sections, locked-wheel to document them.
+#### HFST acceptance testing
+High Friction Surface Treatment is installed at specific locations - curves, ramps, and approaches with documented wet-weather crash history - precisely because friction there is safety-critical. Acceptance testing verifies the installed treatment actually delivers the specified friction.
+This is not a procedural formality. HFST is expensive per lane-mile and is justified by a safety benefit that only materializes if the installation performs. Acceptance testing is the verification that the safety investment worked, and it is also the agency’s documentation that it did.
+#### Crash-site investigation and tort defense
+Friction measurement at locations with a crash pattern supports engineering analysis and, frequently, litigation. Both uses depend on the same thing: testing performed to the standard method, with calibrated equipment, on a documented date, by a provider who can explain the procedure if asked to.
+[CONFIRM - whether ICC-IMS provides expert testimony or litigation support, and whether it wants to advertise it. Some firms decline this work deliberately; if ICC-IMS accepts it, it is a service that agencies sometimes actively search for.]
+#### Runway friction
+Continuous friction measurement along the full runway length, for airport operators meeting scheduled friction survey obligations. See Airfield Pavement Assessment (hyperlink).
+#### Testing as a service, or owning the equipment
+Friction programs are a strong candidate for contracting even at agencies that own other data collection equipment. A locked-wheel trailer used a few weeks a year still requires storage, calibration, correlation, and a trained operator, and the calibration and correlation obligations are the part agencies most often underestimate.
+Agencies running continuous friction programs at scale are more likely to justify ownership. See Solutions › Equipment (hyperlink).
+### FAQ block
+What is ASTM E274 friction testing? ASTM E274 is the standard test method for measuring pavement skid resistance using a full-scale locked test wheel on a wetted surface. It produces a Friction Number reported with the test speed and tire type.
+What is the difference between locked-wheel and continuous friction testing? Locked-wheel testing produces friction values at discrete locations and is the reference method for compliance and acceptance. Continuous measurement produces an uninterrupted friction profile along a route and is better suited to screening a network or a runway.
+Do you perform HFST acceptance testing? Yes. HFST acceptance testing verifies that an installed high friction surface treatment meets its specified friction level.
+Can you test runway friction? Yes, using continuous friction measurement along the full runway length.
+Should we contract friction testing or buy a friction tester? Contracting is often more economical for programs running a few weeks a year, because ownership carries ongoing calibration, correlation, storage, and operator training obligations. Agencies running large continuous programs are more likely to justify ownership.
+What is a Friction Number? The friction force measured during a locked-wheel test, expressed as a percentage of the vertical load on the test wheel and reported with the test speed and tire type - for example FN(40)R.
+### Schema notes
+- Service schema, serviceType: "Pavement Friction Testing".
+- FAQPage schema on the FAQ block. The method-comparison and Friction Number answers duplicate strong definitional content from the Phase 2 equipment pages - keep the wording consistent across both so the entity signal reinforces rather than competes.
+- BreadcrumbList: Home › Solutions › Services › Friction Testing Services.
+### Internal links
+/solutions/equipment/sft-locked-wheel/ · /solutions/equipment/dft-continuous/ · /solutions/services/airfield-pavement-assessment/ · /who-we-serve/state-dots/ · /who-we-serve/airports/ · /who-we-serve/aec-firms/ · /resources/ · /projects/
+### CTAs
+- Low commitment: Download the Friction Testing Services Overview
+- High commitment: Request a Friction Testing Proposal
+## 10. Page 10 - Consulting & Engineering
+Element
+Value
+URL
+/solutions/services/consulting-engineering/
+Title tag
+Pavement Engineering & Consulting Services | ICC-IMS
+Meta description
+Pavement engineering analysis, treatment design, and lifecycle cost analysis from IMS consultants with 38 years of asset management experience.
+H1
+Pavement Consulting and Engineering: The Analysis Behind the Recommendation
+### Answer-first lead
+ICC-IMS provides pavement engineering and consulting services including pavement condition analysis, treatment design and selection, lifecycle cost analysis, deterioration modeling, and pavement management program development. IMS brings 38 years of pavement and asset management consulting experience across state, county, municipal, airport, and federal clients. Consulting engagements range from a single treatment decision to standing up a complete pavement management program from scratch.
+### Key facts panel
+Experience
+IMS: Nearly 40 years in pavement and asset management consulting
+Core services
+Pavement engineering analysis · treatment design and selection · lifecycle cost analysis · deterioration modeling · program development
+Specialized work
+Concrete rehabilitation surveys · pre- and post-event surveys · HFST program support
+Client types
+State DOTs · counties · municipalities · airports · federal agencies · AEC firms
+Credentials
+Licensed professional engineers [CONFIRM: PE licensure coverage by state]
+### Body sections
+#### What’s your challenge?
+“We have data and no idea what to do with it.” Condition data exists but has never been converted into a program. The most common engagement and usually the most valuable.
+“We need to justify this treatment decision.” A specific corridor, a specific choice, and a need for defensible analysis behind it.
+“We’re starting a pavement management program and don’t know where to begin.” No inventory, no condition data, no system. This is a program development engagement, and nearly 40 years of doing it is the relevant qualification.
+“Something happened.” A flood, a hurricane, a freeze-thaw season, or a construction dispute, and the agency needs an assessment of what changed.
+#### Lifecycle cost analysis
+The question lifecycle cost analysis answers is not which treatment is cheapest today. It is which strategy costs least over the life of the pavement - a different question with frequently opposite answers.
+This analysis is what supports a preservation program politically. Preservation treatments are applied to roads that look acceptable, which is difficult to defend to a council member whose constituents are calling about a worse road two miles away. Lifecycle cost analysis makes the case in dollars: treating this road now costs a fraction of reconstructing it in six years.
+Lifecycle cost analysis also underpins budget scenario work (hyperlink) and is central to concession and PPP asset management, where total cost of ownership over the concession term is the governing metric. See Concessionaire Solutions (hyperlink).
+#### Specialized assessment services
+Concrete rehabilitation surveys - assessment supporting rehabilitation strategy for concrete pavements, where the distress mechanisms and treatment options differ substantially from asphalt.
+Pre- and post-event surveys - condition documented before and after a hurricane, flood, freeze-thaw season, or heavy construction. The pre-event survey is what makes the post-event claim provable, which matters for FEMA reimbursement and for construction damage claims. Agencies in hurricane and flood-exposed regions should be running these as routine practice rather than assembling documentation after the event.
+HFST program support - treatment siting, specification, and acceptance criteria, alongside friction testing services (hyperlink).
+These are also the specialized capabilities AEC firms most often subcontract, and they should be cross-linked prominently from AEC Partner Services (hyperlink).
+#### Who does the work
+IMS pavement engineers and asset management consultants. [CONFIRM  PE licensure coverage by state, team size, and whether the Company › Team page should carry individual consultant credentials. For a consulting engagement the individuals are the product, and named, credentialed staff convert better than an anonymous capability statement.]
+### FAQ block
+What pavement consulting services does ICC-IMS provide? Pavement engineering analysis, treatment design and selection, lifecycle cost analysis, deterioration modeling, pavement management program development, concrete rehabilitation surveys, pre- and post-event surveys, and HFST program support.
+What is lifecycle cost analysis? Lifecycle cost analysis compares the total cost of alternative treatment strategies over the life of the pavement, rather than only the initial cost. It frequently shows that the cheapest treatment today is the most expensive strategy over time.
+Can ICC-IMS help us start a pavement management program from scratch? Yes. Program development engagements cover network inventory, condition assessment, treatment and cost frameworks, prioritization methodology, and the system to maintain it.
+What is a pre-event survey? A pavement condition survey conducted before an anticipated damaging event - a hurricane season, flood risk period, or major construction - establishing documented baseline condition. It is what makes post-event damage claims and reimbursement requests provable.
+Do you do concrete pavement work as well as asphalt? Yes, including concrete rehabilitation surveys.
+Do you work as a subconsultant to engineering firms? Yes. ICC-IMS works as a subcontract partner to AEC firms on pavement data collection and specialized assessment. See AEC Partner Services (hyperlink).
+### Schema notes
+- Service schema, serviceType: "Pavement Engineering Consulting".
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Services › Consulting & Engineering.
+- If named consultants are added, Person schema linked to the Organization strengthens the expertise signal materially - for consulting services, individual credentials are a primary authority input.
+### Internal links
+/solutions/services/pavement-management-plans/ · /solutions/services/budget-scenario-analysis/ · /solutions/services/friction-testing/ · /who-we-serve/aec-firms/ · /who-we-serve/concessionaires/ · /company/team/ · /projects/
+### CTAs
+- Download the Consulting Capability Overview
+- Book a Discovery Call
+## 11. Page 11 - Ongoing Monitoring
+Element
+Value
+URL
+/solutions/services/ongoing-monitoring/
+Title tag
+Ongoing Pavement Monitoring & Re-Survey Programs
+Meta description
+Annual and multi-year re-survey programs with trend tracking and dashboard access, so pavement data stays current instead of aging into a folder.
+H1
+Ongoing Monitoring: Keep the Data Current Instead of Starting Over
+### Answer-first lead
+ICC-IMS provides ongoing pavement monitoring programs - scheduled re-surveys on an annual or multi-year cycle, with trend tracking, updated management plans, and continuous dashboard access to current condition data. Ongoing programs replace the pattern of a one-time survey that ages into obsolescence over five years. Lake County, Illinois has contracted annually with IMS since 1986, and the City of Dunwoody, Georgia has completed three surveys over twelve years.
+### Key facts panel
+Cycle
+Annual, biennial, or triennial re-survey, matched to network needs
+Includes
+Re-survey, updated condition data, refreshed management plan, trend analysis, dashboard access
+Trend tracking
+Year-over-year comparison on a consistent measurement basis
+Platform
+ESA and Unify Inform for continuous access between surveys
+Longest relationship
+Lake County, IL - annual contracts since 1986
+Repeat engagement example
+Dunwoody, GA - three surveys over 12 years
+### Body sections
+#### The problem with the one-time survey
+An agency commissions a survey, receives a report and a plan, and executes against it. Three years on, the plan reflects a network that no longer exists - treatments have been applied, conditions have moved, and nobody is confident which parts still hold. Two years after that, the plan is a document in a folder and the agency is back to deciding by complaint volume.
+The Build Plan names this directly as the “plan sitting in a folder” problem, and it is the reason ongoing monitoring exists as a distinct service.
+#### What an ongoing program provides
+Current data, always. Condition data refreshed on a defined cycle instead of decaying between one-off engagements.
+Trends that mean something. Year-over-year comparison is only valid when measurement is consistent. Same provider, same equipment, same method, same processing produces trend data an agency can act on and defend. Data assembled from three different vendors over eight years does not.
+A plan that stays live. The management plan updates with the data rather than being rebuilt from nothing every few years.
+Evidence the program is working. This is the part agencies undervalue until they need it. A director who can show a council that network condition improved measurably after the last funding increase is in a substantially stronger position at the next budget hearing. Without trend data, the previous appropriation produced no visible evidence of anything, which makes the next one harder to get.
+#### Why continuity of provider matters more here than elsewhere
+Procurement practice generally favors re-competing contracts, and for many services that is exactly right. Condition monitoring is a case where the calculus is different, and it is worth saying so plainly rather than hoping the client works it out.
+Condition scores are produced by a measurement chain - equipment, calibration, processing, and rating methodology. Change any link and the scores shift. A network that appears to have declined between 2024 and 2027 may simply have been measured differently. Agencies that switch providers each cycle accumulate a series of snapshots rather than a trend, and the trend is where the value is.
+This does not mean an agency should never re-compete. It means the comparability cost should be a known factor in the decision rather than a surprise discovered afterward, and that a new provider should be asked directly how they will reconcile against the prior baseline.
+[Insert testimonials: Julian Rozwadowski, PE, Lake County IL - annual contracts since 1986; Michael Smith, PE, Public Works Director, City of Dunwoody, GA - three surveys over 12 years.]
+#### Access between surveys
+Ongoing clients keep continuous access to their data through ESA (hyperlink) and Unify Inform (hyperlink) - dashboards for staff, and public-facing or council-facing views for stakeholder communication. The data is available when a question arrives, not when the next report is delivered.
+#### Subscription-based pavement management
+[NOTE - PMaaS (Pavement Management as a Service). The Build Plan identifies PMaaS as a 2026 offering addressing exactly the “plan sitting in a folder” problem this page describes, with a recommended home under Solutions › Services. This page is that home. The section is drafted structurally and awaits confirmation of positioning, pricing model, and what the subscription includes.]
+### FAQ block
+How often should we re-survey our road network? Most agencies survey on a two- or three-year cycle. Annual surveys suit large networks, rapidly deteriorating networks, and agencies executing an aggressive treatment program that needs close tracking.
+What is included in an ongoing monitoring program? Scheduled re-survey, updated condition data, a refreshed management plan, year-over-year trend analysis, and continuous dashboard access between surveys.
+Why does using the same provider matter for trend data? Condition scores depend on the equipment, calibration, processing, and rating methodology used to produce them. Changing providers can shift scores independently of any actual change in the pavement, which breaks year-over-year comparability.
+Can we show our council that conditions improved? Yes. Trend data on a consistent measurement basis is what demonstrates whether a funding increase produced a measurable result, which is generally what determines whether it continues.
+Do we keep access to our data between surveys? Yes, through ESA and Unify Inform dashboards.
+How long have your longest clients been with you? Lake County, Illinois has contracted annually with IMS since 1986. The City of Dunwoody, Georgia has completed three surveys over twelve years.
+### Schema notes
+- Service schema, serviceType: "Pavement Monitoring Program".
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Services › Ongoing Monitoring.
+- The 1986 Lake County relationship is a strong authority signal. Surface it in the answer-first lead where AI engines extract, not only in a testimonial block.
+### Internal links
+/solutions/services/pavement-condition-surveys/ · /solutions/services/pavement-management-plans/ · /solutions/software/pavement-management-esa/ · /solutions/software/unify-inform/ · /who-we-serve/municipalities-counties/ · /who-we-serve/concessionaires/ · /procurement/ · /projects/
+### CTAs
+- Download a Sample Year-Over-Year Trend Report
+- Book a Discovery Call
+## 12. Engagement workflow specification – for reference only – not a page
+[NOTE: The six-step workflow appears on the Services Overview, the Municipal & County Solutions page, and in abbreviated form on four service pages. It should be built once as a reusable visual component. Each step should be clickable.]
+Step
+Label
+Sub-label
+Links to
+1
+Network Survey
+Automated collection across your network
+/solutions/services/pavement-condition-surveys/
+2
+Condition Data
+PCI/OCI scores and mapped distress
+/solutions/services/pavement-condition-surveys/
+3
+Management Plan
+What to fix, when, at what cost
+/solutions/services/pavement-management-plans/
+4
+Budget Scenarios
+What each funding level buys
+/solutions/services/budget-scenario-analysis/
+5
+Council Presentation
+The case for the appropriation
+/solutions/services/elected-official-presentations/
+6
+Ongoing Monitoring
+Keep it current, track the trend
+/solutions/services/ongoing-monitoring/
+## 13. Testimonial placement map – for summary only – not a page
+[NOTE: The journey analysis found that testimonials rotate in an unattributed homepage carousel where segment relevance is lost. Placement below assigns each attributable testimonial to the page where it carries the most weight. Every testimonial should carry name, title, and agency. An attributed testimonial from a named PE at a named agency is a credential; an anonymous one is decoration.]
+Testimonial
+Placement
+Kenner Guerrero, Associate Engineer, City of Pico Rivera, CA - StreetSaver, LCMS-2
+Pavement Condition Surveys · Integrations & Data Formats (3b)
+Ethan Crockett, PE, Wyoming DOT - data quality
+Network-Level Data Collection · Unify Connect (3b)
+Michael Smith, PE, Public Works Director, Dunwoody GA - three surveys / 12 years
+Ongoing Monitoring
+Julian Rozwadowski, PE, Lake County IL - annual since 1986
+Ongoing Monitoring · Pavement Management Plans
+Michael Klahr, PE, CFM, Director of Engineering, Newnan GA
+Presentations to Elected Officials
+Chantha Chap, PE, Civil Engineer, Visalia CA
+Presentations to Elected Officials · Municipal landing page
+Erik Brandt, County Planner, Oklahoma County OK
+Pavement Management Plans · Municipal landing page
+Dan Jessen, Operations Supervisor, Springfield MO - pavement + sidewalk
+Sidewalk & ADA Compliance Surveys
+Steven Cohoon, Assistant Director, Sumter County FL
+Pavement Condition Surveys
+Robert Bush, Program Manager, Arizona DOT - Inform software
+Unify Inform (3b)
+John Senger, PE, Illinois DOT - SurPro 5000
+SurPRO Reference Profiler (Phase 2)

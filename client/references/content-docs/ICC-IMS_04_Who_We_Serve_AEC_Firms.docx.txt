@@ -1,0 +1,156 @@
+# PAGE 4 - WHO WE SERVE: AEC & ENGINEERING FIRMS
+URL: /who-we-serve/aec-firms/ Priority: High (largest content gap on the current site - this segment currently has no effective landing point) Primary persona: Project Manager, Transportation Engineer, Pavement Engineer, Program Manager, Practice Lead at firms such as Kimley-Horn, Tetra Tech, Mott MacDonald, AtkinsRéalis Core question this page answers: “Can you collect accurate pavement data that integrates seamlessly with our client’s systems, on time and on budget, with the QC documentation we need?”
+## SEO / Metadata
+Field
+Content
+Title tag
+Pavement Data Collection Subcontractor for AEC Firms | ICC-IMS
+Meta description
+Subcontract pavement data collection with ASTM-compliant deliverables, documented QC/QA, and export into any PMS platform. Capability statement available for pre-qualification.
+Primary keyword
+pavement data collection subcontractor
+Secondary keywords
+ASTM pavement survey services, pavement condition data AEC firm, airfield pavement assessment service, subconsultant pavement data collection, HFST acceptance testing
+Schema
+Service, FAQPage, BreadcrumbList
+### H1: Your platform, your client, we’re here to help Your Pavement Data Collection Partner - Built to Integrate Into Your Project Team
+## Answer-first lead
+ICC-IMS provides subcontract pavement data collection services to AEC firms, delivering ASTM and AASHTO compliant condition, profile, and friction data formatted for direct integration into the client’s pavement management system.
+Deliverables export to StreetSaver, MicroPAVER, PAVER, Agile Assets, dTIMS, Cartegraph, Lucity, Brightly, and ArcGIS, in XML, CSV, SHP, KML/KMZ, PPF, ERD, and PRO formats.
+Every project includes automated QC processing through Unify Connect with documented acceptance criteria, validation procedures, and a defined corrective action process.
+ICC-IMS manufactures its own collection equipment in the United States, which means schedule risk from third-party equipment failure is removed from the project. Specialized capabilities include airfield assessment, night operations, HFST acceptance testing, and concrete rehabilitation surveys.
+## KEY FACTS PANEL
+Data formats
+XML · CSV · SHP · KML/KMZ · PPF · ERD · PRO · Excel
+PMS platforms
+15+ supported, including StreetSaver, MicroPAVER, PAVER, Agile Assets, dTIMS, Cartegraph, Lucity, Brightly, ArcGIS
+Standards
+ASTM E950 · AASHTO R56 · AASHTO R57 · ASTM E274 · TxDOT
+QC
+Automated QC via Unify Connect · published pass/fail criteria · documented corrective action
+Equipment
+Manufactured in-house, Largo FL · $1.1M parts inventory · no third-party equipment dependency
+Specialized
+Airfield · night operations · HFST acceptance · concrete rehab · pre/post-event surveys
+NAICS / insurance / bonding
+To be provided
+## SECTION 1 - Positioning
+### H2: We are a subcontractor, not a competitor
+A reasonable concern when a firm that also serves agencies directly appears on your subconsultant list: are they going to be at the table next time, on the other side?
+ICC-IMS’s role on your project is data collection and processing. We collect, we process, we QC, we deliver in your format, and the deliverable is yours. We are not pursuing your client relationship, and we do not need our name on the report.
+What you get from a partner who manufactures their own equipment is a shorter failure chain. If a sensor goes down mid-collection, there is no vendor escalation, no RMA queue, and no waiting on a manufacturer in another time zone. Parts are on the shelf in Largo and the engineers who designed the system are on the phone.
+## SECTION 2 - Integration
+### H2: The data lands in your client’s system, in your client’s format
+Pavement management platforms we deliver into:
+Platform
+Common context
+StreetSaver
+California municipal / MTC region
+MicroPAVER / PAVER
+Federal, military, airfield
+Agile Assets
+State DOT enterprise asset management
+dTIMS
+State DOT and large agency lifecycle analysis
+Cartegraph
+Municipal operations management
+Lucity
+Municipal public works
+Brightly (formerly Dude Solutions)
+Municipal asset management
+ArcGIS
+GIS-native delivery, any agency
+DOT-specific platforms
+State-built systems - supported case by case
+Export formats: XML · CSV · SHP · KML/KMZ · PPF · ERD · PRO · Excel
+Profile data exports to ProVAL-compatible PPF, ERD, and PRO formats for smoothness analysis and acceptance workflows.
+If your client runs something not listed here, tell us. Custom export mapping is routine work, not an exception.
+→ Full integration and data format detail /solutions/software/integrations (hyperlink)
+## SECTION 3 - QC/QA
+### H2: What happens before the data reaches you? The ICC-IMS Acceptance Process
+You are accountable for the deliverable your client receives. That means you need to know what our acceptance process is before you subcontract it, not after a discrepancy surfaces.
+Equipment certification. Systems are certified against the applicable ASTM or AASHTO standard before deployment.
+Validation sites. ICC-IMS maintains dedicated data validation sites used to verify system performance against known reference values.
+Routine verification. Verification procedures are run on a defined interval as part of standard operations, not on request.
+Automated QC. Data passes through Unify Connect, which applies validation rules and acceptance criteria automatically during processing rather than as a manual review step at the end.
+Published pass/fail criteria. Acceptance is measured against a threshold. Data either meets it or does not.
+Documented corrective action. When data does not pass, there is a defined process for re-collection or correction - and a record of it. That record is available to you and, if needed, to your client.
+QC documentation as a deliverable. Quality documentation is produced as an output of the workflow. You do not have to request it, and it does not have to be reconstructed after the fact.
+→ Unify Connect QC platform /solutions/software/unify-connect (hyperlink)
+## SECTION 4 - Services available for subcontract
+### H2: How can we augment your team?
+Network-level pavement condition surveys - Automated 3D distress collection with LCMS-2 at speeds up to 75 mph, sub-millimeter crack detection, PCI/OCI scoring, GIS-mapped output.
+Project-level assessments - Targeted condition and profile data for specific corridors or construction acceptance.
+Profiling and smoothness - ASTM E950 Class 1 inertial profiling, including variable-speed collection where site conditions prevent constant-speed runs.
+Friction testing - ASTM E274 locked-wheel and continuous friction measurement.
+HFST acceptance testing - Verification that high friction surface treatments meet specified friction values.
+Airfield pavement assessment - Runways, taxiways, aprons, and service roads, including high-resolution night collection at commercial airports operating under movement restrictions.
+Concrete rehabilitation surveys - Joint and slab condition assessment with treatment recommendations.
+Pre- and post-event surveys - Baseline and damage-assessment collection around hurricanes, floods, and other events, supporting FEMA documentation and resiliency analysis.
+Sidewalk and ADA/PROWAG surveys - Automated sidewalk condition and compliance assessment.
+Right-of-way asset inventory - Signs, markings, and roadway assets collected in the same pass.
+Multi-state program management - Coordinated collection across multiple states and contracts under one program manager.
+→ All services /solutions/services (hyperlink)
+## SECTION 5 - Specialized capability
+### H2: The work that is hard to subcontract anywhere else, we have you covered
+Most pavement data subcontractors can drive a network and produce PCI. The scopes below are where firms typically struggle to find a qualified sub:
+Night operations at commercial airports. Airfield collection is often only permitted in a narrow overnight window between last arrival and first departure. ICC-IMS runs high-resolution night collection built for that constraint. → Airport solutions /who-we-serve/airports (hyperlink)
+HFST acceptance testing. High friction surface treatment acceptance requires friction measurement against a specified threshold, on a schedule tied to construction closeout.
+Variable-speed profiling. On urban corridors, work zones, and short segments, conventional profilers cannot hold the minimum speed needed for valid IRI. The IrisPRO Every Speed collects valid IRI at any speed including full stop. → IrisPRO Every Speed /solutions/equipment/irispro-every-speed (hyperlink)
+Pre- and post-event surveys. Rapid mobilization for baseline and post-event damage assessment.
+## SECTION 6 - Schedule and program management
+### H2: Schedule reliability with ICC-IMS
+Your schedule risk on a data collection subcontract comes from three places: equipment failure, weather, and processing backlog.
+Equipment failure is mitigated by manufacturing our own systems and holding $1.1M of parts on hand, plus the largest collection fleet in the municipal market - which means a redundant unit exists.
+Weather is mitigated by fleet size and by the Every Speed Profiler’s tolerance for variable-speed conditions, which widens the usable collection window.
+Processing backlog is what the $5M Unify investment was for. Automated QC and processing replaced the manual bottleneck that sets turnaround time at most vendors.
+[Insert specific turnaround commitments by deliverable type - ICC-IMS to supply. Stated turnaround times are a strong differentiator for this persona and should be published rather than negotiated project by project.]
+## SECTION 7 - Pre-qualification
+### H2: Everything you need for your vendor package
+Design note: Per the journey analysis, the absence of a downloadable capability statement is a material barrier to engagement for this persona - it is a standard expectation in the AEC world.
+Download the ICC-IMS Capability Statement - one page, formatted for subcontractor pre-qualification packages. Includes corporate information, NAICS codes, certifications, key personnel, representative project experience, and insurance and bonding summary.
+→ Download Capability Statement /resources/capability-statement (hyperlink)
+Pre-qualification information:
+- Legal entity: International Cybernetics Company, LP · IMS Infrastructure Management Services
+- Headquarters: 10630 75th Street, Largo, FL 33777
+- NAICS codes: 334519 - Other Measuring and Controlling Device Manufacturing, 336999 - All Other Transportation Equipment Manufacturing (Primary), 541690 - Other Scientific and Technical Consulting Services
+- Insurance: Commercial general liability $2M, automobile liability $1M, umbrella liability $10M, workers compensation $1M, E&O technology $4M.
+- Bonding capacity: marybethmn@gmail.comthis is almost never requested and when it is, we begrudgingly do it and just match the requirements of what they are asking for. Therefore, I’m not sure this is something we should even mention on the site.
+- Certifications: ASTM E950, AASHTO R56, AASHTO R57, ASTM E274, TxDOT; 2026 iCART Certification (Illinois)
+→ Request full subcontractor qualification package /company/contact (hyperlink)
+## SECTION 8 - References
+### H2: Firms we have worked with
+“ICC-IMS consistently delivers high-quality work with exceptional accuracy, responsiveness, and professionalism. Their team operates as a true partner, seamlessly integrating with our staff and contributing to the success of every project.” - Kevin Stone, PE,  Associate, Kimley-Horn.
+“As our partnership with ICC-IMS has grown, so has our confidence in their team. They've been collaborative, transparent, and dependable, and we've developed a strong rhythm for delivering projects together. We appreciate their willingness to work through challenges, align expectations, and focus on successful outcomes for our shared clients.” - Becca Ruffin, Product Manager, Withers Ravenel
+ICC-IMS has been a great partner to Infrasense. We rely on their team for pavement data collection services, while they regularly engage us for specialized GPR testing. It’s a strong two-way partnership between two national firms with complementary expertise and a shared focus on delivering high-quality infrastructure evaluation services. - Adam Carmichael, President, Infrasense
+“CJW Transportation Consultants, LLC has appreciated the opportunity to work with IMS on multiple Missouri projects. CJW served as the lead consultant for the City of Branson’s Transportation Master Plan, which included an ADA Public Right-of-Way Transition Plan and a Pavement Management Plan. As part of that effort, IMS provided condition assessments for the City’s public sidewalks and pavements, along with final reports that helped advance cost-effective rehabilitation planning for Branson’s sidewalk and pavement infrastructure.
+CJW also served as the owner’s representative for the City of Clinton’s and City of Willard’s Pavement Management Plans, where IMS supported the work through pavement condition assessments, reporting, and practical recommendations for future maintenance and rehabilitation needs.
+Throughout these projects, IMS has been responsive, professional, and thorough in the field. Their team provides clear data, useful analysis, and actionable recommendations that help communities better understand the condition of their transportation infrastructure and make informed decisions about long-term maintenance priorities. For municipalities of all sizes, this type of work is essential to developing realistic, cost-effective plans for sidewalks, streets, and other public right-of-way assets.
+We value IMS’s technical expertise, attention to detail, and collaborative approach, and we appreciate the role they have played in helping CJW deliver meaningful planning tools and infrastructure recommendations to our municipal clients.” - Marc J. Thornsberry, PE, Senior Engineer - Client Liaison, CJW Transportation Consultants, LLC
+Relevant project experience: → Withers Ravenel Projects: Lawrence, KS; Seguin, TX; Springfield, MO; Converse, TX; Helotes, TX; Escambia County, AL; Converse, TX. Kimley Horn Projects: Londonderry, NH; Plainville, MA; Pecos, TX; Haskell County, TX; Tulsa, OK; Aledo, TX; Saginaw, TX; Winter Springs, FL; Eustis, FL; Ocean Shores, WA; Hardee County, FL. Mott Projects: Wildwood, FL; Citrus County, FL. Infrasense Projects: Washington County, GA; Coweta County, GA.
+## SECTION 9 - FAQ (FAQPage schema)
+### H3: What pavement management platforms can ICC-IMS deliver data into?
+StreetSaver, MicroPAVER, PAVER, Agile Assets, dTIMS, Cartegraph, Lucity, Brightly, ArcGIS, and state-specific DOT platforms - 15+ platforms in total. Export formats include XML, CSV, SHP, KML/KMZ, PPF, ERD, PRO, and Excel. Custom export mapping for platforms not listed is standard practice.
+### H3: What QC documentation does ICC-IMS provide with a data deliverable?
+Equipment certification records, validation site verification results, automated QC output from Unify Connect showing data measured against published pass/fail criteria, and corrective action records for any data that required re-collection. Documentation is produced as an output of the standard workflow.
+### H3: Does ICC-IMS work as a subcontractor to AEC firms?
+Yes. Subcontract pavement data collection is a core line of business. ICC-IMS collects, processes, QCs, and delivers in the prime’s required format. The deliverable belongs to the prime.
+### H3: Can ICC-IMS perform airfield data collection at night?
+Yes. High-resolution night collection is a standard capability, developed for commercial airports where collection is only permitted between last arrival and first departure.
+### H3: Is ICC-IMS data ASTM compliant?
+Yes. Profiling equipment is certified to ASTM E950, AASHTO R56, and AASHTO R57. Friction testing follows ASTM E274 for locked-wheel measurement. Certification documentation is available for inclusion in project QC records.
+### H3: Does ICC-IMS have a capability statement for pre-qualification packages?
+Yes. A one-page capability statement formatted for subcontractor pre-qualification is available for download, including NAICS codes, certifications, key personnel, insurance and bonding, and representative project experience.
+### H3: What is the typical turnaround time for a data deliverable?
+[ICC-IMS to supply. Publishing a stated turnaround by deliverable type is a meaningful differentiator for this audience.]
+### H3: Does ICC-IMS compete with AEC firms for prime contracts?
+ICC-IMS works both directly with agencies and as a subcontractor to engineering firms. On subcontract engagements the scope is data collection and processing, and the deliverable is the prime’s.
+## CTA BLOCK
+Primary: Download Capability Statement · Request Subcontractor Qualification Package Secondary: Contact Our Team · Request a Quote for a Specific Scope (hyperlink, as appropriate)
+## INTERNAL LINKS FROM THIS PAGE
+/solutions/software/integrations/ · /solutions/software/unify-connect/ · /solutions/services/ · /solutions/equipment/irispro-every-speed/ · /solutions/equipment/irispro-pave/ · /who-we-serve/airports/ · /resources/capability-statement/ · /company/contact/
+## IMAGE ALT TEXT
+- ICC-IMS pavement survey vehicle collecting LCMS-2 3D condition data for an AEC firm subcontract
+- Unify Connect automated QC dashboard showing pavement data validation against acceptance criteria
+- Night-time airfield pavement data collection on an active commercial airport taxiway
+- Pavement condition data exported to a third-party pavement management system

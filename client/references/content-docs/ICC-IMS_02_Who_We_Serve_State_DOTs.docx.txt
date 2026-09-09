@@ -1,0 +1,204 @@
+# PAGE 2 - WHO WE SERVE: STATE DEPARTMENTS OF TRANSPORTATION
+URL: /who-we-serve/state-dots/ Priority: Critical Primary persona: Pavement Management Engineer, Asset Management Engineer, State Highway Engineer, Materials Engineer, Research Engineer Core question this page answers: “Does this equipment meet our state standards, what is the total cost of ownership, and how do we procure it through our contract vehicles?”
+## SEO / Metadata
+Field
+Content
+Title tag
+State DOT Pavement Profilers & Data Collection | ASTM E950 | ICC-IMS
+Meta description
+ASTM E950 and AASHTO R56 certified inertial profilers, locked-wheel friction testers, and reference devices for state highway programs. US-manufactured. Spec sheets available.
+Primary keyword
+pavement profiler equipment
+Secondary keywords
+ASTM E950 profiler, AASHTO R56 compliant profiler, IRI measurement vehicle, locked wheel friction tester, network-level pavement data collection, FHWA LTBP pavement data
+Schema
+Service, Organization, FAQPage, BreadcrumbList
+H1
+Precision Pavement Data Collection Equipment and Services for State Highway Programs
+## Answer-first lead (first 120 words - the block AI engines will quote)
+ICC-IMS manufactures inertial profilers, friction testers, and reference profilers for state departments of transportation, and provides network-level pavement data collection as a service.
+Equipment is designed and built in the United States and certified to ASTM E950, AASHTO R56, AASHTO R57, and TxDOT specifications.
+The IrisPRO Every Speed profiler is the only system that collects valid IRI at any vehicle speed - including stop-and-go and full-stop conditions - eliminating the approximately 12 mph minimum speed threshold that limits conventional inertial profilers.
+ICC-IMS equipment has been in service at 39 state DOTs nationwide and 39 countries spanning 6 continents. Equipment can be procured directly or through the TXShare cooperative purchasing agreement.
+## KEY FACTS PANEL (scannable block, top of page)
+Standards
+ASTM E950 · AASHTO R56 · AASHTO R57 · ASTM E274 · TxDOT specifications
+Certification
+2026 iCART Certification (Illinois) - ESP passed all pavement types
+Patents
+US 6,775,914 · Canada 2,405,133 (Every Speed Profiler)
+Repeatability
+Cross-correlations typically 0.97–0.99 depending on surface type
+Manufacturing
+Largo, Florida - 15,000 sq ft facility, $1.1M parts inventory on hand
+Data output
+IRI · PrI · Ride Number · Boeing Bump Index · 3-point rutting · raw and filtered elevation
+Export formats
+PPF · ERD · PRO (ProVAL-compatible) · CSV · XML · SHP
+Procurement
+Direct purchase, RFP/IFB, or TXShare cooperative agreement (hyperlink Procurement)
+## SECTION 1 - Standards compliance matrix
+### H2: Which ICC-IMS equipment meets which standard
+[Implementation note: This table is the single highest-value element on the page. DOT engineers evaluate against standards, not against marketing copy. It must be real HTML table markup - not an image - so it is crawlable, quotable by AI engines, and responsive on mobile. Populate every cell before publication; a partially filled matrix is worse than none. Values below reflect what is currently documented publicly; cells marked “confirm” require ICC-IMS verification.]
+Model
+ASTM E950
+AASHTO R56
+AASHTO R57
+AASHTO PP69
+AASHTO M328
+ASTM E274
+TxDOT Tex-1001-S
+IrisPRO Every Speed (ESP)
+✔ Class 1
+✔
+✔
+✔
+✔
+-
+✔
+IrisPRO High Speed
+✔ Class 1
+✔
+✔
+✔
+✔
+-
+✔
+IrisPRO Lightweight
+✔ Class 1
+✔
+✔
+✔
+✔
+-
+✔
+IrisPRO Pave
+✔ Class 1
+✔
+✔
+✔
+✔
+-
+✔
+IrisGO Portable
+✔ Class 1
+✔
+✔
+✔
+✔
+-
+✔
+IrisGO Pave
+✔ Class 1
+✔
+✔
+✔
+✔
+-
+✔
+SFT Locked Wheel
+-
+-
+-
+-
+-
+✔
+DFT Continuous
+-
+-
+-
+-
+-
+-
+SurPRO Reference Profiler
+✔ Class 1
+-
+-
+-
+-
+-
+confirm
+→ Download the full standards compliance matrix (PDF) (hyperlink)
+## SECTION 2 - Equipment for state highway programs
+### H2: Profilers
+IrisPRO Every Speed (ESP) - the constraint everyone else still has Conventional inertial profilers stop producing valid data below roughly 12 mph. That makes urban corridors, work zones, congested interstates, and short segments like bridge decks either unmeasurable or unreliable. The ESP uses dual line lasers in each wheel path with a patented algorithm that holds accuracy through acceleration, deceleration, and full stops. Field testing shows negligible deviation in high-pass filtered profile and IRI between constant-speed, variable-speed, and full-stop runs. Certified to ASTM E950, AASHTO R56, AASHTO R57, and TxDOT specifications. US Patent 6,775,914. → IrisPRO Every Speed Spec sheet (hyperlink)
+IrisPRO High Speed - network-level profiling for statewide programs ASTM E950 Class 1 inertial profiling built for the mileage volumes of a statewide collection cycle. → IrisPRO High Speed Spec sheet (hyperlink)
+IrisPRO Lightweight - project-level and flexible deployment Compact profiling for project-level acceptance and assessments where a full survey vehicle is not warranted. → IrisPRO Lightweight Spec sheet (hyperlink)
+IrisPRO Pave - profiling and 3D condition survey in a single pass LCMS-2 integration delivers 3D pavement scanning at speeds up to 75 mph with sub-millimeter crack detection, combined with ASTM Class 1 inertial profiling. One pass, one vehicle, both datasets. → IrisPRO Pave Spec sheet (hyperlink)
+### H2: Friction testing
+SFT Locked Wheel Friction Tester - ASTM E274 compliant skid trailer for highway safety friction programs and HFST acceptance testing. → SFT Locked Wheel Spec Sheet (hyperlink)
+DFT Continuous Friction Tester - continuous friction measurement for network-level screening, identifying low-friction segments without spot-testing an entire route. → DFT Continuous Spec Sheet (hyperlink)
+### H2: Reference devices - and why MAP-21 made this a compliance item
+SurPRO Reference Profiler Under MAP-21 and the FAST Act, state DOTs are required to maintain certification sites for validating inertial profiler accuracy. That validation requires a walking-speed reference device. The SurPRO is that device.
+This is not a discretionary purchase competing against other equipment for budget. It is the instrument that makes your entire profiling program defensible - including the data you report federally.
+“The enhancements to the SurPro 5000 have made the device much easier to set up and use. The new user-friendly interface puts all the data right at your fingertips. The tablet displays all of the relevant data, in real time, as you are collecting. We have set up one of our local certification sites with the upgraded device and everything went much smoother.” John Senger, PE - Engineer of Pavement Technology, Illinois DOT
+→ SurPRO Reference Profiler(hyperlink)
+## SECTION 3 - Data collection as a service
+### H2: When it makes more sense to contract the collection than to run it
+Not every program justifies owning and staffing a collection fleet. ICC-IMS runs statewide and corridor-level collection as a service, using the same equipment we manufacture - which means the team collecting your data built the sensor.
+- Statewide network profiling programs - full-network IRI and roughness collection on your reporting cycle
+- HPMS data support - collection and formatting aligned to federal reporting requirements
+- Corridor and project-level assessments - targeted collection for specific routes or construction acceptance
+- 3D pavement condition surveys - LCMS-2 automated distress identification at highway speed
+- Friction surveys - locked-wheel and continuous friction across the safety network
+- HFST acceptance testing - verification that high friction surface treatments meet specification
+→ All services (hyperlink)
+## SECTION 4 - Data quality, documented
+### H2: How we prove the data before you have to defend it
+Data quality claims are easy to make. Here is the actual process:
+- Equipment certification against the applicable ASTM and AASHTO standard
+- Dedicated data validation sites used to verify system performance
+- Routine verification procedures run on a defined interval, not on request
+- Published pass/fail criteria - acceptance is a threshold, not a judgment call
+- Documented corrective action process for data that does not pass
+Automated QC runs through Unify Connect, which produces the quality documentation as an output of the workflow rather than as an after-the-fact report.
+→ QC/QA process detail (hyperlink)
+## SECTION 5 - Integration with your PMS
+### H2: The data has to land in your system, not ours
+ICC-IMS delivers into the platform your state already runs. Supported destinations include Agile Assets, dTIMS, MicroPAVER, PAVER, StreetSaver, Cartegraph, Lucity, Brightly, ArcGIS, and state-specific platforms. Export formats include PPF, ERD, and PRO for ProVAL, plus XML, CSV, SHP, and KML/KMZ.
+→ Integrations and data formats (hyperlink)
+## SECTION 6 - DOT clients and case studies
+### H2: State DOTs currently using ICC-IMS
+Wyoming DOT · Arizona DOT · Tennessee DOT · Delaware DOT · Florida DOT · Pennsylvania DOT · Nevada DOT · Illinois DOT
+“With data quality being the cornerstone of any asset management department, it is without hesitation we can state that ICC holds their data to the highest of standards. WYDOT is pleased to recommend ICC for any pavement data collection needs.” Ethan Crockett, PE - Pavement Management and Research Engineer, Wyoming DOT
+“Inform has not only met but surpassed our expectations. It is quick, exceptionally responsive, requires no IT involvement, and is incredibly user-friendly for individuals of all levels.” Robert Bush - Program Manager, Arizona DOT
+DOT case studies: → Arizona DOT · Wyoming DOT · Tennessee DOT · Delaware DOT → View all DOT projects – Hyperlink each of these (chevron dividers instead of dots, maybe?)
+## SECTION 7 - Procurement
+### H2: How to buy this through your contract vehicle
+Option 1 - TXShare cooperative agreement ICC-IMS holds a Master Services Agreement for Pavement Analysis Services through TXShare, administered by the North Central Texas Council of Governments. TXShare is open to state agencies nationwide at no cost. Sign an Interlocal Agreement - typically executed within one business day - and contract without running a solicitation. Contracts are competitively sourced under Uniform Guidance (2 CFR 200).
+Option 2 - Direct RFP or IFB For agencies required to solicit, ICC-IMS provides specification-grade documentation to support your procurement package: standards certifications, technical specifications, and vehicle compatibility data.
+Option 3 - Sole source justification The Every Speed Profiler’s patented variable-speed capability (US Patent 6,775,914) is not available from another manufacturer. Where variable-speed IRI collection is a documented program requirement, that patent status is relevant to a sole-source justification.
+→ Procurement and contract vehicles (hyperlink)
+## SECTION 8 - Writing a specification?
+### H2: We will help you write it - even if you don’t buy from us
+Many DOT engineers arrive here mid-way through drafting an RFP or a procurement specification. Rather than making you reverse-engineer requirements from marketing pages, ICC-IMS publishes specification language, standards references, and technical parameters you can adapt directly.
+→ The State DOT Guide to Pavement Data Collection Equipment (This is a Phase 3 deliverable – will hyperlink to that pdf)
+## SECTION 9 - FAQ (FAQPage schema)
+### H3: Does ICC-IMS equipment comply with ASTM E950?
+Yes.
+The IrisPRO Every Speed, IrisPRO High Speed, and IrisPRO Pave are ASTM E950 Class 1 certified inertial profilers. The IrisPRO Every Speed is additionally certified to AASHTO R56, AASHTO R57, and TxDOT specifications, and achieved 2026 iCART Certification in Illinois across all pavement types.
+### H3: Can ICC-IMS profilers collect valid IRI at low speed?
+Yes.
+The IrisPRO Every Speed Profiler collects accurate, repeatable IRI at any vehicle speed, including accelerating, decelerating, and full-stop conditions. It uses dual line lasers in each wheel path with a patented algorithm (US Patent 6,775,914) that removes the approximately 12 mph minimum speed threshold applying to conventional inertial profilers. This makes it usable on urban networks, congested corridors, work zones, and bridge decks.
+### H3: What reference device does ICC-IMS offer for DOT certification sites?
+The SurPRO Reference Profiler is a walking-speed reference device used to validate inertial profiler accuracy at DOT certification sites, which states are required to maintain under MAP-21 and the FAST Act.
+### H3: What data formats does ICC-IMS export for pavement management systems?
+PPF, ERD, and PRO for ProVAL, plus XML, CSV, SHP, KML/KMZ, and Excel. Data is delivered into 15+ third-party pavement management platforms including Agile Assets, dTIMS, MicroPAVER, PAVER, StreetSaver, Cartegraph, Lucity, Brightly, and ArcGIS.
+### H3: Does ICC-IMS provide data collection services, or only equipment?
+Both, independently. State DOTs can purchase equipment to run in-house programs, contract ICC-IMS for statewide or corridor-level collection, or combine the two.
+### H3: What cooperative purchasing contracts does ICC-IMS hold?
+ICC-IMS holds a Master Services Agreement for Pavement Analysis Services through the TXShare Cooperative Purchasing Program, administered by the North Central Texas Council of Governments and open to public agencies nationwide at no cost.
+### H3: Where is ICC-IMS equipment manufactured?
+In Largo, Florida, at a 15,000 square foot facility, with $1.1M of parts held on hand for immediate service and support.
+### H3: What is the repeatability of ICC-IMS profile data?
+Cross-correlations typically range from 0.97 to 0.99 depending on surface type.
+## CTA BLOCK
+Primary (technical, low commitment): Request Technical Information · Download Spec Sheets Secondary: View Cooperative Purchasing Options       Book a Discovery Call
+[Note: The journey analysis found DOT engineers in research mode reject “Book a Discovery Call” as the only option - it reads as a sales trap so we suggest leading with documentation which is not behind a lead capture wall.]
+## INTERNAL LINKS FROM THIS PAGE
+All 9 equipment pages · /solutions/services/ · /solutions/software/integrations/ · /solutions/software/unify-connect/ · /projects/?segment=dot and 4 DOT case studies · /procurement/ · /resources/spec-sheets/ · /resources/guides/
+## IMAGE ALT TEXT
+- IrisPRO Every Speed profiler collecting IRI data in stop-and-go urban traffic
+- SurPRO walking-speed reference profiler in use at a state DOT certification site
+- SFT locked wheel friction tester trailer conducting ASTM E274 skid testing on a highway
+- ASTM E950 and AASHTO R56 standards compliance matrix for ICC-IMS pavement profilers

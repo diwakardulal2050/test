@@ -1,0 +1,1386 @@
+                           ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+We-NDT Marketing Network                                              Page 1
+                                                           ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+                                        ICC-IMS
+               Website Journey Mapping Analysis
+         & Strategic Recommendations for UX, SEO, and GEO Optimization
+
+1. Executive Summary
+ICC-IMS occupies a unique position in the pavement management industry. Born from the 2022
+merger of International Cybernetics Company (ICC) and Infrastructure Management Services
+(IMS), the combined entity controls the full lifecycle of pavement intelligence: from the design,
+manufacture, and integration of precision data collection equipment, to field data collection and
+engineering consulting services, to proprietary software platforms for pavement management
+analysis, visualization, and stakeholder communication. This end-to-end capability is genuinely
+rare in the industry and represents a significant competitive advantage.
+
+However, the current website at icc-ims.com does not translate this advantage into a clear,
+compelling digital experience for the three primary buyer segments that drive ICC-IMS revenue:
+
+    •   State Departments of Transportation (DOTs) purchasing high-accuracy profiling
+        equipment, friction testers, and network-level data collection systems for state highway
+        programs.
+    •   Municipalities and Counties contracting for pavement condition surveys, management
+        plans, budget scenario analysis, council presentations, and ongoing SaaS-based
+        pavement management through ESA platforms.
+    •   AEC Firms (Kimley-Horn, Tetra Tech, Mott MacDonald, AtkinsRealis) procuring
+        subcontract pavement data collection services, airfield assessment capabilities, and
+        technical deliverables for integration into their own project workflows.
+
+
+Each of these audiences arrives at icc-ims.com with fundamentally different questions,
+different technical vocabularies, different procurement constraints, and different
+definitions of success. The current site architecture is organized around what ICC-IMS does
+and sells rather than around the problems each buyer segment is trying to solve. This
+organizational mismatch forces visitors to work too hard to locate the content relevant to them,
+increasing bounce rates and reducing the likelihood of conversion.
+
+
+  Core Finding
+  The ICC-IMS website has a seller-centric architecture in a market that demands buyer-centric
+  navigation. The site contains strong content and legitimate proof points, but they are fragmented
+
+
+
+
+We-NDT Marketing Network                                                                              Page 2
+                                                                 ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+  across parallel navigation structures (Markets, Services, Equipment, Software) with no unifying
+  journey for any single buyer persona. The result is a website that tells the ICC-IMS story rather than
+  answering the visitor’s question.
+
+
+This report delivers a comprehensive journey mapping analysis for each primary customer
+segment, identifies the key friction points at each stage of the buyer experience, and provides
+prioritized, actionable recommendations to improve navigation clarity, content effectiveness,
+conversion performance, SEO keyword coverage, and GEO (Generative Engine Optimization)
+visibility. The recommendations are designed to be implementable in phases without requiring a
+full site rebuild, and each is evaluated for its impact on both traditional search rankings and AI-
+generated search visibility.
+
+
+2. Methodology and Site Audit
+This analysis is based on a comprehensive structural and content review of icc-ims.com
+conducted in March 2026, encompassing the homepage, all Markets sub-pages (DOTs,
+Counties and Municipalities, Civil Engineering Firms, Concessionaires, Airports, Federal
+Agencies), the full Services section organized by customer type, all Equipment pages (Profilers,
+Pavement Survey, Friction Testers, Reference Devices), all Software pages (Unify suite
+including Drive, Connect, and Inform; ESA; ESWA; Your Software), the Projects/Case Studies
+gallery, the Consulting Team page, Support, Company pages, and the Cooperative Purchasing
+section. The review was conducted against best practices in B2B technical website UX, content
+journey mapping for government and AEC buyer personas, and current SEO/GEO optimization
+standards.
+
+2.1 Current Site Architecture Overview
+The primary navigation structure includes the following top-level elements and their sub-
+navigation:
+
+
+ Navigation Item       Sub-Navigation Structure                           Assessment
+
+                       No sub-navigation; hero banner, testimonials,
+ Home                                                                     Generic headline; no segment routing
+                       company overview, merger story
+
+                       DOTs | Counties & Municipalities | Civil
+                                                                          Duplicates Services structure; thin
+ Markets               Engineering Firms | Concessionaires | Airports
+                                                                          content on several pages
+                       | Federal Agencies
+
+                       Municipal/County (12 items) | State/Provincial
+                                                                          Re-organized by customer type, creating
+ Services              (7 items) | Civil Engineering/Construction (12
+                                                                          confusion with Markets
+                       items)
+
+                       Profilers (4 models) | Pavement Survey (2          Strong product pages but could use a
+ Equipment             models) | Friction Testers (2 models) |            focus on standards compliance tables
+                       Reference Devices (1)                              and include spec sheets
+
+                       Our Software: Unify (Drive, Connect, Inform),      "Our" vs "Your" labeling is confusing;
+ Software
+                       ESA, ESWA | Your Software                          Also software parent not always clickable
+
+
+
+
+We-NDT Marketing Network                                                                                    Page 3
+                                                                 ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+                                                                          Good content; could be linked from
+ Team                  Consulting Team member profiles
+                                                                          service pages
+
+                                                                          No filtering by segment, service type, or
+ Projects              15 case studies listed geographically
+                                                                          outcome
+
+                                                                          Minimal; no knowledge base or
+ Support               Phone, email contact
+                                                                          resources
+
+                       About Us | Mission | History | Leadership |
+ Company                                                                  Blog buried; no resources hub
+                       Blogs | Careers | Learning Portal | Contact
+
+ Cooperative                                                              Critically important for government
+                       Standalone nav item, far right
+ Purchasing                                                               buyers;
+
+
+
+2.2 Critical Findings from Structural Audit
+
+
+  Critical Finding #1: Parallel Navigation Creates Decision Paralysis
+  The site maintains two parallel but disconnected organizational structures: ‘Markets’ (who they serve)
+  and ‘Services’ (what they offer, re-organized by customer type). These sections contain overlapping
+  content and provide no clear signal to a first-time visitor about which path is correct for them. A DOT
+  engineer looking for profiling equipment must choose between Markets > DOTs, Equipment >
+  Profilers, or Services > State/Provincial - three different entry points with no indication which will
+  answer their question fastest.
+
+
+
+  Critical Finding #2: The Homepage Does Not Route Visitors
+  The homepage headline (‘Leading the Way in Data-Driven Pavement & Sidewalk Management’) is
+  generic and fails to differentiate ICC-IMS for any specific buyer persona. There is no mechanism for
+  a visitor to self-identify (‘I am a DOT engineer’ / ‘I am a city public works director’ / ‘I am an AEC
+  project manager’) and be directed to content relevant to their specific needs. The testimonials are
+  strong but not organized by segment.
+
+
+
+  Critical Finding #3: Three Pillars, Zero Connective Narrative
+  Equipment, Services, and Software are siloed in separate navigation trees with no cross-linking and
+  no ‘complete solution’ narrative connecting them. One of ICC-IMS’s most powerful value proposition -
+  that you have intense deep knowledge and control of the full data lifecycle from collection hardware
+  through processing to management and visualization - is never articulated in a single, compelling
+  flow anywhere on the site.
+
+
+
+2.3 Additional Audit Findings
+    •   Cooperative Purchasing Visibility: The Cooperative Purchasing page is critically
+        important for some government agency procurement processes (often the difference
+        between a 6-month RFP process and a 2-week contract execution) but is positioned at
+        the far right of the navigation with no promotional emphasis on key audience pages.
+        Most municipal and DOT visitors will never find it organically.
+
+
+We-NDT Marketing Network                                                                                    Page 4
+                                                       ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+    •   Software Naming Confusion: ‘Your Software’ and ‘Our Software’ labels create
+        unnecessary ambiguity. A first-time visitor does not immediately understand what this
+        distinction means. The Unify suite naming convention (Drive, Connect, Inform) is opaque
+        without context, and the relationship between Unify, ESA, and ESWA is unclear.
+    •   Projects Section Architecture: Case studies are presented as a geographic gallery
+        (Arizona DOT, Dallas TX, Jacksonville FL, etc.) rather than as an outcome-focused proof
+        library. There is no ability to filter by customer type, service type, or project outcome,
+        making it difficult for a DOT buyer to quickly find DOT-relevant case studies or for an
+        AEC firm to find subcontract project examples.
+    •   Blog Isolation: Blog content is buried under Company > Blogs rather than integrated
+        into service or market pages. This severs the content marketing value chain: blog posts
+        that could drive organic traffic to service pages are instead isolated islands with no
+        internal linking strategy and challenging SEO.
+    •   Missing Conversion Assets: There are no downloadable spec sheets for any
+        equipment model, no sample pavement management reports, no ROI calculators, no
+        budget scenario planning tool previews, no ‘What Do I Need?’ self-assessment quiz, and
+        no downloadable capability statement for AEC subcontractor pre-qualification. These are
+        standard conversion assets in B2B technical marketing and their absence represents
+        significant lost conversion opportunity. Integrating even some of these would provide
+        additional engagement.
+    •   Equipment Pages Lack Standards Context: While equipment pages describe features
+        and capabilities well, they do not systematically reference the ASTM, AASHTO, and
+        FHWA standards that DOT and AEC buyers use as their primary evaluation criteria. For
+        example, the IrisPRO Every Speed page mentions ASTM E950 and AASHTO R56
+        certification, but this information appears deep in the page content rather than
+        prominently in specifications tables. These are searchable terms for organic traffic.
+    •   Mobile Navigation Complexity: The Services mega-menu with three customer-type
+        columns and 12+ items per column creates a particularly challenging mobile experience.
+        Government and AEC buyers frequently research vendors on mobile devices during
+        conferences and field visits.
+    •   Inconsistent CTAs: The primary conversion actions (‘Book a Discovery Call,’ ‘Request
+        a Quote,’ ‘Contact Us’) are inconsistently placed across the site. Several key pages have
+        no CTA at all, and the existing CTAs do not differentiate between buyer types or buying
+        stages.
+
+
+
+
+We-NDT Marketing Network                                                                          Page 5
+                                                           ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+3. Audience and Persona Definitions
+Based on ICC-IMS’s business model, market positioning, and the three distinct revenue streams
+(equipment sales, consulting services, and SaaS), three primary buyer personas and two
+secondary personas have been identified. Each persona has distinct motivations, pain points,
+decision criteria, technical vocabulary, and procurement constraints that directly impact how
+they navigate and evaluate the ICC-IMS website.
+
+
+
+3.1 Persona A: The State DOT Pavement / Transportation Engineer
+                           Pavement Management Engineer, Asset Management Engineer, State
+ Titles
+                           Highway Engineer, Materials Engineer, Research Engineer
+                           State DOTs (AZDOT, TxDOT, WYDOT, DelDOT, TDOT, GDOT, FDOT,
+ Organizations
+                           CDOT, etc.)
+                           High-accuracy, ASTM/AASHTO-compliant pavement condition and profiling
+                           data; equipment for state-run data collection programs; sometimes services
+ Primary Need
+                           for specific corridor or network-level assessments; reference devices for
+                           certification sites
+                           Data quality and repeatability, compliance with FHWA/LTBP standards,
+                           long-term equipment reliability, calibration and certification support, total
+ Decision Drivers
+                           cost of ownership, integration with state PMS platforms, manufacturer
+                           responsiveness and technical support
+                           RFP/IFB procurement process; often requires GSA, Sourcewell, NASPO
+ Procurement Path          ValuePoint, or state-specific cooperative purchasing contract vehicles; sole-
+                           source justification for specialized equipment
+                           IRI, PCI, rut depth, HFST, ASTM E950, AASHTO R56, AASHTO PP69,
+                           AASHTO M328, FHWA LTBP, network-level vs. project-level, LCMS,
+ Technical Vocabulary
+                           profiling, friction, PMS, FWD, LWD, ProVAL, HPMS, certification site, MAP-
+                           21, FAST Act
+                           “Does this equipment meet our state standards, what is the total cost of
+ Key Website Question
+                           ownership, and how do we procure it through our contract vehicles?”
+
+
+
+3.2 Persona B: The Municipal/County Public Works Director or Pavement
+Manager
+                           Director of Public Works, City Engineer, Pavement Manager, Asset
+ Titles
+                           Management Coordinator, Street Superintendent, Infrastructure Manager
+                           Cities, counties, municipalities, regional transportation authorities - often
+ Organizations             smaller agencies with limited in-house technical staff and constrained
+                           budgets
+                           Pavement condition survey services, a defensible pavement management
+ Primary Need              plan, software to visualize and present data to elected officials and the
+                           public, ADA/sidewalk compliance surveys, budget scenario planning, and
+
+
+
+
+We-NDT Marketing Network                                                                              Page 6
+                                                            ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+                           the ability to justify infrastructure investment to non-technical decision-
+                           makers
+                           Ease of use, value for budget, ability to present findings to non-technical
+                           council members and mayors, compliance with ADA/PROWAG and GASB
+ Decision Drivers
+                           34, annual contract simplicity, cooperative purchasing availability, vendor
+                           responsiveness and communication quality
+                           Often sole-source or simplified procurement for smaller contracts;
+ Procurement Path          cooperative purchasing (Sourcewell, NASPO ValuePoint, state-specific
+                           cooperatives) is a major pathway; some competitive RFP processes
+                           PCI, OCI, sidewalk, ADA compliance, PROWAG, budget scenarios,
+                           treatment options, overlay, crack seal, slurry seal, pavement management
+ Technical Vocabulary
+                           plan, GIS, dashboard, elected officials, council presentation, GASB 34,
+                           deferred maintenance backlog, remaining service life
+                           “Can you survey my roads, tell me what shape they’re in, help me prioritize
+ Key Website Question      repairs within my budget, and help me explain the situation and options to
+                           my city council?”
+
+
+
+3.3 Persona C: The AEC Firm Project Manager or Pavement Specialist
+                           Project Manager, Transportation Engineer, Pavement Engineer, Program
+ Titles
+                           Manager, Associate/Senior Associate, Practice Lead
+                           Kimley-Horn, Tetra Tech, Mott MacDonald, AtkinsRealis and similar AEC
+ Organizations
+                           firms
+                           Reliable subcontract pavement data collection services; equipment for firm-
+                           owned data collection programs; airfield and specialized testing (HFST
+ Primary Need
+                           acceptance, concrete rehab surveys, pre/post-event surveys); deliverables
+                           formatted for integration with firm’s own PMS platform or client’s system
+                           Data quality and ASTM/AASHTO compliance, turnaround time, technical
+                           credibility and references, ability to integrate with firm’s PMS platform,
+ Decision Drivers
+                           competitive pricing for deliverable-based contracts, flexibility for multi-state
+                           and multi-contract programs, QC/QA documentation standards
+                           Subcontract agreements; pre-qualified vendor lists; master service
+ Procurement Path
+                           agreements; sometimes teaming arrangements for prime contract pursuits
+                           Deliverable, QC/QA, scope of work, schedule, ASTM compliance, data
+                           format, GIS integration, StreetSaver, MicroPAVER, PAVER, Agile Assets,
+ Technical Vocabulary
+                           dTIMS, subconsultant, pre-qualification, capability statement,
+                           DBE/MBE/WBE status
+                           “Can you collect accurate pavement data that integrates seamlessly with
+ Key Website Question      our client’s systems, on time and on budget, with the QC documentation we
+                           need?”
+
+
+
+3.4 Secondary Personas
+Persona D - Airport Operations Manager: Seeks airfield pavement management, FAA
+compliance expertise, runway friction testing, HFST acceptance testing, and high-resolution
+
+
+We-NDT Marketing Network                                                                               Page 7
+                                                           ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+night-time data collection. Key question: ‘Can you handle the specialized requirements of airfield
+pavement assessment, including night operations at commercial airports?’
+
+Persona E - Concessionaire Asset Manager: Manages toll roads or PPP highways. Needs
+ongoing performance monitoring, compliance reporting to concession agreements, and lifecycle
+cost optimization. Key questions: ‘Can you provide consistent, repeatable data collection and
+reporting that meets our concession agreement’s performance requirements?’ and ‘Can you
+ultimately save us money?’
+
+
+4. Journey Maps by Customer Segment
+The following journey maps trace each primary persona’s experience from initial awareness
+through post-engagement, identifying specific friction points and opportunities at each stage of
+interaction with the ICC-IMS website. Each journey map identifies the visitor’s mindset, typical
+entry path, current site experience, friction points encountered, and specific opportunities to
+improve the experience and increase conversion likelihood.
+
+4.1 Persona A - State DOT Engineer Journey
+Stage 1: Awareness and Entry
+Mindset: The DOT engineer is typically in research or specification or RFP-development mode.
+They may be evaluating profiler manufacturers for a state equipment purchase, researching
+friction testing options for a highway safety program, or looking for a data collection service
+provider for a specific corridor assessment.
+
+Typical Entry: Google search for terms like ‘pavement profiler equipment AASHTO compliant,’
+‘IRI measurement vehicle state DOT,’ ‘locked wheel friction tester ASTM E274,’ ‘network-level
+pavement data collection services,’ or direct brand searches for ‘ICC profiler’ or ‘IrisPRO.’ They
+may also arrive via colleague referral or from a conference/trade show interaction.
+
+Current Experience: Landing on the homepage, they see the headline ‘Leading the Way in
+Data-Driven Pavement & Sidewalk Management.’ The word ‘sidewalk’ is irrelevant to a state
+highway engineer and immediately introduces doubt about whether this company serves their
+market. The merger story and testimonials from municipal clients further reinforce the
+perception that ICC-IMS may be primarily a local agency services company.
+
+
+  Friction Point
+  The homepage provides no immediate signal that ICC-IMS is a serious equipment manufacturer
+  serving state DOTs. The ‘sidewalk management’ emphasis in the headline and the municipal
+  testimonials create a misalignment with the DOT engineer’s expectations. There is no ‘DOT
+  Solutions’ or ‘Equipment’ CTA in the hero section, and no segment-routing mechanism to help this
+  visitor self-identify and reach relevant content quickly. There is little to no mention of industry
+  standards, of which are great interest to DOTs.
+
+
+
+
+We-NDT Marketing Network                                                                              Page 8
+                                                       ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+Stage 2: Consideration and Evaluation
+Current Experience: The DOT engineer navigates to either Markets > DOTs or Equipment >
+Profilers. They are evaluating whether ICC-IMS equipment meets state and federal standards
+and comparing it against competitors. The Equipment section has strong product pages with
+detailed descriptions of the IrisPRO Every Speed, IrisPRO High Speed, IrisPRO Lightweight,
+IrisPRO Pave, and friction testing equipment. The IrisPRO Every Speed page, for instance,
+describes the patented ESP technology for accurate profiling at any speed including stop-and-
+go conditions - a genuinely differentiating capability.
+
+Key Strengths Found: The equipment pages describe the IrisPRO Pave’s LCMS-2 integration,
+3D pavement scanning at speeds up to 75 mph, sub-millimeter crack detection, and ASTM
+Class 1 inertial profiler capabilities. The IrisPRO Every Speed’s patented variable-speed
+profiling eliminates the traditional 12 mph minimum speed constraint. These are powerful
+differentiators that competitors cannot match.
+
+    •   Missing Standards Compliance Matrix: While individual product pages mention ASTM
+        E950, AASHTO R56, and TxDOT certifications in body text, there is no consolidated
+        standards compliance table showing which equipment models meet which standards.
+        DOT engineers evaluate equipment against specific standard requirements, and a matrix
+        format would dramatically accelerate their evaluation process.
+    •   No Downloadable Specification Sheets: There are no downloadable PDF spec sheets
+        for any equipment model. For a DOT engineer building an RFP specification or a sole-
+        source justification, a downloadable spec sheet is not optional - it is a fundamental
+        requirement. The absence of spec sheets forces the engineer to contact sales for basic
+        information that should be self-service.
+    •   No Procurement Pathway: There is no clear path from ‘I need this equipment’ to ‘How
+        do I procure this through my state contract vehicle?’ The Cooperative Purchasing page
+        exists but is invisible from the equipment journey. This is a critical disconnect because
+        cooperative purchasing contracts can compress a 6-month procurement timeline to 2
+        weeks.
+    •   DOTs Market Page is Thin: The Markets > DOTs page exists but provides general
+        messaging without the technical depth DOT engineers require. It does not list the
+        specific DOT clients ICC-IMS has served, the standards ICC-IMS equipment is certified
+        to, or the federal programs (FHWA LTBP, MAP-21/FAST Act) that ICC-IMS equipment
+        supports.
+
+
+Stage 3: Validation and Decision
+Current Experience: The DOT engineer wants to validate ICC-IMS’s credibility through DOT-
+specific references and case studies. They navigate to Projects and find case studies from
+Arizona DOT, Wyoming DOT, Tennessee DOT, and Delaware DOT - but these are mixed into a
+geographic gallery alongside municipal projects. There is no way to filter for ‘DOT projects only’
+or ‘equipment sales.’
+
+
+
+We-NDT Marketing Network                                                                          Page 9
+                                                        ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+    •   Testimonial Attribution: The WYDOT testimonial on the homepage is compelling but it
+        rotates in a carousel with municipal testimonials and is not attributed by segment.
+        Placing it prominently on the DOT market page and equipment pages would significantly
+        strengthen credibility.
+    •   No Reference Device Context: The SurPRO reference device page does not
+        adequately explain its role in the MAP-21/FAST Act requirement for DOT certification
+        sites, which is its primary use case. This regulatory context is a powerful selling point
+        that is currently buried.
+
+
+Stage 4: Conversion and Action
+Current Experience: The DOT engineer wants to request a quote, ask a technical question, or
+download a spec sheet. The only CTAs available are ‘Book a Discovery Call’ or ‘Contact Us’ -
+both of which feel too sales-oriented for a technical engineer in research mode.
+
+    •   Missing Technical Entry Point: A ‘Request Technical Information’ or ‘Download Spec
+        Sheet’ CTA would be far more appropriate for this persona. They want documentation,
+        not a sales conversation.
+    •   No ‘Build a Specification’ Resource: Many DOT engineers arrive at the site while
+        writing an RFP or procurement specification. A ‘Build a Specification’ resource guide that
+        helps them write equipment specifications that ICC-IMS products meet would be an
+        extremely effective lead generation and sales enablement tool.
+
+
+
+4.2 Persona B - Municipal/County Public Works Director Journey
+Stage 1: Awareness and Entry
+Mindset: The municipal buyer is typically reacting to a council directive, an audit finding, a
+constituent complaint about road conditions, or an upcoming budget cycle. They may be
+evaluating whether to start a pavement management program, update an existing one, or find a
+new vendor after an unsatisfying previous experience.
+
+Typical Entry: Google search for ‘pavement condition survey city,’ ‘pavement management
+plan consultant,’ ‘sidewalk ADA compliance survey,’ ‘StreetSaver implementation,’ or ‘pavement
+management software for municipalities.’ They may also arrive via a Sourcewell or cooperative
+purchasing directory, or through a referral from a neighboring city.
+
+Current Experience: The homepage is partially relevant: ‘pavement management’ is in the
+headline, and testimonials from cities like Pico Rivera, Dunwoody, and Springfield are relatable.
+However, the homepage does not immediately address the top municipal concern: ‘How do I get
+budget for pavement work and explain the situation to my council?’
+
+
+
+
+We-NDT Marketing Network                                                                          Page 10
+                                                            ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+  Friction Point
+  The municipal buyer’s core problem is not technical - it is political and financial. They need to
+  convince non-technical decision-makers (council members, mayors, city managers) to allocate
+  budget for infrastructure. The ICC-IMS website leads with technical capabilities rather than with this
+  outcome. The ‘Presentations to Elected Officials’ service - which directly addresses this need - is
+  buried twelve items deep in the Services > Municipal/County dropdown.
+
+
+
+Stage 2: Consideration and Evaluation
+Current Experience: The municipal buyer navigates to either Markets > Counties and
+Municipalities or Services > Municipal/County Agencies. The Services dropdown lists twelve
+service items - a strong signal of breadth but an overwhelming experience without a guiding
+narrative or logical grouping.
+
+    •   PMS Confusion: The distinction between ‘Pavement Management Plans via Our PMS
+        (ESA)’ and ‘Pavement Management Plans via Your PMS (Any)’ is confusing for a public
+        works director who likely does not know what a PMS is, whether they have one, or why
+        the distinction matters. This technical framing alienates the very audience it is designed
+        to serve.
+    •   Software Product Confusion: The ESA, ESWA, Unify (Drive, Connect, Inform), and
+        ‘Your Software’ pages create a fragmented picture of the software offering. A municipal
+        buyer visiting the software section cannot quickly understand: ‘What will I get? What will
+        it look like? What will it cost?’ The naming convention assumes insider knowledge that
+        new visitors do not have.
+    •   No Process Narrative: There is no ‘How It Works’ page for the municipal audience that
+        walks through the complete engagement workflow: Survey → Data → Management Plan
+        → Budget Scenarios → Council Presentation → Ongoing Monitoring. This linear
+        narrative is missing and would be the single most valuable content piece for this
+        persona.
+    •   No Sample Deliverables: There is no sample pavement management report, no
+        redacted GIS dashboard screenshot, no example council presentation, and no sample
+        budget scenario output. Municipal buyers want to see what they will get before they
+        engage. The absence of sample deliverables forces them to take a leap of faith that
+        competitors may not require. Pieces of the deliverables may be enough to give
+        confidence to decision makers without giving competitors a peak behind the curtain.
+
+
+Stage 3: Validation and Budget Justification
+Current Experience: The municipal buyer needs to justify the engagement to their city
+manager and navigate procurement. The Cooperative Purchasing page exists but is
+disconnected from the municipal journey. There is no ROI framing, no language about typical
+budget outcomes, no GASB 34 compliance benefits, and no ADA/PROWAG risk reduction
+messaging.
+
+
+
+We-NDT Marketing Network                                                                              Page 11
+                                                        ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+    •   Missing Budget Justification Content: Language such as ‘municipalities using data-
+        driven pavement management typically secure 15–25% more infrastructure funding,’ ‘a
+        PCI-based management plan extends average pavement life by 5–7 years,’ or ‘proactive
+        management costs $1 per square yard vs. $6–10 for reactive repair’ would dramatically
+        strengthen the budget justification case. This content does not exist anywhere on the
+        site.
+    •   Cooperative Purchasing Buried: For municipalities constrained by procurement rules,
+        cooperative purchasing contracts are the difference between engaging ICC-IMS this
+        quarter and waiting 6–12 months for an RFP cycle. This capability needs to be
+        prominently featured on every municipal-facing page.
+
+
+Stage 4: Conversion and Action
+Current Experience: The ‘Book a Discovery Call’ CTA is appropriate for this audience.
+However, there is no self-service estimation option, no project scope template, no sample
+deliverable download, and no ‘What Does a Project Look Like for a City My Size?’ interactive
+pathway.
+
+    •   Opportunity: A ‘Sample Pavement Management Report’ and a ‘Sample Public
+        Presentation’ download gated behind a simple contact form would generate qualified
+        leads while giving municipal buyers the proof point they need to justify a discovery call to
+        their supervisor.
+
+
+
+4.3 Persona C - AEC Firm Project Manager Journey
+Stage 1: Awareness and Entry
+Mindset: The AEC project manager is searching for a reliable subcontractor for a specific
+project scope. They need to evaluate ICC-IMS quickly: Can they do the work? Will the data
+integrate with our systems? Can they meet our schedule? Do they have the insurance,
+certifications, and QC documentation we need?
+
+Typical Entry: Referral from a colleague, pre-qualification list search, or Google search for
+‘pavement data collection subcontractor,’ ‘ASTM E950 data collection service,’ ‘airfield
+pavement assessment service,’ or ‘IrisPRO Pave data collection service.’
+
+Current Experience: There is a Markets > Civil Engineering Firms page, but it is thin and
+generic. It describes challenges facing AEC firms without demonstrating how ICC-IMS
+specifically solves them. The Services dropdown does list Civil Engineering / Construction Firms
+services (12 items), but they overlap significantly with services listed for other segments.
+
+
+  Friction Point
+
+
+
+
+We-NDT Marketing Network                                                                          Page 12
+                                                           ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+  The AEC buyer is looking for a partner, not a vendor. Their evaluation criteria are entirely different
+  from a government buyer’s: they need to know about data format flexibility, PMS platform integration,
+  QC documentation standards, turnaround time commitments, insurance and bonding, and
+  subcontractor pre-qualification. None of this information exists on the current site. The AEC buyer
+  arrives, finds generic content, and moves on to the next vendor on their list.
+
+
+
+Stage 2: Consideration and Technical Evaluation
+    •   No Integration Information: There is no reference to data format outputs or
+        compatibility with StreetSaver, MicroPAVER, PAVER, Agile Assets, dTIMS, Cartegraph,
+        Lucity, or other PMS platforms that AEC firms commonly use. The ‘Your Software’ page
+        addresses this partially but is not linked from the AEC journey and is framed for agency
+        clients, not AEC firms.
+    •   No QC/QA Process Documentation: AEC firms need to understand the QC/QA
+        process that will govern data collection. What are the acceptance criteria? What
+        happens when data does not pass QC? What documentation will be provided? This
+        operational detail is critical for subcontractor evaluation and is completely absent.
+    •   No AEC Case Studies: The Projects section contains no AEC-focused case studies nor
+        testimonials. All projects are presented as direct-to-government engagements, which
+        inadvertently signals that ICC-IMS does not work as a subcontractor or does not value
+        AEC firm partnerships.
+
+
+Stage 3: Decision and Pre-Qualification
+Current Experience: The AEC project manager needs to add ICC-IMS to a pre-qualified
+vendor list or issue a subcontract. There is no downloadable capability statement, no standard
+subcontractor qualification package, no insurance/bonding information, and no ‘How to Engage
+Us’ pathway differentiated for AEC firms versus government agencies.
+
+    •   Critical Gap: A downloadable one-page capability statement formatted for subcontractor
+        pre-qualification packages is a standard expectation in the AEC world. Its absence is a
+        material barrier to engagement for this persona.
+
+
+
+
+We-NDT Marketing Network                                                                             Page 13
+                                                                       ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+4.4 Master Journey Map Summary
+
+ Persona          Awareness               Consideration               Decision                Key Recommendation
+
+                  Searches for            Evaluates standards                                 Standards compliance matrix
+                                                                      Needs DOT case
+                  profiling/friction      compliance;                                         on equipment pages; DOT case
+                                                                      studies and
+                  equipment;              equipment pages                                     study filter; cooperative
+ DOT Engineer                                                         procurement pathway;
+                  homepage                strong but lack spec                                purchasing links from DOT
+                                                                      Cooperative
+                  misaligned with DOT     sheets and                                          pages; downloadable spec
+                                                                      Purchasing invisible
+                  needs                   compliance matrices                                 sheets
+
+                  Searches for            Evaluates full-service      Needs ROI framing,      Create ‘How It Works’ municipal
+                  pavement survey or      capability; 12-item         sample deliverables,    journey page; add cooperative
+ Municipal PW     management plan;        service menu                cooperative             purchasing CTAs; sample
+ Director         homepage partially      overwhelming;               purchasing info;        report download; feature
+                  relevant but no         ESA/PMS distinction         budget justification    budget/council presentation
+                  process narrative       confusing                   content absent          capability prominently
+
+                                                                      Needs capability        Build dedicated AEC Partner
+                  Referral or pre-qual    Evaluates integration
+                                                                      statement, pre-qual     section; add integration/data
+                  search; Civil           capability, QC
+                                                                      package, AEC-specific   format info; create
+ AEC Firm PM      Engineering Firms       standards, data format
+                                                                      references; no          downloadable capability
+                  page is thin and        flexibility; none of this
+                                                                      subcontractor pathway   statement; add QC
+                  generic                 info exists on site
+                                                                      exists                  documentation detail
+
+                                          Evaluates FAA
+                  Searches for airfield                               Validates via DFW       Strengthen Airports market
+                                          compliance expertise,
+                  pavement or FAA                                     Airport case study;     page; feature DFW case study
+ Airport Ops                              night collection
+                  compliance; Airports                                seeks HFST expertise    prominently; add FAA
+                                          capability, high-
+                  market page exists                                  confirmation            compliance language
+                                          resolution imaging
+
+                  Searches for            Evaluates full-service      Needs ROI framing,
+                                                                                              Create a page dedicated to
+                  pavement survey or      capability; 12-item         sample deliverables,
+                                                                                              PPP and add a sample ROI/Life
+                  management plan;        service menu                cooperative
+ Concessionaire                                                                               Cycle one sheet explaining data
+                  homepage partially      overwhelming;               purchasing info;
+                                                                                              collection through scenario
+                  relevant but no         ESA/PMS distinction         budget justification
+                                                                                              planning
+                  process narrative       confusing                   content absent
+
+
+
+5. Navigation and Architecture Recommendations
+The most impactful structural change ICC-IMS can make is to reorganize the website from a
+seller-centric architecture to a buyer-centric one. The current navigation forces visitors to
+choose between parallel paths (Markets, Services, Equipment, Software) that each tell a partial
+story. The recommended approach consolidates these into an intuitive structure that mirrors
+how each buyer thinks about their needs.
+
+
+
+5.1 Proposed Navigation Restructure
+
+ Current Navigation                 Recommended Navigation                       Rationale
+                                                                                 Add DOT / Municipality / AEC persona
+ Home                               Home (with segment routing)
+                                                                                 selection to hero section
+
+                                    Who We Serve (DOTs | Municipalities          Rename for clarity; each page becomes a
+ Markets (6 sub-items)              & Counties | AEC Firms | Airports |          true audience landing page with journey
+                                    Concessionaires | Federal)                   narrative
+
+
+
+
+We-NDT Marketing Network                                                                                          Page 14
+                                                                ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+                                Solutions (Equipment | Services |        Unify offerings under one umbrella; cross-
+ Services (3 customer groups)
+                                Software - each with audience context)   link by audience within each solution page
+
+                                                                         Equipment becomes a sub-section of
+ Equipment (4 categories)       [Merged into Solutions > Equipment]
+                                                                         Solutions, reducing top-level nav items
+
+                                                                         Eliminate confusing Our/Your distinction;
+ Software (Our/Your)            [Merged into Solutions > Software]
+                                                                         organize by use case instead
+
+                                                                         Team is important but does not need top-
+ Team                           [Moved to Company > Team]
+                                                                         level nav prominence
+
+                                Projects & Case Studies (with segment    Add filter-by-persona, service type, and
+ Projects
+                                filtering)                               outcome; rename for clarity
+
+                                                                         Support is important but can be a Company
+ Support                        [Merged into Company]
+                                                                         sub-item and a footer link
+
+                                Company (About | Team | Careers |
+ Company (8 sub-items)                                                   Simplified; blog and resources moved out
+                                Contact)
+
+                                Procurement (Cooperative Purchasing
+                                                                         Elevated into primary nav; grouped with
+ Cooperative Purchasing         | Request a Quote | Capability
+                                                                         related conversion actions
+                                Statement)
+
+                                Resources (Blog | Whitepapers | Spec
+                                                                         NEW: Creates a content hub for SEO and
+ -                              Sheets | Sample Reports | Learning
+                                                                         lead generation
+                                Portal)
+
+
+
+
+5.2 Homepage Restructure Recommendations
+The homepage should function as a smart gateway that quickly routes each persona to their
+most relevant content. The current homepage tells the ICC-IMS story. The recommended
+homepage answers the visitor’s question: ‘Is this company for me, and where do I go next?’
+
+
+     •     Hero Section: Replace the current generic headline with a segment-routing mechanism.
+           Three clear CTA pathways: ‘State DOT Solutions’ / ‘Municipal & County Solutions’ /
+           ‘AEC & Engineering Firm Services.’ Each button leads to a dedicated audience landing
+           page. The hero headline should communicate the unified value proposition: ‘The
+           complete pavement intelligence platform - from data collection to decision-making.’
+     •     Three-Pillar Summary: A clean visual section presenting Equipment (proudly made in
+           the USA, ASTM/AASHTO certified) | Services (full-service data collection, consulting,
+           and engineering) | Software (Unify suite for data workflow, ESA for pavement
+           management, Inform for stakeholder visualization). This section should convey the
+           integrated nature of the offering.
+     •     Social Proof by Segment: Testimonials and client logos organized by customer type.
+           DOT testimonials grouped together (Wyoming DOT, Arizona DOT, Tennessee DOT,
+           Delaware DOT), city/county testimonials grouped (Pico Rivera, Dunwoody, Springfield,
+           Long Beach, Jacksonville), and AEC firm references in a third grouping. Each group
+           should link to the relevant audience page.
+     •     Why ICC-IMS: The merger story, 50-year combined heritage, US manufacturing, $5M
+           software investment, largest municipal data collection fleet, 700+ agency clients, 15+
+
+
+We-NDT Marketing Network                                                                                  Page 15
+                                                       ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+        PMS platform integrations. These credibility metrics should be presented as a concise,
+        visually striking trust bar.
+    •   Featured Case Studies: Three rotating case studies, one per primary segment, focused
+        on outcomes rather than geography. Example: ‘How Arizona DOT improved profiling
+        efficiency with IrisPRO Every Speed’ / ‘How Long Beach, CA built a data-driven
+        pavement management program’ / ‘How ICC-IMS delivered airfield condition data for
+        DFW International Airport.’
+    •   Procurement CTA: A dedicated homepage section or persistent banner for cooperative
+        purchasing and contract vehicles. For government clients, this is a meaningful buyer
+        accelerant that removes weeks or months of procurement friction.
+
+
+6. Content and Messaging Recommendations by Segment
+6.1 State DOTs
+    •   Dedicated DOT Solutions Landing Page: Lead with IRI profiling, network-level data
+        collection, friction testing, and FHWA LTBP compliance credentials. Include a standards
+        compliance matrix showing which equipment meets which standards. Feature DOT
+        client logos and testimonials prominently.
+    •   Equipment Standards Compliance Tables: Add to all equipment pages, referencing
+        ASTM E950, AASHTO R56, AASHTO PP69, AASHTO M328, FHWA specifications, and
+        TxDOT certifications. Format as a clean table that DOT procurement officers can
+        reference directly.
+    •   Downloadable Spec Sheets: Create PDF spec sheets for IrisPRO Every Speed,
+        IrisPRO High Speed, IrisPRO Lightweight, IrisGO Portable, IrisPRO Pave, IrisGO Pave,
+        SFT Locked Wheel, DFT Continuous, and SurPRO. Each should include technical
+        specifications, standards certifications, vehicle compatibility, and contact information.
+    •   DOT Case Studies Filter: Build a filtered view in the Projects section featuring Arizona
+        DOT, Wyoming DOT, Tennessee DOT, Delaware DOT, and Illinois DOT projects with
+        outcome-focused summaries.
+    •   Procurement and Contract Vehicles Page: Create a dedicated page under the DOT
+        Solutions section listing cooperative purchasing contract numbers, GSA schedules, and
+        step-by-step instructions for state procurement officers.
+    •   Reference Device Regulatory Context: Rewrite the SurPRO page to lead with the
+        MAP-21/FAST Act requirement for DOT certification sites, positioning the SurPRO as
+        the solution to a regulatory mandate rather than just a product.
+
+6.2 Municipalities and Counties
+    •   ‘How It Works’ Municipal Journey Page: Create a visual, step-by-step page illustrating
+        the complete engagement workflow: Network Survey → Condition Data → Management
+
+
+
+
+We-NDT Marketing Network                                                                         Page 16
+                                                        ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+        Plan → Budget Scenario Analysis → Council Presentation → Ongoing Monitoring with
+        SaaS. This is the single highest-impact content piece for this persona.
+    •   Outcome-First Software Descriptions: Rewrite ESA and ESWA descriptions with non-
+        technical language aimed at public works directors. Lead with outcomes: ‘Know which
+        roads to fix first. Show your council why. Stretch your budget further. Track your
+        progress year over year.’ Save technical details for a secondary expandable section.
+    •   Sample Deliverables Section: Add a redacted or sample pavement management
+        report, GIS dashboard screenshot walkthrough, sample council presentation excerpt,
+        and sample budget scenario output. Gate behind a simple contact form for lead
+        generation.
+    •   Cooperative Purchasing Prominence: Add a ‘Fast Track Procurement’ section to the
+        Counties & Municipalities market page. Include cooperative purchasing logos
+        (Sourcewell, NASPO ValuePoint), contract numbers, and a one-sentence explanation of
+        how cooperative purchasing simplifies the engagement process.
+    •   ROI and Budget Justification Content: Develop content around the cost of deferred
+        maintenance, typical budget outcomes for agencies using data-driven pavement
+        management, GASB 34 compliance benefits, and ADA/PROWAG risk reduction. Use
+        specific numbers where available: ‘proactive management costs $1/sq yd vs. $6–10/sq
+        yd for reactive repair.’ Add software user videos that show live adjustments of variables
+        leading to longer and shorter pavement life, if possible in the software.
+    •   Council Communication Emphasis: Elevate the ‘Presentations to Elected Officials’
+        service from its current buried position to a featured capability on the municipal landing
+        page. This is a unique differentiator that most competitors cannot offer and directly
+        addresses the municipal buyer’s core anxiety.
+
+6.3 AEC Firms
+    •   Dedicated AEC Partner Page: Build a landing page with a distinct professional voice -
+        engineer-to-engineer, focused on data quality, QC process, integration, schedule
+        reliability, and program management capability. Use language like ‘We integrate
+        seamlessly into your project team’ rather than ‘We serve engineering firms.’
+    •   Downloadable Capability Statement: Create a one-page capability statement
+        formatted for subcontractor pre-qualification packages. Include NAICS codes, relevant
+        ASTM/AASHTO certifications, insurance and bonding information, key personnel, and
+        representative project experience.
+    •   Data Integration Section: Create a comprehensive ‘Integrations & Data Formats’
+        section listing every PMS platform ICC-IMS data integrates with (StreetSaver,
+        MicroPAVER, PAVER, Agile Assets, dTIMS, Cartegraph, Lucity, Brightly, DOT Software,
+        ArcGIS). Include data export formats (XML, CSV, SHP, KML/KMZ, PPF, ERD, PRO).
+        This directly addresses the AEC buyer’s primary concern.
+    •   QC/QA Process Documentation: Publish a QC/QA overview describing the data
+        quality assurance process, acceptance criteria, validation procedures, and the Connect
+
+
+
+We-NDT Marketing Network                                                                          Page 17
+                                                                     ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+          software’s automated QC capabilities. AEC firms need to see this to gain confidence in
+          data deliverables.
+    •     Specialized Services Highlight: Feature airfield assessment, HFST acceptance
+          testing, concrete rehab surveys, pre/post-event surveys, and continuous runway friction
+          testing as differentiating capabilities. Many AEC firms need these specialized services
+          and cannot find them easily from other subcontractors.
+    •     AEC Testimonials: Add AEC firm references - even anonymized ones like ‘A national
+          AEC firm on a multi-state DOT contract’ would strengthen credibility. Consider reaching
+          out to firms ICC-IMS has partnered with for brief testimonial quotes. We believe the ICC-
+          IMS team has already started brainstorming about this, as of the last Board meeting in
+          February.
+
+
+7. SEO Optimization Recommendations
+The following recommendations address both technical SEO fundamentals and content strategy
+for the pavement management, pavement testing equipment, and infrastructure assessment
+markets. ICC-IMS currently captures branded search traffic well but has significant gaps in non-
+branded, intent-driven keyword coverage.
+
+7.1 High-Priority Target Keywords by Segment
+
+ Segment          Target Keywords                        Current Coverage              Recommended Action
+
+                  pavement profiler equipment, IRI
+                  measurement vehicle, locked wheel
+                                                         Weak - no dedicated           DOT Solutions landing page +
+ DOT / State      friction tester, ASTM E950 profiler,
+                                                         landing pages optimized for   enhanced equipment pages with
+ Agency           network-level pavement data
+                                                         these terms                   keyword-rich content
+                  collection, FHWA LTBP pavement
+                  data, AASHTO compliant profiler
+
+                  pavement condition survey city,
+                  pavement management plan
+                  consultant, sidewalk ADA               Moderate - service pages      Municipal Solutions page + rewritten
+ Municipality /
+                  compliance survey, StreetSaver         exist but lack depth and      ESA/software pages + educational
+ County
+                  implementation, pavement               keyword optimization          content
+                  management software municipal,
+                  GASB 34 pavement
+
+                  cooperative purchasing pavement
+                                                         Very weak - Cooperative       Rewrite Cooperative Purchasing page
+ Municipality /   management, Sourcewell pavement
+                                                         Purchasing page exists but    with keyword-rich content; cross-link
+ County           survey, NASPO pavement
+                                                         not SEO-optimized             from all government audience pages
+                  management contract
+
+                  pavement data collection
+                  subcontractor, ASTM pavement           Weak - Civil Engineering
+                                                                                       AEC Partner landing page with
+ AEC Firms        survey services, pavement              Firms page has minimal
+                                                                                       keyword-optimized content
+                  condition data AEC firm, airfield      content
+                  pavement assessment service
+
+                  ICC-IMS, International Cybernetics,
+                                                                                       Maintain and strengthen branded
+                  IrisPRO, IrisGO, SurPRO, Unify         Good - branded terms
+ All Segments                                                                          presence on equipment and software
+                  pavement software, ESA pavement        reasonably well covered
+                                                                                       pages
+                  management, LCMS-2 pavement
+
+
+
+
+We-NDT Marketing Network                                                                                         Page 18
+                                                       ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+7.2 On-Page SEO Fixes
+    •   Title Tags and Meta Descriptions: Currently generic across most pages. Each page
+        needs unique, keyword-rich titles. Example: ‘IrisPRO Every Speed Profiler | Variable-
+        Speed IRI Measurement | ASTM E950 Certified | ICC-IMS’ instead of ‘IrisPRO Every
+        Speed – ICC-IMS.’
+    •   H1 Tag Optimization: H1 tags on many sub-pages are either missing or not keyword-
+        optimized. Each service and equipment page should have a clear, descriptive H1 that
+        includes the primary target keyword for that page.
+    •   Image Alt Text: Equipment images, vehicle photos, and project images throughout the
+        site have minimal or missing alt text. Every image should have descriptive alt text
+        incorporating relevant keywords. Example: ‘IrisPRO Pave pavement survey vehicle
+        equipped with LCMS-2 3D scanner’ rather than ‘vehicle photo.’
+    •   Schema Markup: Implement Organization schema site-wide, Product schema on all
+        equipment pages, Service schema on all service pages, and FAQ Page schema on FAQ
+        sections. This is basically code that directly feeds structured information into search
+        engines and AI tools. There are typically schema generator tools that utilized within
+        website design platforms.
+    •   URL Structure: Most URLs are clean, but product pages like /ESA/ and /ESwA/ should
+        use more descriptive URLs: /software/pavement-management-system-esa/ and
+        /software/sidewalk-management-eswa/. This improves both SEO and user clarity.
+    •   Internal Linking Strategy: Blog posts should link to relevant service and equipment
+        pages. Equipment pages should cross-link to relevant service pages. Market/audience
+        pages should link to specific equipment and software products. This cross-linking fabric
+        is largely absent and represents a significant missed SEO opportunity. This is also really
+        important to reduce friction within the human journey on the site as well, allowing users
+        to quickly get to the services that interest them from the content they are reading.
+
+7.3 Content SEO Strategy
+    •   Pillar Content Guides: Develop three comprehensive pillar content pieces: ‘The State
+        DOT Guide to Pavement Data Collection Equipment,’ ‘The Municipal Guide to Starting a
+        Pavement Management Program,’ and ‘The AEC Firm’s Guide to Pavement Data
+        Subcontracting.’ Each should be 3,000–5,000 words, internally linked to relevant
+        product/service pages, and optimized for both SEO and GEO.
+    •   Educational Blog Editorial Calendar: Target long-tail educational keywords: ‘how to
+        build a pavement management program,’ ‘what is a PCI score and how is it calculated,’
+        ‘how municipalities present pavement needs to elected officials,’ ‘difference between
+        network-level and project-level pavement assessment,’ ‘what is HFST and why do DOTs
+        use it,’ ‘how to write a pavement profiler procurement specification.’
+    •   Definitional Content Pages: Create short, authoritative pages for key industry terms:
+        ‘What is IRI (International Roughness Index)?’ ‘What is a Pavement Management
+        System (PMS)?’ ‘What is HFST (High Friction Surface Treatment)?’ ‘What is PCI
+
+
+We-NDT Marketing Network                                                                         Page 19
+                                                      ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+        (Pavement Condition Index)?’ These establish ICC-IMS as a topical authority and are
+        highly citable by AI tools.
+
+
+8. GEO (Generative Engine Optimization) Recommendations
+Generative Engine Optimization (GEO) refers to practices that increase the likelihood of a
+company’s website content being cited, summarized, or referenced by AI search tools including
+Google AI Overviews, Bing Copilot, Perplexity, ChatGPT search, Claude, and similar platforms.
+For B2B technical companies like ICC-IMS, GEO is becoming as important as traditional SEO
+because government agency buyers and AEC professionals are increasingly using AI tools to
+research vendors, compare solutions, and evaluate technical specifications.
+
+8.1 Why GEO Matters for ICC-IMS
+When a DOT engineer asks an AI tool ‘What companies manufacture ASTM E950-compliant
+pavement profilers?’ or a municipal public works director asks ‘Who offers cooperative
+purchasing contracts for pavement condition surveys?’ or an AEC project manager asks ‘What
+are the best pavement data collection subcontractors in the Southeast?’, the AI tool synthesizes
+information from credible, well-structured web pages with clear entity data and factual authority
+signals. ICC-IMS should be in every one of those answers. Currently, the site’s content depth,
+structural organization, and lack of schema markup make it unlikely to be prominently cited in
+AI-generated responses.
+
+8.2 GEO-Specific Recommendations
+    •   Answer-First Content Structure: Rewrite key service and equipment pages so that the
+        most important factual information appears in the first 100–150 words in clear,
+        declarative sentences. AI tools extract and cite content from the opening paragraphs of
+        well-structured pages. Example: The IrisPRO Every Speed page should open with ‘The
+        IrisPRO Every Speed (ESP) is a patented road profiling system manufactured by ICC-
+        IMS that collects accurate IRI and longitudinal profile at any vehicle speed, including
+        stop-and-go conditions. Certified to ASTM E950, AASHTO R56, AASHTO R57, and
+        TxDOT specifications.’
+    •   FAQ Sections on Every Major Page: Add FAQ sections to every service, equipment,
+        and market page, addressing the specific questions each persona would ask. FAQs with
+        FAQPage schema are among the most frequently cited content types in AI-generated
+        answers. Example questions: ‘Does the IrisPRO High Speed profiler comply with ASTM
+        E950?’ / ‘What cooperative purchasing contracts does ICC-IMS have for pavement
+        condition surveys?’ / ‘What data formats does ICC-IMS support for integration with third-
+        party PMS platforms?’
+    •   Structured Data and Schema Markup: Implement FAQPage schema on all FAQ
+        sections, Product schema on all equipment pages with specifications as structured
+        properties, Service schema on all service pages, and Organization schema site-wide
+
+
+
+
+We-NDT Marketing Network                                                                        Page 20
+                                                                  ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+         with complete entity data. This directly feeds structured information into AI tools that use
+         schema as a primary data source.
+    •    Authoritative Definitional Content: Create clearly written definitional pages for key
+         industry terms. AI tools frequently cite definitional content from authoritative industry
+         sources. ICC-IMS’s deep domain expertise positions them perfectly to create the
+         definitive web resource for terms like IRI, PCI, PMS, HFST, PROWAG, FWD, and
+         others.
+    •    Consistent Entity Data (NAP): Ensure Name, Address, Phone, and organizational
+         details are consistent across the website, Google Business Profile, LinkedIn, industry
+         directories, and all procurement databases. This may seem insignificant but AI tools use
+         entity consistency as a trust and authority signal.
+    •    Third-Party Citation Strategy: Seek citations from pavement industry associations
+         (APWA, TRB, AASHTO), press releases on industry platforms, government procurement
+         databases, and conference proceedings. AI tools weight external citations heavily when
+         determining which organizations to include in synthesized answers.
+    •    Clear Expertise and Authority Pages: Restructure About Us, Team, and History pages
+         with specific, parseable credentials: number of projects completed (1,000+), number of
+         agency clients (700+), years of combined experience (50+), number of PMS platforms
+         supported (15+), fleet size, and manufacturing capabilities, for example. AI tools use
+         these quantified credentials as authority signals.
+
+
+9. Prioritized Recommendations Master Table
+We understand that there is a LOT to digest in this report. As such, the following table organizes
+all recommendations by priority, estimated effort level, and combined SEO/GEO impact.
+‘Critical’ recommendations address issues that are actively losing conversions today. ‘High’
+recommendations are strong strategic moves with meaningful search visibility impact. ‘Medium’
+recommendations are important for long-term authority building and can be phased into the
+content roadmap.
+
+
+ Recommendation                                     Priority   Effort        SEO/GEO Impact
+
+ Restructure homepage hero with segment routing                              High - reduces bounce, increases
+                                                    Critical   Medium
+ CTAs (DOT / Municipality / AEC)                                             engagement per segment
+
+ Create dedicated DOT Solutions landing page
+                                                    Critical   Medium        High - targets uncovered DOT search terms
+ with standards compliance content
+
+                                                                             High - addresses top municipal buyer
+ Create municipal ‘How It Works’ journey page       Critical   Medium
+                                                                             question
+
+ Elevate Cooperative Purchasing into primary                                 Medium - removes procurement friction,
+                                                    Critical   Low
+ navigation and feature on all government pages                              improves conversion
+
+ Rewrite equipment pages to include standards                                High - essential for DOT/AEC credibility and
+                                                    Critical   Medium
+ compliance tables (ASTM, AASHTO, FHWA)                                      keyword coverage
+
+ Build AEC Partner / Subcontract Services landing                            High - AEC segment currently has no
+                                                    High       Medium
+ page                                                                        effective landing point
+
+
+
+
+We-NDT Marketing Network                                                                                     Page 21
+                                                                  ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+ Add FAQ sections to all major pages with                                    Very High - major GEO impact; AI tools cite
+                                                       High     Low
+ FAQPage schema                                                              FAQ content extensively
+
+ Develop downloadable spec sheets for all                                    Medium - SEO value from PDF indexing;
+                                                       High     Medium
+ equipment models                                                            high conversion value for DOT buyers
+
+ Add Data Integration & Formats section to AEC                               Medium - critical for AEC confidence;
+                                                       High     Low
+ and software pages                                                          minimal effort
+
+ Consolidate navigation: Who We Serve +
+                                                                             High - removes navigation confusion;
+ Solutions + Resources + Procurement +                 High     High
+                                                                             improves all funnel metrics
+ Company
+
+ Implement Product, Service, and Organization                                Very High - direct GEO and rich snippet
+                                                       High     Low
+ schema site-wide                                                            impact
+
+ Build Resources section (spec sheets, sample                                High - creates content hub for SEO and
+                                                       High     Medium
+ reports, whitepapers, blog)                                                 lead generation
+
+ Add segment-filtered view to Projects/Case                                  Medium - improves credibility per segment;
+                                                       High     Medium
+ Studies                                                                     reduces research friction
+
+ Develop three pillar content guides (DOT,                                   Very High - drives organic search and GEO
+                                                       Medium   High
+ Municipal, AEC)                                                             citation authority
+
+ Add ROI and budget justification content to                                 Medium - improves conversion; supports
+                                                       Medium   Low
+ municipal and DOT pages                                                     budget justification
+
+ Rewrite title tags and meta descriptions across all
+                                                       Medium   Low          High - fundamental SEO improvement
+ pages
+
+ Create definitional content pages for industry                              Very High - excellent GEO targets;
+                                                       Medium   Medium
+ terms (IRI, PCI, PMS, HFST)                                                 establishes topical authority
+
+ Develop downloadable Capability Statement for
+                                                       Medium   Low          Medium - important for AEC conversion
+ AEC pre-qualification
+
+ Add H1 optimization and image alt text throughout                           High - basic SEO hygiene with significant
+                                                       Medium   Low
+ site                                                                        ranking impact
+
+ Launch educational blog content calendar                                    High - ongoing organic traffic and GEO
+                                                       Medium   High
+ targeting long-tail keywords                                                authority growth
+
+
+
+10. Phased Implementation Roadmap
+There is a lot that can be done to revamp the ICC-IMS website to increase its efficacy as a
+marketing and sales support tool. Implementing it in phases should allow for bite-sized
+improvements without overwhelming the parties involved.
+
+The following roadmap phases recommendations into logical implementation windows. Phase 1
+addresses the most critical conversion barriers with relatively low development effort. Phase 2
+builds out the audience-specific content architecture. Phase 3 establishes ICC-IMS as the
+authoritative voice in pavement management and infrastructure assessment for long-term SEO
+and GEO dominance.
+
+Phase 1 - Foundation (Months 1–2): Fix the Friction
+The immediate priority is to reduce visitor confusion and remove the most significant barriers to
+conversion. These changes can be implemented with existing content restructured and minimal
+new content development.
+
+
+
+
+We-NDT Marketing Network                                                                                     Page 22
+                                                      ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+    •   Restructure homepage with segment routing, CTAs, and unified value proposition
+        headline
+    •   Rewrite equipment pages to include ASTM/AASHTO/FHWA standards compliance
+        tables and specifications
+    •   Add FAQ sections with FAQPage schema to the top 10–15 most visited pages
+    •   Implement Product, Service, and Organization schema markup site-wide
+    •   Rewrite all title tags and meta descriptions with keyword-optimized, page-specific
+        content
+    •   Add optimized H1 tags and descriptive image alt text across all pages
+    •   Cross-link equipment pages to relevant service pages and audience pages with
+        additional consideration to linking from blogs
+    •   Elevate Cooperative Purchasing in navigation and feature prominently on all government
+        audience pages
+
+Phase 2 - Audience Architecture (Months 3–5): Build the Journeys
+Phase 2 builds the audience-specific content infrastructure that enables each buyer persona to
+navigate a clear, relevant journey from awareness to conversion. The content from this can be
+taken from existing pages and created but some personnel while phase 1 is being implemented.
+
+    •   Build dedicated DOT Solutions landing page with standards compliance content, DOT
+        case studies, and procurement pathways
+    •   Build dedicated Municipal ‘How It Works’ landing page with step-by-step engagement
+        narrative and outcome-first language
+    •   Build dedicated AEC Partner / Subcontract Services page with integration details, QC
+        documentation, and subcontractor-focused messaging
+    •   Consolidate navigation structure: Who We Serve + Solutions + Resources +
+        Procurement + Company
+    •   Add segment-filtered view to Projects/Case Studies section with outcome-focused
+        summaries
+    •   Create Resources hub with downloadable spec sheets, sample reports, capability
+        statement, and whitepapers
+    •   Develop downloadable equipment specification sheets for all equipment models (PDF)
+    •   Create downloadable one-page Capability Statement for AEC subcontractor pre-
+        qualification
+    •   Add sample deliverable downloads (redacted pavement management report, dashboard
+        screenshot, council presentation excerpt)
+
+
+
+
+We-NDT Marketing Network                                                                        Page 23
+                                                         ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+Phase 3 - Authority and Growth (Months 6–12): Own the Conversation
+Phase 3 establishes ICC-IMS as the definitive authority in pavement management and
+infrastructure assessment, driving long-term organic search growth and ensuring prominent
+placement in AI-generated search results.
+
+    •   Develop three pillar content guides: DOT Equipment Guide, Municipal Program Guide,
+        AEC Subcontracting Guide (3,000–5,000 words each)
+    •   Launch educational blog content calendar targeting long-tail SEO keywords (2–4 posts
+        per month)
+    •   Create definitional content pages for key industry terms (IRI, PCI, PMS, HFST,
+        PROWAG, FWD, GASB 34)
+    •   Add ROI and value framing content throughout municipal and DOT pages with specific
+        metrics and outcomes
+    •   Build third-party citation strategy targeting APWA, TRB, AASHTO, and procurement
+        database listings
+    •   Consider interactive tools: ‘What Do I Need?’ pathway finder, ROI estimator for
+        municipal pavement management, and specification builder for DOT procurement
+    •   Develop video content: equipment demonstrations, client testimonial videos, software
+        walkthrough videos, and field data collection process videos
+    •   Establish a quarterly content review process to update pages with new case studies,
+        certifications, and client wins as well as consideration to the best practices in SEO and
+        GEO as they evolve
+
+
+11. Conclusion
+ICC-IMS possesses exceptional credentials, a genuinely differentiated full-service offering, and
+a proven track record across hundreds of state, local, and federal agency clients. The merger of
+ICC’s nearly 50-year equipment manufacturing heritage with IMS’s 38 years of consulting and
+services expertise created an entity that controls the complete pavement intelligence lifecycle -
+from the precision hardware that collects the data, through the proprietary software that
+processes and analyzes it, to the consulting expertise that translates data into actionable
+management plans and compelling stakeholder presentations.
+
+This is a powerful story. But the current website does not tell it clearly, and more importantly, it
+does not tell it in the language of each buyer who arrives at the site.
+
+The opportunity is significant and achievable. With a phased investment in content restructuring,
+navigation architecture, audience-specific journey design, and targeted SEO/GEO optimization,
+ICC-IMS can accomplish three critical objectives simultaneously:
+
+    •   Convert more of the qualified traffic already arriving at icc-ims.com by reducing
+        friction, routing visitors to relevant content faster, and providing the conversion assets
+
+
+
+
+We-NDT Marketing Network                                                                           Page 24
+                                                           ICC-IMS Website Journey Mapping Analysis | Confidential
+
+
+
+
+        (spec sheets, sample reports, capability statements) that each buyer persona requires to
+        take the next step.
+    •   Attract new audiences not currently finding ICC-IMS by filling the keyword gaps in
+        non-branded search terms that DOT engineers, municipal public works directors, and
+        AEC project managers actually use when researching pavement management solutions.
+    •   Establish ICC-IMS as the authoritative voice in pavement management for AI-
+        generated search by implementing the structured data, FAQ content, definitional pages,
+        and answer-first content architecture that AI tools prioritize when synthesizing responses
+        to technical queries.
+
+
+  Guiding Principle
+  The website must speak in the language of the buyer, not the language of the seller. When a
+  municipal public works director lands on the site, they should immediately see themselves, their
+  problem, and a clear path to the solution. When a DOT engineer evaluates equipment, they should
+  find the standards compliance data and specification details they need to build a procurement case.
+  When an AEC project manager assesses ICC-IMS as a potential subcontractor, they should find
+  integration details, QC documentation, and a capability statement ready to download. That clarity -
+  audience-first, outcome-focused, technically credible - is what separates a website that generates
+  sales from one that simply exists.
+
+
+
+  Recommended Next Step
+  We recommend beginning with a working session to validate the three persona profiles against ICC-
+  IMS’s actual sales data and client composition, confirm the highest-priority pages for Phase 1 content
+  rewrites, align on the navigation restructure proposal, and assign internal ownership for each phase.
+  From there, content briefs for each of the three dedicated audience landing pages can be developed
+  within two weeks, with Phase 1 implementation targeted for completion within 60 days.
+
+
+
+
+We-NDT Marketing Network                                                                             Page 25
+

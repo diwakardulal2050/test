@@ -1,0 +1,216 @@
+# PAGES 5–7 - WHO WE SERVE: AIRPORTS · CONCESSIONAIRES · FEDERAL AGENCIES
+# PAGE 5 - AIRPORTS
+URL: /who-we-serve/airports/ Primary persona: Airport Operations Manager, Airfield Engineer, Airport Planning Director Core question: “Can you handle the specialized requirements of airfield pavement assessment, including night operations at commercial airports?”
+## SEO / Metadata
+Field
+Content
+Title tag
+Airfield Pavement Assessment & Runway Friction Testing | ICC-IMS
+Meta description
+FAA-compliant airfield pavement condition surveys, runway friction testing, and HFST acceptance. High-resolution night collection for airports with operational restrictions.
+Primary keyword
+airfield pavement assessment service
+Secondary keywords
+runway friction testing, airport pavement condition survey, continuous friction measurement runway, FAA pavement management, PCI airfield
+Schema
+Service, FAQPage, BreadcrumbList
+### H1:
+H1
+Airfield Pavement Intelligence - Data Collection That Works Around Your Operations
+## Answer-first lead
+ICC-IMS provides airfield pavement condition surveys, runway friction testing, and high friction surface treatment acceptance testing for commercial and general aviation airports.
+Collection covers runways, taxiways, aprons, and service roads, producing PCI data and 3D surface imaging with sub-millimeter crack detection through LCMS-2 integration.
+Because most commercial airports permit airfield access only in a narrow overnight window, ICC-IMS operates high-resolution night-time collection as a standard capability rather than an accommodation.
+Runway friction is measured using continuous friction testing equipment manufactured by ICC-IMS. ICC-IMS has completed a full airfield assessment at Dallas Fort Worth International Airport (hyperlink) , as an example.
+## KEY FACTS PANEL
+Surfaces
+Runways · taxiways · aprons · service roads · perimeter roads
+Night operations
+High-resolution collection built for restricted access windows
+Friction
+Continuous friction measurement (DFT) · locked-wheel (SFT, ASTM E274)
+Imaging
+LCMS-2 3D scanning, sub-millimeter crack detection
+Acceptance testing
+HFST acceptance verification
+Reference project
+Dallas Fort Worth International Airport
+## SECTION 1 - The operational constraint
+### H2: The runway does not close for a pavement survey
+Airfield data collection is not a road survey performed on a runway. The binding constraint is access: at most commercial airports, the airfield is available only between the last arrival and the first departure, and that window can close without notice.
+ICC-IMS built airfield collection around that reality:
+- High-resolution night collection - imaging and laser measurement calibrated for night operation, not daylight equipment used after dark
+- Movement-area coordination - collection sequenced against operations, with crews briefed to airfield driving and radio requirements
+- Rapid mobilization and demobilization - the airfield is returned on schedule
+- Single-pass efficiency - profile, 3D surface imaging, and condition data collected together, minimizing the number of nights required
+## SECTION 2 - Services
+### H2: What we assess
+Airfield pavement condition surveys - PCI assessment across runways, taxiways, aprons, and service roads, with 3D surface imaging and GIS-referenced distress inventory. → Services /solutions/services (hyperlink)
+Runway friction testing - Continuous friction measurement across the full runway length, identifying degraded friction zones rather than sampling discrete points. Locked-wheel testing available where ASTM E274 measurement is specified. → DFT Continuous /solutions/equipment/dft-continuous (hyperlink) · SFT Locked Wheel /solutions/equipment/sft-locked-wheel (hyperlink)
+HFST acceptance testing - Verification that high friction surface treatments meet specified friction values.
+Pavement management planning - Condition data converted into a prioritized, budgeted rehabilitation program for capital planning and grant applications.
+Pre- and post-event surveys - Baseline and post-event damage assessment for airports in hurricane or flood-exposed regions.
+## SECTION 3 - Compliance context
+### H2: FAA pavement management
+Airport pavement management obligations are tied to federal funding. Airports receiving AIP funding are generally required to maintain a pavement management program with periodic condition assessment, and PCI is the standard condition metric. Sponsor assurances tie continued eligibility to maintaining the pavement in safe and serviceable condition.
+Condition data that is current, defensible, and produced by a repeatable automated method is the foundation of that program - and of a competitive grant application.
+[ICC-IMS to confirm which FAA Advisory Circulars to cite explicitly - typically AC 150/5380-7 (Airport Pavement Management Program) and AC 150/5320-12 (Measurement, Construction, and Maintenance of Skid Resistant Airport Pavement Surfaces). Citing the specific AC numbers is valuable for both SEO and GEO. Verify current revisions before publication.]
+## SECTION 4 - Reference project
+### H2: Dallas Fort Worth International Airport
+DFW is among the largest and busiest airfields in the world, with correspondingly narrow access windows and a very large pavement inventory.
+→ Read the DFW International Airport case study /projects/dfw-international-airport (hyperlink)
+## SECTION 5 - FAQ
+### H3: Can ICC-IMS collect airfield pavement data at night?
+Yes. High-resolution night-time collection is a standard capability developed for commercial airports where airfield access is limited to the window between last arrival and first departure.
+### H3: What airfield surfaces can ICC-IMS survey?
+Runways, taxiways, aprons, service roads, and perimeter roads.
+### H3: How does ICC-IMS measure runway friction?
+Through continuous friction measurement, which records friction along the full runway length rather than sampling discrete points, and through locked-wheel testing where ASTM E274 measurement is specified.
+### H3: Does ICC-IMS perform HFST acceptance testing?
+Yes. High friction surface treatment acceptance testing verifies that installed treatments meet specified friction values.
+### H3: What condition index does ICC-IMS report for airfield pavement?
+PCI (Pavement Condition Index), the standard metric for airfield pavement management, derived from automated 3D imaging and laser-based distress measurement.
+### H3: Does ICC-IMS work directly with airports or through engineering firms?
+Both. ICC-IMS contracts directly with airport sponsors and works as a subcontractor to AEC firms holding airfield engineering contracts. → AEC Partner Services
+## CTA BLOCK
+Primary: Request an Airfield Assessment Consultation Secondary: View Airport Case Studies · Download Capability Statement
+## INTERNAL LINKS
+/solutions/services/ · /solutions/equipment/dft-continuous/ · /solutions/equipment/sft-locked-wheel/ · /solutions/equipment/irispro-pave/ · /projects/dfw-international-airport/ ·
+## IMAGE ALT TEXT
+- Night-time airfield pavement data collection on a commercial airport runway
+- Continuous friction testing equipment measuring runway surface friction
+- LCMS-2 3D scan of airfield pavement showing sub-millimeter crack detection
+# PAGE 6 - CONCESSIONAIRES & PPP
+URL: /who-we-serve/concessionaires/ Primary persona: Concessionaire Asset Manager, PPP Asset Manager, Toll Road Operations Director Core questions: “Can you provide consistent, repeatable data collection and reporting that meets our concession agreement’s performance requirements?” and “Can you ultimately save us money?”
+## SEO / Metadata
+Field
+Content
+Title tag
+Toll Road & PPP Pavement Performance Monitoring | ICC-IMS
+Meta description
+Repeatable pavement performance monitoring and compliance reporting for toll road and PPP concessions, with lifecycle cost modeling to reduce handback and O&M exposure.
+H1
+Performance Monitoring and Lifecycle Optimization for Toll Roads and PPP Highways
+Primary keyword
+toll road pavement performance monitoring
+Secondary keywords
+PPP pavement compliance reporting, concession agreement pavement performance, highway lifecycle cost analysis, pavement handback condition
+Schema
+Service, FAQPage, BreadcrumbList
+### H1: Easily optimize your pavement condition over the life-cycle of your asset with defensible data
+## Answer-first lead
+ICC-IMS provides pavement performance monitoring, compliance reporting, and lifecycle cost analysis for toll road and public-private partnership highway concessions.
+Concession agreements typically specify pavement performance thresholds - roughness, rutting, cracking, and friction - that must be measured and reported on a fixed schedule, with financial consequences for non-compliance and defined handback condition requirements at term end.
+ICC-IMS collects that data using ASTM E950 and AASHTO-certified equipment it manufactures, with a documented QC process producing year-over-year comparability.
+Consistent methodology across the concession term is what makes trend data defensible in a compliance dispute and reliable as an input to lifecycle cost modeling.
+## KEY FACTS PANEL
+Metrics
+IRI · rutting · cracking and distress · friction · texture
+Standards
+ASTM E950 · AASHTO R56/R57 · ASTM E274
+Repeatability
+Cross-correlations typically 0.97–0.99
+Consistency
+Same equipment, same methodology, same processing across the concession term
+Analysis
+Lifecycle cost modeling · deterioration projection · treatment timing optimization
+## SECTION 1 - Why methodology consistency is the whole point
+### H2: A trend line is only as good as the method behind it
+For a concession, pavement data is not a maintenance planning tool. It is a contractual instrument. Performance thresholds trigger obligations. Handback condition determines end-of-term exposure. Reported values can be disputed.
+That makes measurement consistency more valuable than any single measurement. If year three was collected on different equipment, processed under a different method, and scored against different criteria than year one, the trend between them is not evidence - it is noise, and a counterparty will say so.
+ICC-IMS delivers consistency because it controls the full chain: equipment we manufacture, calibration and validation we perform, processing on our own platform, against published pass/fail criteria. Nothing in that chain is subcontracted to a party who might change it.
+## SECTION 2 - Services
+### H2: Monitoring and reporting
+Performance monitoring tied to concession requirements - Collection scoped and scheduled around the specific metrics and thresholds in your agreement.
+Compliance reporting - Reporting formatted to the agreement’s requirements, with underlying data and QC documentation retained and available.
+Year-over-year trend analysis - Comparable data across the concession term, showing deterioration rate against modeled expectations.
+Friction and safety monitoring - Continuous friction measurement across the corridor.
+Lifecycle cost optimization - Modeling of treatment timing and strategy against total cost of ownership over the remaining term.
+Handback condition planning - Projection of network condition against handback requirements, with the analysis to determine what needs to be done, when, to meet the threshold at the lowest present cost.
+→ All services  /solutions/services (hyperlink)
+## SECTION 3 - The financial case
+### H2: Where the money actually is
+On a long-term concession, the largest controllable pavement cost is treatment timing. Treating too early wastes remaining service life. Treating too late moves the section into a more expensive treatment category and can breach a performance threshold along the way.
+Optimizing that timing across a corridor requires two things: condition data accurate enough to model deterioration, and a model calibrated to how your pavement is actually behaving rather than a generic curve.
+Sample deliverable: [ICC-IMS to produce - a one-page ROI / lifecycle cost example walking from data collection through scenario planning to a total-cost-of-ownership comparison.]
+## SECTION 4 - FAQ
+### H3: Can ICC-IMS collect data to the specific metrics in our concession agreement?
+Yes. Collection is scoped to the metrics and thresholds specified in the agreement - typically IRI, rutting, cracking and distress, friction, and texture - on the schedule the agreement requires.
+### H3: How does ICC-IMS ensure year-over-year data comparability?
+By holding methodology constant across the term: the same equipment, calibrated against dedicated validation sites, processed on the same platform, scored against the same published acceptance criteria. Equipment is manufactured in-house, so the measurement chain does not change when a supplier does.
+### H3: What is the repeatability of ICC-IMS pavement data?
+Cross-correlations typically range from 0.97 to 0.99 depending on surface type.
+### H3: Can ICC-IMS support handback condition planning?
+Yes. Condition data and deterioration modeling can be projected against handback requirements to determine what treatment is required, and when, to meet the threshold at the lowest present cost.
+### H3: Does ICC-IMS provide the lifecycle cost analysis, or only the data?
+Both. ICC-IMS employs pavement engineers who perform lifecycle cost analysis, treatment strategy modeling, and budget scenario development using the collected data.
+## CTA BLOCK
+Primary: Request a Performance Monitoring Consultation Secondary: Request the Lifecycle Cost One-Sheet
+## INTERNAL LINKS
+/solutions/services/ · /solutions/equipment/irispro-pave/ · /solutions/equipment/dft-continuous/ · /solutions/software/pavement-management-esa/ · /company/contact/
+# PAGE 7 - FEDERAL AGENCIES
+URL: /who-we-serve/federal-agencies/ Primary persona: Federal pavement and infrastructure program managers, military installation public works, federal facility engineers
+## SEO / Metadata
+Field
+Content
+Title tag
+Federal Pavement Data Collection & Assessment Services | ICC-IMS
+Meta description
+Pavement condition assessment and profiling for federal agencies and military installations. US-manufactured equipment, PAVER-compatible deliverables, TXShare available.
+H1
+Pavement Assessment for Federal Agencies and Military Installations
+Primary keyword
+federal pavement data collection services
+Secondary keywords
+military installation pavement assessment, PAVER pavement management federal, FHWA LTBP pavement data, federal facility pavement condition survey
+Schema
+Service, FAQPage, BreadcrumbList
+### H1: Delivering equipment and services from our headquarters in FL with Federal specs and standards in mind.
+## Answer-first lead
+ICC-IMS provides pavement condition assessment, profiling, and friction testing for federal agencies, military installations, and federal facilities.
+All equipment is designed and manufactured in the United States at the company’s Largo, Florida facility and is certified to ASTM E950, AASHTO R56, AASHTO R57, and TxDOT specifications.
+Deliverables export to PAVER and MicroPAVER, the standard pavement management platforms for federal and military installations, as well as ArcGIS and other systems.
+Federal agencies may procure through the TXShare cooperative purchasing program, which is open to federal entities nationwide, or through standard federal acquisition processes.
+## KEY FACTS PANEL
+Manufacturing
+Designed and built in Largo, Florida - US-manufactured throughout
+Standards
+ASTM E950 · AASHTO R56/R57 · ASTM E274 · TxDOT
+Platforms
+PAVER · MicroPAVER · ArcGIS · 15+ others
+Program support
+FHWA LTBP · HPMS reporting · MAP-21 / FAST Act certification sites
+Procurement
+TXShare cooperative agreement (open to federal agencies) · [GSA - Open Item #1]
+## SECTION 1 - Capabilities
+### H2: What we assess
+Roadway and facility pavement condition surveys - Automated 3D condition assessment across installation road networks, parking areas, and access roads, delivered PAVER-ready.
+Airfield pavement assessment - Runways, taxiways, and aprons at military and federal airfields, including night-window collection. → Airport solutions /who-we-serve/airports (hyperlink)
+Profiling and smoothness - ASTM E950 Class 1 inertial profiling for construction acceptance and network assessment.
+Friction testing - ASTM E274 locked-wheel and continuous friction measurement.
+Reference devices for certification sites - The SurPRO walking-speed reference profiler supports the certification sites states are required to maintain under MAP-21 and the FAST Act. → SurPRO /solutions/equipment/surpro-reference (hyperlink
+FHWA LTBP program support - Data collection aligned to Long-Term Bridge Performance and related federal research program requirements.
+HPMS data support - Collection and formatting aligned to Highway Performance Monitoring System reporting.
+## SECTION 2 - Domestic manufacturing
+### H2: Built in the United States
+Every profiler, friction tester, and survey vehicle system is designed and manufactured at ICC-IMS’s 15,000 square foot facility in Largo, Florida, supported by $1.1M of parts held on hand. For federal acquisitions with domestic sourcing preferences or requirements, this is relevant to the acquisition record.
+[ICC-IMS to confirm formal Buy American Act / Trade Agreements Act compliance status and whether any product qualifies as a domestic end product under FAR Part 25. This claim should be stated precisely or not at all - federal contracting officers verify it.]
+## SECTION 3 - Procurement
+### H2: Federal contract pathways
+TXShare cooperative purchasing - The TXShare Cooperative Purchasing Program is explicitly open to federal agencies. Participation is free, requires an Interlocal Agreement typically executed within one business day, and contracts are procured under Uniform Guidance (2 CFR 200).
+→ Procurement (hyperlink)
+## SECTION 4 - FAQ
+### H3: Is ICC-IMS equipment manufactured in the United States?
+Yes. All equipment is designed and built at the company’s 15,000 square foot facility in Largo, Florida.
+### H3: Can ICC-IMS deliver data into PAVER or MicroPAVER?
+Yes. PAVER and MicroPAVER are supported delivery destinations, along with ArcGIS and 15+ other platforms.
+### H3: Can federal agencies use the TXShare cooperative purchasing program?
+Yes. TXShare is open to public agencies at the municipal, state, and federal levels nationwide, at no cost.
+### H3: Does ICC-IMS support FHWA LTBP data requirements?
+ICC-IMS equipment and services support data collection aligned to FHWA Long-Term Bridge Performance program requirements. Contact us to confirm alignment with a specific data collection protocol.
+### H3: What is required for a DOT certification site under MAP-21?
+MAP-21 and the FAST Act require state DOTs to maintain certification sites for validating inertial profiler accuracy, which requires a walking-speed reference device. The SurPRO Reference Profiler serves this function. → SurPRO
+## CTA BLOCK
+Primary: Request a Federal Program Consultation Secondary: View Contract Vehicles · Download Capability Statement
+## INTERNAL LINKS
+/solutions/equipment/surpro-reference/ · /solutions/services/ · /who-we-serve/airports/ · /procurement/ · /resources/capability-statement/

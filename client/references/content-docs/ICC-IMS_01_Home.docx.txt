@@ -1,0 +1,155 @@
+# PAGE 1 - HOME
+URL: icc-ims.com
+/ Priority: Critical Primary persona: All three (routing page) Replaces: Current homepage
+## SEO / Metadata
+Field
+Content
+Title tag
+Pavement Data Collection Equipment, Services & Software | ICC-IMS
+Meta description
+ASTM and AASHTO certified pavement profilers, full-service condition surveys, and pavement management software. Serving 700+ agencies since 1976. US-manufactured.
+H1
+The Complete Pavement Intelligence Platform - From Data Collection to Decision-Making
+Primary keyword
+pavement data collection equipment and services
+Secondary keywords
+pavement management software, pavement condition survey, ASTM E950 profiler, pavement management consultant, pavement testing, friction testing
+Schema
+Organization, WebSite (with SearchAction), BreadcrumbList
+## HERO SECTION
+### H1
+Complete Pavement Intelligence - From Data Collection to Decision-Making
+### Answer-first lead (GEO-critical - first 100 words, keep declarative)
+ICC-IMS = End-to-end pavement management: we build the equipment, collect the data, and deliver the software that turns it into funded projects.
+What we do
+- Design and manufacture pavement data collection equipment in the United States
+- Perform field data collection
+- Provide pavement engineering consulting
+- Build the software that converts raw data into funded projects
+Who we are
+Formed in 2022 by the merger of two established firms:
+- International Cybernetics Company — profiler and friction tester manufacturer, over 50 years in business
+- IMS Infrastructure Management Services — pavement management consultancy with 38 years of agency experience
+Certifications
+Equipment certified to ASTM E950, AASHTO R56, AASHTO R57, and TxDOT specifications.
+Who we serve
+- State DOTs
+- Counties and municipalities
+- AEC firms
+- Airports and concessionaires
+- Federal agencies
+### Segment routing - three primary CTAs
+Design note: These three buttons are the single most important element on the page. They must appear above the fold, be equally weighted, and be visible on mobile without scrolling. This is the mechanism that fixes the site’s core problem - visitors currently have no way to self-identify.
+▸ I work for a State DOT (hyperlinked button) Profilers, friction testers, reference devices, and network-level data collection built to ASTM and AASHTO standards. → State DOT Solutions /who-we-serve/state-dots/
+▸ I work for a City or County (hyperlinked button) Condition surveys, pavement management plans, budget scenarios, and council-ready presentations. → Municipal & County Solutions /who-we-serve/municipalities-counties/
+▸ I work for an AEC Firm (hyperlinked button) Subcontract data collection with the QC documentation, data formats, and schedule reliability your project needs. → AEC Partner Services /who-we-serve/aec-firms/
+Secondary routing line (text links, smaller): Also serving → Airports · Concessionaires & PPP · Federal Agencies
+## TRUST BAR (immediately below hero)
+Design note: Static numbers, not animated counters. Animated counters do not render as text for AI crawlers and are invisible to GEO. If the animation is kept for visual effect, we request that the values also exist in the page HTML.
+50 years
+of US equipment manufacturing
+700+
+agencies served (confirm - Open Item #2)
+$5M
+invested in the Unify™ software suite
+15+
+pavement management platforms supported
+Largest
+municipal data collection fleet in the industry
+## SECTION 2 - Three pillars, one lifecycle
+### H2: One company controls the entire chain - from the laser to the council vote
+Most pavement vendors do one thing. They sell you a machine, or they collect your data, or they license you software. When the pieces come from three vendors, the seams become your problem: data that will not import, a QC dispute nobody owns, a report that arrives too late for the budget cycle.
+ICC-IMS builds all three pieces with the subject matter experts to back it up, so there are no seams. We have served 39 state DOTs, countless municipalities,  and have provided equipment to 37 countries across 6 continents.
+▸ Equipment - designed and built in Largo, Florida Inertial profilers, 3D pavement survey vehicles, locked-wheel and continuous friction testers, and walking-speed reference devices. Certified to ASTM, AASHTO, and TxDOT specifications, and backed by a $1.1M on-hand parts inventory so a downed unit does not become a lost season. → Explore Equipment (hyperlink)
+▸ Services - the largest municipal collection fleet in the industry Network-level and project-level condition surveys, sidewalk and ADA/PROWAG assessments, friction testing, airfield surveys, pavement management plans, budget scenario analysis, and presentations to elected officials. → Explore Services (hyperlink)
+▸ Software - a $5M platform built to remove the bottlenecks The Unify™ suite manages field collection, automates QC, and publishes results to stakeholders. ESA runs your pavement management program; ESWA runs your sidewalk program. And when you already own a PMS, we deliver into it. → Explore Software (hyperlink)
+## SECTION 3 - Social proof, organized by segment
+Design note: The current site rotates all testimonials in one undifferentiated carousel. A DOT engineer reading a small-city testimonial concludes the company is not for them. Group them. Each group links to its audience page.
+### H2: What agencies say
+State DOTs
+“With data quality being the cornerstone of any asset management department, it is without hesitation we can state that ICC holds their data to the highest of standards. WYDOT is pleased to recommend ICC for any pavement data collection needs.” Ethan Crockett, PE - Pavement Management and Research Engineer, Wyoming DOT
+“Inform has not only met but surpassed our expectations. It is quick, exceptionally responsive, requires no IT involvement, and is incredibly user-friendly for individuals of all levels.” Robert Bush - Program Manager, Arizona DOT
+→ See DOT Solutions (hyperlink)
+Counties & Municipalities
+“IMS gave us actual, hard data - and a clearer picture of our streets to bring to City Council.” Barry Murphy - City Manager, Baker City, OR
+“We briefly tried an AI-based approach with windshield-mounted cell phones. We quickly returned to IMS when the results didn’t meet our expectations.” Ryan Hague - Pavement Manager, Edmonds, WA
+“The project gave us the data we needed to resolve our project issues - specifically how patching factors into the Pavement Condition Index (PCI). Very impressive.” Harold Hutson - Senior Engineer, Rock Springs, WY
+“I have personally worked with IMS since 2017 and the Lake County Division of Transportation has had annual contracts with IMS since 1986.” Julian Rozwadowski, PE - Pavement Management Coordinator, Lake County, IL
+“IMS has completed three street condition surveys for the City of Dunwoody over the last 12 years and the City has been very satisfied with their expertise, professionalism, and customer service.” Michael Smith, PE - Public Works Director, City of Dunwoody, GA
+→ See Municipal & County Solutions (hyperlink)
+Engineering Partners
+“ICC-IMS consistently delivers high-quality work with exceptional accuracy, responsiveness, and professionalism. Their team operates as a true partner, seamlessly integrating with our staff and contributing to the success of every project.” - Kevin Stone, PE,  Associate, Kimley-Horn.
+“As our partnership with ICC-IMS has grown, so has our confidence in their team. They've been collaborative, transparent, and dependable, and we've developed a strong rhythm for delivering projects together. We appreciate their willingness to work through challenges, align expectations, and focus on successful outcomes for our shared clients.” - Becca Ruffin, Product Manager, Withers Ravenel
+ICC-IMS has been a great partner to Infrasense. We rely on their team for pavement data collection services, while they regularly engage us for specialized GPR testing. It’s a strong two-way partnership between two national firms with complementary expertise and a shared focus on delivering high-quality infrastructure evaluation services. - Adam Carmichael, President, Infrasense
+→ See AEC Partner Services (hyperlink)
+[NOTE for Mollie: We like to use logo walls, as they are very powerful but we can discuss further if you’d like]
+Client logo wall: PennDOT · FDOT · WYDOT · ADOT · NDOT · DelDOT · Port of San Diego · Glendale AZ · Fort Collins CO · Riverside CA · Lakeland FL · Peachtree Corners GA · Minnetonka MN · Moore OK · Lancaster TX · Harvard IL · Camden SC
+## SECTION 4 - Featured outcomes
+### H2: Three projects, three different problems
+Design note: One per primary segment. Headline the outcome, not the geography. The current site titles case studies by city name, which tells the reader nothing about relevance.
+▸ How Arizona DOT gave every district access to pavement data without involving IT Inform delivered statewide condition data through a browser-based interface that required no IT deployment. → Read the case study (hyperlink)
+▸ How Long Beach, California built a defensible, data-driven pavement program A full network automated condition survey became a prioritized management plan and a funded capital program. → Read the case study (hyperlink)
+▸ How DFW International Airport got airfield condition data without disrupting operations High-resolution night collection across runways, taxiways, and aprons, sequenced around live flight operations. → Read the case study (hyperlink)
+→ Browse all projects by segment, service, and outcome (hyperlink)
+## SECTION 5 - Procurement accelerator banner
+Design note: Persistent banner or dedicated band. In the journey analysis we identified the buried cooperative purchasing as one of the highest-cost, lowest-effort fixes on the site.
+### H2: Already have budget? You may not need an RFP.
+ICC-IMS holds a Master Services Agreement for Pavement Analysis Services through the TXShare Cooperative Purchasing Program, administered by the North Central Texas Council of Governments. TXShare is open to public agencies nationwide - municipal, state, and federal - at no cost. Agencies join by signing an Interlocal Agreement, which is typically executed within one business day. Once executed, you can contract immediately.
+TXShare contracts are competitively sourced and independently evaluated under Uniform Guidance (2 CFR 200) and Texas Local Government Code standards. IMS received the highest-rated response for Pavement Analysis Services in 2023.
+→ See cooperative purchasing options (hyperlink)
+## SECTION 6 - Why ICC-IMS
+### H2: One organization, one accountable team
+International Cybernetics Company and IMS Infrastructure Management Services merged in 2022. ICC brought nearly 50 years of building precision data collection equipment for agencies worldwide. IMS brought 38 years of guiding county and municipal decision-making. Both companies were built in the United States, and both are still here.
+Built in-house, from design to delivery. Our equipment is designed, manufactured, and assembled by our team across U.S. and Canadian operations. Every profiler, friction tester, and survey vehicle is built in our 15,000 square foot facility in Largo, Florida - backed by $1.1M in parts held on hand so service never waits on a supply chain.
+Data quality is a documented process, not a promise. Equipment certification, dedicated data validation sites, routine verification procedures, published pass/fail criteria, and a defined corrective action process when data does not pass.
+The software was built because the alternatives were slow. A $5M investment in the Unify™ suite produced faster turnaround and higher-quality data than the industry standard workflow allowed.
+→ About ICC-IMS (hyperlink)
+## SECTION 7 - FAQ (implement with FAQPage schema - Format data: Use JSON-LD format, which is recommended by search engines.)
+### H3: What does ICC-IMS do?
+ICC-IMS
+- Manufactures pavement data collection equipment
+- Performs pavement data collection services
+- Provides engineering consulting services
+- Develops pavement management software
+[DESIGN NOTE: When possible please use the red chevron in the logo as the bullets for the bullet pointed lists]
+We cover the full lifecycle:
+- Hardware that measures the pavement
+- Field crews and processing that produce the data
+- Analysis and software that turn it into a funded maintenance program.
+### H3: What standards is ICC-IMS equipment certified to?
+- ICC-IMS profilers are certified to ASTM E950, AASHTO R56, AASHTO R57, and TxDOT specifications.
+- The IrisPRO Every Speed profiler achieved 2026 iCART Certification in Illinois, passing on all pavement types.
+- Friction testing equipment supports ASTM E274 locked-wheel testing and continuous friction measurement. Full model-by-model compliance is published in the equipment standards matrix. (hyperlink)
+### H3: Does ICC-IMS sell equipment, provide services, or both?
+Both, and they can be purchased independently.
+Some agencies buy equipment and run their own collection programs. Some contract ICC-IMS to collect and process everything. Some do both - buying a reference device while contracting network collection. There is no requirement to bundle. Our analysis software is also available.
+### H3: Can ICC-IMS deliver data into the pavement management system we already use?
+Yes.
+ICC-IMS delivers into 15+ third-party platforms including StreetSaver, MicroPAVER, PAVER, Agile Assets, dTIMS, Cartegraph, Lucity, Brightly, and ArcGIS, in formats including XML, CSV, SHP, KML/KMZ, PPF, ERD, and PRO. Using ICC-IMS software is not a condition of using ICC-IMS services. See integrations.
+### H3: Is ICC-IMS equipment made in the United States?
+Yes. All equipment is designed and manufactured at the company’s 15,000 square foot facility in Largo, Florida.
+### H3: How do public agencies purchase from ICC-IMS?
+Agencies can procure through a standard RFP or IFB process, or use the TXShare cooperative purchasing agreement to skip the solicitation entirely. TXShare is open to public agencies nationwide at no cost and typically activates within one business day of signing an Interlocal Agreement. See Procurement. (hyperlink)
+### H3: Where is ICC-IMS located?
+ICC-IMS is headquartered at 10630 75th Street, Largo, FL 33777. Phone: +1 727-547-0696 (USA) or +1 289-807-4371 (Canada). Email: sales@icc-ims.com.
+## CLOSING CTA BLOCK
+### H2: Tell us what you’re facing.
+Book a Discovery Call - 30 minutes with an engineer, not a salesperson. Request a Quote - Equipment, services, or software. Download the Capability Statement - One page, formatted for pre-qualification packages.
+## INTERNAL LINKS FROM THIS PAGE
+/who-we-serve/state-dots/ · /who-we-serve/municipalities-counties/ · /who-we-serve/aec-firms/ · /who-we-serve/airports/ · /who-we-serve/concessionaires/ · /who-we-serve/federal-agencies/ · /solutions/equipment/ · /solutions/services/ · /solutions/software/ · /solutions/software/integrations/ · /projects/ · /procurement/ · /procurement/cooperative-purchasing/ · /company/about/
+## SCHEMA TO IMPLEMENT
+- Organization - legal name, alternate names (ICC, IMS, International Cybernetics Company, Infrastructure Management Services), founding date, merger date, address, phone, email, logo, sameAs (LinkedIn), areaServed, numberOfEmployees
+- WebSite with SearchAction
+- FAQPage on the FAQ section
+- BreadcrumbList
+## IMAGE ALT TEXT
+Image
+Alt text
+Hero vehicle
+IrisPRO Pave pavement survey vehicle collecting 3D pavement condition data on a highway
+Equipment pillar
+ICC-IMS inertial profiler mounted to a Ford F-series truck for IRI data collection
+Services pillar
+ICC-IMS field crew conducting an automated pavement condition survey
+Software pillar
+Unify Inform dashboard displaying GIS-mapped pavement condition data by street segment

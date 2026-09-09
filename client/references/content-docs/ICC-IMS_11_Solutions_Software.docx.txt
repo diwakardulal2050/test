@@ -1,0 +1,519 @@
+# ICC-IMS Website Content Build
+## Solutions › Software: Overview Page + 6 Platform Pages
+## 1. Page 1 - Software Overview
+Element
+Value
+URL
+/solutions/software/
+Title tag
+Pavement Management Software | ICC-IMS
+Meta description
+Software for the full pavement data lifecycle: collection management, automated QC, pavement and sidewalk management, and stakeholder dashboards.
+H1
+Pavement Software: From Field Collection to the Council Chamber
+### Answer-first lead
+ICC-IMS develops software covering the complete pavement data lifecycle.
+The Unify suite manages the workflow
+- Unify Drive for field collection,
+- Unify Connect for automated QC and validation,
+- Unify Inform for stakeholder visualization.
+ESA is the pavement management system
+ESWA is the sidewalk management system,
+ESA and ESWA convert validated condition data into treatment decisions and budget scenarios.
+ICC-IMS has invested $5M in the Unify software suite, and supports data delivery into more than [CONFIRM number] third-party pavement management platforms.
+### Key facts panel
+Investment
+$5M in the Unify software suite
+Workflow platforms
+Unify Drive (collection) · Unify Connect (QC) · Unify Inform (visualization)
+Management systems
+ESA (pavement) · ESWA (sidewalks)
+Third-party platforms supported
+[CONFIRM] including StreetSaver, MicroPAVER, PAVER, Cartegraph, Lucity, Brightly, dTIMS, Agile Assets, ArcGIS
+Export formats
+XML · CSV · SHP · KML/KMZ · PPF · ERD · PRO
+Delivery
+Web-based / SaaS [CONFIRM: deployment model per platform ]
+### Body sections
+#### Which software do I need?
+If you need to…
+Platform
+(Note: hyperlink each below)
+Plan and monitor field data collection
+Unify Drive
+Validate collected data and document the QC
+Unify Connect
+Decide which roads to treat, when, at what cost
+ESA
+Manage sidewalk condition and ADA compliance
+ESWA
+Show findings to a council, an executive, or the public
+Unify Inform
+Keep the data in the system you already use
+Integrations & Data Formats
+#### How the pieces fit together
+One data flow, four stages:
+Stage
+What happens
+Software Platform
+Collect
+Field data collection is planned, monitored, and managed
+Unify Drive
+Validate
+Data is automatically QC’d against acceptance criteria
+Unify Connect
+Manage
+Condition data becomes treatment decisions and budget scenarios
+ESA (pavement) · ESWA (sidewalks)
+Communicate
+Findings are visualized for councils, executives, and the public
+Unify Inform
+And one path out: Integrations & Data Formats (hyperlink /solutions/software/integrations)  - for agencies and firms that manage their data somewhere else.
+Unify (hyperlink) is the workflow: getting data collected, validated, and communicated.
+ESA and ESWA (hyperlink both) are the management systems: turning validated data into decisions about pavements and sidewalks.
+Agencies do not need all of it. Most start with one piece - commonly ESA after a first condition survey, or Inform when a presentation is coming - and add as needs develop.
+#### Do we have to use ICC-IMS software?
+No.
+Agencies running StreetSaver, MicroPAVER, Cartegraph, dTIMS, Agile Assets, Lucity, Brightly, or ArcGIS receive their data in that system. There is no requirement to adopt ICC-IMS software to work with ICC-IMS, and no penalty in data quality or delivery for choosing not to. See Integrations & Data Formats (hyperlink).
+#### What does it cost?
+[CONFIRM - pricing model and whether any of it can be published - per-platform licensing, per-centerline-mile, bundled with services, or subscription. The journey analysis names “what will it cost” as one of three questions a municipal buyer arrives with and cannot answer anywhere on the site. Publishing even a structure - “licensed annually, priced by network size, typically bundled with a monitoring contract” - without dollar figures would resolve most of the frustration.]
+### FAQ block
+What software does ICC-IMS offer? The Unify suite - Drive for field collection management, Connect for automated QC, Inform for stakeholder visualization - plus ESA for pavement management and ESWA for sidewalk management.
+What is the difference between Unify and ESA? Unify is the workflow: it gets data collected, validated, and communicated. ESA is the management system: it turns validated condition data into treatment decisions, priorities, and budget scenarios.
+Do we have to use ICC-IMS software to work with ICC-IMS? No. Data can be delivered into your existing pavement management platform, including StreetSaver, MicroPAVER, Cartegraph, Lucity, Brightly, dTIMS, Agile Assets, and ArcGIS.
+Is the software web-based? [CONFIRM deployment model by platform.]
+How much does the software cost? [CONFIRM.]
+Can we try it before committing? [CONFIRM  demo, sandbox, or trial availability. A live demo request is a strong high-commitment CTA and it should have a real process behind it.]
+### Schema notes
+- SoftwareApplication schema for each platform, with applicationCategory and operatingSystem, aggregated in an ItemList on this page.
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Software.
+- The Unify-versus-ESA distinction answer is the most important single FAQ item in this document. It resolves the confusion the journey analysis identified, and it is the kind of clarifying answer AI engines cite directly.
+### Internal links
+All six platform pages · /solutions/services/ · /who-we-serve/municipalities-counties/ · /who-we-serve/state-dots/ · /who-we-serve/aec-firms/ · /resources/ · /projects/
+### CTAs
+- Watch a 3-Minute Platform Tour
+- Request a Live Demo
+## 2. Page 2 - Unify Drive (Field Collection Management)
+Element
+Value
+URL
+/solutions/software/unify-drive/
+Title tag
+Unify Drive | Field Data Collection Management
+Meta description
+Unify Drive manages pavement data collection in the field: route planning, real-time collection monitoring, and fleet management across survey vehicles.
+H1
+Unify Drive: Route Planning and Real-Time Collection Management
+### Answer-first lead
+Unify Drive is the field data collection management platform in the ICC-IMS Unify suite.
+It handles route planning, real-time collection monitoring, and fleet management for pavement data collection vehicles - showing operators and managers what has been collected, what remains, and whether collection is running within acceptable parameters while crews are still in the field.
+Unify Drive is used across the ICC-IMS collection fleet, the largest fleet of municipal and county data collection vehicles in the industry.
+### Key facts panel
+Function
+Field collection management
+Capabilities
+Route planning · real-time collection monitoring · fleet management
+Used by
+ICC-IMS’s own collection fleet, plus agency and firm-owned fleets
+Position in workflow
+Stage 1 - Collect
+Deployment
+[CONFIRM: in-vehicle, web, mobile]
+### Body sections
+#### The problem with finding out later
+The expensive failure in field data collection is discovering a problem after the crew has left. A sensor drifting out of tolerance, a missed segment, a route run in the wrong direction, a GPS dropout across a corridor - each of these is a minor fix on the day and a remobilization a week later.
+Unify Drive addresses that by moving monitoring into the vehicle in real time. Collection quality is visible while the crew is still on the network and while the fix can be addressed more cost effectively.
+#### What Unify Drive does
+Route planning. Collection routes built against the network inventory, sequenced for efficient coverage, with progress tracked against the plan. On a large network, the difference between a planned route set and improvised coverage is measured in days.
+Real-time collection monitoring. Live visibility into what is being collected and whether it meets parameters, so problems surface during the shift.
+Fleet management. Multiple vehicles and crews coordinated across a program - who is collecting what, where, and how much of the network is complete.
+#### Who uses it
+ICC-IMS crews, across the largest municipal and county collection fleet in the industry. Every capability on this page is proven in daily production use rather than in demonstration.
+Agencies and firms operating their own fleets - state DOTs running in-house collection programs and AEC firms with owned collection capability. [CONFIRM whether Unify Drive is licensed separately to equipment purchasers, bundled with equipment, or both. An agency buying an IrisPRO needs to know whether collection management software is included.]
+#### How Drive connects to the rest of the workflow
+Collected data passes to Unify Connect (hyperlink) for automated QC and validation, then into ESA (hyperlink) or the agency’s own system for management analysis.
+### FAQ block
+What is Unify Drive? Unify Drive is the field data collection management platform in the ICC-IMS Unify suite, covering route planning, real-time collection monitoring, and fleet management.
+Can we monitor data quality while collection is happening? Yes. Real-time collection monitoring is one of the platform’s core functions, so problems can be identified and corrected while crews are still in the field.
+Is Unify Drive included with ICC-IMS equipment? [CONFIRM]
+Can Unify Drive manage multiple collection vehicles? Yes. Fleet management across multiple vehicles and crews is a core capability.
+Do we need Unify Drive if ICC-IMS is collecting our data for us? No. If ICC-IMS performs the collection as a service, ICC-IMS crews use Unify Drive as part of delivery. Unify Drive is for organizations running their own collection.
+What happens to the data after collection? It moves to Unify Connect for automated QC and validation, then into a pavement management system - ESA or a third-party platform.
+### Schema notes
+- SoftwareApplication schema, applicationCategory: "BusinessApplication".
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Software › Unify Drive.
+- Always render as “Unify Drive” with a functional descriptor nearby - “Unify Drive, the field collection management platform.” The name alone carries no meaning to a first-time visitor or to a language model.
+### Internal links
+/solutions/software/unify-connect/ · /solutions/software/ · /solutions/equipment/ · /solutions/services/network-level-data-collection/ · /who-we-serve/state-dots/ · /who-we-serve/aec-firms/
+### CTAs
+- Watch a Unify Drive Overview
+- Request a Live Demo
+## 3. Page 3 - Unify Connect (Automated QC & Validation)
+Element
+Value
+URL
+/solutions/software/unify-connect/
+Title tag
+Unify Connect | Automated Pavement Data QC
+Meta description
+Unify Connect automates pavement data QC: validation against acceptance criteria, quality documentation, and a defensible record of how data was checked.
+H1
+Unify Connect: Automated QC and the Documentation to Prove It
+### Answer-first lead
+Unify Connect is the automated quality control and validation platform in the ICC-IMS Unify suite. Unify Connect:
+- Checks collected pavement data against defined acceptance criteria
+- Flags records requiring review
+- Generates the quality documentation delivered with the dataset
+For agencies and engineering firms, the output is not only cleaner data but an auditable record of how that data was validated - which is what a QC process has to produce when the dataset supports federal reporting or a multi-million-dollar program decision.
+### Key facts panel
+Function
+Automated QC/QA processing and validation
+Capabilities
+Data validation · acceptance criteria checks · quality documentation generation
+Output
+Validated dataset plus QC documentation
+Position in workflow
+Stage 2 - Validate
+Applies to
+ICC-IMS-collected data and, [CONFIRM], client-collected data
+### Body sections
+#### Why automated QC matters more than you might think
+Manual QC of a network dataset is a sampling exercise. A reviewer examines a fraction of the records and infers the rest. On a large network that fraction is small, and the records that most need review are exactly the anomalies a sample is least likely to catch.
+Automated validation inverts this. Every record is checked against defined criteria, and human review is directed to what the check flagged rather than to a random subset. The reviewer’s time goes to judgment calls instead of to reading clean records.
+#### What Connect checks
+Validation against acceptance criteria. Criteria defined for the program - ranges, continuity, positional accuracy, sensor agreement - applied to every record.
+Flagging for review. Records outside criteria surfaced for human judgment rather than silently discarded. The distinction matters: an anomaly is sometimes real pavement.
+Quality documentation generation. A record of what was checked, what passed, what was flagged, and how flags were resolved.
+[CONFIRM - the specific validation checks performed and whether acceptance criteria are configurable per agency. State DOTs and AEC firms with their own QC standards will ask whether Connect can be configured to their criteria or only to defaults.]
+#### The QC record as a deliverable
+For a state DOT, data supporting federal reporting has to withstand review, and “we checked it” is not a procedure. A generated QC record is.
+For an AEC firm, the deliverable to their your carries your company’s name and your seal. A subcontractor who hands over a documented QC record is materially easier to defend to a client than one who simply asserts data quality.
+For a municipality, the QC record is what answers a consulting engineer or a skeptical council member asking how the numbers were produced.
+[Insert testimonial: Ethan Crockett, PE, Pavement Management and Research Engineer, Wyoming DOT - data quality.]
+#### Where Connect sits in the workflow
+Data arrives from field collection, managed by Unify Drive (hyperlink). Validated output moves to ESA, ESWA, (hyperlink both) or a third-party platform (hyperlink - /solutions/software/integrations).
+Every dataset ICC-IMS delivers as a service passes through Connect.
+### FAQ block
+What is Unify Connect? Unify Connect is the automated QC and validation platform in the ICC-IMS Unify suite. It validates pavement data against acceptance criteria, flags records for review, and generates quality documentation.
+What QC documentation comes with ICC-IMS data? Data delivered by ICC-IMS includes a QC record documenting what was validated, what passed, and how flagged records were resolved.
+Can acceptance criteria be configured to our standards? [CONFIRM]
+Can Unify Connect validate data we collected ourselves? [CONFIRM]
+Is every ICC-IMS dataset processed through Unify Connect? Yes. Automated QC through Unify Connect is part of standard service delivery.
+Why does automated QC produce better results than manual review? Manual QC on a large dataset is necessarily a sample, and anomalies are exactly what a sample is likely to miss. Automated validation checks every record and directs human review to the records that were flagged.
+### Schema notes
+- SoftwareApplication schema, applicationCategory: "BusinessApplication".
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Software › Unify Connect.
+- The QC documentation answers are high-value for the AEC segment, which the journey analysis identifies as having no effective landing point. Cross-link aggressively from AEC Partner Services.
+### Internal links
+/solutions/software/unify-drive/ · /solutions/software/pavement-management-esa/ · /solutions/software/integrations/ · /who-we-serve/aec-firms/ · /who-we-serve/state-dots/ · /solutions/services/pavement-condition-surveys/ · /solutions/services/network-level-data-collection/
+### CTAs
+- Download the Data Quality & QC Overview
+- Request a Live Demo
+## 4. Page 4 - Unify Inform (Stakeholder Visualization)
+Element
+Value
+URL
+/solutions/software/unify-inform/
+Title tag
+Unify Inform | Pavement Dashboards for Stakeholders
+Meta description
+Unify Inform turns pavement data into interactive dashboards and public-facing maps that councils, executives, and residents can actually understand.
+H1
+Unify Inform: Pavement Data Your Council Can Actually Read
+### Answer-first lead
+Unify Inform is the stakeholder visualization and communication platform in the ICC-IMS Unify suite. It converts pavement condition data into:
+- Interactive dashboards
+- Condition maps
+- Public-facing portals
+All built for people who do not work in pavement engineering - city councils, county boards, executive leadership, and residents.
+The platform exists because pavement data that decision-makers cannot interpret does not influence decisions.
+### Key facts panel
+Function
+Stakeholder visualization and communication
+Capabilities
+Interactive dashboards · public-facing portals · council presentation tools
+Audiences
+Elected officials · executive leadership · the public · internal staff
+Position in workflow
+Stage 4 - Communicate
+Reference client
+Arizona DOT
+### Body sections
+#### Data that does not persuade does not matter
+A pavement management system tells an agency what to do. It does not get the money approved. That happens in a public meeting, in front of people without technical backgrounds, competing against every other departmental need.
+Unify Inform is built for that room.
+The measure of its success is not analytical depth - ESA handles that - but whether a council member looks at the screen and immediately understands the situation.
+#### What Inform provides
+Interactive condition dashboards. Network condition, trends, and program status in a view a non-technical reader can navigate. A map colored by condition communicates in seconds what a table of PCI scores does not communicate at all.
+Live query during a meeting. Every public meeting includes someone asking about a specific street. Pulling up that segment’s actual condition data on the spot does more for credibility than the entire prepared presentation - and answering “we’ll follow up” does the opposite.
+Public-facing portals. Residents can see the condition of their own street and where it sits in the program. This converts the most common complaint call into self-service, and it makes the prioritization visible, which is generally what residents actually want to know: not why their street is bad, but whether anyone has a plan for it.
+Council presentation tools. Visuals and views built for presentation rather than for analysis.
+[CONFIRM - full feature set, whether public portals are a standard or premium configuration, and what branding and configuration options agencies have.]
+#### Transparency as a strategy
+Publishing condition data publicly makes some agencies nervous, and the concern is understandable: it documents, in public, that a substantial share of the network is in poor condition.
+Agencies that do it anyway generally find the opposite effect. Publishing the data reframes the conversation from “the city is neglecting my street” to “here is the condition of the whole network, here is the plan, here is what the current budget funds.” It converts an accusation of incompetence into a discussion about resources - which is the discussion the agency wants to be having, and one it cannot start without the data being visible.
+It also builds the constituency for a funding measure. Residents who can see the backlog are more likely to support paying to address it.
+[Insert testimonial: Robert Bush, Program Manager, Arizona DOT - Inform software.]
+#### Inform and the presentation service
+Agencies wanting the visualization and the presentation itself can combine Inform with Presentations to Elected Officials (hyperlink), where ICC-IMS staff prepare and deliver the presentation, with live data in the room.
+### FAQ block
+What is Unify Inform? Unify Inform is the stakeholder visualization platform in the ICC-IMS Unify suite, producing interactive dashboards, condition maps, and public-facing portals for communicating pavement data to non-technical audiences.
+Can residents see their own street’s condition? Yes, where an agency enables a public-facing portal. Residents can view condition and program status for specific segments.
+Can we use Inform live in a council meeting? Yes. Interactive dashboards allow specific segments to be queried during a meeting, so questions about individual streets get answered in the room.
+Do we need ESA to use Inform? [CONFIRM whether Inform requires ESA as the data source or can visualize data from a third-party PMS. This is a significant qualifying question for agencies committed to another platform, and the answer materially changes Inform’s addressable market.]
+Which agencies use Unify Inform? Arizona DOT uses Inform.
+Is publishing pavement condition data publicly a good idea? Agencies that publish generally find it shifts public conversation from individual complaints to network-level resource discussions, and it builds support for infrastructure funding measures by making the backlog visible.
+### Schema notes
+- SoftwareApplication schema, applicationCategory: "BusinessApplication".
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Software › Unify Inform.
+- Name Arizona DOT in the answer-first lead. A named state DOT reference is a strong authority signal and belongs where AI engines extract.
+### Internal links
+/solutions/services/elected-official-presentations/ · /solutions/software/pavement-management-esa/ · /solutions/services/budget-scenario-analysis/ · /who-we-serve/municipalities-counties/ · /who-we-serve/state-dots/ · /projects/
+### CTAs
+- View a Sample Public Dashboard
+- Request a Live Demo
+## 5. Page 5 - ESA (Pavement Management System)
+Element
+Value
+URL
+/solutions/software/pavement-management-esa/
+Title tag
+ESA Pavement Management Software | ICC-IMS
+Meta description
+Know which roads to fix first, show your council why, and stretch your budget further. ESA is the ICC-IMS pavement management system for agencies.
+H1
+ESA Pavement Management: Know Which Roads to Fix First
+### Answer-first lead
+ESA is the ICC-IMS pavement management system. It takes pavement condition data and answers the questions an agency actually has to act on:
+- Which roads to fix first?
+- Which treatment each one needs?
+- What the available budget will buy?
+- What the network will look like in five years?
+ESA includes budget scenario modeling, GIS-integrated condition mapping, remaining service life projections, and reporting that supports GASB 34 infrastructure requirements. It is delivered as a SaaS platform.
+### Key facts panel
+Know which roads to fix first
+Prioritization across the network, not worst-first
+Show your council why
+GIS condition maps and scenario comparisons built for presentation
+Stretch your budget further
+Budget scenario modeling across funding levels and treatment strategies
+Track progress year over year
+Trend analysis on a consistent measurement basis
+Stay compliant
+GASB 34 infrastructure reporting support [CONFIRM]
+Delivery
+SaaS, web-based
+### Body sections
+#### What ESA does, in plain terms
+Tells you which roads to fix first. Not the worst ones - the ones where money does the most good. Preserving a road in fair condition costs a fraction of rebuilding it after it fails, which is why worst-first spending produces a network that declines while costs rise.
+Shows what your budget actually buys. Model funding levels side by side and see projected network condition under each. The most useful number ESA produces is the annual funding required simply to keep conditions from getting worse.
+Projects how long each road has left. Remaining service life by segment, so the program is built on where the network is heading rather than only where it is.
+Puts it on a map. GIS-integrated condition mapping, which is how the situation gets communicated to anyone who is not a pavement engineer.
+Tracks whether it is working. Year-over-year trends showing whether the program is improving the network - the evidence that determines whether the next funding request succeeds.
+#### The technical details
+Deterioration modeling - condition forecasting by segment and pavement type, calibrated to observed network performance. Treatment matching and optimization - mapping condition and distress to appropriate treatments at agency unit costs, then optimizing program selection across the network. Budget scenario engine - multi-scenario modeling across funding levels, treatment strategies, and horizons. GIS integration - spatial condition data and mapping. Remaining service life projections - by segment. GASB 34 reporting - supporting the modified approach to infrastructure asset reporting.
+[CONFIRM fuller technical specification - data model, user roles and permissions, API availability, import formats, reporting library, mobile access, and hosting and data residency. Agency IT reviews ask all of this, and the absence of an answer stalls procurement even after the pavement staff are convinced.]
+#### Do we have to use ESA?
+No. Agencies running StreetSaver, MicroPAVER, Cartegraph, dTIMS, Agile Assets, Lucity, Brightly, or ArcGIS receive their data in that system, with no penalty in quality or delivery. See Integrations & Data Formats (hyperlink).
+ESA tends to be the right choice for agencies with no current system, agencies whose current system is not being used because it is too complex for available staff time, and agencies that want management analysis and data collection from one provider.
+#### Getting started
+Most agencies come to ESA after a pavement condition survey (hyperlink), with the survey data loaded as the starting inventory. Agencies with existing condition data can generally start from that.
+[CONFIRM implementation process, timeline, data migration support, and training. “How long until we are actually using it” is a purchase-blocking question and the site does not answer it.]
+[Insert testimonials: Erik Brandt, County Planner, Oklahoma County OK; Steven Cohoon, Assistant Director Planning & Design, Sumter County FL.]
+### FAQ block
+What is ESA? ESA is the ICC-IMS pavement management system - a SaaS platform that converts pavement condition data into treatment recommendations, prioritized programs, budget scenarios, and remaining service life projections.
+What is the difference between ESA and Unify? Unify is the workflow: getting data collected, validated, and communicated. ESA is the management system: turning validated data into decisions about which pavements to treat, when, and how.
+Does ESA support GASB 34 reporting? ESA supports the modified approach to infrastructure asset reporting under GASB 34.
+Can ESA model different budget scenarios? Yes. Budget scenario modeling across funding levels and treatment strategies is a core capability, including projecting network condition under each scenario.
+Do we need ESA if we already have StreetSaver or Cartegraph? No. ICC-IMS delivers data into existing platforms, and there is no requirement to adopt ESA.
+How long does implementation take? [CONFIRM]
+How much does ESA cost? [CONFIRM
+Is ESA suitable for a small city? [CONFIRM]
+### Schema notes
+- SoftwareApplication schema, applicationCategory: "BusinessApplication", with offers if any pricing is published.
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Software › ESA Pavement Management.
+- Per the journey analysis URL recommendation, the descriptive path /solutions/software/pavement-management-esa/ replaces /ESA/. Map a 301 from the old URL.
+- Target “pavement management software municipal” and “GASB 34 pavement” - identified as moderate-coverage keyword gaps.
+### Internal links
+/solutions/software/unify-inform/ · /solutions/software/integrations/ · /solutions/services/pavement-management-plans/ · /solutions/services/budget-scenario-analysis/ · /solutions/services/pavement-condition-surveys/ · /solutions/services/ongoing-monitoring/ · /who-we-serve/municipalities-counties/ · /projects/ · /procurement/
+### CTAs
+- Download a Sample Pavement Management Report
+- Request a Live Demo
+## 6. Page 6 - ESWA (Sidewalk Management System)
+Element
+Value
+URL
+/solutions/software/sidewalk-management-eswa/
+Title tag
+ESWA Sidewalk Management & ADA Compliance Software
+Meta description
+ESWA manages sidewalk condition and ADA compliance: barrier inventory, remediation prioritization, transition plan tracking, and liability reduction.
+H1
+ESWA Sidewalk Management: Track Every Barrier and What It Takes to Fix It
+### Answer-first lead
+ESWA is the ICC-IMS sidewalk management system. ESWA
+- Maintains a sidewalk condition and accessibility inventory
+- Tracks ADA and PROWAG compliance status
+- Prioritizes remediation projects
+- Documents progress against an ADA transition plan.
+For municipalities and counties, ESWA is both a management tool and a record - the documentation that demonstrates an agency identified its accessibility barriers and is working through them on a plan.
+### Key facts panel
+Function
+Sidewalk condition and ADA compliance management
+Capabilities
+Compliance tracking · condition inventory · remediation prioritization · transition plan documentation
+Compliance context
+ADA and PROWAG
+Risk context
+Documented inventory and plan supports municipal liability management
+Pairs with
+ESA, for agencies managing pavement and sidewalks together
+### Body sections
+#### Why sidewalk data needs its own system
+Sidewalk management is not pavement management with different assets. Two differences drive it.
+Compliance is binary in a way condition is not. A road at PCI 55 is in fair condition. A sidewalk with a cross slope over the limit is non-compliant regardless of how sound the concrete is. The system has to track compliance status independently of condition.
+The record is part of the deliverable. An ADA transition plan requires a documented inventory of barriers and a schedule for removing them, and the agency’s position when a complaint arrives depends substantially on being able to produce both. ESWA maintains that record as the work proceeds rather than requiring it to be reconstructed later.
+Note: ESWA supports accessibility program management and is not legal advice on ADA obligations. Agencies should confirm their specific obligations with counsel. Recommend a standing disclaimer in the page footer.
+#### What ESWA does
+Maintains the inventory. Sidewalk segments, curb ramps, and crossings with condition and compliance attributes, mapped.
+Tracks compliance status. Which facilities meet criteria, which do not, and on what basis.
+Prioritizes remediation. Ranking barriers for a program that has less money than barriers - typically weighting severity, pedestrian demand, and proximity to transit, schools, and public facilities.
+Documents the transition plan. Progress against schedule, maintained as an ongoing record.
+Reports. For internal management, council reporting, and response to inquiries.
+[CONFIRM full feature set, including whether ESWA handles complaint intake and tracking. Complaint intake is a natural fit - complaints are a primary way agencies learn about barriers - and if the capability exists it is a meaningful differentiator.]
+#### The liability argument, stated carefully
+An agency with a documented inventory, a prioritized remediation plan, and a record of progress is in a substantially different position from one without. The first has evidence of a good-faith program. The second has nothing to show, and the absence of documentation tends to become the story.
+What this does not mean is that ESWA prevents claims. Recommend that this page make the distinction explicit rather than implying protection it cannot deliver - overstating it invites exactly the challenge the agency is trying to avoid, and understating it is more credible to the counsel who will review the purchase.
+#### Managing sidewalks and pavement together
+Agencies running both use ESWA alongside ESA (hyperlink), with data from combined surveys. Contracting sidewalk and pavement surveys together is typically more economical than separately – as an example, the City of Springfield, Missouri holds both.
+See Sidewalk & ADA Compliance Surveys (hyperlink).
+### FAQ block
+What is ESWA? ESWA is the ICC-IMS sidewalk management system, covering sidewalk condition inventory, ADA and PROWAG compliance tracking, remediation prioritization, and transition plan documentation.
+What is PROWAG? PROWAG refers to the Public Right-of-Way Accessibility Guidelines, which set accessibility criteria for pedestrian facilities in the public right-of-way, including sidewalks, curb ramps, and crossings.
+Does ESWA help with our ADA transition plan? Yes. ESWA maintains the barrier inventory and the record of progress against the remediation schedule, which are core components of a transition plan.
+Does having a sidewalk management system reduce our liability? A documented inventory, a prioritized plan, and a record of progress demonstrate a good-faith accessibility program, which is a materially stronger position than having no documentation. It does not prevent claims, and agencies should work with counsel on their specific obligations.
+Can ESWA and ESA be used together? Yes. Agencies managing both pavements and sidewalks commonly run both, with data from combined surveys.
+How does ESWA prioritize which sidewalks to fix first? Prioritization typically weights barrier severity, pedestrian demand, and proximity to transit, schools, and public facilities.
+### Schema notes
+- SoftwareApplication schema, applicationCategory: "BusinessApplication".
+- FAQPage schema. The PROWAG definition is a high-value GEO target with little authoritative competition.
+- BreadcrumbList: Home › Solutions › Software › ESWA Sidewalk Management.
+- Per the journey analysis, the descriptive path replaces /ESwA/. Map a 301 - and note the old URL’s mixed casing, which may have produced duplicate-URL variants worth checking in the redirect map.
+### Internal links
+/solutions/services/sidewalk-ada-surveys/ · /solutions/software/pavement-management-esa/ · /who-we-serve/municipalities-counties/ · /resources/ · /projects/ · /procurement/
+### CTAs
+- Download a Sample Sidewalk Compliance Report
+- Request a Live Demo
+## 7. Page 7 - Integrations & Data Formats
+Element
+Value
+URL
+/solutions/software/integrations/
+Title tag
+PMS Integrations & Data Formats | ICC-IMS
+Meta description
+ICC-IMS delivers pavement data into StreetSaver, MicroPAVER, Cartegraph, dTIMS, Agile Assets, ArcGIS and more, in XML, CSV, SHP, KML, PPF, ERD and PRO.
+H1
+Integrations and Data Formats: Your Data, in the System You Already Use
+### Answer-first lead
+ICC-IMS delivers pavement and sidewalk data into the systems agencies and engineering firms already use, supporting more than [CONFIRM number] pavement management platforms including StreetSaver, MicroPAVER, PAVER, Cartegraph, Lucity, Brightly, dTIMS, Agile Assets, and ArcGIS. Export formats include XML, CSV, SHP, KML/KMZ, PPF, ERD, and PRO. There is no requirement to adopt ICC-IMS software to work with ICC-IMS.
+### Key facts panel
+Platforms supported
+[CONFIRM full list]
+Named platforms
+StreetSaver · MicroPAVER · PAVER · Cartegraph · Lucity · Brightly · dTIMS · Agile Assets · ArcGIS · DOT-specific platforms
+Export formats
+XML · CSV · SHP · KML/KMZ · PPF · ERD · PRO
+Profile formats
+PPF, ERD, and PRO are ProVAL-compatible
+Requirement to switch systems
+None
+### Body sections
+#### Supported platforms
+Platform
+Common users
+StreetSaver
+California municipalities and MTC-region agencies
+MicroPAVER / PAVER
+Municipalities, counties, federal and military facilities
+Cartegraph
+Municipal and county asset management
+Lucity
+Municipal public works
+Brightly
+Municipal and county asset management
+dTIMS
+State DOTs and large agencies
+Agile Assets
+State DOTs
+ArcGIS
+Any agency with a GIS-centered workflow
+DOT-specific platforms
+State-developed systems
+#### Export formats and what they are for
+Format
+Use
+XML
+Structured import into most PMS platforms
+CSV
+Universal tabular exchange and analysis
+SHP
+GIS shapefile for spatial data
+KML / KMZ
+Google Earth and lightweight spatial viewing
+PPF
+Pavement profile format, ProVAL-compatible
+ERD
+Engineering research data profile format, ProVAL-compatible
+PRO
+Profile format, ProVAL-compatible
+Agencies running ProVAL for ride quality acceptance analysis can move ICC-IMS profile data into their existing workflow without conversion.
+[Insert testimonial: Kenner Guerrero, Associate Engineer, City of Pico Rivera, CA - StreetSaver implementation with LCMS-2 automated survey.]
+#### Migrating from an existing system
+[CONFIRM whether ICC-IMS supports data migration from a legacy system into ESA or into a new platform, and whether historical data can be brought forward. Agencies with ten years of data history on another program will not move without an answer, and I imagine this can be the deciding factor in a platform decision.]
+#### If your platform is not listed
+Reach out. We can tell you whether we have that capability or what the process would be to integrate with your platform.
+### FAQ block
+What pavement management systems does ICC-IMS support? More than [CONFIRM number] platforms, including StreetSaver, MicroPAVER, PAVER, Cartegraph, Lucity, Brightly, dTIMS, Agile Assets, ArcGIS, and state DOT-specific systems.
+What data formats does ICC-IMS export? XML, CSV, SHP, KML/KMZ, PPF, ERD, and PRO. PPF, ERD, and PRO are ProVAL-compatible.
+Do we have to switch to ICC-IMS software? No. Data is delivered into your existing platform, with no penalty in data quality or delivery.
+Is ICC-IMS profile data compatible with ProVAL? Yes. PPF, ERD, and PRO export formats are all ProVAL-compatible.
+Can you deliver data in our client’s format? Yes. This is standard for AEC subcontract work, where the deliverable goes into the end client’s system.
+What if our platform is not on the list? Reach out. We can tell you whether we have that capability or what the process would be to integrate with your platform.
+Can you migrate our historical data? [CONFIRM]
+### Schema notes
+- WebPage with a Dataset-style distribution listing of supported formats, or SoftwareApplication with fileFormat entries. Test which renders better.
+- FAQPage schema on the FAQ block.
+- BreadcrumbList: Home › Solutions › Software › Integrations & Data Formats.
+- Named platform entities - StreetSaver, MicroPAVER, Cartegraph, dTIMS, ProVAL - are valuable co-citation anchors. An AEC project manager asking an AI tool which pavement data providers deliver into StreetSaver should find ICC-IMS in the answer, and this page is what makes that possible.
+### Internal links
+/who-we-serve/aec-firms/ · /solutions/software/pavement-management-esa/ · /solutions/software/unify-connect/ · /solutions/services/pavement-condition-surveys/ · /solutions/equipment/irispro-every-speed/ · /procurement/
+### CTAs
+- Download the Data Formats Reference
+- Request a Sample Data Package
+## NOTE Retired pages and redirect map
+We are eliminating the “Our Software” and “Your Software” structure. Redirects must be mapped before launch so accumulated search equity is not lost.
+Retired page
+Redirect to
+Notes
+Our Software (parent)
+/solutions/software/
+Parent was reportedly not always clickable - check for orphaned child URLs
+Your Software
+/solutions/software/integrations/
+Content substantially rewritten and reframed for both agency and AEC audiences
+/ESA/
+/solutions/software/pavement-management-esa/
+301
+/ESwA/
+/solutions/software/sidewalk-management-eswa/
+301 - check for casing variants producing duplicate URLs
+Unify parent and child pages
+Corresponding /solutions/software/unify-*/
+301 each
+[CONFIRM a full crawl of current software URLs before build, including any variants, to ensure the redirect map is complete.]

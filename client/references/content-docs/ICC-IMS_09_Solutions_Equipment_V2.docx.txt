@@ -1,0 +1,1415 @@
+# ICC-IMS Website Content Build - Phase 2
+## Solutions › Equipment: Overview Page + 9 Product Pages
+## 1. Page 1 - Equipment Overview
+Element
+Value
+URL
+/solutions/equipment/
+Title tag
+Pavement Testing Equipment, Made in USA | ICC-IMS
+Meta description
+ICC-IMS designs and builds pavement profilers, survey vehicles, friction testers, and reference devices in Largo, FL. ASTM and AASHTO certified.
+### H1 Pavement Data Collection Equipment, Designed and Built in the USA
+### Answer-first lead
+ICC-IMS designs, manufactures, and supports precision pavement data collection equipment at its 15,000-square-foot facility in Largo, Florida. Every unit is built in the USA.
+The equipment line covers four categories:
+- Inertial profilers for ride quality and IRI
+- Pavement survey vehicles for automated condition assessment
+- Friction testers for skid resistance programs
+- Reference devices for certification sites.
+Models are certified to ASTM and AASHTO standards, including ASTM E950, AASHTO R56, and AASHTO R57.
+### Key facts panel
+Manufacturing
+15,000 sq ft office and shop, Largo, Florida - all equipment built in the USA
+Heritage
+International Cybernetics Company: nearly 50 years manufacturing precision data collection equipment
+Parts inventory
+$1.1M on hand for immediate service and support
+Equipment line
+9 models across 4 categories
+Core certifications
+ASTM E950, AASHTO R56, AASHTO R57, TxDOT specifications, ASTM E274
+Proof of use
+ICC-IMS operates the largest fleet of municipal and county data collection vehicles in the industry, all running IrisPRO Pave technology
+Patented capability
+IrisPRO Every Speed - valid IRI at any speed, US Patent 6,775,914 / Canada Patent 2,405,133
+### Body sections
+#### Which ICC-IMS equipment do I need?
+Start with the measurement you are required to produce. The table below maps the four equipment categories to the work they are built for.
+If you need to measure…
+Category
+Models
+Ride quality and IRI on variable-speed, urban, or stop-and-go roadways
+Profilers
+IrisPRO Every Speed
+Ride quality and IRI at highway speed across a statewide network
+Profilers
+IrisPRO High Speed
+Ride quality and IRI on individual projects, with a portable setup
+Profilers
+IrisPRO Lightweight
+Ride quality and surface distress in a single pass, with 3D imaging
+Profilers
+IrisPRO Pave
+PCI or OCI condition on a municipal or county network
+Pavement survey vehicles
+IrisGO Portable, IrisGO Pave
+Skid resistance for a highway safety program or HFST acceptance
+Friction testers
+SFT Locked Wheel
+Continuous friction across a network or a runway
+Friction testers
+DFT Continuous
+A reference profile to certify or validate other profilers
+Reference devices
+SurPRO
+If the requirement spans more than one category - for example, a network-level program that needs both ride quality and distress - the IrisPRO Pave collects both in one pass. See the IrisPRO Pave page. /solutions/equipment/irispro-pave (hyperlink)
+#### Is ICC-IMS equipment really made in the USA?
+Yes. Design, manufacturing, integration, and final assembly all happen at the Largo, Florida facility - 15,000 square feet of office and shop space. This matters for three reasons that come up in procurement:
+- Domestic preference requirements. Federal and many state solicitations carry domestic sourcing provisions. [CONFIRM: whether ICC-IMS makes a formal Buy America / Build America, Buy America (BABA) compliance representation, and in what form. This is a frequently searched procurement question and a strong page asset if the answer is documented.]
+- Support response time. ICC-IMS holds $1.1M in parts inventory on hand. A vehicle down for a sensor is a schedule problem, not a supply-chain problem.
+- Engineering access. The people who designed the system are in the same building as the people who service it.
+#### Who else is using this equipment?
+ICC-IMS is unusual in the industry: the company that builds the equipment also operates it commercially, at scale. ICC-IMS runs the largest fleet of municipal and county data collection vehicles in the industry, and every vehicle in that fleet runs IrisPRO Pave technology.
+The practical consequence for a buyer is that the equipment is validated by continuous production use, not only by factory testing. Agency clients include PennDOT, FDOT, WYDOT, ADOT, NDOT, DelDOT, and the Port of San Diego, among more than [CONFIRM: agency client count] agencies.
+See Projects & Case Studies (hyperlink) for documented deployments.
+#### How do agencies purchase ICC-IMS equipment?
+IMS holds a Master Services Agreement for Pavement Analysis Services with the TXShare Cooperative Purchasing Program, administered by the North Central Texas Council of Governments (NCTCOG). TXShare is open to public agencies nationwide - municipal, state, and federal. Participation is free and requires a signed Interlocal Agreement, typically executed within one business day.
+[INSERTION POINT: additional cooperative purchasing vehicles - GSA Schedule, Sourcewell, NASPO ValuePoint - with contract numbers, as applicable]
+Full procurement pathways, including quote requests and required documentation, are on the Procurement page. (hyperlink)
+### FAQ block
+What kind of equipment does ICC-IMS manufacture? ICC-IMS manufactures inertial road profilers (the IrisPRO line), automated pavement survey vehicles (the IrisGO line), friction testers (SFT locked wheel and DFT continuous), and the SurPRO walking reference profiler. All are designed and built at the company’s facility in Largo, Florida.
+Is ICC-IMS pavement equipment made in the USA? Yes. All ICC-IMS equipment is manufactured in the USA at a 15,000-square-foot facility in Largo, Florida.
+What ASTM and AASHTO standards does ICC-IMS equipment meet? The IrisPRO Every Speed is certified to ASTM E950, AASHTO R56, AASHTO R57, and TxDOT specifications, and passed all pavement types in the 2026 iCART certification in Illinois. The SFT Locked Wheel Friction Tester is built to ASTM E274. A full compliance matrix by model is published on this page.
+Can a state DOT buy ICC-IMS equipment through a cooperative purchasing contract? IMS holds a Master Services Agreement for Pavement Analysis Services through the TXShare Cooperative Purchasing Program, administered by NCTCOG and available to public agencies nationwide. [CONFIRM: whether equipment purchases specifically are available under TXShare or only services. This distinction is material and should not be left ambiguous on a procurement-facing page.]
+Does ICC-IMS provide spec sheets for its equipment? Yes. Downloadable PDF specification sheets for every model are available in the Resources (hyperlink) library, formatted for use in RFP specifications and sole-source justifications.
+Does ICC-IMS service and calibrate the equipment it sells? Yes. ICC-IMS maintains $1.1M in on-hand parts inventory at its Largo, Florida facility for immediate service and support. [CONFIRM: calibration service offering, warranty terms, and service contract options ]
+How is ICC-IMS equipment different from other pavement profilers? The IrisPRO Every Speed is patented technology that collects valid IRI at any vehicle speed, including accelerating, decelerating, and full stop. Conventional inertial profilers require a minimum speed of roughly 12 mph to produce valid data.
+### Internal links
+Link to
+Anchor text
+Placement
+All 9 product pages
+Model names
+Equipment selector table and category navigation
+/who-we-serve/state-dots/
+DOT equipment programs
+Standards section
+/who-we-serve/municipalities-counties/
+municipal and county networks
+Equipment selector table
+/who-we-serve/airports/
+airfield friction testing
+Friction category intro
+/solutions/services/
+full-service data collection
+“Who else is using this equipment”
+/procurement/
+Procurement page
+Purchasing section
+/resources/
+spec sheet library
+FAQ and page footer
+/projects/
+Projects & Case Studies
+Proof section
+### CTAs
+- Download the Equipment Catalog (all 9 spec sheets, one PDF)
+- Request Technical Information
+## 2. Page 2 - IrisPRO Every Speed (ESP)
+Element
+Value
+URL
+/solutions/equipment/irispro-every-speed/
+Title tag
+IrisPRO Every Speed | ASTM E950 Profiler | ICC-IMS
+Meta description
+The patented IrisPRO Every Speed profiler collects valid IRI at any speed, including full stop. ASTM E950, AASHTO R56, R57 and TxDOT certified.
+### H1
+### IrisPRO Every Speed: Valid IRI at Any Speed, Including a Full Stop
+### Answer-first lead
+The IrisPRO Every Speed (ESP) is a patented inertial road profiler manufactured by ICC-IMS in Largo, Florida. It collects valid International Roughness Index (IRI) and longitudinal profile data at any vehicle speed, including while accelerating, decelerating, and at a full stop. This eliminates the roughly 12 mph minimum speed threshold that constrains conventional inertial profilers.
+The ESP is certified to ASTM E950, AASHTO R56, AASHTO R57, and TxDOT specifications, and is protected by US Patent 6,775,914 and Canada Patent 2,405,133.
+### Key facts panel
+Patents
+US 6,775,914 · Canada 2,405,133
+Sensing
+Dual line lasers in each wheel path, plus proprietary ESP algorithm
+Speed range
+Any speed, including accelerating, decelerating, and full stop - no 12 mph minimum
+Certifications
+ASTM E950 · AASHTO R56 · AASHTO R57 · TxDOT specifications
+Recent certification
+2026 iCART Certification, Illinois - passed all pavement types
+Repeatability
+Cross-correlations typically 0.97–0.99 depending on surface type
+Outputs
+IRI · Profilograph Index (PrI) · Ride Number (RN) · Boeing Bump Index (BBI) · raw elevation · high-pass filtered elevation · 3-point rutting (3-laser systems)
+Export formats
+PPF · ERD · PRO (ProVAL-compatible) · Excel/CSV
+Mounting
+MARS mid-mount adjustable rail system - 68”–72” wheel path range, up to 2.5” vertical adjustment
+Manufactured
+Largo, Florida, USA
+### Body sections
+#### What makes the Every Speed different from a conventional inertial profiler?
+Conventional inertial profilers derive elevation by combining an accelerometer reference with a height sensor. Below roughly 12 mph, the accelerometer signal degrades relative to noise and the derived profile is no longer valid. Every conventional profiler carries this constraint, which is why operators are trained to abort and re-run a section when traffic forces them below threshold.
+With the ESP, there is no minimum mph requirement.
+The ESP resolves this with dual line lasers in each wheel path and a proprietary algorithm that maintains a valid profile independent of vehicle speed. The result is data that stays valid through signalized intersections, congestion, work zone queues, and complete stops.
+The practical difference is not incremental.
+On an urban network, a conventional profiler produces a collection day full of voided sections and re-runs. The ESP produces a complete network.
+#### Where does variable-speed profiling actually matter?
+- Urban and suburban arterials with signalized intersections and frequent stops
+- Work zones where lane closures and flagging operations force variable speed
+- Congested corridors where maintaining a constant collection speed is not possible
+- Interchange ramps, toll plazas, and approach lanes where speed change is inherent to the geometry
+- Airport service roads and constrained facilities where operating speed is restricted
+- Acceptance testing on short project segments where there is insufficient runway to reach and hold profiling speed
+#### What standards is the IrisPRO Every Speed certified to?
+Standard
+Scope
+ESP status
+ASTM E950
+Measuring the longitudinal profile of traveled surfaces with an accelerometer-established inertial profiling reference
+Certified - [CONFIRM: Class designation, expected Class 1]
+AASHTO R56
+Certification of inertial profiling systems
+Certified
+AASHTO R57
+Operating inertial profiling systems
+Certified
+TxDOT specifications
+Texas Department of Transportation profiler requirements
+Certified
+Illinois iCART (2026)
+Illinois certification program for profiling equipment
+Passed - all pavement types
+ASTM E1926
+Computing IRI from longitudinal profile measurements
+[CONFIRM]
+AASHTO M328
+Inertial profiler specification
+[CONFIRM]
+AASHTO PP69
+Determining pavement deformation parameters and cross slope from transverse profiles
+[CONFIRM - applies to 3-laser rutting configuration]
+AASHTO R54
+Accepting pavement ride quality measured with inertial profiling systems
+[CONFIRM]
+FHWA LTBP
+Long-Term Bridge Performance program data requirements
+[CONFIRM]
+#### What does the ESP measure and export?
+Measurements produced:
+Output
+Description
+IRI
+International Roughness Index, the primary federal and state ride quality metric
+PrI
+Profilograph Index, for agencies with profilograph-based acceptance specifications
+RN
+Ride Number
+BBI
+Boeing Bump Index, used in airfield pavement evaluation
+Raw elevation
+Unfiltered longitudinal elevation profile
+High-pass filtered elevation
+Filtered profile for localized roughness and bump detection
+3-point rutting
+Transverse rut depth, available on 3-laser system configurations
+Repeatability. Cross-correlations are typically 0.97 to 0.99 depending on surface type. Cross-correlation is the repeatability measure AASHTO R56 certification is built around, so this figure is directly comparable to the acceptance thresholds in a state certification protocol.
+Export formats. PPF, ERD, and PRO - all ProVAL-compatible - plus Excel and CSV. Agencies running ProVAL for acceptance analysis can move ESP data into their existing workflow without conversion. For integration with a pavement management system, see Third-Party PMS Integration. /solutions/software/integrations (hyperlink)
+#### How does the ESP mount to a vehicle?
+The ESP mounts on the MARS (Mid-mount Adjustable Rail System), which is compatible with both the Every Speed and the High Speed profiler.
+MARS specification
+Value
+Wheel path adjustment range
+68” – 72”
+Vertical adjustment
+Up to 2.5”
+Compatible profilers
+IrisPRO Every Speed, IrisPRO High Speed
+Mid-mounting matters operationally: the sensor bar sits within the vehicle wheelbase rather than cantilevered off a bumper, which reduces the moment arm on the sensors and simplifies garage clearance and transport.
+Common chassis configurations are the Ford F-series, Ford Transit, and Chevrolet Tahoe. [CONFIRM: Does ICC-IMS supply a turnkey vehicle, integrates into an agency-supplied chassis, or both?]
+#### What positioning and imaging options are available?
+Subsystem
+Standard
+Optional
+GPS
+Garmin
+Hemisphere Atlas DGPS
+Forward imaging
+Basler Ace 4K, 9MP or 12MP
+-
+Spherical imaging
+-
+Ladybug 6 (72MP) or Ladybug 5+ (30MP)
+#### How is the ESP supported after purchase?
+ICC-IMS holds $1.1M in on-hand parts inventory at the Largo, Florida facility for immediate service and support. Design, manufacturing, and service are in the same building, which means a support question reaches an engineer who worked on the system rather than a distributor.
+[CONFIRM: warranty term, calibration interval and service, training program, and annual service contract options]
+### FAQ block
+Does the IrisPRO Every Speed comply with ASTM E950? Yes. The IrisPRO Every Speed is certified to ASTM E950, AASHTO R56, AASHTO R57, and TxDOT specifications.
+Can the IrisPRO Every Speed collect valid IRI at low speed? Yes. The ESP collects valid IRI at any vehicle speed, including while accelerating, decelerating, and at a complete stop. Conventional inertial profilers require a minimum speed of roughly 12 mph to produce valid data.
+How does the Every Speed technology work? The ESP uses dual line lasers in each wheel path combined with a proprietary algorithm covered by US Patent 6,775,914 and Canada Patent 2,405,133. This arrangement maintains a valid longitudinal profile without depending on a minimum vehicle speed.
+What is the repeatability of the IrisPRO Every Speed? Cross-correlations are typically 0.97 to 0.99 depending on surface type.
+Is the IrisPRO Every Speed data compatible with ProVAL? Yes. The ESP exports PPF, ERD, and PRO formats, all of which are ProVAL-compatible, as well as Excel and CSV.
+Can the IrisPRO Every Speed measure rutting? Yes, on 3-laser system configurations, which produce 3-point rut depth measurements in addition to the longitudinal profile outputs.
+What vehicles can the IrisPRO Every Speed be installed on? Common chassis configurations include the Ford F-series, Ford Transit, and Chevrolet Tahoe. The MARS mid-mount adjustable rail system accommodates a 68” to 72” wheel path range with up to 2.5” of vertical adjustment.
+Has the IrisPRO Every Speed been certified recently? Yes. The ESP received 2026 iCART Certification in Illinois, passing on all pavement types.
+### Internal links
+Link to
+Anchor text
+Placement
+/solutions/equipment/
+Equipment overview
+Breadcrumb and page footer
+/solutions/equipment/irispro-high-speed/
+IrisPRO High Speed
+Mounting section (shared MARS) and comparison
+/solutions/equipment/irispro-pave/
+IrisPRO Pave
+“If you also need distress data” cross-sell
+/solutions/equipment/surpro-reference/
+SurPRO reference profiler
+Certification and validation discussion
+/who-we-serve/state-dots/
+State DOT programs
+Standards section
+/solutions/services/
+data collection services
+Support section
+/solutions/software/integrations/
+PMS integration and export formats
+Export formats section
+/procurement/
+cooperative purchasing
+CTA block
+/resources/
+IrisPRO Every Speed spec sheet
+CTA block
+### CTAs
+- Download the IrisPRO Every Speed Spec Sheet (PDF)
+- Request a Quote
+## 3. Page 3 - IrisPRO High Speed (HSP)
+Element
+Value
+URL
+/solutions/equipment/irispro-high-speed/
+Title tag
+IrisPRO High Speed Profiler | ASTM E950 | ICC-IMS
+Meta description
+The IrisPRO High Speed is an ASTM E950 Class 1 inertial profiler built for statewide, network-level IRI data collection at highway speed. Built in the USA.
+### H1
+### IrisPRO High Speed: Network-Level IRI Profiling for Statewide Programs - Premier Profiler with Unrivalled Accuracy
+### Answer-first lead
+The IrisPRO High Speed (HSP) is an ASTM E950 Class 1 inertial profiler manufactured by ICC-IMS in Largo, Florida.
+It is built for network-level pavement profiling at highway speed, for state DOTs and agencies running large-scale annual data collection programs.
+The HSP mounts on the same MARS mid-mount adjustable rail system as the IrisPRO Every Speed and is designed for high-mileage production collection where consistency across thousands of centerline miles is the governing requirement.
+### Key facts panel
+Class
+ASTM E950 Class 1 inertial profiler
+Application
+Network-level, statewide and regional data collection programs
+Mounting
+MARS mid-mount adjustable rail system - 68”–72” wheel path range, up to 2.5” vertical adjustment
+Operating speed
+Highway speed [CONFIRM: rated operating speed range]
+Outputs
+[CONFIRM: confirm output set - IRI, PrI, RN, BBI, raw and filtered elevation, rutting configuration]
+Export formats
+[CONFIRM: expected PPF, ERD, PRO, Excel/CSV - confirm parity with ESP]
+Manufactured
+Largo, Florida, USA
+### Body sections
+#### What is the IrisPRO High Speed built for?
+Statewide network collection is a volume problem before it is a precision problem. An agency profiling its full network annually is running the same system for months across every surface type, contractor, and construction era in the state. What determines whether that program succeeds is consistency: the same system producing comparable numbers in June that it produced in March, so that year-over-year trends reflect pavement condition rather than equipment drift.
+The HSP is configured for that use case - sustained highway-speed collection, ASTM E950 Class 1 accuracy, and the mechanical simplicity that keeps a production vehicle in service.
+#### How does the High Speed compare to the Every Speed?
+Both are ASTM-certified inertial profilers built by ICC-IMS on the same MARS mounting system. The difference is the collection environment they are optimized for.
+IrisPRO High Speed
+IrisPRO Every Speed
+Primary use
+Network-level collection at highway speed
+Variable-speed, urban, and stop-and-go collection
+Minimum valid speed
+Conventional inertial threshold applies [CONFIRM: rated minimum]
+None - valid at any speed including full stop
+Patented ESP algorithm
+No
+Yes - US 6,775,914 / Canada 2,405,133
+Best fit
+Statewide DOT programs, rural and interstate networks
+Urban arterials, work zones, congested corridors, short project segments
+Mounting
+MARS
+MARS
+Choosing between them. If the network is predominantly rural, interstate, or otherwise free-flowing, the HSP is the right system. If a meaningful share of the network is signalized, congested, or urban - or if the program includes acceptance testing on short segments - the ESP eliminates the voided runs that a conventional profiler produces in those conditions.
+Agencies running both environments frequently specify the ESP for the whole fleet on the reasoning that it does everything the HSP does and additionally handles the constrained sections.
+#### What standards is the IrisPRO High Speed certified to?
+Standard
+Scope
+HSP status
+ASTM E950
+Longitudinal profile measurement with inertial profiling reference
+Class 1 certified
+AASHTO R56
+Certification of inertial profiling systems
+[CONFIRM]
+AASHTO R57
+Operating inertial profiling systems
+[CONFIRM]
+AASHTO M328
+Inertial profiler specification
+[CONFIRM]
+AASHTO R54
+Accepting pavement ride quality measured with inertial profiling systems
+[CONFIRM]
+TxDOT specifications
+Texas DOT profiler requirements
+[CONFIRM]
+FHWA LTBP
+Long-Term Bridge Performance data requirements
+[CONFIRM]
+#### How does the HSP mount and integrate?
+The HSP uses the MARS mid-mount adjustable rail system, with a 68” to 72” wheel path adjustment range and up to 2.5” of vertical adjustment. MARS compatibility across both the HSP and the ESP means an agency operating a mixed fleet maintains one mounting standard, one set of spare rail components, and one installation procedure.
+### FAQ block
+Is the IrisPRO High Speed an ASTM E950 Class 1 profiler? Yes. The IrisPRO High Speed is certified as an ASTM E950 Class 1 inertial profiler.
+What is the difference between the IrisPRO High Speed and the IrisPRO Every Speed? Both are ASTM-certified inertial profilers built on the same MARS mounting system. The High Speed is configured for network-level collection at highway speed. The Every Speed adds patented technology that produces valid IRI at any speed, including stop-and-go conditions and a complete stop, which conventional inertial profilers cannot do.
+Is the IrisPRO High Speed suitable for a statewide data collection program? Yes. The HSP is designed for large-scale network-level programs where a single system collects consistently across thousands of centerline miles.
+Can the IrisPRO High Speed and Every Speed share mounting hardware? Yes. The MARS mid-mount adjustable rail system is compatible with both models.
+What data formats does the IrisPRO High Speed export? [CONFIRM Expected parity with the ESP: PPF, ERD, PRO (ProVAL-compatible), and Excel/CSV.]
+Does ICC-IMS also collect data as a service using this equipment? Yes. ICC-IMS provides full-service network-level data collection in addition to selling equipment.
+### Internal links
+Link to
+Anchor text
+Placement
+/solutions/equipment/irispro-every-speed/
+IrisPRO Every Speed
+Comparison section
+/solutions/equipment/surpro-reference/
+SurPRO reference profiler
+Certification section
+/who-we-serve/state-dots/
+statewide DOT programs
+Lead and application section
+/solutions/services/
+services
+FAQ
+/projects/
+DOT case studies
+Proof block
+/procurement/
+cooperative purchasing
+CTA block
+### CTAs
+- Download the IrisPRO High Speed Spec Sheet (PDF)
+- Request a Quote
+## 4. Page 4 - IrisPRO Lightweight
+Element
+Value
+URL
+/solutions/equipment/irispro-lightweight/
+Title tag
+IrisPRO Lightweight Profiler | Project-Level IRI
+Meta description
+The IrisPRO Lightweight is a compact, portable inertial profiler from ICC-IMS, built for project-level pavement assessment and flexible deployment.
+### H1
+### IrisPRO Lightweight: Portable Profiling for Project-Level Assessment
+### Answer-first lead
+The IrisPRO Lightweight is a compact, portable inertial profiler manufactured by ICC-IMS in Largo, Florida.
+It is built for project-level pavement assessment rather than network-level collection:
+- Individual paving projects
+- Acceptance testing
+- Short segments
+- Situations where a full production profiling vehicle is more equipment than the job requires.
+Its lightweight design allows integration with a wider range of vehicles, giving agencies and contractors flexible deployment without a dedicated collection vehicle.
+You don’t want to put weight on freshly-laid pavements, but it’s the optimal time to check the smoothness. The lightweight profiler is the solution.
+### Key facts panel
+Application
+Project-level assessment, acceptance testing, short segments
+Configuration
+Compact, portable, lightweight vehicle integration
+System weight
+[CONFIRM]
+Vehicle compatibility
+[CONFIRM: light-duty vehicle types supported; whether a receiver hitch, roof rack, or bumper mount is used]
+Certifications
+[CONFIRM: ASTM E950 class designation, AASHTO R56/R57 status]
+Outputs
+[CONFIRM]
+Export formats
+[CONFIRM]
+Setup time
+[CONFIRM - a stated mount-and-go time is the single most persuasive specification for this model]
+Manufactured
+Largo, Florida, USA
+### Body sections
+#### What is the IrisPRO Lightweight for?
+Not every profiling job is a network. A resurfacing project needs acceptance testing on a few miles. A municipality wants to verify contractor work on a completed section. A consulting engineer needs ride quality data on a single corridor for a design report. In each case, mobilizing a full production profiling vehicle is disproportionate to the work.
+The IrisPRO Lightweight is built for that scale of job: portable, quick to deploy, and integrated with a light vehicle rather than a dedicated collection platform.
+#### Measurement Capabilities
+- International Roughness Index (IRI)
+- Profilograph Index (PrI), sometimes called Profile Index (PI)
+- Ride Number (RN)
+- Cross-correlations typically ranging from 0.97 to 0.99, depending on surface type
+- Unfiltered Elevation
+- High-pass Filtered Elevation with user-specified cutoff wavelength
+- Raw laser readings and accelerometer-derived inertial reference heights
+- Record images to JPG or MP4 (with available Basler camera)
+- Trigger cameras at user-specified fixed distance intervals (with optional camera)
+#### When should an agency choose the Lightweight over a full profiling vehicle?
+Consider the Lightweight when…
+Consider the ESP or HSP when…
+Work is project-level: single corridors, individual paving projects
+Work is network-level: annual programs across a full inventory
+Collection days are occasional rather than continuous
+The system runs in sustained production
+A dedicated collection vehicle is not justified by volume
+A dedicated, permanently configured vehicle is warranted
+Deployment flexibility across multiple vehicles matters
+Configuration consistency across a fleet matters
+For agencies that need project-level data only a few times a year, the alternative worth weighing is contracting the work rather than owning the equipment. ICC-IMS provides project-level assessment as a service  (hyperlink to services). A short conversation about annual mileage usually resolves the buy-versus-contract question quickly, and ICC-IMS has no incentive to push either direction because it offers both.
+#### What standards does the IrisPRO Lightweight meet?
+Standard
+Scope
+Lightweight status
+ASTM E950
+Longitudinal profile measurement with inertial profiling reference
+[CONFIRM - including class designation]
+ASTM E1926
+Computing IRI from longitudinal profile measurements
+[CONFIRM]
+AASHTO R56
+Certification of inertial profiling systems
+[CONFIRM]
+AASHTO R57
+Operating inertial profiling systems
+[CONFIRM]
+AASHTO M328
+Inertial profiler specification
+[CONFIRM]
+#### How is the Lightweight deployed?
+[CONFIRM: mounting method, installation time, calibration requirement on each deployment, operator count, and power source. This section should be the strongest on the page. Portability is the model’s entire value proposition, and portability is proven with numbers: how long to mount, how many people, what vehicle.]
+### FAQ block
+What is the IrisPRO Lightweight profiler used for? The IrisPRO Lightweight is a compact, portable inertial profiler built for project-level pavement assessment - individual paving projects, acceptance testing, and short segments - rather than network-level data collection.
+Can the IrisPRO Lightweight be moved between vehicles? Yes. The system is designed for lightweight vehicle integration and flexible deployment. [CONFIRM: specific vehicle types and mounting method.]
+Is the IrisPRO Lightweight ASTM E950 certified? [CONFIRM ]
+What is the difference between the IrisPRO Lightweight and the IrisPRO Every Speed? The Every Speed is a production profiling system with patented technology that collects valid IRI at any speed, including a full stop, and is built for continuous network-level or urban collection. The Lightweight is a compact, portable system built for project-level work and flexible deployment across vehicles.
+Should we buy a Lightweight profiler or contract the work? It depends on annual mileage and how often project-level data is needed. ICC-IMS both manufactures equipment and provides data collection as a service, and can help evaluate which is more economical for a specific program.
+### Internal links
+Link to
+Anchor text
+Placement
+/solutions/equipment/irispro-every-speed/
+IrisPRO Every Speed
+Comparison section
+/solutions/equipment/
+full profiler line
+Comparison section
+/solutions/services/
+project-level assessment services
+Buy-versus-contract section
+/who-we-serve/aec-firms/
+AEC and engineering firms
+Application section
+/who-we-serve/municipalities-counties/
+municipal and county agencies
+Application section
+/resources/
+spec sheet
+CTA block
+### CTAs
+- Download the IrisPRO Lightweight Spec Sheet (PDF)
+- Request a Quote
+## 5. Page 5 - IrisPRO Pave
+Element
+Value
+URL
+/solutions/equipment/irispro-pave/
+Title tag
+IrisPRO Pave | LCMS-2 3D Pavement Scanning | ICC-IMS
+Meta description
+IrisPRO Pave combines ASTM Class 1 profiling with LCMS-2 3D scanning at up to 75 mph, capturing ride quality and surface distress in a single pass.
+### H1
+### IrisPRO Pave: 3D Pavement Imaging and Class 1 Profiling in a Single Pass
+### Achieve complete integration of industry-leading subsystems including the ICC inertial profiler, LCMS-2, Ladybug 6 or 5+, Basler 4K cameras, Hemisphere GNSS, iXBlue ATLANS, Applanix POS/LV, and more.
+### Answer-first lead
+The IrisPRO Pave is a combined profiling and pavement condition survey system manufactured by ICC-IMS in Largo, Florida.
+It integrates LCMS-2 3D pavement scanning with an ASTM Class 1 inertial profiler, collecting ride quality and surface distress data in a single pass at speeds up to 75 mph, with sub-millimeter crack detection.
+ICC-IMS operates the largest fleet of municipal and county data collection vehicles in the industry, and every vehicle in that fleet runs IrisPRO Pave technology.
+### Key facts panel
+Sensing
+LCMS-2 3D pavement scanning + ASTM Class 1 inertial profiler
+Collection speed
+Up to 75 mph
+Crack detection
+Sub-millimeter
+Data captured per pass
+Ride quality (IRI and profile) + 3D surface distress
+Field-proven
+Runs on every vehicle in the largest municipal/county collection fleet in the industry
+Certifications
+ASTM Class 1 inertial profiler
+Outputs
+[CONFIRM: distress output set, PCI/OCI derivation, rutting, macrotexture]
+Manufactured
+Largo, Florida, USA
+### Body sections
+#### What does the IrisPRO Pave collect?
+Two datasets that agencies have historically had to collect separately:
+Ride quality. ASTM Class 1 inertial profiling - the same longitudinal profile and IRI data a dedicated profiler produces.
+Surface condition. LCMS-2 3D scanning of the pavement surface, resolving cracking at sub-millimeter scale. Because the LCMS-2 captures true 3D geometry rather than a 2D image, distress identification does not depend on lighting or surface contrast - a crack is detected by its depth profile, not by how it happens to photograph.
+Both are captured in the same pass, at speeds up to 75 mph.
+#### Why does single-pass collection matter?
+Cost. One mobilization, one vehicle, one operator, one traffic exposure, instead of two.
+Data alignment. Ride quality and distress data collected in separate passes must be spatially reconciled afterward, and the reconciliation is never perfect. Single-pass collection means the IRI value and the distress record at a given station come from the same moment on the same wheel path.
+Traffic exposure. Every collection pass is a vehicle operating in live traffic. Halving the passes halves the exposure - a safety argument that carries weight with public works directors and DOT safety officers alike.
+Network completion time. For an agency profiling a large network annually, single-pass collection is the difference between finishing inside a season and not.
+#### How does 3D scanning at 75 mph work?
+The LCMS-2 projects laser line profiles across the pavement surface and reconstructs surface geometry from the returned profiles at high sampling rate. Operating at highway speed means the system collects within the normal traffic stream which means:
+- no lane closure
+- no rolling slowdown
+- no shoulder operation
+For an agency, what often governs a condition survey is not the equipment but the traffic control plan. A system that collects at 75 mph in live traffic removes that constraint from most of the network.
+#### What condition data comes out of it?
+Condition data flows into the ICC-IMS software stack for processing, QC, and management analysis:
+- Unify Connect - automated QC/QA processing, validation, and quality documentation
+- ESA - pavement management, treatment prioritization, and budget scenario modeling
+- Third-Party PMS Integration - export to StreetSaver, MicroPAVER, Cartegraph, dTIMS, Agile Assets, and other platforms
+#### What standards does the IrisPRO Pave meet?
+Standard
+Scope
+IrisPRO Pave status
+ASTM E950
+Longitudinal profile measurement with inertial profiling reference
+Class 1 certified
+ASTM E1926
+Computing IRI from longitudinal profile measurements
+[CONFIRM]
+ASTM D6433
+Roads and parking lots pavement condition index surveys
+[CONFIRM]
+AASHTO R56
+Certification of inertial profiling systems
+[CONFIRM]
+AASHTO R57
+Operating inertial profiling systems
+[CONFIRM]
+AASHTO PP69
+Determining pavement deformation parameters and cross slope
+[CONFIRM]
+AASHTO PP68
+Automated cracking data collection [CONFIRM standard designation currency]
+[CONFIRM]
+FHWA HPMS
+Highway Performance Monitoring System data submittal requirements
+[CONFIRM]
+#### Who is already running IrisPRO Pave?
+ICC-IMS operates the largest fleet of municipal and county data collection vehicles in the industry. Every vehicle in that fleet runs IrisPRO Pave technology.
+See Projects & Case Studies for documented deployments. (hyperlink to projects)
+### FAQ block
+What is the IrisPRO Pave? The IrisPRO Pave is a combined pavement profiling and condition survey system from ICC-IMS. It integrates LCMS-2 3D pavement scanning with an ASTM Class 1 inertial profiler to collect ride quality and surface distress data in a single pass.
+How fast can the IrisPRO Pave collect data? Up to 75 mph, which allows collection within the normal traffic stream without lane closures.
+How small a crack can the IrisPRO Pave detect? The LCMS-2 integration provides sub-millimeter crack detection.
+Can the IrisPRO Pave collect ride quality and distress data at the same time? Yes. Both datasets are captured in a single pass, which eliminates the need to spatially reconcile separately collected ride and distress data.
+Is the IrisPRO Pave an ASTM Class 1 inertial profiler? Yes. The IrisPRO Pave includes ASTM Class 1 inertial profiling in addition to its 3D surface imaging capability.
+Does the IrisPRO Pave produce PCI scores? [CONFIRM ]
+What software processes IrisPRO Pave data? Data flows into Unify Connect for automated QC/QA and into ESA for pavement management analysis. Export to third-party PMS platforms including StreetSaver, MicroPAVER, Cartegraph, and dTIMS is also supported.
+Who uses the IrisPRO Pave? ICC-IMS runs IrisPRO Pave technology on every vehicle in its own collection fleet, which is the largest fleet of municipal and county data collection vehicles in the industry.
+### Internal links
+Link to
+Anchor text
+Placement
+/solutions/equipment/irispro-every-speed/
+IrisPRO Every Speed
+Profiling comparison
+/solutions/equipment/irisgo-pave/
+IrisGO Pave
+Survey vehicle comparison
+/solutions/software/unify-connect/
+Unify Connect
+Data flow section
+/solutions/software/pavement-management-esa/
+ESA pavement management
+Data flow section
+/solutions/software/integrations/
+third-party PMS integration
+Data flow section
+/who-we-serve/state-dots/
+State DOT programs
+HPMS discussion
+/who-we-serve/municipalities-counties/
+municipal and county networks
+Fleet proof section
+/who-we-serve/airports/
+airfield pavement assessment
+Crack detection section
+/projects/
+case studies
+Proof section
+### CTAs
+- Download the IrisPRO Pave Spec Sheet (PDF)
+- Request a Quote
+## 6. Page 6 - IrisGO Portable
+Element
+Value
+URL
+/solutions/equipment/irisgo-portable/
+Title tag
+IrisGO Portable | PCI Survey Vehicle | ICC-IMS
+Meta description
+IrisGO Portable automates pavement condition surveys for municipal and county road networks, collecting PCI and OCI data with GIS-mapped distress.
+### H1
+### IrisGO Portable: Automated PCI and OCI Surveys for Local Road Networks
+### Answer-first lead
+The IrisGO Portable is an automated pavement condition survey system manufactured by ICC-IMS in Largo, Florida.
+It is built for municipal and county road networks, collecting Pavement Condition Index (PCI) and Overall Condition Index (OCI) data with GIS-mapped distress identification.
+The system replaces windshield surveys and manual walking inspections with a repeatable automated collection method, producing condition data that supports defensible budget requests and year-over-year trend tracking.
+ICC profilers are renowned for their accuracy and repeatability. With the  IrisGO! Ship, assemble, collect, and pack up the unit with ease while maintaining that accuracy and reliability.
+### Key facts panel
+Application
+Municipal and county road network condition surveys
+Condition indices
+PCI and OCI
+Distress data
+GIS-mapped distress identification
+Configuration
+Portable - [CONFIRM: mounting method and host vehicle requirements]
+Collection speed
+[CONFIRM]
+Distress types identified
+[CONFIRM]
+Standards
+[CONFIRM: ASTM D6433 conformance for PCI methodology]
+Manufactured
+Largo, Florida, USA
+### Body sections
+#### Why use the IrisGO Portable?
+Most local agencies still assess pavement condition by driving the network and recording impressions. Windshield surveys are inexpensive and fast, but they fail in three specific ways that surface at exactly the wrong moment.
+They are not repeatable. Two inspectors rate the same street differently, and the same inspector rates it differently in March and October. Year-over-year “improvement” may be inspector variance.
+They are not defensible. When a council member asks why Elm Street ranked above Oak Street, “professional judgment” is a weak answer in a public meeting where a paving contract is on the agenda.
+They do not scale. A network large enough to need prioritization is a network too large to inspect consistently by hand.
+Automated collection addresses all three. The same system, run the same way, produces comparable numbers every cycle, and every rating traces to recorded distress data at a mapped location.
+#### What does the IrisGO Portable produce?
+PCI and OCI condition scores across the surveyed network, calculated from automatically identified surface distress rather than visual estimation.
+GIS-mapped distress data, so every distress record carries a location. This is what makes the data usable in a management system and presentable on a map to a non-technical audience.
+The output feeds directly into pavement management analysis - treatment recommendations, remaining service life projections, and budget scenario modeling. See ESA Pavement Management  /solutions/software/pavement-management-esa (hyperlink) and Pavement Management Plans. /solutions/services (hyperlink)
+Measurement Capabilities
+- International Roughness Index (IRI)
+- Profilograph Index (PrI), sometimes called Profile Index (PI)
+- Ride Number (RN)
+- Boeing Bump Index
+- Cross-correlations between multiple runs typically above 0.97
+- Raw Elevation
+- High-pass Filtered Elevation with user-specified cutoff wavelength
+- Raw laser readings and accelerometer-derived inertial reference heights
+- 3-point rutting (with 3 laser systems)
+- Record images to JPG or MP4 (with available Basler camera)
+- Trigger cameras at user-specified fixed distance intervals (with optional camera)
+#### Why “portable”?
+[CONFIRM: host vehicle requirements, installation and removal time, whether one agency vehicle can be shared across departments/districts between collection cycles.]
+#### How does this compare to contracting the survey?
+Many municipalities and counties contract condition surveys rather than owning collection equipment, and for networks surveyed every two or three years, contracting is usually the more economical path. ICC-IMS provides both, and runs the largest municipal and county collection fleet in the industry.
+The case for owning tends to strengthen when an agency wants annual data, has a network large enough to spread the cost, or needs the flexibility to re-survey specific corridors after construction without scheduling a mobilization.
+#### What standards apply to automated condition surveys?
+Standard
+Scope
+IrisGO Portable status
+ASTM D6433
+Roads and parking lots pavement condition index surveys
+[CONFIRM]
+ASTM E1656
+Classification of automated pavement condition survey equipment [CONFIRM designation currency]
+[CONFIRM]
+AASHTO PP68
+Automated cracking data collection [CONFIRM designation currency]
+[CONFIRM]
+AASHTO PP69
+Determining pavement deformation parameters and cross slope
+[CONFIRM]
+### FAQ block
+What is the IrisGO Portable used for? The IrisGO Portable is an automated pavement condition survey system for municipal and county road networks. It collects PCI and OCI condition data with GIS-mapped distress identification. It can be shipped, assembled and collecting data just like our conventional systems.
+What is the difference between PCI and OCI? PCI (Pavement Condition Index) is a standardized 0–100 index derived from observed surface distress. OCI (Overall Condition Index) is an agency-defined composite index that may weight additional factors. Many agencies use one or the other depending on their management system and reporting requirements. See the Resources glossary (hyperlink) for full definitions.
+Does the IrisGO Portable produce ASTM D6433-conformant PCI? [CONFIRM.]
+Can the IrisGO Portable data be used in StreetSaver or Cartegraph? Yes. ICC-IMS supports export to more than 15 pavement management platforms, including StreetSaver, MicroPAVER, Cartegraph, Lucity, Brightly, dTIMS, and Agile Assets. See Third-Party PMS Integration (hyperlink).
+Should our city buy a survey system or contract the survey? For networks surveyed every two or three years, contracting is usually more economical. Ownership tends to make sense for agencies that want annual data, have a large network, or need to re-survey corridors on short notice. ICC-IMS offers both and can help compare the two for a specific network.
+What is the difference between the IrisGO Portable and the IrisGO Pave? Both are automated pavement survey systems. The IrisGO Pave adds enhanced imaging capability. [CONFIRM: precise differentiation.]
+### Internal links
+Link to
+Anchor text
+Placement
+/solutions/equipment/irisgo-pave/
+IrisGO Pave
+Comparison
+/who-we-serve/municipalities-counties/
+municipal and county solutions
+Lead and problem section
+/solutions/services/
+pavement condition survey services
+Buy-versus-contract section
+/solutions/software/pavement-management-esa/
+ESA pavement management
+Output section
+/solutions/software/integrations/
+PMS integration
+FAQ
+/resources/
+glossary and spec sheets
+FAQ and CTA
+/company/contact/
+contact us
+Buy-versus-contract section
+### CTAs
+- Download the IrisGO Portable Spec Sheet (PDF)
+- Book a Discovery Call
+## 7. Page 7 - IrisGO Pave
+Element
+Value
+URL
+/solutions/equipment/irisgo-pave/
+Title tag
+IrisGO Pave | Pavement Survey Vehicle | ICC-IMS
+Meta description
+IrisGO Pave is an automated pavement survey vehicle from ICC-IMS with enhanced imaging for high-resolution condition assessment of road networks.
+### H1
+### IrisGO Pave: High-Resolution Automated Pavement Survey
+### Answer-first lead
+The IrisGO Pave is an automated pavement survey vehicle manufactured by ICC-IMS in Largo, Florida.
+It provides enhanced imaging capability for high-resolution pavement condition assessment across road networks, producing GIS-mapped distress data for pavement management analysis.
+It is the higher-capability system in the IrisGO line, intended for agencies and firms whose condition data requirements exceed what a standard automated survey produces.
+### The IrisGO Pave is a full condition survey system in a box. Achieve complete integration of industry-leading subsystems including the ICC inertial profiler, LCMS-2, Ladybug 5+ or 6, Basler 4K cameras, and iXBlue ATLANS, now in a rugged transportable container that can be mounted to most mid-size pickup trucks.
+### Key facts panel
+Application
+Automated pavement condition surveys with enhanced imaging
+Imaging
+[CONFIRM: camera configuration, resolution, and whether 3D sensing is included]
+Collection speed
+[CONFIRM]
+Condition indices
+[CONFIRM: PCI, OCI]
+Distress types identified
+[CONFIRM]
+Standards
+[CONFIRM]
+Manufactured
+Largo, Florida, USA
+### Body sections
+#### Where the IrisGO Pave sits in the equipment line
+IrisGO Portable
+IrisGO Pave
+IrisPRO Pave
+Primary output
+PCI / OCI condition data
+High-resolution condition data
+Condition data + ASTM Class 1 ride quality
+Imaging
+Standard automated survey
+Enhanced [CONFIRM]
+LCMS-2 3D, sub-mm crack detection
+Ride quality / IRI
+[CONFIRM]
+[CONFIRM]
+Yes - ASTM Class 1
+Collection speed
+[CONFIRM]
+[CONFIRM]
+Up to 75 mph
+Typical buyer
+Municipal and county networks
+[CONFIRM]
+Agencies needing ride and distress in one pass
+#### What does enhanced imaging deliver?
+[CONFIRM – I’m having trouble confirming what this means]
+#### What is the IrisGO Pave used for?
+[NOTE: Pending the confirmation above, the defensible framing is capability tiering within the IrisGO line: agencies whose distress data requirements are not met by a standard automated survey - typically because they need finer distress resolution, additional asset data from the same pass, or higher-confidence data for a program under external scrutiny.]
+Output feeds the same downstream stack as the rest of the line: Unify Connect (hyperlink) for automated QC, ESA (hyperlink) for management analysis, and third-party PMS export (hyperlink).
+### FAQ block
+What is the IrisGO Pave? The IrisGO Pave is an automated pavement survey vehicle from ICC-IMS with enhanced imaging capability for high-resolution pavement condition assessment.
+What is the difference between the IrisGO Pave and the IrisGO Portable? Both are automated pavement survey systems. The IrisGO Pave provides enhanced imaging capability. [CONFIRM: differentiation.]
+What is the difference between the IrisGO Pave and the IrisPRO Pave? The IrisPRO Pave combines LCMS-2 3D pavement scanning with an ASTM Class 1 inertial profiler, collecting both surface distress and ride quality data in a single pass at up to 75 mph. The IrisGO Pave is a pavement survey vehicle focused on condition assessment. [CONFIRM: whether the IrisGO Pave includes any profiling capability.]
+Does the IrisGO Pave collect IRI? [CONFIRM.]
+What pavement management platforms can IrisGO Pave data be exported to? ICC-IMS supports more than 15 PMS platforms, including StreetSaver, MicroPAVER, Cartegraph, Lucity, Brightly, dTIMS, and Agile Assets.
+### Internal links
+Link to
+Anchor text
+Placement
+/solutions/equipment/irisgo-portable/
+IrisGO Portable
+Comparison table
+/solutions/equipment/irispro-pave/
+IrisPRO Pave
+Comparison table
+/solutions/software/unify-connect/
+Unify Connect
+Output section
+/solutions/software/pavement-management-esa/
+ESA
+Output section
+/solutions/software/integrations/
+PMS integration
+FAQ
+/who-we-serve/municipalities-counties/
+municipal and county solutions
+Application section
+/who-we-serve/aec-firms/
+AEC firms
+Application section
+### CTAs
+- Download the IrisGO Pave Spec Sheet (PDF)
+- Request a Quote
+## 8. Page 8 - SFT Locked Wheel Friction Tester
+Element
+Value
+URL
+/solutions/equipment/sft-locked-wheel/
+Title tag
+SFT Locked Wheel Friction Tester | ASTM E274
+Meta description
+The ICC-IMS SFT is an ASTM E274 compliant locked-wheel skid trailer for state DOT highway friction programs and HFST acceptance testing. Made in USA.
+### H1
+### SFT Locked Wheel Friction Tester: ASTM E274 Skid Resistance Measurement
+### Answer-first lead
+The SFT Locked Wheel Friction Tester is an ASTM E274 compliant locked-wheel skid trailer manufactured by ICC-IMS in Largo, Florida.
+It measures pavement skid resistance at highway speed and is used by state DOTs for highway safety friction testing programs, network friction inventories, and High Friction Surface Treatment (HFST) acceptance testing.
+ASTM E274 is the reference test method for skid resistance measurement using a full-scale tire, and locked-wheel testing is the basis of most state friction programs in the United States.
+### Key facts panel
+Test method
+ASTM E274 - locked-wheel, full-scale tire
+Output
+Friction Number (FN), reported at test speed and tire type
+Primary applications
+State DOT friction programs · network friction inventory · HFST acceptance testing · crash-site and high-risk location investigation
+Test tires
+ASTM E501 ribbed and ASTM E524 smooth [CONFIRM: which are supplied and supported]
+Test speed
+[CONFIRM: rated test speed range]
+Water delivery
+[CONFIRM: tank capacity and delivery rate conformance]
+Tow vehicle
+[CONFIRM: requirements and available configurations]
+Manufactured
+Largo, Florida, USA
+Maintenance
+Utilizes coil-over shocks instead of air-adjustable shocks for hassle-free maintenance. Incorporates check valves before the electric valve to optimize water usage and reduce refill stops.
+### Body sections
+#### What does a locked-wheel friction tester measure?
+ASTM E274 testing works by bringing a test wheel to a full lock at a controlled speed on a wetted pavement surface and measuring the resulting friction force. The result is reported as a Friction Number - the friction force expressed as a percentage of the vertical load, at a stated test speed.
+Two properties of the method matter for programs built on it:
+The test tire determines what is measured. A ribbed tire (ASTM E501) is primarily sensitive to pavement microtexture and is relatively insensitive to water depth. A smooth tire (ASTM E524) is sensitive to macrotexture and to drainage, which makes it the better indicator of wet-weather crash risk at speed. Many state programs run both. Friction Numbers from different tires are not interchangeable, which is why FN values are always reported with tire type and test speed.
+Locked-wheel is a spot measurement, not a continuous one. Each test produces a value for a discrete location. This makes locked-wheel testing the standard for compliance, acceptance, and investigation, and makes continuous friction measurement the better tool for screening a full network.
+See the DFT Continuous Friction Tester  /solutions/equipment/dft-continuous  (hyperlink) for the continuous approach - most mature state programs use both.
+#### What do agencies use the SFT for?
+Highway safety friction programs. Routine friction testing on a defined cycle, with results feeding a safety management process that flags locations falling below an agency threshold.
+HFST acceptance testing. High Friction Surface Treatment is installed specifically to raise friction at curves, ramps, and approaches with a documented wet-weather crash history. Acceptance testing verifies that the installed treatment delivers the specified friction. Because HFST is applied precisely where friction is safety-critical, acceptance testing is not a formality - it is the verification that the safety investment worked.
+Crash-site investigation. Friction measurement at locations with a crash pattern, supporting engineering analysis and, frequently, tort liability defense.
+Network friction inventory. Systematic friction data across a network to identify deficient sections before a crash pattern develops.
+ICC-IMS also provides friction testing as a service for agencies that need data without owning a trailer. See Friction Testing Services. /solutions/services (hyperlink)
+#### What standards does the SFT meet?
+Standard
+Scope
+SFT status
+ASTM E274
+Skid resistance of paved surfaces using a full-scale tire
+Compliant
+ASTM E501
+Standard ribbed tire for pavement skid resistance tests
+[CONFIRM: supported]
+ASTM E524
+Standard smooth tire for pavement skid resistance tests
+[CONFIRM: supported]
+ASTM E1859
+Friction coefficient measurements between tire and pavement using a variable slip technique [CONFIRM applicability]
+[CONFIRM]
+AASHTO T242
+Frictional properties of paved surfaces using a full-scale tire
+[CONFIRM]
+FHWA T 5040.38
+Technical advisory on pavement friction management [CONFIRM current designation]
+[CONFIRM - reference context, not a certification]
+#### What makes ICC-IMS’ SFT different?
+Maintenance
+Utilizes coil-over shocks instead of air-adjustable shocks for hassle-free maintenance. Incorporates check valves before the electric valve to optimize water usage and reduce refill stops.
+Innovative Design Features
+Equipped with proprietary racing-style aluminum brake calipers for enhanced performance. Features proximity switch for Dynamic Friction Tester (DMI), facilitating field fixes without downtime.
+Enhanced Efficiency
+Offers a rapid-fire mode option for closer spacing between tests, reducing water usage and speeding up the process. Boasts top-down access to the trailer suspension system for streamlined maintenance.
+User-Friendly and Time-Efficient
+Designed for ease of use, ensuring a user-friendly experience for operators. Developed with a focus on time efficiency, making the testing process more streamlined.
+### FAQ block
+Is the ICC-IMS SFT compliant with ASTM E274? Yes. The SFT Locked Wheel Friction Tester is built to ASTM E274, the standard test method for measuring skid resistance using a full-scale tire.
+What is a Friction Number? A Friction Number (FN) is the friction force measured during a locked-wheel test expressed as a percentage of the vertical load on the test wheel, reported together with the test speed and tire type - for example, FN(40)R for a test at 40 mph with a ribbed tire.
+Can the SFT be used for HFST acceptance testing? Yes. HFST acceptance testing is one of the primary applications of the SFT. High Friction Surface Treatment is installed at locations with documented wet-weather crash history, and acceptance testing verifies the installed treatment meets the specified friction level.
+What is the difference between a ribbed tire and a smooth tire test? A ribbed tire (ASTM E501) is primarily sensitive to pavement microtexture. A smooth tire (ASTM E524) is sensitive to macrotexture and surface drainage, making it a better indicator of wet-weather performance at speed. Friction Numbers from the two tire types are not interchangeable.
+What is the difference between locked-wheel and continuous friction testing? Locked-wheel testing produces a friction value at discrete test locations and is the standard method for compliance, acceptance, and investigation. Continuous friction measurement produces an uninterrupted friction profile along a route and is better suited to screening an entire network. Many state programs use both.
+Does ICC-IMS provide friction testing as a service? Yes. ICC-IMS provides locked-wheel friction surveys, continuous friction measurement, and HFST acceptance testing as services in addition to manufacturing the equipment.
+### Internal links
+Link to
+Anchor text
+Placement
+/solutions/equipment/dft-continuous/
+DFT Continuous Friction Tester
+Method comparison
+/who-we-serve/state-dots/
+State DOT safety programs
+Applications section
+/who-we-serve/airports/
+airfield friction testing
+Applications section
+/solutions/services/
+friction testing services
+Applications and FAQ
+/resources/
+HFST definitional page and spec sheets
+Applications section
+/projects/
+friction program case studies
+Proof block
+/procurement/
+cooperative purchasing
+CTA block
+### CTAs
+- Download the SFT Spec Sheet (PDF)
+- Request a Quote
+## 9. Page 9 - DFT Continuous Friction Tester
+Element
+Value
+URL
+/solutions/equipment/dft-continuous/
+Title tag
+DFT Continuous Friction Tester | ICC-IMS
+Meta description
+The ICC-IMS DFT Continuous Friction Tester measures friction continuously for network-level screening and runway and airfield friction testing.
+### H1
+### DFT Continuous Friction Tester: Uninterrupted Friction Data Across a Network or Runway
+### Answer-first lead
+The DFT Continuous Friction Tester is a continuous friction measurement system manufactured by ICC-IMS in Largo, Florida.
+Unlike locked-wheel testing, which produces a friction value at discrete locations, continuous friction measurement produces an uninterrupted friction profile along the full length of a route.
+This makes it suited to network-level friction screening across a road system and to runway and airfield friction testing, where regulators and operators require friction data along the full runway length rather than at sampled points.
+The ICC Dynamic Friction Tester (ICC DFT™, formerly known as NAC DFT) is an aerodynamic tow-behind continuous friction measurement device (CFME), approved by the FAA for use on airport runways. Used by airport authorities worldwide, the latest ICC DFT design updates focus on what matters most in real-world runway operations: stable tracking and long, uninterrupted testing.
+Our updated design features a widened body to improve stability during turns and transitions, and increased water capacity to extend continuous wet testing - helping crews cover more runway and taxiway with fewer stops. The result is steadier towing, smoother tracking during collection and transport, and fewer refill interruptions so teams can stay focused on consistent data collection and safe operations.
+### Key facts panel
+Measurement type
+Continuous friction profile
+Primary applications
+Network-level friction screening · runway and airfield friction testing
+Measurement principle
+[CONFIRM: fixed-slip, variable-slip, or side-force]
+Output
+[CONFIRM: friction index reported and reporting interval]
+Test speed
+[CONFIRM]
+Water delivery
+[CONFIRM: tank capacity, film depth conformance]
+Standards
+FAA, ASTM E2340 Compliant
+Manufactured
+Largo, Florida, USA
+### Body sections
+#### What is continuous friction measurement?
+A locked-wheel test answers “what is the friction at this point?” Continuous friction measurement answers “how does friction vary along this entire route?”
+The difference matters because friction is not uniform. A section that passes a spot test at station 12+00 may have a polished, low-friction stretch two hundred feet later - a stretch a discrete test will miss entirely unless it happens to land on it. Continuous measurement removes the sampling problem: every foot of the route is measured.
+The trade-off is that locked-wheel testing remains the reference method for compliance and acceptance in most state specifications. In practice, mature programs use continuous measurement to screen the network and identify candidate sections, then apply locked-wheel testing to the sections that screening flags. Screening finds the problem; the reference method documents it.
+#### Network-level friction screening
+For a state DOT, or a large agency, the operational value is coverage. Discrete testing across a full network is a sampling exercise constrained by how many tests a crew can complete in a season. Continuous measurement converts friction from a sampled attribute into a mapped, wall-to-wall dataset.
+That dataset supports a friction management program in the sense the FHWA advocates: systematic identification of friction-deficient locations before a crash pattern develops, rather than investigation after one has.
+#### Runway and airfield friction testing
+Runway friction is an operational and regulatory requirement, not a maintenance preference. Airport operators conduct friction surveys on a defined schedule, and results drive maintenance actions including rubber removal and surface treatment. Continuous measurement along the full runway length is the expected data form - friction values at sampled points do not satisfy the requirement, because the friction condition that matters is the one in the touchdown zone where rubber accumulates.
+[CONFIRM - whether the DFT appears on the FAA’s list of approved continuous friction measuring equipment. For the airport segment, this single question determines whether the equipment can be used at all. If the DFT is FAA-listed, that fact belongs in the answer-first lead, in the meta description, and on the Airport Solutions page.]
+ICC-IMS also provides continuous runway friction testing as a service, including night operations for commercial airports with daytime operational constraints. See Airfield Pavement Assessment.
+#### What standards does the DFT meet?
+Standard
+Scope
+DFT status
+ASTM E2340
+Measuring skid resistance using a continuous reading, fixed-slip technique
+[CONFIRM]
+ASTM E1859
+Friction coefficient measurements using a variable slip technique
+[CONFIRM]
+ASTM E670
+Side force friction on paved surfaces using the Mu-Meter
+[CONFIRM - applicable only if side-force principle]
+ASTM E1911
+Measuring paved surface frictional properties using the Dynamic Friction Tester
+[CONFIRM]
+FAA AC 150/5320-12
+Skid-resistant airport pavement surfaces
+[CONFIRM]
+ICAO Annex 14 / Doc 9137
+Runway surface friction requirements
+[CONFIRM]
+### FAQ block
+What is continuous friction measurement? Continuous friction measurement produces an uninterrupted friction profile along the full length of a route, rather than friction values at discrete test locations. This allows an entire network or runway to be evaluated without sampling.
+What is the difference between the DFT and the SFT locked wheel tester? The SFT performs ASTM E274 locked-wheel tests, producing a Friction Number at discrete locations, and is the reference method for compliance and acceptance testing. The DFT measures friction continuously along a route and is suited to network-level screening and runway testing. Many agencies use both - continuous measurement to screen, locked-wheel to document.
+Can the DFT be used for runway friction testing? Yes. Runway and airfield friction testing is a primary application, and continuous measurement along the full runway length is the data form airport operators and regulators expect. [CONFIRM: FAA AC 150/5320-12 conformance and FAA equipment listing ]
+Does ICC-IMS provide runway friction testing as a service? Yes, including continuous runway friction testing and night operations for commercial airports with daytime operational constraints.
+What friction index does the DFT report? [CONFIRM]
+How often should runway friction be tested? Testing frequency is set by the airport’s operating category and traffic volume under FAA guidance, and increases with the number of daily jet operations. [CONFIRM: whether ICC-IMS wants to publish a frequency table here - it is a heavily searched question and a strong GEO asset, but it must cite the current advisory circular.]
+### Internal links
+Link to
+Anchor text
+Placement
+/solutions/equipment/sft-locked-wheel/
+SFT Locked Wheel Friction Tester
+Method comparison and FAQ
+/who-we-serve/airports/
+Airport Solutions
+Runway section
+/who-we-serve/state-dots/
+State DOT friction programs
+Network screening section
+/solutions/services/
+airfield assessment and friction testing services
+Runway section
+/projects/
+DFW International Airport case study
+Runway section
+/resources/
+spec sheet
+CTA block
+### CTAs
+- Download the DFT Spec Sheet (PDF)
+- High commitment: Request an Airfield Assessment Consultation
+## 10. Page 10 - SurPRO Reference Profiler
+Element
+Value
+URL
+/solutions/equipment/surpro-reference/
+Title tag
+SurPRO Reference Profiler | DOT Certification Sites
+Meta description
+The SurPRO walking-speed reference profiler establishes the reference profile used to certify inertial profilers at DOT certification sites.
+### H1
+### SurPRO Reference Profiler: The Reference Standard for DOT Certification Sites
+### Answer-first lead
+The SurPRO is a walking-speed reference profiler manufactured by ICC-IMS in Largo, Florida. It establishes the reference longitudinal profile against which inertial profiling systems are certified and validated.
+The SurPRO uses patented technology to obtain reference profile data with 99.9% repeatability and accuracy. It is the only reference device to meet FHWA’s Golden Reference Profiling Device requirements.
+Under MAP-21 and the FAST Act, state DOTs are required to report pavement ride quality data collected by certified equipment, and certification requires a reference profile from a device of documented accuracy.
+The SurPRO is the device that produces it.
+Illinois DOT uses the SurPRO 5000 in its pavement technology program.
+The SurPRO walking profiler is the most accurate device for measuring surface profile and roughness characteristics of any placed surface, including roads, runways, and other structures. It is a Class 1 profiling unit and uses patented technology.
+The SurPRO is a fully automated, portable unit. It weighs just 42 pounds. It can be brought onto any job site and be collecting data in a matter of minutes. The SurPRO collects true elevation profiles, displays the results, saves the data, and executes user-configurable analysis to provide numerical and graphical representation of the profile and roughness indices.
+### Key facts panel
+Device type
+Walking-speed reference profiler
+Primary use
+Establishing reference profiles at DOT certification sites; validating inertial profiler accuracy
+Regulatory context
+MAP-21 / FAST Act ride quality reporting requirements; AASHTO R56 profiler certification
+Known model
+SurPRO 5000
+Documented user
+Illinois DOT - Engineer of Pavement Technology
+Operating speed
+Walking speed [CONFIRM: rated speed and production rate per hour]
+Weight
+42 pounds
+Accuracy
+[CONFIRM - the governing specification for a reference device]
+Standards
+[CONFIRM: ASTM E2133 rolling inclinometer method]
+Manufactured
+Largo, Florida, USA
+### Body sections
+#### Why a state DOT needs a reference profiler
+The chain of obligation runs as follows:
+- Under MAP-21 and the FAST Act, state DOTs report pavement condition data, including ride quality, to FHWA.
+- That data must come from certified inertial profiling equipment.
+- Certification under AASHTO R56 requires the profiler to be run against a certification site - a prepared pavement section with a known, accurate reference profile.
+- The reference profile must be established by a device more accurate than the equipment being certified.
+A reference profiler is therefore not an optional accuracy accessory. It is the instrument at the base of the measurement chain, and without it a state cannot certify its own equipment or its contractors’.
+#### What a reference profiler is used for
+Establishing and re-establishing certification sites. A certification site’s reference profile is not permanent - the pavement changes, and the site must be re-profiled on a schedule.
+Certifying agency and contractor equipment. States that require contractor profilers to be certified before acceptance testing need reference data to certify against.
+Investigating disputes. When a contractor’s profiler and an agency’s profiler disagree on a smoothness incentive payment, the reference device settles it. On a large paving contract with ride incentives and disincentives, a single disputed section can exceed the cost of the reference profiler.
+Validating a new or repaired system. After sensor replacement, recalibration, or a software change, a reference profile confirms the system still produces valid data.
+### Applications
+- Manage and maintain any placed surface
+- Compare pavement profile with specifications for contract bonus/penalty determination
+- Identify and correct surface defects to achieve target roughness indices (using bump/dip analysis)
+- Establish calibration site benchmarks for contractor and vendor equipment validation
+- Meet Data Quality Management Plan (DQMP) requirements
+- Test bridges before approaches are in place
+- Sidewalk smoothness
+- Testing road cross slopes
+- Testing drainage slopes
+#### How does a walking-speed reference profiler achieve higher accuracy?
+An inertial profiler infers elevation by combining accelerometer and height sensor data while moving at speed, which introduces the dependencies that make certification necessary in the first place - speed, vehicle dynamics, and sensor response.
+A walking-speed reference device removes those dependencies. Operating at walking pace, it measures the surface directly and continuously without relying on an inertial reference to separate pavement profile from vehicle motion. The trade-off is production rate: a reference device profiles a certification site, not a network. That is precisely its role.
+#### Standards and certification context
+Standard
+Scope
+SurPRO status
+ASTM E2133
+Using a rolling inclinometer to measure longitudinal and transverse profiles of a traveled surface
+[CONFIRM]
+AASHTO R56
+Certification of inertial profiling systems - reference device role
+Used as the reference device for validating inertial profiler accuracy
+ASTM E950
+Longitudinal profile measurement - reference for Class 1 verification
+[CONFIRM: relationship]
+ASTM E1926
+Computing IRI from longitudinal profile measurements
+[CONFIRM]
+#### Who is using the SurPRO?
+Illinois DOT uses the SurPRO 5000, and its Engineer of Pavement Technology is an attributable reference on file. Per the journey analysis recommendation on testimonial placement, that testimonial belongs on this page rather than rotating anonymously in a homepage carousel - a state DOT pavement technology engineer vouching for a reference device is the most relevant credential this page can carry.
+[Insert: John Senger, PE, Engineer of Pavement Technology, Illinois DOT - SurPro 5000 testimonial, attributed by name, title, and agency.]
+### FAQ block
+What is a reference profiler? A reference profiler is a high-accuracy, walking-speed device used to establish the reference longitudinal profile of a pavement section. That reference profile is what inertial profiling systems are certified and validated against.
+Why does a DOT need a reference profiler? Under MAP-21 and the FAST Act, state DOTs report pavement ride quality data collected with certified equipment. Certification under AASHTO R56 requires running the profiler against a certification site with a known reference profile, and that reference profile must be established by a device of documented higher accuracy.
+What is a pavement certification site? A certification site is a prepared pavement section with an accurately established reference profile, used to verify that an inertial profiling system produces valid results before it is used for data collection or acceptance testing.
+Can the SurPRO be used to settle a smoothness dispute? Yes. When an agency profiler and a contractor profiler disagree on a section subject to ride incentives, a reference profile from a device of documented accuracy is the basis for resolution.
+How fast does the SurPRO operate? The SurPRO operates at walking speed, which is what allows it to achieve reference-grade accuracy. It is designed to profile certification sites and test sections, not networks.
+Which agencies use the SurPRO? Illinois DOT uses the SurPRO 5000 in its pavement technology program.
+What is the difference between the SurPRO and an inertial profiler? An inertial profiler collects at highway speed and derives profile from combined accelerometer and height sensor data. The SurPRO operates at walking speed and measures the surface directly, achieving the higher accuracy required to certify inertial equipment. The two are complementary: the SurPRO certifies the equipment that collects the network.
+### Internal links
+Link to
+Anchor text
+Placement
+/solutions/equipment/irispro-every-speed/
+IrisPRO Every Speed
+Certification context
+/solutions/equipment/irispro-high-speed/
+IrisPRO High Speed
+Certification context
+/who-we-serve/state-dots/
+State DOT Solutions
+Regulatory section
+/who-we-serve/federal-agencies/
+Federal Agency Solutions
+Regulatory section
+/solutions/services/
+consulting and engineering services
+Certification site section
+/resources/
+MAP-21 and certification site guidance
+Regulatory section
+/procurement/
+cooperative purchasing
+CTA block
+### CTAs
+- Download the SurPRO Spec Sheet (PDF)
+- Request Technical Information
+## 11. Consolidated standards compliance matrices
+NOTE: These two tables belong on the Equipment Overview page. The relevant rows are repeated on each product page so that visitors arriving directly from search never have to navigate back.
+Legend: ● Confirmed · ○ Confirmation required · - Not applicable
+### Matrix A - Profilers and pavement survey vehicles
+Standard
+ESP
+HSP
+Lightweight
+IrisPRO Pave
+IrisGO Portable
+IrisGO Pave
+ASTM E950 (inertial profiling)
+●
+● Class 1
+○
+● Class 1
+○
+○
+ASTM E1926 (IRI computation)
+○
+○
+○
+○
+○
+○
+ASTM D6433 (PCI survey)
+-
+-
+-
+○
+○
+○
+AASHTO R56 (profiler certification)
+●
+○
+○
+○
+-
+-
+AASHTO R57 (profiler operation)
+●
+○
+○
+○
+-
+-
+AASHTO M328 (profiler specification)
+○
+○
+○
+○
+-
+-
+AASHTO R54 (ride quality acceptance)
+○
+○
+○
+○
+-
+-
+AASHTO PP69 (deformation / cross slope)
+○ 3-laser
+○
+○
+○
+○
+○
+AASHTO PP68 (automated cracking)
+-
+-
+-
+○
+○
+○
+TxDOT specifications
+●
+○
+○
+○
+-
+-
+Illinois iCART (2026)
+● all types
+○
+○
+○
+-
+-
+FHWA LTBP
+○
+○
+○
+○
+-
+-
+FHWA HPMS submittal
+○
+○
+-
+○
+○
+○
+### Matrix B - Friction testers and reference devices
+Standard
+SFT Locked Wheel
+DFT Continuous
+SurPRO
+ASTM E274 (locked-wheel skid resistance)
+●
+-
+-
+ASTM E501 (ribbed test tire)
+○
+-
+-
+ASTM E524 (smooth test tire)
+○
+-
+-
+AASHTO T242 (full-scale tire friction)
+○
+-
+-
+ASTM E2340 (continuous fixed-slip)
+-
+○
+-
+ASTM E1859 (variable-slip)
+○
+○
+-
+ASTM E670 (side-force / Mu-Meter)
+-
+○
+-
+ASTM E1911 (Dynamic Friction Tester)
+-
+○
+-
+ASTM E2133 (rolling inclinometer profile)
+-
+-
+○
+AASHTO R56 (reference device role)
+-
+-
+●
+FAA AC 150/5320-12 (airport skid resistance)
+○
+○
+-
+ICAO Annex 14 / Doc 9137 (runway friction)
+-
+○
+-
+## 12. Spec sheet production checklist
+NOTE: The journey analysis is unambiguous: for a DOT engineer writing an RFP specification or a sole-source justification, a downloadable spec sheet is not optional. Every page in this set links to one, and none currently exists.
+Each of the nine spec sheets should be a one- or two-page PDF containing:
+Element
+Notes
+Model name and product photograph
+Photograph of the actual configuration, not a rendering
+One-sentence description
+Reuse the answer-first lead verbatim for consistency across web and PDF
+Standards compliance table
+The model’s row from Matrix A or B, with certification dates where applicable
+Technical specifications
+Sensing, accuracy, operating range, outputs, sampling rate
+Vehicle compatibility and mounting
+Including MARS specifications where applicable
+Data outputs and export formats
+Named formats, with PMS compatibility noted
+Options and configurations
+GPS, imaging, laser count, and other configurable subsystems
+Power and environmental requirements
+Operating temperature range, power draw
+Service and support
+Parts inventory, calibration interval, warranty term
+Procurement information
+Cooperative purchasing vehicles, NAICS codes, quote contact
+Company block
+Full legal name, address, phone, email, website
+Three production notes.
+Make them findable. PDFs index in search and are cited by AI engines. Use descriptive filenames (icc-ims-irispro-every-speed-spec-sheet.pdf, not spec1.pdf), populate the PDF title metadata, and ensure the text layer is real text rather than an image of a page.
+Think carefully before gating. The site map proposes gating spec sheet downloads behind a contact form for lead generation. That is a defensible choice for sample reports and pillar guides. For spec sheets it is worth reconsidering: an engineer assembling a procurement specification is often working under a deadline and comparing several manufacturers, and a form is a reason to use the competitor’s ungated sheet instead. A gated spec sheet also cannot be indexed or cited, which forfeits the GEO value entirely. The recommended compromise is ungated individual spec sheets and a gated complete Equipment Catalog.
+Keep one source of truth. The specification values in the PDFs and on the pages must match exactly. Maintain the values in one place and generate both from it.
+## 13. Required specifications by model
+The consolidated list of what ICC-IMS needs to supply to move this phase from structurally complete to publication-ready. Models are ordered by urgency.
+Model
+Required before publication
+IrisGO Pave
+Concrete definition of “enhanced imaging”; differentiation from IrisGO Portable and IrisPRO Pave; imaging configuration; collection speed; whether any profiling capability is included; condition indices produced
+IrisPRO Lightweight
+System weight; mounting method and host vehicle requirements; setup time and operator count; ASTM/AASHTO certification status; outputs; export formats
+IrisGO Portable
+Definition of portability and host vehicle requirements; collection speed; distress types automatically identified; ASTM D6433 conformance for PCI methodology
+DFT Continuous
+Measurement principle (fixed-slip, variable-slip, or side-force); friction index reported; test speed; FAA advisory circular conformance and FAA equipment listing status
+SurPRO
+Accuracy specification; measurement principle; ASTM E2133 conformance; production rate; model lineup (is SurPRO 5000 the current model?)
+IrisPRO High Speed
+AASHTO R56 / R57 certification status; outputs; export formats; rated operating speed range; chassis, GPS, and imaging options
+IrisPRO Pave
+Distress types automatically identified; PCI/OCI derivation and ASTM D6433 conformance; rutting and macrotexture outputs; HPMS submittal support; QC review level
+SFT Locked Wheel
+Test tire options supplied; rated test speed range; water delivery specifications; tow vehicle requirements; AASHTO T242 status
+IrisPRO Every Speed
+ASTM E950 class designation; chassis supply model (turnkey vs. agency-supplied); warranty and calibration terms
+## 14. Internal linking map for the Equipment section
+The journey analysis identifies siloed navigation as Critical Finding #3: Equipment, Services, and Software sit in separate trees with no cross-linking and no connective narrative. The link set below is designed to break those silos, and it should be treated as a specification rather than a suggestion - the value of a link fabric is that it is complete.
+Every equipment page links outward to at least:
+- One Who We Serve page matching its primary buyer
+- One Services entry, positioning the buy-versus-contract choice honestly
+- One Software page showing where the data goes
+- Procurement, from the CTA block
+- Resources, for the spec sheet
+- Projects, where a relevant case study exists
+Every equipment page receives links from:
+- The Equipment Overview selector table
+- Its sibling models, through comparison tables
+- The Who We Serve pages
+One structural recommendation. Add a persistent “Also available as a service” module to every equipment page. ICC-IMS is one of very few companies in this industry that both manufactures the equipment and operates it commercially at scale, and the journey analysis identifies this end-to-end control as a genuinely rare competitive advantage that the current site never articulates. A visitor evaluating a purchase who is not ready to buy equipment is not a lost lead - they are a services lead, and today the site loses them entirely.

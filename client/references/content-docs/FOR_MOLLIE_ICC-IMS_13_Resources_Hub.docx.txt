@@ -1,0 +1,422 @@
+# ICC-IMS Website Content Build
+## 1. Hub page - Resources
+Element
+Value
+URL
+/resources/
+Title tag
+Pavement Management Resources & Guides | ICC-IMS
+Meta description
+Spec sheets, sample reports, industry guides, and plain-English definitions of IRI, PCI, PROWAG, HFST, and GASB 34 for pavement professionals.
+H1
+Resources: Specifications, Guides, and Straight Answers
+### Answer-first lead
+The ICC-IMS resource library provides equipment specification sheets, sample deliverables, industry guides, and reference definitions for pavement professionals. It includes downloadable spec sheets for all nine equipment models, sample pavement management and sidewalk compliance reports, three in-depth buyer guides for DOT, municipal, and AEC audiences, and plain-English definitions of the terms and standards that govern pavement work - IRI, PCI, PMS, HFST, PROWAG, FWD, and GASB 34.
+### NOTE: Body sections
+#### Equipment specification sheets
+Downloadable PDF specifications for every ICC-IMS model, formatted for use in procurement specifications and sole-source justifications. See Section 4 for the library index and Phase 2 Section 12 for production requirements.
+#### Sample deliverables
+What the work product actually looks like, before you commit to a contract. See Section 5.
+#### Guides
+Three in-depth guides, one per primary buyer. See Section 6.
+#### Reference definitions
+Plain-English explanations of the terms and standards that govern pavement work, written for people who need to understand them rather than for people who already do. See Section 3.
+#### Learning Portal
+[Link to the existing ICC-IMS learning portal for software training and onboarding. CONFIRM URL, whether it requires an account, and whether it is customer-only. If it is customer-only, say so on this page rather than sending prospects into a login wall.]
+#### Blog
+Educational articles on pavement management practice. See Section 8.
+### FAQ block
+Where can I find spec sheets for ICC-IMS equipment? Specification sheets for all nine equipment models are in the resource library, formatted for procurement specifications and sole-source justifications.
+Can I see a sample pavement management report before contracting? Yes. Sample deliverables include a redacted pavement management report, a budget scenario output, a GIS dashboard walkthrough, and a council presentation excerpt.
+Do I have to give my contact information to download? [CONFIRM - Open Item #23. The recommendation in Phase 2 Section 12 and Section 9 below is that spec sheets and definitional content stay ungated, with the pillar guides, sample reports, and capability statement gated.]
+Is there a glossary of pavement terms? Yes. Reference definitions cover IRI, PCI, PMS, HFST, PROWAG, FWD, and GASB 34, with more added over time.
+### Schema notes
+CollectionPage with ItemList of resource categories · FAQPage on the FAQ block · BreadcrumbList: Home › Resources.
+### CTAs
+- Low commitment: Browse Spec Sheets
+- High commitment: Request Technical Information
+## 2. Definitional page template
+All seven follow the same structure, which is optimized for AI citation. The journey analysis rates definitional content “Very High” for GEO impact because AI engines cite short, authoritative, well-structured definitions more readily than any other content type.
+Element
+Specification
+URL
+/resources/glossary/[term]/
+Title tag
+What Is [Term]? \| [Expansion] \| ICC-IMS
+Meta description
+140–158 characters, leading with the definition itself
+H1
+What Is [Term]? - the question form, because that is how it is searched and asked
+Structure
+One-sentence definition → expanded explanation → how it is measured or applied → why it matters → related terms → FAQ
+Writing rules. The first sentence must be a complete, standalone, extractable definition. No lead-ins, i.e. no “in the pavement industry, professionals often refer to.” Give the number, unit, standard, and range wherever one exists. Answer honestly and completely, including where ICC-IMS has nothing to sell - a definitional page that reads as a sales page will not be cited, and citation is the entire purpose.
+## 3. The seven definitional pages
+### 3.1 What Is IRI?
+Element
+Value
+URL
+/resources/glossary/iri-international-roughness-index/
+Title tag
+What Is IRI? International Roughness Index Explained
+Meta description
+IRI is the standard measure of pavement ride quality, reported in inches per mile or meters per kilometer, calculated from a measured longitudinal profile.
+H1
+What Is IRI (International Roughness Index)?
+Definition. The International Roughness Index (IRI) is the standard measure of pavement ride quality, calculated from a measured longitudinal road profile and reported in inches per mile (in/mi) or meters per kilometer (m/km). Higher IRI values indicate a rougher ride.
+How it is calculated. IRI is not measured directly. A profiler measures the elevation profile of the wheel path, and that profile is run through a mathematical simulation of a standard vehicle - the “quarter-car” model - traveling at 80 km/h (50 mph). IRI is the accumulated suspension movement of that simulated vehicle per unit distance.
+The consequence is important and often misunderstood: IRI is a property of the road, not of the vehicle that measured it. Two properly certified profilers running the same section at different speeds should produce the same IRI, because the simulation speed is fixed regardless of collection speed.
+Typical values.
+Condition
+IRI (in/mi)
+IRI (m/km)
+New or recently resurfaced pavement
+Under 60
+Under 1.0
+Good
+60–95
+1.0–1.5
+Fair
+95–170
+1.5–2.7
+Poor
+Over 170
+Over 2.7
+Thresholds vary by agency and functional class. FHWA applies specific thresholds for federal reporting; individual states set their own for acceptance and programming. [CONFIRM whether to cite current FHWA threshold values, which would strengthen the page considerably but must be current.]
+Governing standards. ASTM E1926 covers computing IRI from a longitudinal profile. ASTM E950 covers the profiling equipment. AASHTO R56 covers certification of inertial profiling systems, and AASHTO R57 covers their operation.
+Why it matters. IRI is the primary pavement condition metric in federal reporting, it drives smoothness incentive and disincentive payments on paving contracts, and it correlates with what the traveling public actually experiences. Of all pavement metrics, IRI is the one a resident would recognize if they felt it.
+A practical limitation worth knowing. Conventional inertial profilers require a minimum speed of roughly 12 mph to produce valid IRI, because below that the accelerometer signal degrades relative to noise. This is why urban and congested sections are frequently missing from IRI datasets. ICC-IMS’s patented IrisPRO Every Speed (hyperlink) collects valid IRI at any speed including a full stop.
+Related: PCI · PMS (hyperlink)
+FAQ. What does IRI stand for? International Roughness Index. · What is a good IRI value? Below about 95 in/mi is generally considered good; below 60 in/mi is typical of new pavement. · Is a lower IRI better? Yes - lower means smoother. · How is IRI measured? With an inertial profiler that measures the longitudinal elevation profile, from which IRI is computed by simulation. · Is IRI the same as PCI? No. IRI measures ride quality; PCI measures surface distress. A road can have good IRI and poor PCI.
+### 3.2 What Is PCI?
+Element
+Value
+URL
+/resources/glossary/pci-pavement-condition-index/
+Title tag
+What Is PCI? Pavement Condition Index Explained
+Meta description
+PCI is a 0 to 100 rating of pavement surface condition derived from observed distress type, severity, and extent, defined by ASTM D6433 for roads.
+H1
+What Is PCI (Pavement Condition Index)?
+Definition. The Pavement Condition Index (PCI) is a numerical rating of pavement surface condition on a scale of 0 to 100, where 100 represents pavement in perfect condition. PCI is derived from the type, severity, and extent of distresses observed on the pavement surface, and is defined for roads and parking lots by ASTM D6433.
+How it is calculated. Distresses are identified and quantified - cracking, rutting, raveling, patching, potholes and others, each classified by severity. Each combination of distress type, severity, and density produces a deduct value, and the deduct values are combined and subtracted from 100.
+Rating scale.
+PCI
+Condition
+Typical treatment
+86–100
+Good
+Routine maintenance
+71–85
+Satisfactory
+Preventive maintenance
+56–70
+Fair
+Preservation or light rehabilitation
+41–55
+Poor
+Rehabilitation
+26–40
+Very poor
+Major rehabilitation
+11–25
+Serious
+Reconstruction
+0–10
+Failed
+Reconstruction
+Category boundaries vary slightly between agencies. Confirm your agency’s own bands before comparing.
+Two standards, not one. ASTM D6433 applies to roads and parking lots. ASTM D5340 applies to airfield pavements and uses a distress set specific to them. The two are not interchangeable, and an airfield PCI is not comparable to a roadway PCI.
+Why the number is not the whole story. Two roads at PCI 60 can need entirely different work. One with widespread low-severity cracking is a preservation candidate; one with localized structural failure may need reconstruction. PCI ranks the network; the distress data underneath determines the treatment. Any pavement management process that uses the score without the distress data behind it will select the wrong treatments.
+PCI versus OCI. Some agencies use an Overall Condition Index (OCI), an agency-defined composite that may weight additional factors such as ride quality or structural condition. OCI definitions vary by agency; PCI under D6433 is standardized. When comparing across agencies, confirm which index is in use.
+How it is collected. Traditionally by walking inspectors sampling representative sections. Automated collection using 3D laser scanning now measures distress across the full network rather than a sample - see Pavement Condition Surveys (hyperlink).
+Related: IRI · PMS · GASB 34 –(hyperlink all three)
+FAQ. What is a good PCI score? Above 85 is generally good; below 55 indicates rehabilitation is needed. · What is the difference between PCI and IRI? PCI measures surface distress; IRI measures ride quality. They are independent - a smooth road can be badly cracked. · Is PCI the same for airfields? No. Airfield PCI follows ASTM D5340 with a different distress set. · How often should PCI be updated? Most agencies survey every two to three years. · Can PCI be measured automatically? Yes, using 3D laser scanning with automated distress classification.
+### 3.3 What Is a PMS?
+Element
+Value
+URL
+/resources/glossary/pms-pavement-management-system/
+Title tag
+What Is a Pavement Management System (PMS)?
+Meta description
+A pavement management system stores road condition data and uses it to recommend which segments to treat, with what treatment, in which year, at what cost.
+H1
+What Is a Pavement Management System (PMS)?
+Definition. A pavement management system (PMS) is software that stores a road network’s inventory and condition data and uses it to recommend which segments to treat, with which treatment, in which year, and at what cost. A PMS turns condition data into a defensible, prioritized capital program.
+What a PMS actually does.
+Function
+What it produces
+Inventory
+The definitive record of what the agency owns
+Condition tracking
+Current and historical condition by segment
+Deterioration modeling
+Forecast condition, by segment and pavement type
+Treatment matching
+Appropriate treatments for each condition and distress combination
+Prioritization
+The program that produces the best network outcome for the money
+Budget scenario modeling
+What different funding levels produce over time
+Reporting
+Outputs for management, councils, and compliance
+The distinction that matters most. A PMS does not simply rank roads worst-first. Pavement deterioration accelerates, and treatment cost rises with it: preserving a road in fair condition costs a fraction of reconstructing one that has failed. A properly configured PMS optimizes across the network, which frequently means treating roads that still look acceptable. That recommendation is counterintuitive to non-engineers and is the main thing a PMS output has to be able to defend.
+Common platforms. StreetSaver, MicroPAVER and PAVER, Cartegraph, Lucity, Brightly, dTIMS, Agile Assets, ArcGIS-based systems, agency-developed state DOT systems, and ESA (hyperlink).
+Do you need one? Any agency large enough that it cannot decide by inspection - practically, more than a few dozen centerline miles - benefits from a PMS. The more common failure is not the absence of a system but an implemented system nobody maintains, because the data went stale and staff stopped trusting it. A PMS with three-year-old condition data produces confident recommendations about a network that no longer exists.
+Related: PCI · IRI · GASB 34 (hyperlink all three)
+FAQ. What does PMS stand for? Pavement Management System. · What is the difference between a PMS and a GIS? A GIS maps and stores spatial data; a PMS models deterioration and recommends treatments. Many PMS platforms include GIS. · Do small cities need a PMS? Generally yes, above a few dozen centerline miles. · What data does a PMS need? Network inventory, current condition, treatment options and unit costs. · Can we use our existing PMS with an outside survey provider? Yes - see Integrations & Data Formats (hyperlink).
+### 3.4 What Is HFST?
+Element
+Value
+URL
+/resources/glossary/hfst-high-friction-surface-treatment/
+Title tag
+What Is HFST? High Friction Surface Treatment
+Meta description
+HFST is a surface treatment of high-hardness aggregate in a polymer binder, applied at curves and ramps to restore friction and reduce wet-weather crashes.
+H1
+What Is HFST (High Friction Surface Treatment)?
+Definition. High Friction Surface Treatment (HFST) is a thin pavement surface treatment consisting of a high-hardness, polish-resistant aggregate - most commonly calcined bauxite - bonded to the existing pavement with a polymer resin binder. It is applied at specific, targeted locations to restore or increase surface friction and reduce wet-weather crashes.
+Where it is used. HFST is a spot treatment, not a network treatment. It is applied where friction demand is highest and crash history documents a problem: horizontal curves, freeway ramps and loops, intersection and signal approaches, steep downgrades, and bridge decks.
+Why calcined bauxite. Conventional aggregates polish under traffic, losing microtexture and therefore friction, exactly where vehicles are braking or cornering hardest. Calcined bauxite resists polishing, so the friction improvement persists rather than decaying within a season or two.
+Why it is cost-effective despite being expensive. HFST costs substantially more per lane-mile than conventional surfacing, but it is applied only where the crash reduction benefit is concentrated, a few hundred feet of curve rather than an entire corridor. That targeted application is what makes the economics work. The Federal Highway Administration estimates that HFST reduces wet-weather crashes by 83 percent and total crashes by 57 percent, a scale of improvement conventional resurfacing does not deliver. When the treatment is limited to the curves and approaches where crash risk is highest, the cost per crash prevented compares favorably to corridor-wide paving projects, even though the material cost per lane-mile is higher.
+Acceptance testing. Because HFST is installed specifically to deliver friction, verifying that the installed treatment meets its specified friction level is the point rather than a formality. Acceptance testing is normally performed with a locked-wheel friction tester under ASTM E274. See Friction Testing Services (hyperlink) and the SFT Locked Wheel Friction Tester (hyperlink).
+Related: Friction testing · PCI (hyperlink both)
+FAQ. What does HFST stand for? High Friction Surface Treatment. · What aggregate is used? Most commonly calcined bauxite, chosen for polish resistance. · Where is HFST applied? Curves, ramps, intersection approaches, downgrades, and bridge decks with wet-weather crash history. · How long does HFST last? Service life varies with traffic and installation quality; agencies typically monitor with periodic friction testing. · How is HFST tested after installation? Acceptance testing with a locked-wheel friction tester under ASTM E274.
+### 3.5 What Is PROWAG?
+Element
+Value
+URL
+/resources/glossary/prowag-accessibility-guidelines/
+Title tag
+What Is PROWAG? Public Right-of-Way Accessibility
+Meta description
+PROWAG sets accessibility criteria for sidewalks, curb ramps, and crossings in the public right-of-way, covering slope, width, and surface requirements.
+H1
+What Is PROWAG (Public Right-of-Way Accessibility Guidelines)?
+Definition. PROWAG refers to the Public Right-of-Way Accessibility Guidelines, developed by the United States Access Board to set accessibility criteria for pedestrian facilities in the public right-of-way - sidewalks, curb ramps, crosswalks, pedestrian signals, and street furniture. PROWAG addresses the right-of-way environment specifically, where earlier accessibility standards focused on buildings and sites.
+What it covers. Pedestrian access routes, including width and surface requirements; running slope and cross slope limits; curb ramps and blended transitions; detectable warning surfaces; accessible pedestrian signals; and transit stops.
+The criterion that catches agencies out. Cross slope - the slope across the direction of travel - is limited to a maximum that many existing sidewalks exceed, frequently at driveway crossings where the sidewalk is warped to meet the drive apron. Driveway crossings are the single most common source of non-compliance in an inventory, and a sidewalk in excellent structural condition can be entirely non-compliant on cross slope alone. This is why an accessibility survey has to measure geometry, not just assess condition.
+[CONFIRM specific numeric slope limits and the current regulatory adoption status of PROWAG, including which agencies have adopted it and in what form. Regulatory status has changed in recent years and this page must state it accurately and carry a “current as of” date. Publishing a stale regulatory status on a compliance page is worse than omitting it.]
+PROWAG and the ADA. The ADA establishes the legal obligation; PROWAG provides the technical criteria for pedestrian facilities in the right-of-way. Agencies generally document compliance through an ADA transition plan: an inventory of existing barriers, a schedule for removing them, and a record of progress.
+NOTE: This page is a plain-English explanation, not legal advice. Agencies should confirm their specific obligations with counsel.
+Why agencies inventory now. Without a documented inventory and plan, an agency responding to a complaint has nothing to show. With one, it can demonstrate a good-faith program. See Sidewalk & ADA Compliance Surveys and ESWA. (hyperlink both)
+Related: PCI · PMS (hyperlink both)
+FAQ. What does PROWAG stand for? Public Right-of-Way Accessibility Guidelines. · Who publishes PROWAG? The United States Access Board. · What is the difference between ADA and PROWAG? The ADA sets the legal obligation; PROWAG provides technical criteria for pedestrian facilities in the public right-of-way. · What is an ADA transition plan? A documented inventory of accessibility barriers with a schedule and record of progress toward removing them. · Can a sidewalk in good condition still be non-compliant? Yes - commonly due to excessive cross slope at driveway crossings.
+### 3.6 What Is an FWD?
+Element
+Value
+URL
+/resources/glossary/fwd-falling-weight-deflectometer/
+Title tag
+What Is an FWD? Falling Weight Deflectometer
+Meta description
+A Falling Weight Deflectometer measures pavement structural capacity by dropping a known load and recording the resulting pattern of deflections.
+H1
+What Is an FWD (Falling Weight Deflectometer)?
+Definition. A Falling Weight Deflectometer (FWD) is a device that measures the structural capacity of a pavement by dropping a known weight onto the surface and recording the resulting deflection at several distances from the load. The pattern of deflections - the deflection basin - is used to back-calculate the stiffness of each pavement layer and the subgrade beneath.
+Surface condition versus structural capacity. This is the distinction the page exists to make, and it is one that costs agencies real money when it is missed.
+Surface condition - PCI and IRI (hyperlink both) - describes what the pavement looks like and rides like. Structural capacity describes how much load the pavement can carry before it fails. They are independent. A road can look acceptable and be structurally exhausted, in which case a surface treatment is money spent on a pavement that will fail underneath it within a year or two. The reverse also occurs: a structurally sound pavement with poor surface condition may need nothing more than a surface treatment.
+How it works. The FWD is trailer-mounted and stationary during testing. A weight is dropped onto a loading plate to apply an impulse simulating a passing wheel load, and geophones at increasing distances record deflection. Testing is done at discrete points along the segment.
+When it is used. Project-level design, before rehabilitation, to determine what the pavement can carry and what treatment is warranted. Also for load rating, forensic investigation of premature failure, and validating network-level assumptions.
+FWD, LWD, and TSDD. A Light Weight Deflectometer (LWD) is a portable version for spot testing and construction quality control. A Traffic Speed Deflection Device (TSDD) measures deflection continuously at traffic speed, enabling network-level structural screening without lane closures - historically impossible, because FWD testing is stationary and requires traffic control.
+[INSERTION POINT ICC-IMS’s TSDD. This definitional page is a natural referral point and would be substantially strengthened by linking to it.]
+Related: PCI · PMS (hyperlink both)
+FAQ. What does FWD stand for? Falling Weight Deflectometer. · What does an FWD measure? Pavement structural capacity, by recording deflection under a known impulse load. · How is that different from PCI? PCI describes surface condition; FWD describes structural capacity. A pavement can be good on one and poor on the other. · Does FWD testing require lane closure? Yes - FWD testing is stationary and requires traffic control. · Is there a way to measure structure without closing lanes? Yes. Traffic Speed Deflection Devices measure deflection at traffic speed.
+### 3.7 What Is GASB 34?
+Element
+Value
+URL
+/resources/glossary/gasb-34/
+Title tag
+What Is GASB 34? Infrastructure Reporting Explained
+Meta description
+GASB 34 requires governments to report infrastructure assets, including roads, and allows a modified approach based on documented condition assessment.
+H1
+What Is GASB 34 and How Does It Affect Pavement Reporting?
+Definition. GASB Statement No. 34 is the Governmental Accounting Standards Board standard that requires state and local governments to report capital assets - including infrastructure such as roads, bridges, and sidewalks - in their annual financial statements. It is the reason pavement condition data appears in a finance department’s requirements as well as a public works department’s.
+Two ways to report infrastructure.
+Approach
+How it works
+What it requires
+Depreciation
+Infrastructure is capitalized and depreciated over its useful life
+Standard asset accounting
+Modified approach
+Infrastructure is not depreciated, provided the government documents that it is being preserved at or above an established condition level
+An asset management system, condition assessments at least every three years, and documented estimates of the cost to maintain the condition level
+Why the modified approach matters to public works. Under the modified approach, maintenance and preservation spending is expensed rather than depreciated, and the agency avoids reporting accumulating depreciation on its road network. To use it, the government must have an asset management system, perform condition assessments at least every three years, and document both the established condition level and the annual cost to maintain it.
+The practical effect is that GASB 34 gives a public works director an ally in the finance department. Condition surveys and a pavement management system stop being a public works preference and become a documented requirement of the reporting approach the government has adopted. A director struggling to fund a survey program is often one conversation with the finance director away from a different answer.
+The three-year interval. The requirement for condition assessment at least every three years is why many agencies settle on a two- or three-year survey cycle. See Ongoing Monitoring. (hyperlink)
+This page is a plain-English explanation of the standard’s practical effect on pavement management, not accounting advice. Agencies should confirm reporting requirements with their finance department and auditors.
+Related: PMS · PCI (hyperlink both)
+FAQ. What does GASB stand for? Governmental Accounting Standards Board. · Does GASB 34 require pavement condition surveys? Under the modified approach, condition assessments must be performed at least every three years. · What is the modified approach? Reporting infrastructure without depreciation, provided the government documents it is preserving assets at an established condition level. · How often must condition be assessed? At least every three years under the modified approach. · Does a pavement management system satisfy the asset management requirement? A PMS is the usual way agencies meet it for roads; confirm with your auditors.
+## 4. Equipment spec sheet library
+Nine spec sheets, per Phase 2 Section 12. Index page at /resources/spec-sheets/.
+Model
+Filename
+Blocked by
+IrisPRO Every Speed
+icc-ims-irispro-every-speed-spec-sheet.pdf
+Nearly ready - needs ASTM E950 class designation
+IrisPRO High Speed
+icc-ims-irispro-high-speed-spec-sheet.pdf
+Open
+IrisPRO Lightweight
+icc-ims-irispro-lightweight-spec-sheet.pdf
+Open - all specifications
+IrisPRO Pave
+icc-ims-irispro-pave-spec-sheet.pdf
+Open - distress outputs
+IrisGO Portable
+icc-ims-irisgo-portable-spec-sheet.pdf
+Open - all specifications
+IrisGO Pave
+icc-ims-irisgo-pave-spec-sheet.pdf
+Open - all specifications
+SFT Locked Wheel
+icc-ims-sft-locked-wheel-spec-sheet.pdf
+Open - tire options, test speed
+DFT Continuous
+icc-ims-dft-continuous-spec-sheet.pdf
+Open - measurement principle
+SurPRO
+icc-ims-surpro-spec-sheet.pdf
+Open - accuracy specification
+Plus a combined Equipment Catalog containing all nine, gated, as the high-value download. Yes, this one can be gated.
+## 5. Sample deliverable specifications
+The journey analysis identifies missing sample deliverables as a significant conversion loss: municipal buyers want to see what they will get, and competitors may not require that leap of faith. It also notes that partial deliverables can build confidence without exposing methodology to competitors.
+Asset
+Contents
+Redaction guidance
+Sample pavement management report
+Executive summary, network condition summary, condition map, prioritized project list, multi-year program, cost summary
+Anonymize the agency, use a plausible fictional network name, keep structure and formatting intact. Excerpt rather than full report - 8–12 pages is enough
+Sample budget scenario output
+Three or four scenarios with projected condition, backlog, and cost by year, plus the comparison chart
+The chart is the asset. Two pages
+GIS dashboard walkthrough
+Annotated screenshots of ESA and Unify Inform showing condition mapping, segment drill-down, and scenario views
+Screenshots using a demo dataset
+Sample council presentation excerpt
+6–8 slides: network condition, trend, scenario comparison, recommendation
+The most persuasive asset for the municipal buyer. Shows exactly what the presentation service produces
+Sample sidewalk compliance report
+Barrier inventory excerpt, compliance summary, prioritized remediation list
+Not in the site map; recommended addition. ESWA and the sidewalk service page have no sample asset at all
+[CONFIRM whether an anonymized client report can be used as the basis, or whether these must be built from a synthetic dataset.** A synthetic dataset is cleaner legally and looks synthetic to an experienced reader, which undercuts the point. An anonymized real report is more persuasive and needs client permission. Recommend asking one long-standing client - Dunwoody or Lake County - for permission to use an anonymized report.]
+## 6. Pillar guide specifications
+Three guides, 3,000–5,000 words each, per the site map. These are the heaviest content in the phase and the highest long-term SEO and GEO value.
+### 6.1 The State DOT Guide to Pavement Data Collection Equipment
+URL: /resources/guides/dot-pavement-equipment-guide/ · Audience: DOT pavement engineers writing specifications or evaluating equipment
+Outline: What to specify and why · profiler classes and what ASTM E950 Class 1 means · the standards landscape (E950, R56, R57, M328, R54, PP69) and which apply to what · certification sites and the MAP-21/FAST Act chain · evaluating repeatability and cross-correlation · the minimum-speed constraint and where it costs you data · rutting and 3D imaging · friction testing program design · total cost of ownership beyond purchase price · how to write a procurement specification (the section that will earn links) · cooperative purchasing pathways.
+Note: the “Build a Specification” resource is an extremely effective lead generation and sales enablement tool. That section should be extractable as a standalone gated download.
+### 6.2 The Municipal Guide to Starting a Pavement Management Program
+URL: /resources/guides/municipal-pavement-program-guide/ · Audience: public works directors and city engineers with no program or a lapsed one
+Outline: What a pavement management program is and what it produces · why worst-first costs more · building the inventory · getting first condition data (contract vs. own) · choosing a PMS, including whether you need one · setting condition targets · budget scenarios and the condition-hold number · making the case to your council · GASB 34 and the finance department ally · keeping it current · a realistic first-year timeline and budget.
+### 6.3 The AEC Firm’s Guide to Pavement Data Subcontracting
+URL: /resources/guides/aec-pavement-subcontracting-guide/ · Audience: AEC project managers and pavement specialists
+Outline: When to subcontract versus self-perform · evaluating a data collection subcontractor · QC/QA documentation standards and what to require · data format and platform integration · schedule reliability · specialized capabilities (airfield, HFST acceptance, night operations, concrete rehab, pre/post-event) · insurance, bonding, and pre-qualification · writing the subcontract scope · red flags - the section AEC readers will actually read.
+## 7. Capability statement specification
+One page, PDF, formatted for AEC subcontractor pre-qualification packages.
+Block
+Contents
+Header
+ICC-IMS name, logo, Largo FL address, phone, email, website
+Core competencies
+Six to eight bullets - data collection, condition assessment, friction testing, airfield, management planning, software
+Differentiators
+US manufacturing, largest municipal fleet, ASTM/AASHTO certified equipment, in-house equipment and software, 50 and 38 year heritage
+Past performance
+Named agencies across DOT, municipal, and airport
+Codes and certifications
+NAICS, CAGE, UEI, DUNS
+Insurance and bonding
+Coverage summary
+Contract vehicles
+TXShare/NCTCOG, plus any others per Open Item #1
+Contact
+Named contact for subcontract inquiries
+This is referenced as a CTA on the AEC page, the Procurement pages, and here, and it is the single most-referenced missing asset in the build.
+## 8. Suggest blog editorial calendar to support SEO and GEO and AIO
+Twelve months, targeting the long-tail keywords the journey analysis identifies. Every post links to relevant service, equipment, or software pages.
+#
+Working title
+Primary audience
+Links to
+1
+How to build a pavement management program from scratch
+Municipal
+Municipal guide, ESA, condition surveys
+2
+What is a PCI score and how is it calculated?
+All
+PCI glossary, condition surveys
+3
+How municipalities present pavement needs to elected officials
+Municipal
+Presentations service, Inform
+4
+Network-level vs. project-level pavement assessment
+DOT, AEC
+Network collection, IrisPRO Lightweight
+5
+What is HFST and why do DOTs use it?
+DOT
+HFST glossary, friction testing
+6
+How to write a pavement profiler procurement specification
+DOT
+DOT guide, equipment pages
+7
+Why worst-first road repair costs more
+Municipal
+Management plans, budget scenarios
+8
+What cooperative purchasing means for pavement contracts
+Municipal, DOT
+Procurement
+9
+Preparing for an ADA sidewalk compliance review
+Municipal
+PROWAG glossary, sidewalk surveys
+10
+Why your profiler stops collecting valid data below 12 mph
+DOT, AEC
+IRI glossary, IrisPRO Every Speed
+11
+What DOT certification sites are and why they exist
+DOT
+SurPRO, IRI glossary
+12
+Surveying an airfield without closing the runway
+Airport
+Airfield assessment
+Posts 2, 5, 7, and 10 are the strongest GEO candidates - clear questions with definitive answers and little authoritative competition.
+## 9. Gating recommendations
+Asset
+Recommendation
+Reasoning
+Definitional pages
+Never gate
+Their entire value is citation and indexing
+Individual spec sheets
+Ungate
+An engineer mid-RFP comparing vendors will use the competitor’s ungated sheet. Gating also forfeits PDF indexing and AI citation
+Equipment catalog (all nine)
+Gate
+High intent, and the individual sheets remain available
+Pillar guides
+Gate
+Substantial value, high intent, standard practice
+Sample deliverables
+Gate
+High intent, and some warrant knowing who is downloading
+Capability statement
+Ungate
+AEC pre-qualification is often assembled under deadline by junior staff. A form is friction at exactly the wrong moment
+Blog
+Never gate
+-
+The site map proposes gating spec sheets and the capability statement. Both are recommended against above, for the same reason: they are consulted by people assembling a package under time pressure, and friction at that moment loses the opportunity entirely rather than delaying it.

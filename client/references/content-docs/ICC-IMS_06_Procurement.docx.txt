@@ -1,0 +1,204 @@
+# PAGES 8–10 - PROCUREMENT
+# PAGE 8 - PROCUREMENT HUB
+URL: /procurement/
+## SEO / Metadata
+Field
+Content
+Title tag
+How to Buy | Cooperative Purchasing & Contract Vehicles | ICC-IMS
+Meta description
+Procure pavement data collection equipment and services without an RFP through TXShare cooperative purchasing. Open to public agencies nationwide, active in one business day.
+Primary keyword
+cooperative purchasing pavement management
+Secondary keywords
+pavement survey cooperative contract, TXShare pavement analysis services, buy pavement profiler government contract, pavement management contract vehicle
+Schema
+FAQPage, BreadcrumbList, Organization
+### H1: Your procurement, your way How to Purchase From ICC-IMS
+## Answer-first lead
+Public agencies can purchase ICC-IMS equipment and services three ways:
+- The TXShare cooperative purchasing program allows agencies to contract without running a solicitation;
+- Standard RFP or IFB process, for which ICC-IMS provides specification-grade documentation; or
+- Sole source justification where a patented capability is a documented program requirement.
+ICC-IMS holds a Master Services Agreement for Pavement Analysis Services with the TXShare Cooperative Purchasing Program, administered by the North Central Texas Council of Governments and open to municipal, state, and federal agencies nationwide at no cost. TXShare participation is typically activated within one business day.
+## SECTION 1 - Choose your path
+### H2: Three ways to buy
+Cooperative purchasing
+RFP / IFB
+Sole source
+Typical timeline
+Days
+3–12 months
+Varies by agency policy
+Solicitation required
+No
+Yes
+No, with justification
+Best for
+Agencies with budget and a defined need
+Agencies whose policy requires competition above a threshold
+Patented or uniquely specified capability
+What ICC-IMS provides
+TXShare contract, Interlocal Agreement guidance
+Specification language, standards documentation, technical specs
+Patent documentation, capability comparison
+Start here
+Cooperative Purchasing (hyperlink)
+Request a Quote /procurement/request-quote (hyperlink)
+Contact Us (hyperlink)
+## SECTION 2 - What we can provide for your procurement file
+### H2: Documentation available on request
+- Equipment specification sheets - technical specifications, standards certifications, vehicle compatibility → Download /resources/spec-sheets (hyperlink)
+- Standards compliance matrix - model-by-model ASTM, AASHTO, and TxDOT certification
+- Capability statement - one page, formatted for pre-qualification packages → Download /resources/capability-statement (hyperlink)
+- Sample deliverables - redacted pavement management report, dashboard walkthrough, budget scenario output → Download /resources/sample-reports (hyperlink)
+- Insurance and bonding certificates - Commercial general liability $2M, automobile liability $1M, umbrella liability $10M, workers compensation $1M, E&O technology $4M.
+- NAICS codes and business certifications - 334519 - Other Measuring and Controlling Device Manufacturing, 336999 - All Other Transportation Equipment Manufacturing (Primary), 541690 - Other Scientific and Technical Consulting Services
+- W-9, SAM.gov registration, UEI - EIN 591626392
+- References - agency references by segment and project type
+## SECTION 3 - CTA
+Request a Quote · Download Capability Statement · Contact the Procurement Team
+# PAGE 9 - COOPERATIVE PURCHASING
+URL: /procurement/cooperative-purchasing/ Priority: Critical
+## SEO / Metadata
+Field
+Content
+Title tag
+TXShare Cooperative Purchasing for Pavement Services | ICC-IMS
+Meta description
+Contract for pavement condition surveys and management plans without an RFP. TXShare is open to all US public agencies at no cost and activates in about one business day.
+H1
+Cooperative Purchasing: Contract Without Running a Solicitation
+Primary keyword
+cooperative purchasing pavement survey
+Secondary keywords
+TXShare pavement analysis services, NCTCOG cooperative contract, pavement management interlocal agreement, buy pavement services without RFP
+Schema
+FAQPage, HowTo (on the four-step process), BreadcrumbList
+### H1: Get your procurement done in days, not months
+## Answer-first lead
+ICC-IMS holds a Master Services Agreement for Pavement Analysis Services through the TXShare Cooperative Purchasing Program, administered by the North Central Texas Council of Governments (NCTCOG). TXShare is open to all public agencies in the United States - municipal, county, state, and federal - as well as non-profit entities, and participation is free.
+Agencies join by executing an Interlocal Agreement, which is typically completed within one business day, after which they can contract for pavement analysis services immediately without conducting their own solicitation. TXShare contracts are competitively sourced and independently evaluated under Uniform Guidance (2 CFR 200) and Texas Local Government Code standards. IMS received the highest-rated response for Pavement Analysis Services in 2023.
+## SECTION 1 - Why this matters
+### H2: The conventional procurement process is usually longer than the project
+A network pavement condition survey takes weeks. A competitive RFP for that survey takes six to twelve months - scope development, legal review, advertisement, question period, evaluation, council award, contract execution.
+Cooperative purchasing removes that entirely. The competitive process has already been run, by NCTCOG, under standards your auditor will recognize. Your agency piggybacks on the result.
+For an agency that just received a council directive, absorbed an audit finding, or found unexpected budget before fiscal year end, that timeline difference is often the entire decision.
+## SECTION 2 - How to use it
+### H2: Four steps
+Implementation note: Build as a numbered visual stepper. Apply HowTo schema - procedural content is a strong GEO citation candidate, and this is the exact question government buyers ask AI tools.
+Step 1 - Confirm eligibility. TXShare is open to public agencies at every level in the United States - cities, counties, special districts, school districts, state agencies, and federal entities - plus non-profit organizations. There is no geographic restriction. You do not need to be in Texas.
+Step 2 - Execute an Interlocal Agreement with TXShare. Participation costs nothing. The agreement is a standard interlocal instrument. Execution is typically completed within one business day.
+Step 3 - Contact ICC-IMS to scope the work. We define the scope, deliverables, and fee against the contract’s established terms. No solicitation, no advertisement period, no evaluation committee.
+Step 4 - Issue your purchase order or task order. Your agency contracts directly under the TXShare Master Services Agreement.
+→ Visit the TXShare pavement analysis services page → Contact us to start (hyperlink)
+## SECTION 3 - About TXShare and NCTCOG
+### H2: Who administers this contract?
+The North Central Texas Council of Governments serves the Dallas-Fort Worth metropolitan area, a region responsible for roughly one-third of Texas’s GDP. NCTCOG represents 16 counties, 226 cities, 23 school districts, and 38 special districts, and supports public planners, managers, and purchasing agents in acquiring products and services.
+TXShare is NCTCOG’s cooperative purchasing program. Every TXShare contract is competitively sourced and independently evaluated by subject-matter experts, under Uniform Guidance (2 CFR 200) and Texas Local Government Code standards - which is what makes the resulting contract defensible for agencies in other states.
+Of the firms listed to provide Pavement Analysis Services, IMS had the highest-rated response in 2023 and offers the most competitive fees.
+## SECTION 4 - What can be purchased this way
+### H2: Scope available under the agreement
+The TXShare Master Services Agreement covers Pavement Analysis Services, including:
+- Pavement condition surveys (network-level and project-level)
+- Sidewalk and ADA/PROWAG compliance surveys
+- Pavement management plan development
+- Budget scenario analysis
+- Presentations to elected officials
+- Right-of-way asset inventory
+- Pavement structural testing
+- Friction and roadway safety surveys
+- Ongoing monitoring and re-survey programs
+[ICC-IMS to confirm the precise scope boundaries of the TXShare MSA - specifically whether equipment purchases and software subscriptions fall within it or require a separate vehicle. This distinction matters materially to DOT buyers and should be stated explicitly rather than left ambiguous.]
+## SECTION 5 - Other contract vehicles
+[Open Item In the sitemap I put GSA Schedule, Sourcewell, and NASPO ValuePoint and meant to ask if these exist for ICC-IMS or are being pursued. The current site only has TXShare. Before publication, please confirm whether ICC-IMS holds any of these vehicles.
+If yes: list each with its contract number, expiration, and covered scope, and add the partner logos. If no: this section should be removed rather than softened, and the DOT and municipal pages should not reference those programs. A government buyer who searches for a nonexistent contract number will not come back.
+If ICC-IMS is pursuing but has not yet been awarded these vehicles, that is worth knowing - a “contract vehicles in progress” note is not appropriate for the public site but should inform the sales team’s talk track.]
+## SECTION 6 - FAQ (FAQPage schema)
+### H3: What cooperative purchasing contracts does ICC-IMS hold for pavement services?
+ICC-IMS holds a Master Services Agreement for Pavement Analysis Services through the TXShare Cooperative Purchasing Program, administered by the North Central Texas Council of Governments.
+### H3: Can agencies outside Texas use the TXShare contract?
+Yes. TXShare is open to public agencies throughout the United States. There is no geographic restriction and no requirement to be located in Texas or in the NCTCOG region.
+### H3: How much does it cost to join TXShare?
+Nothing. Participation is free for local governments and non-profit entities.
+### H3: How long does it take to become a TXShare participant?
+Typically one business day. Agencies complete an Interlocal Agreement, which once executed allows immediate use of TXShare contracts.
+### H3: Is cooperative purchasing compliant with our procurement rules?
+TXShare contracts are competitively sourced and independently evaluated under Uniform Guidance (2 CFR 200) and Texas Local Government Code standards. Most agencies’ procurement codes permit cooperative purchasing on this basis, but requirements vary - confirm with your purchasing department or attorney.
+### H3: What services can be purchased through the TXShare agreement?
+Pavement analysis services, including condition surveys, sidewalk and ADA/PROWAG surveys, pavement management plan development, budget scenario analysis, asset inventory, structural testing, friction surveys, and presentations to elected officials.
+### H3: Does using cooperative purchasing cost more than running our own RFP?
+IMS had both the highest-rated response and the most competitive fees among firms listed for Pavement Analysis Services in 2023. Cooperative pricing reflects the aggregated volume of the cooperative’s membership.
+### H3: How do we get started?
+Execute a TXShare Interlocal Agreement, then contact ICC-IMS to scope the work. → Contact us
+## CTA BLOCK
+Primary: Start a Cooperative Purchase · Book a Discovery Call Secondary: Visit the TXShare Contract Page · Request a Quote
+## INTERNAL LINKS
+/who-we-serve/municipalities-counties/ · /who-we-serve/state-dots/ · /who-we-serve/federal-agencies/ · /procurement/request-quote/ · /solutions/services/ · /company/contact/ External: TXShare contract page (NCTCOG)
+## IMAGE ALT TEXT
+- NCTCOG North Central Texas Council of Governments TXShare cooperative purchasing logo
+- Public agency purchasing officer executing a cooperative purchasing interlocal agreement
+# PAGE 10 - REQUEST A QUOTE
+URL: /procurement/request-quote/
+## SEO / Metadata
+Field
+Content
+Title tag
+Request a Quote - Equipment, Services & Software | ICC-IMS
+Meta description
+Request pricing for pavement data collection equipment, condition survey services, or pavement management software. Routed to the right specialist by request type.
+H1
+Request a Quote
+Schema
+ContactPage, BreadcrumbList
+## Answer-first lead
+Request pricing for ICC-IMS equipment, services, or software.
+Quote requests are routed by buyer type so the response comes from the specialist who handles that work - equipment quotes from the manufacturing team, service quotes from the consulting team, and subcontract quotes from program management.
+Most quote requests receive a response within one business day.
+## SECTION 1 - Form design
+Design note: The single most important element is the first field - a buyer-type selector that branches the rest of the form. The journey analysis found that undifferentiated CTAs are a significant conversion problem: a DOT engineer requesting a spec sheet and a public works director requesting a survey scope need entirely different follow-up, and a single generic form produces poor-quality leads that get slow, mismatched responses.
+Field 1 - What are you looking for? (required and branches the form)
+▸ Equipment - profilers, friction testers, survey vehicles, reference devices ▸ Services - condition surveys, management plans, friction testing, airfield assessment ▸ Software - ESA, ESWA, Unify suite ▸ Subcontract services - I am an AEC firm with a project scope ▸ Not sure yet - help me figure out what I need
+### Branch A - Equipment
+- Equipment type (dropdown: Profiler / Pavement survey vehicle / Friction tester / Reference device / Not sure)
+- Specific model, if known
+- Intended application (network-level / project-level / certification site / research / other)
+- Do you have a host vehicle, or do you need one specified?
+- Target procurement timeline
+- Procurement method (direct / RFP / cooperative / sole source / not sure)
+### Branch B - Services
+- Service needed (multi-select: pavement condition survey / sidewalk & ADA survey / pavement management plan / budget scenario analysis / council presentation / friction testing / airfield assessment / structural testing / asset inventory / other)
+- Approximate network size (centerline miles or lane miles - “not sure” is an acceptable answer)
+- Do you have an existing pavement management system? (yes - which / no / not sure)
+- When do you need results? (tie to a budget cycle or council date if applicable)
+- Have you used cooperative purchasing before?
+### Branch C - Software
+- Platform of interest (ESA / ESWA / Unify suite / not sure)
+- Number of users
+- Do you have existing condition data, or do you need collection as well?
+- Would you like a live demonstration?
+### Branch D - Subcontract (AEC)
+- Firm name and role (prime / sub / pursuing)
+- Client agency
+- Scope of work
+- Required deliverable format and target PMS platform
+- Schedule and key milestone dates
+- Do you need our capability statement for a pre-qualification package? → offer immediate download (hyperlink)
+### All branches - contact block
+Name · Title · Organization · Organization type · Email · Phone · State/Province · How did you hear about us?
+## SECTION 2 - Set expectations
+### H2: What happens next
+- Usually within one business day - a specialist in the relevant area contacts you.
+- A scoping conversation - usually 20–30 minutes, to confirm what you actually need. For service quotes this is where network size, survey type, and deliverables get defined.
+- A written quote - with scope, deliverables, schedule, and price.
+- Procurement support - if you need specification language, cooperative purchasing guidance, or documentation for your procurement file, we provide it.
+## SECTION 3 - Contact
+### H2: Prefer not to fill out a form?
+Phone: +1 727-547-0696 (USA) · +1 289-807-4371 (Canada) Email: sales@icc-ims.com Mail: ICC-IMS, 10630 75th Street, Largo, FL 33777
+## SECTION 4 - Faster options for some needs
+- Just need specifications? → Download spec sheets  /resources/spec-sheets (hyperlink) - no form gate on technical documentation
+- Need a capability statement for a pre-qual deadline? → Download now /resources/capability-statement (hyperlink)
+- Want to skip the RFP? → Cooperative purchasing /procurement/cooperative-purchasing (hyperlink)
+- Want to see deliverables first? → Sample reports /resources/sample-reports (hyperlink)
+## INTERNAL LINKS
+/procurement/cooperative-purchasing/ · /resources/spec-sheets/ · /resources/capability-statement/ · /resources/sample-reports/ · /solutions/equipment/ · /solutions/services/ · /solutions/software/

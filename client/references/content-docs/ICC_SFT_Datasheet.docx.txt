@@ -1,0 +1,95 @@
+PRODUCT DATASHEET
+Surface Friction Tester (SFT)
+Overview
+International Cybernetics Company, LP (ICC) designs and manufactures advanced friction testing equipment engineered for precise and reliable pavement surface evaluations. The Surface Friction Tester (SFT) delivers accurate, repeatable measurements of surface friction in support of roadway safety programs. Integrated technology and robust construction allow the system to collect high quality data efficiently under a wide range of conditions.
+The SFT is built for transportation agencies and contractors focused on maintaining pavement performance standards, supporting everything from network level assessments through project specific quality control. ICC also manufactures the Surface Friction Tester (SFT) for agencies with different platform requirements.
+Every SFT is equipped with high quality components selected to deliver consistent friction measurements and adherence to industry standards. Configurations are tailored to the requirements of each program while upholding the same standards of reliability and accuracy.
+Specifications
+Parameter
+Specification
+Test standard
+Calibrated transducer designed to meet the requirements of ASTM E274
+Configuration
+Single or dual sided testing; transducer bridges at either or both wheels, one selected at a time
+Vertical load per wheel
+1,085 lbs. (plus or minus 15 lbs.), set with bolted powder-coated steel ballast plates
+Tongue weight at hitch
+100 to 200 lbs., per ASTM requirements
+Speed resolution and accuracy
+Plus or minus 0.1% per mile
+Transducer linearity
+Less than 1% non-linearity and hysteresis under torsion load only
+Transducer crosstalk
+Less than 1% under 1,000 lbs. load in bending
+Water tank
+350 to 450 gallon nominal; maximum capacity provided based on vehicle specifications
+Collection software
+MDRPRO, Windows based
+Skid control system
+Full Windows skid control system with a digital interface
+Positioning
+New, system-integrated GPS, Garmin Model 19X-HVS
+Trailer frame
+Perimeter type frame, two by four-inch rectangular box sectional steel tubing
+Tongue
+Four-inch box section with a removable two-inch ball coupler
+Suspension
+Parallelogram trailing arm with adjustable upper and fixed lower control arms; maintenance free rebuildable coil-over shocks; adjustable anti-sway bar
+Braking
+Air over hydraulic, dual pressure, with Corvette style aluminum calipers
+DMI serviceability
+Fully serviceable without removing spindle assemblies; replacement in under 10 minutes
+Test tires
+Three supplied, ribbed or smooth
+Truck Mounted Components
+- Full Windows skid control system with a digital interface
+- MDRPRO Windows based collection software
+- Computer components, control panel and ADAS
+- Control wiring and ADAS
+- New, system-integrated GPS, Model Garmin 19X-HVS
+- Air and water delivery system
+- Battery and power inverter
+- 350 to 450 gallon (nominal) water tank and delivery system
+- Maximum capacity water tank is provided based on the vehicle specifications
+- High or low-top truck bed cover
+- Customer's choice, based on availability from the manufacturer
+Friction Trailer
+The trailer completely disconnects from the truck via quick disconnects. It has a front compartment housing a spare tire and electrical components, plus a rear compartment containing the air and hydraulic brake control equipment. Gas shocks assist in opening and closing the aluminum covers over each compartment, providing easy access while creating environmental protection.
+The trailer mid-section is covered by hinged aluminum service doors that permit access to the entire suspension from the top of the trailer. The entire trailer frame, hoods, access doors and fenders are professionally finished to match the vehicle color, and any surface prone to chipping is treated with a spray-on flexible protectant. Flashing safety lights are provided on the trailer rear cover, and two flexible antennas are mounted on the rear bumper to indicate the rear position of the trailer.
+Trailer Construction
+The trailer has a perimeter type frame constructed of two by four-inch rectangular box sectional steel tubing. The tongue is a four-inch box section with a removable two-inch ball coupler. A third adjustable height support wheel is located in the trailer tongue area to support the front of the trailer when disconnected from the truck.
+The test trailer is ballasted with powder-coated steel weight plates of various sizes and dimensions, bolted to the test trailer frame, ensuring the vertical load on each wheel is 1,085 lbs. (plus or minus 15 lbs.) and the tongue weight is between 100 and 200 lbs. at the hitch point, per ASTM requirements.
+Trailer Suspension
+The trailer suspension is a parallelogram trailing arm design with adjustable upper control arms and fixed lower control arms on each side. Pivot points are hardened spherical bushings or universal joints to minimize rotation of the axle and provide free motion.
+The trailer is equipped with maintenance free, rebuildable coil-over shocks carrying a lifetime warranty on coils to stay within 5% of the original rating. The coil-over shocks have Heim spherical top and bottom bearings and an aluminum body. An adjustable anti-sway bar completes the suspension components.
+Trailer Wheel Speed Encoders
+The speed of each trailer wheel is measured by a dedicated digital pulse generator located on the inside of each rotor. The Distance Measurement Instrument (DMI) reads pulses created by precisely machined notches in the rotor and is fully contained outside the axle and spindle assembly. The DMI can be fully serviced without removing the spindle assemblies from the trailer, allowing replacement in less than 10 minutes. Speed resolution and accuracy is plus or minus 0.1% per mile.
+Speed signals are routed to the electronics in the vehicle cab and are viewable on both the computer screen and a dash mounted digital display. The speed of both wheels is recorded simultaneously at the time of the test. On dual sided testers a digital pulse generator is added to the truck to obtain proper vehicle speed, using an optical encoder located on the driver side rear wheel.
+Trailer Force and Load Transducers
+The transducers that measure force and load at each wheel are strain gauge bridges mounted on a single stainless-steel assembly. The transducer is mounted between the spindle and the axle assemblies, and a connector joins it to the trailer wiring. The bridge requires voltage applied across it during operation, and its output is amplified from microvolt levels to that required by the data acquisition equipment. Trailer wiring routes the signals to the truck connectors and forward to the computer and electronics, which provide all voltages and signal conditioning. Transducer bridges may be present at either or both wheels as required, but only one is selected at a time.
+The transducer measures force in two orthogonal directions and is oriented so those directions are along the road surface and perpendicular to it. Orientation is accomplished by slotted holes with four locking bolts and four positioning bolts to ensure alignment with the trailer tongue. After alignment, the force transducers are protected by a stone shield and straps.
+The calibrated transducer is designed to meet the requirements of ASTM E274. It has less than 1% non-linearity and hysteresis when subjected to torsion load only, and less than 1% crosstalk under 1,000 lbs. load in bending. Calibration shunt resistors are contained in the computer system for monitoring the signal calibration.
+Trailer Braking System
+The braking system is air over hydraulic and provides two pressures. A lower safety brake pressure is applied to both brakes for normal stopping, if selected, while a separate high pressure is applied to the wheel during testing. Corvette style aluminum calipers provide quick lockups.
+Friction Trailer Build Scope
+- Install all friction system wiring, loom and connectors for integration with the vehicle
+- Chip guards installed at designated locations on the trailer
+- Metalwork fabrication and installation
+- Install main electrical wiring harness
+- Install proprietary ADC and digital control system
+- Two electric jacks, one at each corner
+- Proprietary DMI
+- Transducers
+- Install spindles, including rotors, pads and calipers
+- Check valves
+- Test tires, quantity three (ribbed or smooth)
+Industry Standards
+- ASTM E274 "Standard Test Method for Skid Resistance of Paved Surfaces Using a Full-Scale Tire"
+- ASTM E1337 "Standard Test Method for Determining Longitudinal Peak Braking Coefficient of Paved Surfaces Using a Standard Reference Test Tire"
+- ASTM E501 "Specification for Rib Tire for Pavement Skid Resistance Tests"
+- ASTM E524 "Specification for Smooth Tire for Pavement Skid Resistance Tests"
+- ASTM E556 "Calibrating a Wheel Force or Torque Transducer Using a Calibration Platform"
+Available Upgrade Options
+- Dual side measurement and wetting system
+- Texture laser
+- Differential GPS

@@ -1,0 +1,506 @@
+# ICC-IMS Website Content Build
+## Filter architecture specification & notes
+Three filter dimensions, combinable, per the approved site map.
+### Filter 1 - By Segment
+Value
+Maps to
+State DOT
+/who-we-serve/state-dots/
+Municipality & County
+/who-we-serve/municipalities-counties/
+AEC Firm
+/who-we-serve/aec-firms/
+Airport
+/who-we-serve/airports/
+Concessionaire
+/who-we-serve/concessionaires/
+Federal Agency
+/who-we-serve/federal-agencies/
+### Filter 2 - By Service
+Value
+Maps to
+Pavement Condition Survey
+/solutions/services/pavement-condition-surveys/
+Sidewalk & ADA Survey
+/solutions/services/sidewalk-ada-surveys/
+Pavement Management Plan
+/solutions/services/pavement-management-plans/
+Network-Level Data Collection
+/solutions/services/network-level-data-collection/
+Friction Testing
+/solutions/services/friction-testing/
+Airfield Assessment
+/solutions/services/airfield-pavement-assessment/
+Equipment Purchase
+/solutions/equipment/
+Software Implementation
+/solutions/software/
+### Filter 3 - By Outcome
+NOTE: This is the filter that differentiates the library, and the one requiring the most discipline. Outcomes must be things the agency achieved, not things ICC-IMS delivered.
+Value
+Means
+Secured infrastructure funding
+Data supported a successful budget request, bond, or measure
+Extended pavement life
+Program shifted toward preservation with measurable effect
+Achieved regulatory compliance
+ADA/PROWAG, FAA, GASB 34, or federal reporting requirement met
+Improved data quality
+Replaced or upgraded a data collection program
+Reduced survey cost or time
+Collection efficiency, single-pass, or night operations
+Built a program from scratch
+Agency had no pavement management program before
+Implementation notes
+- Filters combine (Segment = Municipality AND Service = Sidewalk Survey). Empty results need a written empty state, not a blank page: “No projects match all three filters. Try removing one, or contact us - the library is a sample of our work, not the whole of it.” That last clause matters and is true.
+- Filter state should be URL-encoded (/projects/?segment=dot&service=friction) so a salesperson can send a filtered link to a prospect. This is the single highest-value implementation detail on the page.
+- Default view: all projects, most recent first. Never default to a filtered subset.
+- Filters must be visible above the fold on mobile, not collapsed behind an icon.
+- Each project card should display segment and service as visible tags, so the organizing logic is legible without touching the filters.
+## 1. Hub page - Projects & Case Studies
+Element
+Value
+URL
+/projects/
+Title tag
+Pavement Project Case Studies | ICC-IMS
+Meta description
+Pavement data collection and management case studies from state DOTs, cities, counties, and airports. Filter by segment, service, and outcome.
+H1
+Project Case Studies: Why Agencies Work With ICC-IMS
+### Answer-first lead
+ICC-IMS has completed pavement data collection, assessment, and management projects for state DOTs, municipalities, counties, airports, and engineering firms across North America. This library documents representative projects - the condition the network was in, the work performed, and what the agency achieved with the result. Filter by segment, service, or outcome to find work comparable to yours. Client agencies include Arizona DOT, Wyoming DOT, Tennessee DOT, Delaware DOT, and Dallas Fort Worth International Airport. Overall, ICC-IMS’s equipment or services can be found in 39 states nationwide and 39 countries spanning 6 continents.
+### Key facts panel
+Projects completed
+[CONFIRM: 1,000+]
+Agency clients
+[CONFIRM: 700+]
+Longest continuous relationship
+Lake County, Illinois - annual contracts since 1986
+Segments served
+State DOTs · municipalities and counties · AEC firms · airports · concessionaires · federal agencies
+Featured agencies
+Arizona DOT · Wyoming DOT · Tennessee DOT · Delaware DOT · DFW International Airport
+### Body sections
+#### Find work like yours
+[Filter interface per Section 2.]
+#### Featured case studies
+Three featured, one per primary segment, rotating. Per the journey analysis, framed by outcome rather than geography:
+- State DOT - [CONFIRM project and outcome framing, Arizona DOT or Wyoming DOT]
+- Municipality - [CONFIRM project and outcome framing, Long Beach CA or Jacksonville FL]
+- Airport - Dallas Fort Worth International Airport
+#### Not seeing your situation?
+This library is a sample. ICC-IMS has completed [CONFIRM] projects across every agency type, and much of the work is under agreements that do not permit publication.
+If you want to speak with an agency comparable to yours, ICC-IMS can arrange reference conversations. A twenty-minute call with a public works director who ran the same procurement is worth more than any case study, and agencies that have had a good experience are generally willing to have it.
+[CONFIRM whether ICC-IMS maintains a reference list and will offer reference calls. This is a strong differentiator and a genuine conversion asset, but it must not be offered on the site unless the process actually exists.]
+### FAQ block
+What kinds of agencies does ICC-IMS work with? State DOTs, municipalities, counties, airports, concessionaires, federal agencies, and AEC engineering firms. Client agencies include PennDOT, FDOT, WYDOT, ADOT, NDOT, DelDOT, and the Port of San Diego.
+Can I see a project similar to my agency’s size? Yes. The library filters by segment, service, and outcome. If nothing matches, contact ICC-IMS - the published library is a sample of completed work.
+Do you have references I can speak with? [CONFIRM]
+How long has ICC-IMS been doing this work? ICC has manufactured precision data collection equipment for nearly 50 years, and IMS has provided pavement and asset management consulting for 38 years. The two merged in 2022. Lake County, Illinois has contracted annually since 1986.
+Do you work outside the United States? [CONFIRM Canadian operations are implied by the +1 289 Canada phone number and the Canadian patent, but no Canadian projects appear in the library. If ICC-IMS serves Canadian agencies, that is a market segment currently invisible on the site.]
+### Schema notes
+- CollectionPage for the hub, containing ItemList of case studies.
+- FAQPage on the FAQ block.
+- BreadcrumbList: Home › Projects & Case Studies.
+- Filter states should not generate separately indexable URLs unless canonicalized to /projects/ - otherwise a combinatorial filter set produces hundreds of thin duplicate pages. See Phase 4c.
+### CTAs
+- Browse by Segment
+- Request a Similar Assessment
+## 2. Case study page template only
+Every case study follows this structure. URL pattern: /projects/[agency-slug]/.
+Element
+Specification
+URL
+/projects/arizona-dot/ - agency slug, no year, no service type
+Title tag
+[Agency] [Service] Case Study \| ICC-IMS - under 60 characters
+Meta description
+140–158 characters. Lead with the outcome, not the client name
+H1
+Outcome-framed, not “Arizona DOT Project”
+Tags
+Segment · Service · Outcome - visible, and matching filter values exactly
+### Section structure
+1. Answer-first summary (40–90 words). Agency, what they needed, what was done, what resulted. This is what AI engines extract and what a scanning reader reads. It must stand alone.
+2. Project facts panel.
+Field
+Notes
+Agency
+Full legal agency name
+Location
+City/county, state
+Network size
+Centerline miles, lane miles, or facility count
+Services provided
+Linked to service pages
+Equipment used
+Linked to equipment pages
+Software
+Linked where applicable
+Timeframe
+Year or year range
+Ongoing
+Whether the relationship continues
+3. The challenge. What the agency was facing before. Two or three sentences, specific. “They needed pavement data” is not a challenge; “their last network survey was nine years old and their capital program was being set from complaint volume” is.
+4. What ICC-IMS did. Scope, method, equipment, timeline. Concrete and factual.
+5. The result. The section that justifies the page. Requires at least one measurable outcome. If no measurable outcome can be confirmed, the project becomes a short project listing rather than a full case study - see Section 5.
+6. Testimonial. Where an attributable one exists, with name, title, and agency.
+7. Related. Links to the service pages, equipment pages, and audience page for the segment.
+8. CTA pair. Low: the relevant service overview or sample report. High: Request a Similar Assessment.
+### Writing standards
+- Outcome-framed headlines. “How Wyoming DOT improved network data quality,” not “Wyoming DOT.”
+- Numbers over adjectives. Every claim that could carry a number should carry one.
+- The agency is the protagonist. The agency solved a problem; ICC-IMS supplied the capability. This reads as more credible and is also more accurate.
+- No superlatives. Per the site-wide voice convention.
+- Client approval before publication. Every case study naming an agency, and every quote, should be approved in writing by that agency. This is standard practice and protects the relationship.
+## 3. Two tiers, because fifteen full case studies is optimistic
+Realistically, not all fifteen projects will yield a measurable outcome, an approving client, and a project manager with time to reconstruct the details. Planning for fifteen full case studies and delivering six produces a half-empty library.
+The recommended structure is two tiers:
+Tier 1 - Full case study. Own page, full template, measurable outcome, client approval. Target six to eight, weighted toward segment coverage rather than toward whichever projects are easiest to document.
+Tier 2 - Project listing. A card in the filterable library with agency, location, network size, services, equipment, and timeframe - but no dedicated page and no outcome claim. Still filterable, still counts as proof, still carries the agency name.
+This matters for the filters. A visitor filtering to Airport and finding one result concludes ICC-IMS has done one airport. Tier 2 listings keep the library populated across every filter combination while the Tier 1 set is built out over time.
+Recommended minimum for launch: one Tier 1 case study per segment filter value, with everything else as Tier 2. That guarantees no segment filter returns an empty or single-item result.
+## 4. Library gap analysis
+The approved site map names eleven case studies by agency. Four are not in the existing project library.
+Named in site map
+In project library?
+Attributable testimonial on file?
+Arizona DOT
+Yes
+Yes - Robert Bush, Program Manager (Inform software)
+Wyoming DOT
+Yes
+Yes - Ethan Crockett, PE (data quality)
+Tennessee DOT
+Yes
+No
+Delaware DOT
+Yes
+No
+Illinois DOT
+No
+Yes - John Senger, PE (SurPro 5000)
+Long Beach CA
+Yes
+No
+Pico Rivera CA
+No
+Yes - Kenner Guerrero (StreetSaver, LCMS-2)
+Dunwoody GA
+No
+Yes - Michael Smith, PE (three surveys / 12 years)
+Springfield MO
+No
+Yes - Dan Jessen (pavement + sidewalk)
+Jacksonville FL
+Yes
+No
+Dallas TX
+Yes
+No
+DFW International Airport
+Yes
+No
+All four missing case studies have attributable testimonials on file. These are not projects that were forgotten - they are relationships strong enough that a named professional went on record, which is a much better starting point for a case study than a project with documentation and no advocate.
+Recommendation: treat these four as the priority Tier 1 builds. A client willing to give an attributed testimonial is generally willing to approve a case study, and each already supplies the hardest element - the quote.
+Note also that Dunwoody (three surveys over twelve years) and Lake County IL (annual since 1986) are the strongest long-term-relationship stories available anywhere in the fact set, and neither is currently a case study. Lake County is not in the library or the site map at all, and a forty-year continuous client relationship is a proof point most competitors cannot approach.
+Seven library projects carry no segment assignment in the site map: Glendale AZ, Hillsborough County FL, Norman OK, Lawton OK, Spartanburg County SC, Sumter County FL, Tampa FL. Proposed classifications are in Section 7. Sumter County FL also has an attributable testimonial (Steven Cohoon).
+## 5. The fifteen project briefs
+Each brief lists what is confirmed, what is proposed, and what must be supplied. Proposed classifications are inferences from agency type and available testimonial context - all require confirmation by the project manager.
+### Standard intake questions
+Run these for every project. Most can be answered in ten minutes by whoever managed it.
+- What year, or year range? Is the relationship ongoing?
+- Network size - centerline miles, lane miles, or facility count?
+- What did the agency have before? Old data, no data, a failing program, a different vendor?
+- What specifically was delivered? Services, equipment, software.
+- What changed for the agency as a result? The one question that determines Tier 1 or Tier 2.
+- Is there a number attached to that change? Funding secured, cost avoided, condition improved, time saved.
+- Who at the agency would approve a case study, and would they?
+- Are there usable photos?
+### 5.1 Arizona DOT
+Confirmed
+In project library · client agency (ADOT) · testimonial on file: Robert Bush, Program Manager - Inform software
+Proposed segment
+State DOT
+Proposed service
+Software Implementation · Network-Level Data Collection
+Proposed outcome
+Improved data quality
+Tier
+1 - strong candidate
+Notes
+The testimonial references Inform, making this the natural case study for Unify Inform, which currently has one named reference and no project story. The journey analysis suggests an equipment-efficiency framing (“improved profiling efficiency with IrisPRO Every Speed”) - confirm which is accurate rather than assuming both.
+Required
+Standard intake · whether the engagement was software, data collection, equipment, or all three
+### 5.2 Wyoming DOT
+Confirmed
+In project library · client agency (WYDOT) · testimonial on file: Ethan Crockett, PE, Pavement Management and Research Engineer - data quality
+Proposed segment
+State DOT
+Proposed service
+Network-Level Data Collection
+Proposed outcome
+Improved data quality
+Tier
+1 - strong candidate
+Notes
+A data-quality testimonial from a state pavement research engineer is the most credible endorsement type available for the QC narrative. If a before/after data quality comparison can be described, this becomes the anchor case study for the entire DOT segment.
+Required
+Standard intake · what the data quality problem was before · whether QC documentation was a factor
+### 5.3 Tennessee DOT
+Confirmed
+In project library
+Proposed segment
+State DOT
+Proposed service
+Network-Level Data Collection
+Proposed outcome
+[CONFIRM]
+Tier
+2 unless an outcome and approver are identified
+Required
+Standard intake · scope and whether the relationship is current
+### 5.4 Delaware DOT
+Confirmed
+In project library · client agency (DelDOT)
+Proposed segment
+State DOT
+Proposed service
+Network-Level Data Collection
+Proposed outcome
+[CONFIRM]
+Tier
+2 unless an outcome and approver are identified – I think Sara (?) from DelDOT would maybe give a testimonial – she did when I was investigating ICC-IMS before joining the Board
+Notes
+A small-state statewide network is a useful counterweight to the large-state examples - it demonstrates the program scales down, which matters to smaller DOTs and large counties.
+Required
+Standard intake
+### 5.5 Dallas Fort Worth International Airport
+Confirmed
+In project library · named in the site map as the featured airport case study
+Proposed segment
+Airport
+Proposed service
+Airfield Assessment
+Proposed outcome
+[CONFIRM - likely regulatory compliance or reduced survey time via night operations]
+Tier
+1 - required. It is the only airport project in the library and the Airport filter cannot launch with an empty or thin result.
+Notes
+DFW is among the busiest airports in the world, which makes the operational constraint story unusually strong. If work was performed in overnight windows, that detail is the case study - it is the single most persuasive fact available to the airfield service page and the Airport Solutions page.
+Required
+Standard intake · surfaces assessed · whether night operations were used and the window length · FAA advisory circulars the work was delivered against · badging and escort arrangements · publication approval, which for a major airport authority may take time - start this one first
+### 5.6 Long Beach, CA
+Confirmed
+In project library · named in the site map as a municipal case study
+Proposed segment
+Municipality & County
+Proposed service
+Pavement Condition Survey · Pavement Management Plan
+Proposed outcome
+[CONFIRM]
+Tier
+1 candidate
+Notes
+The journey analysis proposes the framing “how Long Beach built a data-driven pavement management program,” which is the built-a-program-from-scratch outcome and the most relatable story for the municipal segment. Confirm it is accurate. A large California city also implies StreetSaver, which would make this a strong integrations reference.
+Required
+Standard intake · whether a program existed before · PMS platform used
+### 5.7 Jacksonville, FL
+Confirmed
+In project library · named in the site map as a municipal case study
+Proposed segment
+Municipality & County
+Proposed service
+Pavement Condition Survey
+Proposed outcome
+[CONFIRM]
+Tier
+2, upgradeable
+Notes
+A large consolidated city-county network - useful for demonstrating scale in the municipal segment.
+Required
+Standard intake
+### 5.8 Dallas, TX
+Confirmed
+In project library · named in the site map as a municipal case study
+Proposed segment
+Municipality & County
+Proposed service
+Pavement Condition Survey
+Proposed outcome
+[CONFIRM]
+Tier
+2, upgradeable
+Notes
+A Texas agency is a natural place to reference the TXShare cooperative purchasing pathway, if that is how the work was procured. Confirm before implying it.
+Required
+Standard intake · procurement vehicle used
+### 5.9 Tampa, FL
+Confirmed
+In project library
+Proposed segment
+Municipality & County
+Proposed service
+Pavement Condition Survey
+Proposed outcome
+[CONFIRM]
+Tier
+2
+Notes
+Florida projects (Tampa, Jacksonville, Hillsborough, Sumter) cluster usefully near the Largo headquarters. A regional grouping is worth surfacing for Florida agencies, who often prefer a nearby provider.
+Required
+Standard intake
+### 5.10 Hillsborough County, FL
+Confirmed
+In project library
+Proposed segment
+Municipality & County
+Proposed service
+Pavement Condition Survey
+Proposed outcome
+[CONFIRM]
+Tier
+2
+Required
+Standard intake
+### 5.11 Sumter County, FL
+Confirmed
+In project library · testimonial on file: Steven Cohoon, Assistant Director Planning & Design
+Proposed segment
+Municipality & County
+Proposed service
+Pavement Condition Survey · Pavement Management Plan
+Proposed outcome
+[CONFIRM]
+Tier
+1 candidate - testimonial already secured
+Notes
+A county-level example with an attributed testimonial from a senior planning official. Counties are a distinct buyer from cities and are under-represented in the named case study set.
+Required
+Standard intake · confirm the testimonial covers this project
+### 5.12 Spartanburg County, SC
+Confirmed
+In project library
+Proposed segment
+Municipality & County
+Proposed service
+Pavement Condition Survey
+Proposed outcome
+[CONFIRM]
+Tier
+2
+Required
+Standard intake
+### 5.13 Glendale, AZ
+Confirmed
+In project library · also named in the Build Plan client list
+Proposed segment
+Municipality & County
+Proposed service
+Pavement Condition Survey
+Proposed outcome
+[CONFIRM]
+Tier
+2
+Notes
+Glendale plus Arizona DOT gives a state-and-city pairing in one market, which is useful for demonstrating that both levels of government in the same state selected ICC-IMS independently. We can potentially mention this.
+Required
+Standard intake
+### 5.14 Norman, OK
+Confirmed
+In project library
+Proposed segment
+Municipality & County
+Proposed service
+Pavement Condition Survey
+Proposed outcome
+[CONFIRM]
+Tier
+2
+Notes
+Required
+Standard intake
+### 5.15 Lawton, OK
+Confirmed
+In project library
+Proposed segment
+Municipality & County
+Proposed service
+Pavement Condition Survey
+Proposed outcome
+[CONFIRM]
+Tier
+2
+Required
+Standard intake
+### 5.16 Priority additions not in the current library
+Four projects named in the site map and one from the fact set are not in the library but have attributable testimonials. These are the strongest Tier 1 candidates available.
+Project
+Testimonial
+Why we need to include it
+Illinois DOT
+John Senger, PE, Engineer of Pavement Technology - SurPro 5000
+The only reference device story available. SurPRO has no case study and a certification-site narrative would be uniquely credible from a state pavement technology engineer. Pairs with the 2026 iCART certification.
+Pico Rivera, CA
+Kenner Guerrero, Associate Engineer - StreetSaver, LCMS-2
+The only named StreetSaver implementation. Directly supports Integrations, the AEC segment’s primary concern, and the California municipal market.
+Dunwoody, GA
+Michael Smith, PE, Public Works Director - three surveys over 12 years
+The best available ongoing monitoring story: repeat engagement with year-over-year trend data, told by a public works director.
+Springfield, MO
+Dan Jessen, Operations Supervisor - pavement + sidewalk contracts
+The only combined pavement-and-sidewalk engagement. Supports the sidewalk service page and ESWA, both of which currently have no project proof at all.
+Lake County, IL
+Julian Rozwadowski, PE, Pavement Management Coordinator - annual contracts since 1986
+Forty years of continuous annual contracts. Not in the library or the site map. This is arguably the single strongest proof point ICC-IMS has, and it is currently invisible.
+Adding these five would bring the library to twenty projects, cover every segment and service filter, and supply project proof to five pages that currently have none.
+## 6. Coverage check against the filters
+Projected coverage using the fifteen library projects plus the five priority additions.
+Filter value
+Projects available
+Status
+State DOT
+ADOT, WYDOT, TDOT, DelDOT, IDOT
+Strong
+Municipality & County
+12+
+Strong
+Airport
+DFW only
+Thin
+AEC Firm
+None
+Empty  - Kimley Horn should be tapped for this and a couple others
+Concessionaire
+None
+Empty – Do we have something?
+Federal Agency
+None
+Empty – We should include something
+Pavement Condition Survey
+Most municipal projects
+Strong
+Network-Level Data Collection
+DOT projects
+Strong
+Sidewalk & ADA Survey
+Springfield MO only
+Thin
+Pavement Management Plan
+Several, pending confirmation
+Adequate
+Friction Testing
+None identified
+Empty – I imagine there’s got to be some stuff we can put in here.
+Airfield Assessment
+DFW only
+Thin
+Equipment Purchase
+Illinois DOT (SurPRO), possibly ADOT
+Thin
+Software Implementation
+ADOT (Inform), Pico Rivera (StreetSaver)
+Adequate
+Three filter values would launch empty and two are thin. An empty filter is worse than no filter - a visitor who selects “AEC Firm” and gets nothing concludes ICC-IMS has no AEC experience, which is not true and is precisely the segment the journey analysis identifies as having no effective landing point.
+Options, in order of preference: identify publishable projects for the empty values; use anonymized listings (“a national engineering firm, multi-state program”) where client agreements prevent naming; or suppress filter values with no results and note the omission on the audience pages. Suppression is the fallback, but definitely not the first or second choice here.
