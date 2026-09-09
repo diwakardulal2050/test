@@ -1,0 +1,1029 @@
+<title>ICC-IMS Homepage</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;700&family=Open+Sans:wght@400;600&display=swap">
+<style>
+/* ============================================================
+   ICC-IMS homepage prototype — built from Figma node 10479:1744
+   ("Homepage Updated", 08/20/2026 iteration, 1440px desktop).
+   Tokens mirror design-system/tokens.css (source: tokens.json).
+   Photos and agency logos are labeled placeholders: the exported
+   Figma assets are not downloadable from this environment, and the
+   kit's image standards call for labeled placeholders until real
+   assets are placed. Icons are inline SVG in the Phosphor style
+   used by the file.
+   ============================================================ */
+:root {
+  --navy-700: #1A395B;
+  --navy-900: #0E1F33;
+  --red-500: #EF4238;
+  --teal-300: #7DCECA;
+  --white: #FFFFFF;
+  --hairline: #D9E1E5;
+  --body: #53636E;
+  --muted: #71808A;
+  --bg-soft: #F4F7FA;
+  --chip-red: #FBE7E5;
+  --link-blue: #4366B0;
+  --band-grad: linear-gradient(90deg, #112741 0%, #1A395B 100%);
+  --footer-navy: #17334F;
+  --font-display: "Barlow", "Arial Narrow", system-ui, sans-serif;
+  --font-body: "Open Sans", system-ui, -apple-system, sans-serif;
+  --radius-btn: 6px;
+  --radius-card: 12px;
+  --shadow-card: 4px 8px 22px 0 rgba(15,33,56,0.05);
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--white);
+  color: var(--body);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.5625;
+}
+img { max-width: 100%; }
+a { color: inherit; text-decoration: none; }
+p { margin: 0; }
+h1, h2, h3, h4 { margin: 0; font-family: var(--font-display); font-weight: 600; color: var(--navy-700); text-wrap: balance; }
+button { font: inherit; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--red-500); outline-offset: 2px; }
+
+.wrap { max-width: 1440px; margin: 0 auto; }
+.pad { padding-left: 64px; padding-right: 64px; }
+@media (max-width: 900px) { .pad { padding-left: 24px; padding-right: 24px; } }
+
+/* type roles (Figma Desktop/* variables) */
+.eyebrow {
+  font-family: var(--font-body); font-weight: 600; font-size: 16px;
+  letter-spacing: 3px; text-transform: uppercase; color: var(--red-500);
+  line-height: 1;
+}
+.hero-h { font-size: 48px; line-height: 58px; text-wrap: initial; }
+.h1 { font-size: 35px; line-height: 48px; }
+.h2 { font-size: 24px; line-height: 1.1; }
+.h3 { font-size: 18px; line-height: 26px; }
+.p1 { font-size: 16px; line-height: 25px; }
+.p2 { font-size: 14px; line-height: 21px; }
+.p3 { font-size: 12px; line-height: 18px; }
+@media (max-width: 720px) {
+  .hero-h { font-size: 34px; line-height: 42px; }
+  .h1 { font-size: 28px; line-height: 38px; }
+}
+
+/* buttons */
+.btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 10px 20px; border-radius: var(--radius-btn);
+  font-family: var(--font-body); font-weight: 600; font-size: 14px; line-height: 1;
+  border: 1px solid transparent; white-space: nowrap;
+  transition: filter .15s ease, background-color .15s ease, color .15s ease;
+}
+.btn-red { background: var(--red-500); color: var(--white); }
+.btn-red:hover { filter: brightness(0.92); }
+.btn-outline-red { border-color: var(--red-500); color: #000; background: transparent; }
+.btn-outline-red:hover { background: var(--chip-red); }
+.btn-outline-navy { border-color: var(--navy-700); color: var(--navy-700); background: transparent; }
+.btn-outline-navy:hover { background: rgba(26,57,91,0.06); }
+.icon { display: inline-block; flex: none; }
+
+/* section header pattern */
+.sec-head { display: flex; flex-direction: column; gap: 8px; align-items: center; text-align: center; }
+.sec-head.left { align-items: flex-start; text-align: left; }
+
+/* ---------- utility bar ---------- */
+.utility {
+  background: var(--bg-soft);
+  display: flex; justify-content: flex-end; align-items: center;
+  gap: 12px; padding-top: 8px; padding-bottom: 8px;
+  font-size: 14px; color: var(--navy-700);
+}
+.utility a { display: inline-flex; align-items: center; gap: 8px; }
+.utility .vsep { width: 1px; height: 12px; background: var(--hairline); }
+
+/* ---------- nav ---------- */
+.nav {
+  background: var(--white); border-bottom: 1px solid var(--hairline);
+  display: flex; align-items: center; justify-content: space-between; gap: 24px;
+  padding-top: 24px; padding-bottom: 24px;
+  position: sticky; top: 0; z-index: 50;
+}
+.logo { display: inline-flex; align-items: center; gap: 8px; font-family: var(--font-display); font-weight: 700; color: var(--navy-700); font-size: 26px; letter-spacing: .5px; line-height: 1; }
+.logo .crosshair { width: 30px; height: 30px; }
+.logo small { font-family: var(--font-body); font-weight: 600; font-size: 8px; letter-spacing: 2.2px; color: var(--muted); display: block; margin-top: 3px; }
+.nav-links { display: flex; gap: 28px; font-weight: 600; font-size: 14px; color: var(--navy-700); }
+.nav-links a:hover { color: var(--red-500); }
+.nav-ctas { display: flex; gap: 10px; align-items: center; }
+.nav-burger {
+  display: none; background: none; border: 0; padding: 8px; color: var(--navy-700);
+}
+.mobile-menu {
+  display: none; background: var(--white); border-bottom: 1px solid var(--hairline);
+  position: sticky; top: 0; z-index: 49;
+  flex-direction: column; gap: 4px; padding: 8px 24px 20px;
+}
+.mobile-menu a { padding: 12px 4px; font-weight: 600; font-size: 16px; color: var(--navy-700); border-bottom: 1px solid var(--bg-soft); }
+.mobile-menu .btn { justify-content: center; margin-top: 12px; padding: 14px 20px; }
+.mobile-menu[data-open="true"] { display: flex; }
+@media (max-width: 1100px) {
+  .nav-links { display: none; }
+  .nav-burger { display: inline-flex; }
+  .nav { padding-top: 16px; padding-bottom: 16px; }
+}
+@media (max-width: 640px) { .nav-ctas .btn-outline-red, .nav-ctas .btn-red { display: none; } }
+
+/* ---------- hero ---------- */
+.hero { background: var(--white); padding-top: 48px; padding-bottom: 48px; display: flex; flex-direction: column; gap: 25px; align-items: center; overflow: hidden; }
+.hero-copy { display: flex; flex-direction: column; gap: 16px; align-items: center; text-align: center; }
+.hero-h { max-width: 900px; }
+.hero-sub { max-width: 880px; color: var(--body); }
+.proof { width: 100%; max-width: 690px; display: flex; flex-direction: column; gap: 9px; }
+.proof .rule { height: 1px; background: var(--hairline); }
+.proof-row { display: flex; gap: 18px; align-items: center; justify-content: center; flex-wrap: wrap; font-size: 14px; line-height: 21px; }
+.proof-row .dot { width: 4px; height: 4px; border-radius: 50%; background: var(--red-500); }
+.hero-cards { display: flex; gap: 16px; width: 100%; max-width: 1312px; }
+@media (max-width: 1100px) { .hero-cards { flex-direction: column; } }
+.acard { position: relative; border-radius: var(--radius-card); overflow: hidden; height: 462px; flex: 3; display: flex; flex-direction: column; justify-content: flex-end; }
+.acard + .acard { flex: 2.25; }
+.acard .ph { position: absolute; inset: 0; }
+.acard .panel {
+  position: relative; background: rgba(14,31,51,0.92);
+  padding: 22px 24px; display: flex; flex-direction: column; gap: 14px;
+}
+.acard .panel h3 { color: var(--white); font-size: 24px; }
+.acard .panel p { color: rgba(255,255,255,0.85); font-size: 14px; line-height: 21px; }
+.link-teal, .link-red, .link-blue {
+  display: inline-flex; align-items: center; gap: 8px;
+  font-weight: 600; font-size: 14px; line-height: 1;
+}
+.link-teal { color: var(--teal-300); }
+.link-red { color: var(--red-500); }
+.link-blue { color: var(--link-blue); }
+.link-teal:hover, .link-red:hover, .link-blue:hover { text-decoration: underline; }
+
+/* labeled photo placeholder (kit standard: no fake photos) */
+.ph {
+  background:
+    repeating-linear-gradient(-55deg, rgba(255,255,255,0.045) 0 2px, transparent 2px 18px),
+    linear-gradient(160deg, #3D5675 0%, var(--navy-700) 55%, var(--navy-900) 100%);
+  display: flex; align-items: flex-start; justify-content: flex-end; padding: 12px;
+}
+.ph-tag {
+  font-size: 11px; line-height: 1.4; font-weight: 600; letter-spacing: .5px;
+  color: rgba(255,255,255,0.75); background: rgba(14,31,51,0.6);
+  border: 1px dashed rgba(255,255,255,0.35); border-radius: 4px;
+  padding: 4px 8px; text-transform: uppercase; max-width: 85%;
+}
+.ph.light {
+  background:
+    repeating-linear-gradient(-55deg, rgba(26,57,91,0.05) 0 2px, transparent 2px 18px),
+    linear-gradient(160deg, #E7EDF2 0%, #CFDAE3 100%);
+}
+.ph.light .ph-tag { color: var(--navy-700); background: rgba(255,255,255,0.65); border-color: rgba(26,57,91,0.35); }
+
+/* ---------- logo strip ---------- */
+.logos-band { background: var(--white); padding-top: 8px; padding-bottom: 40px; display: flex; flex-direction: column; gap: 28px; align-items: center; }
+.logos { position: relative; width: 100%; overflow: hidden; }
+.logos-track { display: flex; gap: 40px; align-items: center; justify-content: center; flex-wrap: wrap; padding: 6px 60px; }
+.logos-track img { height: 44px; width: auto; }
+.agency {
+  font-family: var(--font-display); font-weight: 600; font-size: 15px; letter-spacing: .4px;
+  color: #8C99A4; white-space: nowrap; filter: grayscale(1);
+}
+.fill-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.logos::before, .logos::after {
+  content: ""; position: absolute; top: 0; bottom: 0; width: 60px; z-index: 1; pointer-events: none;
+}
+.logos::before { left: 0; background: linear-gradient(90deg, var(--white) 13%, rgba(244,247,250,0)); }
+.logos::after { right: 0; background: linear-gradient(270deg, var(--white) 13%, rgba(244,247,250,0)); }
+.logos-caption { font-size: 14px; line-height: 21px; color: var(--muted); text-align: center; }
+.logos-caption strong { color: var(--navy-700); font-weight: 600; }
+
+/* ---------- what we do / who we are ---------- */
+.wwd { background: var(--bg-soft); padding-top: 48px; padding-bottom: 64px; display: flex; flex-direction: column; gap: 40px; align-items: center; }
+.wwd-head { width: 100%; max-width: 1320px; display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; }
+.wwd-head .text { display: flex; flex-direction: column; gap: 8px; max-width: 838px; flex: 1 1 640px; }
+.split {
+  width: 100%; max-width: 1320px; background: var(--white);
+  border: 1px solid var(--hairline); border-radius: var(--radius-card);
+  display: flex; gap: 18px; overflow: hidden;
+}
+.split.borderless { border-color: transparent; }
+.split .col { flex: 1; min-width: 0; padding: 28px; display: flex; flex-direction: column; gap: 18px; }
+.split .rule { height: 1px; background: var(--hairline); }
+.split .media { flex: 1; min-width: 0; position: relative; min-height: 320px; }
+.split .media .ph { position: absolute; inset: 0; }
+.split .media.notch-left .ph { clip-path: polygon(9% 0, 100% 0, 100% 100%, 0 100%); }
+.split .media.notch-right .ph { clip-path: polygon(0 0, 100% 0, 91% 100%, 0 100%); }
+@media (max-width: 980px) { .split { flex-direction: column; } .split .media { min-height: 240px; } .split .media .ph { clip-path: none !important; } }
+.wwd-list { display: flex; flex-direction: column; gap: 16px; }
+.wwd-item {
+  background: var(--bg-soft); border-radius: 9px; padding: 14px 16px;
+  display: flex; gap: 20px; align-items: flex-start;
+}
+.wwd-item .glyph { flex: none; width: 40px; height: 40px; color: var(--red-500); }
+.chips { display: flex; flex-wrap: wrap; gap: 10px; }
+.chip {
+  background: rgba(237,133,127,0.2); border: 1px solid var(--hairline);
+  border-radius: 4px; padding: 6px 8px; font-size: 16px; line-height: 25px; color: var(--body);
+}
+.kicker { font-weight: 600; font-size: 16px; line-height: 26px; color: var(--navy-700); text-transform: capitalize; }
+
+/* ---------- trust bar ---------- */
+.trust {
+  background: var(--navy-700); position: relative; overflow: hidden;
+  display: flex; align-items: stretch; justify-content: space-between; gap: 16px;
+  padding-top: 40px; padding-bottom: 40px;
+}
+.trust::before, .trust::after {
+  content: ""; position: absolute; width: 420px; height: 420px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(125,206,202,0.14) 0%, rgba(125,206,202,0) 70%);
+  pointer-events: none;
+}
+.trust::before { left: -245px; top: -290px; }
+.trust::after { right: -210px; top: 40px; }
+.stat { flex: 1; display: flex; flex-direction: column; gap: 6px; align-items: center; text-align: center; }
+.stat b { font-family: var(--font-display); font-weight: 600; font-size: 35px; line-height: 48px; color: var(--white); }
+.stat span { font-size: 14px; line-height: 21px; color: rgba(255,255,255,0.8); }
+.trust .vsep { width: 1px; background: rgba(125,206,202,0.24); }
+@media (max-width: 900px) { .trust { flex-wrap: wrap; } .stat { flex: 1 1 40%; } .trust .vsep { display: none; } }
+
+/* ---------- one integrated system ---------- */
+.ois { background: var(--bg-soft); padding-top: 64px; padding-bottom: 64px; display: flex; flex-direction: column; gap: 32px; align-items: center; }
+.ois-sub { max-width: 846px; text-align: center; }
+.pillar-row { display: flex; gap: 24px; width: 100%; max-width: 1312px; }
+@media (max-width: 980px) { .pillar-row { flex-direction: column; } }
+.pillar-card {
+  flex: 1; min-width: 0; background: var(--white); border-radius: var(--radius-card);
+  box-shadow: var(--shadow-card); overflow: hidden; display: flex; flex-direction: column;
+}
+.pillar-card .media { position: relative; flex: 1; min-height: 240px; }
+.pillar-card .media .ph { position: absolute; inset: 0; }
+.pillar-card .body { padding: 24px; display: flex; flex-direction: column; gap: 16px; }
+
+/* ---------- why icc-ims ---------- */
+.why { background: var(--white); padding-top: 48px; padding-bottom: 48px; display: flex; gap: 32px; justify-content: center; }
+.why-inner { display: flex; gap: 32px; width: 100%; max-width: 1312px; }
+@media (max-width: 980px) { .why-inner { flex-direction: column; } }
+.why-left { flex: 1; max-width: 627px; display: flex; flex-direction: column; gap: 32px; }
+.why-left .stack { display: flex; flex-direction: column; gap: 16px; }
+.why-right { flex: 1; display: flex; flex-direction: column; gap: 24px; }
+.reason {
+  background: var(--white); border: 1.5px solid var(--hairline); border-radius: var(--radius-card);
+  padding: 24px; display: flex; gap: 20px; align-items: flex-start;
+}
+.icon-chip {
+  flex: none; width: 64px; height: 64px; border-radius: 8px;
+  background: var(--chip-red); border: 1px solid rgba(26,57,91,0.08);
+  display: flex; align-items: center; justify-content: center; color: var(--red-500);
+}
+.reason .text { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 4px; }
+.reason .chev { align-self: center; color: var(--navy-700); }
+
+/* ---------- next steps ---------- */
+.next-wrap { background: var(--white); padding: 32px; }
+.next {
+  background: var(--navy-700); border-radius: 10px; position: relative; overflow: hidden;
+  padding: 48px; display: flex; flex-direction: column; gap: 40px; align-items: center;
+  max-width: 1376px; margin: 0 auto;
+}
+.next::before, .next::after {
+  content: ""; position: absolute; width: 420px; height: 420px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(125,206,202,0.13) 0%, rgba(125,206,202,0) 70%);
+  pointer-events: none;
+}
+.next::before { left: -116px; top: -113px; }
+.next::after { right: -100px; top: -89px; }
+.next .sec-head .eyebrow { color: var(--white); }
+.next .sec-head .h1 { color: var(--white); }
+.next-sub { max-width: 584px; text-align: center; color: rgba(255,255,255,0.85); }
+.next-cards { display: flex; gap: 28px; width: 100%; position: relative; }
+@media (max-width: 980px) { .next-cards { flex-direction: column; } .next-wrap { padding: 16px; } .next { padding: 32px 24px; } }
+.step {
+  flex: 1; min-width: 0; background: var(--white); border: 1px solid var(--bg-soft); border-radius: 10px;
+  padding: 32px; display: flex; flex-direction: column; gap: 24px; justify-content: space-between;
+}
+.step .top { display: flex; flex-direction: column; gap: 24px; }
+.step .icon-chip { background: var(--bg-soft); border-radius: 10px; color: var(--navy-700); }
+.step h3 { font-size: 24px; }
+.step .text { display: flex; flex-direction: column; gap: 12px; }
+
+/* ---------- testimonials ---------- */
+.testimonials { background: var(--bg-soft); padding-top: 48px; padding-bottom: 48px; display: flex; flex-direction: column; gap: 32px; align-items: center; }
+.quote-card {
+  flex: 1; min-width: 0; background: var(--white); border: 1px solid var(--hairline);
+  border-radius: var(--radius-card); box-shadow: var(--shadow-card);
+  padding: 24px 28px; display: flex; flex-direction: column; gap: 20px; justify-content: space-between;
+}
+.seg-chip {
+  align-self: flex-start; background: var(--chip-red); border: 1px solid rgba(26,57,91,0.08);
+  border-radius: 8px; padding: 6px 8px; font-weight: 600; font-size: 14px; line-height: 18px;
+  color: var(--navy-700); text-transform: uppercase;
+}
+.quote-card .rule { height: 1px; background: #EFEFEF; }
+.quote { border-left: 1px solid var(--navy-700); padding: 2px 0 2px 16px; color: var(--navy-700); font-size: 16px; line-height: 25px; }
+.attrib { display: flex; gap: 10px; align-items: center; }
+.avatar {
+  flex: none; width: 40px; height: 40px; border-radius: 50%;
+  background: var(--chip-red); color: var(--navy-700);
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 600; font-size: 14px;
+}
+.attrib .who b { display: block; font-weight: 600; font-size: 14px; line-height: 18px; color: var(--navy-700); }
+.attrib .who span { font-size: 12px; line-height: 18px; color: var(--muted); }
+.dots { display: flex; gap: 6px; align-items: center; }
+.dots i { width: 8px; height: 8px; border-radius: 50%; background: #C3CDD6; }
+.dots i.on { background: var(--red-500); width: 20px; border-radius: 4px; }
+
+/* ---------- case studies ---------- */
+.cases { background: var(--white); padding-top: 64px; padding-bottom: 64px; display: flex; flex-direction: column; gap: 32px; align-items: center; }
+.case-card {
+  flex: 1; min-width: 0; background: var(--white); border: 1px solid var(--hairline);
+  border-radius: var(--radius-card); overflow: hidden; display: flex; flex-direction: column;
+}
+.case-card .media { position: relative; min-height: 200px; }
+.case-card .media .ph { position: absolute; inset: 0; }
+.case-card .body { padding: 24px 24px 32px; display: flex; flex-direction: column; gap: 24px; flex: 1; justify-content: space-between; }
+.case-card .text { display: flex; flex-direction: column; gap: 12px; }
+
+/* ---------- procurement band ---------- */
+.proc {
+  background: var(--band-grad); position: relative; overflow: hidden;
+  display: flex; align-items: center; justify-content: space-between; gap: 32px;
+  padding-top: 46px; padding-bottom: 46px; min-height: 250px;
+}
+.proc-text { display: flex; flex-direction: column; gap: 12px; max-width: 800px; position: relative; z-index: 1; }
+.proc-eyebrow { font-weight: 600; font-size: 12px; letter-spacing: 2px; color: var(--teal-300); text-transform: uppercase; }
+.proc h2 { font-family: var(--font-display); font-weight: 700; font-size: 30px; line-height: 1.2; color: var(--white); }
+.proc p { font-size: 14px; line-height: 1.55; color: #C3D2E3; }
+.proc-chevrons { position: absolute; right: 0; top: 0; bottom: 0; display: flex; pointer-events: none; }
+.proc-chevrons svg { height: 100%; }
+.proc .btn { position: relative; z-index: 1; flex: none; }
+@media (max-width: 980px) { .proc { flex-direction: column; align-items: flex-start; } .proc-chevrons { display: none; } }
+
+/* ---------- faq ---------- */
+.faq { background: var(--bg-soft); padding-top: 48px; padding-bottom: 48px; display: flex; flex-direction: column; gap: 40px; align-items: center; }
+.faq-cols { display: flex; gap: 32px; width: 100%; max-width: 1312px; align-items: flex-start; }
+@media (max-width: 900px) { .faq-cols { flex-direction: column; } }
+.faq-col { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 16px; }
+.faq-item { background: var(--white); border: 1px solid var(--hairline); border-radius: var(--radius-card); width: 100%; }
+.faq-q {
+  width: 100%; background: none; border: 0; padding: 24px; text-align: left;
+  display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  font-family: var(--font-display); font-weight: 600; font-size: 18px; line-height: 26px; color: var(--navy-700);
+}
+.faq-q .sign { flex: none; color: var(--navy-700); transition: transform .2s ease; }
+.faq-a { padding: 0 24px 24px; font-size: 16px; line-height: 25px; color: var(--body); }
+.faq-item[data-open="false"] .faq-a { display: none; }
+.faq-item[data-open="true"] .sign .h-bar { display: none; }
+
+/* ---------- footer ---------- */
+.footer { background: var(--footer-navy); color: rgba(255,255,255,0.85); padding-top: 48px; padding-bottom: 32px; display: flex; flex-direction: column; gap: 32px; }
+.footer-cols { display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap; }
+.footer h3 { color: var(--white); font-size: 18px; line-height: 26px; }
+.footer .contact { display: flex; flex-direction: column; gap: 16px; width: 276px; }
+.footer .logo-plate { align-self: flex-start; background: var(--bg-soft); border-radius: 4px; padding: 10px; }
+.footer .contact ul, .footer .col ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 14px; font-size: 12px; line-height: 18px; }
+.footer .contact li { display: flex; gap: 16px; align-items: flex-start; }
+.footer .contact .icon { color: var(--teal-300); margin-top: 1px; }
+.footer .link-cols { display: flex; gap: 60px; flex-wrap: wrap; }
+.footer .col { display: flex; flex-direction: column; gap: 16px; }
+.footer .col a:hover { color: var(--white); }
+.footer .rule { height: 1px; background: rgba(9,166,209,0.17); }
+.footer-bottom { display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap; font-size: 12px; line-height: 18px; }
+.footer-bottom nav { display: flex; gap: 36px; }
+
+/* ---------- mobile ---------- */
+@media (max-width: 760px) {
+  .pad { padding-left: 16px; padding-right: 16px; }
+  .utility { font-size: 12px; }
+  .hero { padding-top: 32px; padding-bottom: 40px; }
+  .hero-h { font-size: 30px; line-height: 38px; }
+  .hero-h br { display: none; }
+  .hero-sub { font-size: 15px; line-height: 24px; }
+  .h1 { font-size: 26px; line-height: 34px; }
+  .h2 { font-size: 21px; }
+  .eyebrow { font-size: 13px; letter-spacing: 2.2px; }
+  .acard { height: 400px; }
+  .acard + .acard { flex: 3; }
+  .logos-track { gap: 20px 28px; padding: 6px 24px; }
+  .logos-track img { height: 34px; }
+  .logos::before, .logos::after { display: none; }
+  .wwd { padding-top: 32px; padding-bottom: 40px; gap: 28px; }
+  .wwd-head .btn { width: 100%; justify-content: center; padding: 14px 20px; }
+  .split .col { padding: 20px; }
+  .split .media { min-height: 0; aspect-ratio: 651 / 452; position: relative; }
+  .trust { flex-wrap: wrap; gap: 24px 8px; padding-top: 32px; padding-bottom: 32px; }
+  .stat { flex: 1 1 40%; }
+  .stat b { font-size: 28px; line-height: 36px; }
+  .trust .vsep { display: none; }
+  .ois, .cases { padding-top: 40px; padding-bottom: 40px; }
+  .ois .btn, .cases .btn { width: 100%; justify-content: center; padding: 14px 20px; }
+  .pillar-card .media { min-height: 0; aspect-ratio: 422 / 260; }
+  .why { padding-top: 32px; padding-bottom: 32px; }
+  .why-left .btn { width: 100%; justify-content: center; padding: 14px 20px; }
+  .reason { padding: 18px; gap: 14px; }
+  .icon-chip { width: 52px; height: 52px; }
+  .icon-chip svg { width: 32px; height: 32px; }
+  .next-wrap { padding: 12px; }
+  .next { padding: 32px 20px; gap: 28px; }
+  .step { padding: 24px; }
+  .proc { padding-top: 32px; padding-bottom: 32px; }
+  .proc h2 { font-size: 24px; }
+  .proc .btn { width: 100%; justify-content: center; padding: 14px 20px; }
+  .faq { padding-top: 40px; padding-bottom: 40px; gap: 28px; }
+  .faq-q { padding: 18px; font-size: 16px; line-height: 24px; }
+  .faq-a { padding: 0 18px 18px; font-size: 15px; }
+  .footer .link-cols { gap: 28px 40px; }
+  .footer-bottom { justify-content: center; text-align: center; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+</style>
+
+<!-- utility bar -->
+<div class="utility pad">
+  <a href="#"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="5" r="3"/><path d="M2.5 14a5.5 5.5 0 0 1 11 0"/></svg>Existing Customers</a>
+  <span class="vsep"></span>
+  <a href="#">Need Support<svg class="icon" width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8a5 5 0 0 1 10 0"/><path d="M2.5 9.5h2v3h-2zM11.5 9.5h2v3h-2z"/><path d="M13 12.5c0 1.5-1.5 2-3 2"/></svg></a>
+</div>
+
+<!-- nav -->
+<nav class="nav pad" aria-label="Main">
+  <a class="logo" href="#" aria-label="ICC-IMS home">
+    <svg class="crosshair" viewBox="0 0 32 32" fill="none" stroke="#1A395B" stroke-width="2"><circle cx="16" cy="16" r="12"/><circle cx="16" cy="16" r="5"/><path d="M16 1v6M16 25v6M1 16h6M25 16h6"/></svg>
+    <span>ICC<span style="color:#EF4238">&#8226;</span>IMS<small>PAVEMENT INTELLIGENCE</small></span>
+  </a>
+  <div class="nav-links">
+    <a href="#audiences">Who We Serve</a>
+    <a href="#system">Solutions</a>
+    <a href="#cases">Projects</a>
+    <a href="#faq">Resources</a>
+    <a href="#procurement">Procurement</a>
+    <a href="#why">Company</a>
+  </div>
+  <div class="nav-ctas">
+    <a class="btn btn-outline-red" href="tel:+17275470696">+1 727-547-0696</a>
+    <a class="btn btn-red" href="#next-steps">Book a Discovery Call
+      <svg class="icon" width="7" height="10" viewBox="0 0 7 10" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M1.5 1.5 5.5 5l-4 3.5"/></svg></a>
+    <button class="nav-burger" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
+  </div>
+</nav>
+<div class="mobile-menu" id="mobile-menu" data-open="false">
+  <a href="#audiences">Who We Serve</a>
+  <a href="#system">Solutions</a>
+  <a href="#cases">Projects</a>
+  <a href="#faq">Resources</a>
+  <a href="#procurement">Procurement</a>
+  <a href="#why">Company</a>
+  <a class="btn btn-red" href="#next-steps">Book a Discovery Call</a>
+  <a class="btn btn-outline-red" href="tel:+17275470696">Call +1 727-547-0696</a>
+</div>
+
+<!-- hero -->
+<header class="hero pad" id="audiences">
+  <div class="hero-copy">
+    <p class="eyebrow">Equipment &#183; Services &#183; Software</p>
+    <h1 class="hero-h">One Pavement Intelligence Partner.<br>Built for Every Road Program.</h1>
+    <p class="p1 hero-sub">ICC-IMS connects road-measuring equipment, field data collection, and pavement-management software to help agencies and engineering teams make more defensible infrastructure decisions.</p>
+  </div>
+  <div class="proof">
+    <div class="rule"></div>
+    <div class="proof-row">
+      <span>50 Years of Pavement Expertise</span><span class="dot"></span>
+      <span>700+ Agency Clients</span><span class="dot"></span>
+      <span>Designed &amp; Manufactured in the USA</span>
+    </div>
+    <div class="rule"></div>
+  </div>
+  <div class="hero-cards">
+    <article class="acard">
+      <div class="ph"><span class="ph-tag">Placeholder &#183; Highway survey fleet photo</span></div>
+      <div class="panel">
+        <h3>State DOTs</h3>
+        <p>Standards-aligned equipment and repeatable network-level data for statewide pavement programs.</p>
+        <a class="link-teal" href="#">Explore State DOT Solutions
+          <svg class="icon" width="9" height="12" viewBox="0 0 9 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l5 4-5 4"/></svg></a>
+      </div>
+    </article>
+    <article class="acard">
+      <div class="ph"><span class="ph-tag">Placeholder &#183; City street collection van photo</span></div>
+      <div class="panel">
+        <h3>Cities &amp; Counties</h3>
+        <p>Turn roadway conditions into pavement plans, budget scenarios, and council-ready reporting.</p>
+        <a class="link-teal" href="#">Explore Municipal Solutions
+          <svg class="icon" width="9" height="12" viewBox="0 0 9 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l5 4-5 4"/></svg></a>
+      </div>
+    </article>
+    <article class="acard">
+      <div class="ph"><span class="ph-tag">Placeholder &#183; Field crew in hi-vis photo</span></div>
+      <div class="panel">
+        <h3>AEC Firms</h3>
+        <p>Extend your project team with reliable field collection, technical documentation, and compatible pavement-data deliverables.</p>
+        <a class="link-teal" href="#">Explore AEC Solutions
+          <svg class="icon" width="9" height="12" viewBox="0 0 9 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l5 4-5 4"/></svg></a>
+      </div>
+    </article>
+  </div>
+</header>
+
+<!-- agency logo strip (grayscale placeholders until logo files are placed) -->
+<section class="logos-band" aria-label="Agencies served">
+  <div class="logos">
+    <div class="logos-track">
+      <span class="agency">PennDOT</span>
+      <span class="agency">FDOT</span>
+      <span class="agency">WYDOT</span>
+      <img src="asset:logo-adot" alt="Arizona Department of Transportation">
+      <img src="asset:logo-ndot" alt="Nevada Department of Transportation">
+      <img src="asset:logo-deldot" alt="Delaware Department of Transportation">
+      <img src="asset:logo-sandiego" alt="Port of San Diego">
+      <img src="asset:logo-glendale" alt="City of Glendale, Arizona">
+      <img src="asset:logo-fortcollins" alt="City of Fort Collins, Colorado">
+      <img src="asset:logo-riverside" alt="City of Riverside, California">
+      <img src="asset:logo-lakeland" alt="City of Lakeland, Florida">
+      <img src="asset:logo-peachtree" alt="City of Peachtree Corners, Georgia">
+      <img src="asset:logo-minnetonka" alt="City of Minnetonka, Minnesota">
+      <span class="agency">Moore OK</span>
+      <span class="agency">Lancaster TX</span>
+      <span class="agency">Harvard IL</span>
+      <span class="agency">Camden SC</span>
+    </div>
+  </div>
+  <p class="logos-caption pad">The industry&#8217;s <strong>largest municipal data collection fleet</strong> &#8212; at work for agencies across the nation.</p>
+</section>
+
+<!-- what we do / who we are -->
+<section class="wwd pad">
+  <div class="wwd-head">
+    <div class="text">
+      <p class="eyebrow">ICC-IMS = end-to-end pavement management</p>
+      <h2 class="h1">We build the equipment, collect the data, and deliver the software that turns it into funded projects.</h2>
+    </div>
+    <a class="btn btn-outline-navy" href="#system">Explore Our Capabilities
+      <svg class="icon" width="7" height="10" viewBox="0 0 7 10" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M1.5 1.5 5.5 5l-4 3.5"/></svg></a>
+  </div>
+
+  <div class="split">
+    <div class="col">
+      <h3 class="h2">What We Do</h3>
+      <div class="rule"></div>
+      <div class="wwd-list">
+        <div class="wwd-item">
+          <svg class="glyph" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 26V14h18v12"/><path d="M22 18h8l6 5v3h-4"/><circle cx="11" cy="28" r="3"/><circle cx="27" cy="28" r="3"/><path d="M14 28h10M4 26h4"/></svg>
+          <p class="p1">Design and manufacture pavement data collection equipment in the United States</p>
+        </div>
+        <div class="wwd-item">
+          <svg class="glyph" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 34s-10-9.6-10-17a10 10 0 0 1 20 0c0 7.4-10 17-10 17Z"/><circle cx="20" cy="17" r="4"/></svg>
+          <p class="p1">Perform field data collection</p>
+        </div>
+        <div class="wwd-item">
+          <svg class="glyph" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 28a12 12 0 0 1 24 0"/><path d="M4 28h32v4H4z"/><path d="M16 12v-2a4 4 0 0 1 8 0v2"/></svg>
+          <p class="p1">Provide pavement engineering consulting</p>
+        </div>
+        <div class="wwd-item">
+          <svg class="glyph" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="8" width="30" height="20" rx="2"/><path d="M14 34h12M20 28v6"/><path d="M11 22l5-5 4 3 6-7"/></svg>
+          <p class="p1">Build the software that converts raw data into funded projects</p>
+        </div>
+      </div>
+    </div>
+    <div class="media">
+      <img class="fill-img" src="asset:van" alt="Roof-mounted sensor rack on an ICC-IMS Pavement Intelligence survey van">
+    </div>
+  </div>
+
+  <div class="split borderless">
+    <div class="media">
+      <img class="fill-img" src="asset:crew" alt="Two ICC-IMS crew members in hi-vis vests reviewing a tablet beside a survey van">
+    </div>
+    <div class="col">
+      <h3 class="h2">Who We Are</h3>
+      <div class="rule"></div>
+      <p class="p1">Formed in 2022, ICC-IMS combines ICC&#8217;s 50 years of equipment expertise with IMS&#8217;s 38 years of pavement management experience to deliver complete pavement intelligence solutions.</p>
+      <div>
+        <p class="kicker">Certifications:</p>
+        <p class="p1">ASTM E950, AASHTO R56, AASHTO R57, and TxDOT compliant.</p>
+      </div>
+      <div>
+        <p class="kicker" style="margin-bottom:8px">Who We Serve:</p>
+        <div class="chips">
+          <span class="chip">State DOTs</span>
+          <span class="chip">Counties and municipalities</span>
+          <span class="chip">Airports and concessionaires</span>
+          <span class="chip">AEC firms</span>
+          <span class="chip">Federal agencies</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- trust bar -->
+<section class="trust pad" aria-label="Track record">
+  <div class="stat"><b>50 Years</b><span>of US equipment<br>manufacturing</span></div>
+  <div class="vsep"></div>
+  <div class="stat"><b>700+</b><span>agencies served<br>nationwide</span></div>
+  <div class="vsep"></div>
+  <div class="stat"><b>$5M</b><span>invested in the Unify&#8482;<br>software suite</span></div>
+  <div class="vsep"></div>
+  <div class="stat"><b>15+</b><span>pavement management<br>platforms supported</span></div>
+</section>
+
+<!-- one integrated system -->
+<section class="ois pad" id="system">
+  <div class="sec-head">
+    <p class="eyebrow">One Integrated System</p>
+    <h2 class="h1" style="max-width:1156px">One company controls the entire chain &#8212; from the laser to the council vote</h2>
+  </div>
+  <p class="p1 ois-sub">Most vendors provide one piece of the puzzle. ICC-IMS connects equipment, data, and software into one seamless pavement intelligence system.</p>
+  <div class="pillar-row">
+    <article class="pillar-card">
+      <div class="media"><img class="fill-img" src="asset:equipment" alt="Laser profiler sensor assembly on the Largo, Florida production floor"></div>
+      <div class="body">
+        <h3 class="h2">Equipment</h3>
+        <p class="p1">Designed and built in Largo, Florida. Profilers, survey vehicles, friction testers, reference devices. $1.1M parts inventory.</p>
+      </div>
+    </article>
+    <article class="pillar-card">
+      <div class="media"><img class="fill-img" src="asset:services" alt="ICC-IMS data collection van surveying a city street"></div>
+      <div class="body">
+        <h3 class="h2">Services</h3>
+        <p class="p1">The largest municipal collection fleet in the industry. Surveys, ADA assessments, management plans, council presentations.</p>
+      </div>
+    </article>
+    <article class="pillar-card">
+      <div class="media"><img class="fill-img" src="asset:software" alt="Analyst working in pavement management software with a network condition map"></div>
+      <div class="body">
+        <h3 class="h2">Software</h3>
+        <p class="p1">A $5M platform built to remove the bottlenecks. Unify&#8482; suite, ESA, ESWA - or delivery into your existing PMS.</p>
+      </div>
+    </article>
+  </div>
+  <a class="btn btn-red" href="#next-steps">Book a Discovery Call
+    <svg class="icon" width="7" height="10" viewBox="0 0 7 10" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M1.5 1.5 5.5 5l-4 3.5"/></svg></a>
+</section>
+
+<!-- why icc-ims -->
+<section class="why pad" id="why">
+  <div class="why-inner">
+    <div class="why-left">
+      <div class="stack">
+        <div class="sec-head left">
+          <p class="eyebrow">Why ICC-IMS</p>
+          <h2 class="h1">One organization, one accountable team</h2>
+        </div>
+        <p class="p1" style="opacity:.85">International Cybernetics Company and IMS Infrastructure Management Services merged in 2022. ICC brought nearly 50 years of building precision data collection equipment for agencies worldwide. IMS brought 38 years of guiding county and municipal decision-making. Both companies were built in the United States, and both are still here.</p>
+      </div>
+      <a class="btn btn-outline-red" href="#">About ICC-IMS
+        <svg class="icon" width="7" height="10" viewBox="0 0 7 10" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M1.5 1.5 5.5 5l-4 3.5"/></svg></a>
+    </div>
+    <div class="why-right">
+      <div class="reason">
+        <span class="icon-chip"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 34V10l12-4v28"/><path d="M18 14l14 4v16"/><path d="M4 34h32"/><path d="M10 14h4M10 20h4M10 26h4M24 22h4M24 28h4"/></svg></span>
+        <div class="text">
+          <h3 class="h3">Manufactured in the USA</h3>
+          <p class="p1">Equipment is built at a 15,000 sq ft facility in Largo, FL, with $1.1M in parts on hand.</p>
+        </div>
+        <span class="chev"><svg width="12" height="20" viewBox="0 0 12 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3l7 7-7 7"/></svg></span>
+      </div>
+      <div class="reason">
+        <span class="icon-chip"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="7" width="24" height="28" rx="2"/><path d="M15 7a5 5 0 0 1 10 0"/><path d="M14 18h12M14 24h12M14 30h8"/></svg></span>
+        <div class="text">
+          <h3 class="h3">A documented process</h3>
+          <p class="p1">Data quality is a documented process, not a promise &#8212; certification, validation sites, published pass/fail criteria.</p>
+        </div>
+        <span class="chev"><svg width="12" height="20" viewBox="0 0 12 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3l7 7-7 7"/></svg></span>
+      </div>
+      <div class="reason">
+        <span class="icon-chip"><svg width="40" height="40" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 12h10c8 0 8 16 16 16h2"/><path d="M30 22l6 6-6 6"/><circle cx="8" cy="12" r="3"/></svg></span>
+        <div class="text">
+          <h3 class="h3">Built to remove bottlenecks</h3>
+          <p class="p1">The software was built because the alternatives were slow &#8212; a $5M Unify&#8482; investment.</p>
+        </div>
+        <span class="chev"><svg width="12" height="20" viewBox="0 0 12 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3l7 7-7 7"/></svg></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- next steps -->
+<div class="next-wrap" id="next-steps">
+  <section class="next">
+    <div class="sec-head">
+      <p class="eyebrow">Next Steps</p>
+      <h2 class="h1">Tell us what you&#8217;re facing.</h2>
+    </div>
+    <p class="p1 next-sub">Whether you are preparing a multi-million-dollar capital bond, modernizing your profiler fleet, or scoping an upcoming paving cycle.</p>
+    <div class="next-cards">
+      <article class="step">
+        <div class="top">
+          <span class="icon-chip"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5a3 3 0 0 1 3 2.6l.6 3.4a3 3 0 0 1-1.4 3l-1.7 1a14 14 0 0 0 5.5 5.5l1-1.7a3 3 0 0 1 3-1.4l3.4.6A3 3 0 0 1 28 21v3a3 3 0 0 1-3.2 3A21 21 0 0 1 5 7.2 3 3 0 0 1 8 4h3z"/><path d="M19 4a9 9 0 0 1 9 9M19 9a4 4 0 0 1 4 4"/></svg></span>
+          <div class="text">
+            <h3>Book a Discovery Call</h3>
+            <p class="p1">30 minutes with an engineer, not a salesperson.</p>
+          </div>
+        </div>
+        <a class="link-red" href="#">Book a Discovery Call
+          <svg class="icon" width="9" height="12" viewBox="0 0 9 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l5 4-5 4"/></svg></a>
+      </article>
+      <article class="step">
+        <div class="top">
+          <span class="icon-chip"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="6" width="24" height="22" rx="2"/><path d="M4 12h24M10 3v6M22 3v6"/><path d="M11 20l3.5 3.5L21 17"/></svg></span>
+          <div class="text">
+            <h3>Request a Quote</h3>
+            <p class="p1">Equipment, services, or software.</p>
+          </div>
+        </div>
+        <a class="link-red" href="#">Request a Quote
+          <svg class="icon" width="9" height="12" viewBox="0 0 9 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l5 4-5 4"/></svg></a>
+      </article>
+      <article class="step">
+        <div class="top">
+          <span class="icon-chip"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3h11l7 7v19H8z"/><path d="M19 3v7h7"/><path d="M12 17h8M12 22h8"/></svg></span>
+          <div class="text">
+            <h3>Download Capability Statement</h3>
+            <p class="p1">One page, formatted for pre-qualification packages.</p>
+          </div>
+        </div>
+        <a class="link-red" href="#">Download Statement
+          <svg class="icon" width="9" height="12" viewBox="0 0 9 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l5 4-5 4"/></svg></a>
+      </article>
+    </div>
+  </section>
+</div>
+
+<!-- testimonials -->
+<section class="testimonials pad" aria-label="Testimonials">
+  <div class="sec-head">
+    <p class="eyebrow">Testimonials</p>
+    <h2 class="h1">What agencies say</h2>
+  </div>
+  <div class="pillar-row">
+    <article class="quote-card">
+      <div style="display:flex;flex-direction:column;gap:20px">
+        <span class="seg-chip">State DOTs</span>
+        <div class="rule"></div>
+        <blockquote class="quote" style="margin:0">&#8220;With data quality being the cornerstone of any asset management department, ICC&#8217;s data holds up to the highest of standards.&#8221;</blockquote>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:24px">
+        <div class="rule"></div>
+        <div class="attrib">
+          <span class="avatar">EC</span>
+          <div class="who"><b>Ethan Crockett, PE</b><span>Wyoming DOT</span></div>
+        </div>
+      </div>
+    </article>
+    <article class="quote-card">
+      <div style="display:flex;flex-direction:column;gap:20px">
+        <span class="seg-chip">Counties &amp; Municipalities</span>
+        <div class="rule"></div>
+        <blockquote class="quote" style="margin:0">&#8220;I&#8217;ve worked with IMS since 2017, and Lake County&#8217;s Division of Transportation has held annual contracts with IMS since 1986.&#8221;</blockquote>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:24px">
+        <div class="rule"></div>
+        <div class="attrib">
+          <span class="avatar">JR</span>
+          <div class="who"><b>Julian Rozwadowski, PE</b><span>Lake County, IL</span></div>
+        </div>
+      </div>
+    </article>
+    <article class="quote-card">
+      <div style="display:flex;flex-direction:column;gap:20px">
+        <span class="seg-chip">Engineering Partners</span>
+        <div class="rule"></div>
+        <blockquote class="quote" style="margin:0">[PLACEHOLDER &#8211; Open Item #6: anonymized AEC quote until named reference secured]</blockquote>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:24px">
+        <div class="rule"></div>
+        <div class="attrib">
+          <div class="who"><b>A national AEC firm, multi-state DOT program</b></div>
+        </div>
+      </div>
+    </article>
+  </div>
+  <div class="dots" aria-hidden="true"><i class="on"></i><i></i><i></i></div>
+</section>
+
+<!-- case studies -->
+<section class="cases pad" id="cases">
+  <div class="sec-head">
+    <p class="eyebrow">Case Studies</p>
+    <h2 class="h1">Three projects, three different problems</h2>
+  </div>
+  <div class="pillar-row">
+    <article class="case-card">
+      <div class="media"><div class="ph light"><span class="ph-tag">Placeholder &#183; Arizona highway photo</span></div></div>
+      <div class="body">
+        <div class="text">
+          <span class="seg-chip">State DOTs</span>
+          <h3 class="h3">How Arizona DOT gave every district access to pavement data without involving IT</h3>
+          <p class="p1">Inform delivered statewide condition data through a browser-based interface that required no IT deployment.</p>
+        </div>
+        <a class="link-blue" href="#">Read the case study
+          <svg class="icon" width="9" height="12" viewBox="0 0 9 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l5 4-5 4"/></svg></a>
+      </div>
+    </article>
+    <article class="case-card">
+      <div class="media"><div class="ph light"><span class="ph-tag">Placeholder &#183; Long Beach street photo</span></div></div>
+      <div class="body">
+        <div class="text">
+          <span class="seg-chip">Counties &amp; Municipalities</span>
+          <h3 class="h3">How Long Beach, California built a defensible, data-driven pavement program</h3>
+          <p class="p1">A full network automated condition survey became a prioritized management plan and a funded capital program.</p>
+        </div>
+        <a class="link-blue" href="#">Read the case study
+          <svg class="icon" width="9" height="12" viewBox="0 0 9 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l5 4-5 4"/></svg></a>
+      </div>
+    </article>
+    <article class="case-card">
+      <div class="media"><div class="ph light"><span class="ph-tag">Placeholder &#183; DFW airfield night collection photo</span></div></div>
+      <div class="body">
+        <div class="text">
+          <span class="seg-chip">Engineering Partners</span>
+          <h3 class="h3">How DFW International Airport got airfield condition data without disrupting operations</h3>
+          <p class="p1">High-resolution night collection across runways, taxiways, and aprons, sequenced around live flight operations.</p>
+        </div>
+        <a class="link-blue" href="#">Read the case study
+          <svg class="icon" width="9" height="12" viewBox="0 0 9 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2l5 4-5 4"/></svg></a>
+      </div>
+    </article>
+  </div>
+  <a class="btn btn-outline-red" href="#">Explore Projects
+    <svg class="icon" width="7" height="10" viewBox="0 0 7 10" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M1.5 1.5 5.5 5l-4 3.5"/></svg></a>
+</section>
+
+<!-- procurement band -->
+<section class="proc pad" id="procurement">
+  <div class="proc-chevrons" aria-hidden="true">
+    <svg viewBox="0 0 390 250" fill="none" preserveAspectRatio="xMaxYMid slice" width="390"><path d="M20 0l110 125L20 250h60L190 125 80 0z" fill="rgba(125,206,202,0.10)"/><path d="M130 0l110 125-110 125h60L300 125 190 0z" fill="rgba(125,206,202,0.14)"/><path d="M240 0l110 125-110 125h60L410 125 300 0z" fill="rgba(239,66,56,0.20)"/></svg>
+  </div>
+  <div class="proc-text">
+    <p class="proc-eyebrow">Cooperative Purchasing</p>
+    <h2>Already have budget? You may not need an RFP.</h2>
+    <p>ICC-IMS holds a Master Services Agreement for Pavement Analysis Services through the TXShare Cooperative Purchasing Program (NCTCOG). Open to public agencies nationwide at no cost. Interlocal Agreement typically executed within one business day &#8212; then you can contract immediately, with no solicitation.</p>
+  </div>
+  <a class="btn btn-red" href="#">See cooperative purchasing options
+    <svg class="icon" width="7" height="10" viewBox="0 0 7 10" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M1.5 1.5 5.5 5l-4 3.5"/></svg></a>
+</section>
+
+<!-- faq -->
+<section class="faq pad" id="faq">
+  <div class="sec-head">
+    <p class="eyebrow">FAQs</p>
+    <h2 class="h1">Frequently Asked Questions</h2>
+  </div>
+  <div class="faq-cols">
+    <div class="faq-col">
+      <div class="faq-item" data-open="true">
+        <button class="faq-q" aria-expanded="true">What does ICC-IMS do?
+          <span class="sign"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 8h10"/><path class="h-bar" d="M8 3v10"/></svg></span>
+        </button>
+        <div class="faq-a">ICC-IMS manufactures pavement data collection equipment, performs pavement data collection services, provides engineering consulting services, and develops pavement management software.</div>
+      </div>
+      <div class="faq-item" data-open="false">
+        <button class="faq-q" aria-expanded="false">What standards is ICC-IMS equipment certified to?
+          <span class="sign"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 8h10"/><path class="h-bar" d="M8 3v10"/></svg></span>
+        </button>
+        <div class="faq-a">ICC-IMS equipment is ASTM E950, AASHTO R56, AASHTO R57, and TxDOT compliant.</div>
+      </div>
+      <div class="faq-item" data-open="false">
+        <button class="faq-q" aria-expanded="false">Does ICC-IMS sell equipment, provide services, or both?
+          <span class="sign"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 8h10"/><path class="h-bar" d="M8 3v10"/></svg></span>
+        </button>
+        <div class="faq-a">Both. ICC-IMS designs and manufactures data collection equipment, and also runs the industry&#8217;s largest municipal collection fleet as a service, with software to match.</div>
+      </div>
+      <div class="faq-item" data-open="false">
+        <button class="faq-q" aria-expanded="false">Can ICC-IMS deliver data into the pavement management system we already use?
+          <span class="sign"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 8h10"/><path class="h-bar" d="M8 3v10"/></svg></span>
+        </button>
+        <div class="faq-a">Yes. ICC-IMS supports delivery into 15+ pavement management platforms, alongside its own Unify&#8482; suite.</div>
+      </div>
+    </div>
+    <div class="faq-col">
+      <div class="faq-item" data-open="false">
+        <button class="faq-q" aria-expanded="false">Is ICC-IMS equipment made in the United States?
+          <span class="sign"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 8h10"/><path class="h-bar" d="M8 3v10"/></svg></span>
+        </button>
+        <div class="faq-a">Yes. Equipment is designed and built at a 15,000 sq ft facility in Largo, Florida.</div>
+      </div>
+      <div class="faq-item" data-open="false">
+        <button class="faq-q" aria-expanded="false">How do public agencies purchase from ICC-IMS?
+          <span class="sign"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 8h10"/><path class="h-bar" d="M8 3v10"/></svg></span>
+        </button>
+        <div class="faq-a">Through standard solicitation, or without an RFP via the TXShare Cooperative Purchasing Program (NCTCOG), open to public agencies nationwide at no cost.</div>
+      </div>
+      <div class="faq-item" data-open="false">
+        <button class="faq-q" aria-expanded="false">Where is ICC-IMS located?
+          <span class="sign"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 8h10"/><path class="h-bar" d="M8 3v10"/></svg></span>
+        </button>
+        <div class="faq-a">Headquarters and manufacturing are at 10630 75th Street, Largo, FL 33777.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- footer -->
+<footer class="footer pad">
+  <div class="footer-cols">
+    <div class="contact">
+      <span class="logo-plate">
+        <span class="logo" style="font-size:22px">
+          <svg class="crosshair" width="26" height="26" viewBox="0 0 32 32" fill="none" stroke="#1A395B" stroke-width="2"><circle cx="16" cy="16" r="12"/><circle cx="16" cy="16" r="5"/><path d="M16 1v6M16 25v6M1 16h6M25 16h6"/></svg>
+          <span>ICC<span style="color:#EF4238">&#8226;</span>IMS<small>PAVEMENT INTELLIGENCE</small></span>
+        </span>
+      </span>
+      <h3>Get In Touch</h3>
+      <ul>
+        <li><svg class="icon" width="16" height="16" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5a3 3 0 0 1 3 2.6l.6 3.4a3 3 0 0 1-1.4 3l-1.7 1a14 14 0 0 0 5.5 5.5l1-1.7a3 3 0 0 1 3-1.4l3.4.6A3 3 0 0 1 28 21v3a3 3 0 0 1-3.2 3A21 21 0 0 1 5 7.2 3 3 0 0 1 8 4h3z"/></svg><span><b style="font-weight:600">USA</b>&nbsp; +1 727-547-0696</span></li>
+        <li><svg class="icon" width="16" height="16" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5a3 3 0 0 1 3 2.6l.6 3.4a3 3 0 0 1-1.4 3l-1.7 1a14 14 0 0 0 5.5 5.5l1-1.7a3 3 0 0 1 3-1.4l3.4.6A3 3 0 0 1 28 21v3a3 3 0 0 1-3.2 3A21 21 0 0 1 5 7.2 3 3 0 0 1 8 4h3z"/></svg><span><b style="font-weight:600">CAN</b>&nbsp; +1 289-807-4371</span></li>
+        <li><svg class="icon" width="16" height="16" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="26" height="19" rx="2"/><path d="M4 9l12 9 12-9"/></svg><a href="mailto:sales@icc-ims.com">sales@icc-ims.com</a></li>
+        <li><svg class="icon" width="16" height="16" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M16 29S6 19.8 6 12a10 10 0 0 1 20 0c0 7.8-10 17-10 17Z"/><circle cx="16" cy="12" r="4"/></svg><span>10630 75th Street, Largo, FL 33777</span></li>
+      </ul>
+    </div>
+    <div class="link-cols">
+      <div class="col">
+        <h3>Who We Serve</h3>
+        <ul>
+          <li><a href="#">State DOTs</a></li>
+          <li><a href="#">Municipalities &amp; Counties</a></li>
+          <li><a href="#">AEC Firms</a></li>
+          <li><a href="#">Airports</a></li>
+          <li><a href="#">Concessionaires</a></li>
+          <li><a href="#">Federal Agencies</a></li>
+        </ul>
+      </div>
+      <div class="col">
+        <h3>Resources</h3>
+        <ul>
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Whitepapers</a></li>
+          <li><a href="#">Spec Sheets</a></li>
+          <li><a href="#">Sample Reports</a></li>
+          <li><a href="#">Learning Portal</a></li>
+        </ul>
+      </div>
+      <div class="col">
+        <h3>Solutions</h3>
+        <ul>
+          <li><a href="#">Equipment</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Software</a></li>
+        </ul>
+      </div>
+      <div class="col">
+        <h3>Procurement</h3>
+        <ul>
+          <li><a href="#">Cooperative Purchasing</a></li>
+          <li><a href="#">Request a Quote</a></li>
+          <li><a href="#">Capability Statement</a></li>
+        </ul>
+      </div>
+      <div class="col">
+        <h3>Company</h3>
+        <ul>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Team</a></li>
+          <li><a href="#">Careers</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Support</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="rule"></div>
+  <div class="footer-bottom">
+    <p>&#169; 2026 ICC-IMS. All Rights Reserved.</p>
+    <nav aria-label="Legal">
+      <a href="#">Privacy Policy</a>
+      <a href="#">Terms</a>
+      <a href="#">Accessibility</a>
+    </nav>
+  </div>
+</footer>
+
+<script>
+var burger = document.querySelector('.nav-burger');
+var menu = document.getElementById('mobile-menu');
+burger.addEventListener('click', function () {
+  var open = menu.getAttribute('data-open') === 'true';
+  menu.setAttribute('data-open', String(!open));
+  burger.setAttribute('aria-expanded', String(!open));
+  burger.setAttribute('aria-label', open ? 'Open menu' : 'Close menu');
+});
+menu.addEventListener('click', function (e) {
+  if (e.target.closest('a')) { menu.setAttribute('data-open', 'false'); burger.setAttribute('aria-expanded', 'false'); }
+});
+document.querySelectorAll('.faq-item').forEach(function (item) {
+  var btn = item.querySelector('.faq-q');
+  btn.addEventListener('click', function () {
+    var open = item.getAttribute('data-open') === 'true';
+    item.setAttribute('data-open', String(!open));
+    btn.setAttribute('aria-expanded', String(!open));
+  });
+});
+</script>
